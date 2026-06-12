@@ -1,0 +1,7 @@
+name = "CLLS Theme"
+license = "MIT"
+description = "Tema custom per Consorzio Logistico Latina Scalo"
+min_version = "0.100.0"
+
+[author]
+  name = "CLLS"

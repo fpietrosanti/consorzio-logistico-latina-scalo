@@ -1,0 +1,29 @@
+<footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-brand">
+      {{ partial "logo.html" . }}
+      <p>Consorzio Logistico Latina Scalo</p>
+      <p class="footer-tagline">Sviluppo e valorizzazione del territorio</p>
+    </div>
+    <div class="footer-links">
+      <h4>Navigazione</h4>
+      <ul>
+        <li><a href="#chi-siamo">Chi Siamo</a></li>
+        <li><a href="#servizi">Servizi</a></li>
+        <li><a href="#area-logistica">Area Logistica</a></li>
+        <li><a href="#membri">Membri</a></li>
+        <li><a href="#dove-siamo">Dove Siamo</a></li>
+      </ul>
+    </div>
+    <div class="footer-contact">
+      <h4>Contatti</h4>
+      <p>{{ .Site.Params.indirizzo }}</p>
+      <p><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+      <p>PEC: {{ .Site.Params.pec }}</p>
+      <p>Tel: {{ .Site.Params.telefono }}</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; {{ now.Year }} Consorzio Logistico Latina Scalo. Tutti i diritti riservati.</p>
+  </div>
+</footer>

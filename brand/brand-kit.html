@@ -1,0 +1,782 @@
+<title>Brand Kit — Consorzio Logistico Latina Scalo</title>
+<style>
+  :root {
+    --navy-950: #0a1929;
+    --navy-900: #0f2b4a;
+    --navy-700: #1a4a7a;
+    --navy-500: #2670b0;
+    --orange: #e67e22;
+    --orange-light: #f39c12;
+    --warm-white: #fafbfc;
+    --card: #ffffff;
+    --text: #1a1f2e;
+    --text-mid: #4a5568;
+    --text-light: #8896a8;
+    --border: #e2e6ec;
+    --mono: 'SF Mono', 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: var(--sans); color: var(--text); background: var(--warm-white); line-height: 1.6; }
+
+  /* Hero */
+  .hero {
+    background: var(--navy-950);
+    color: #fff;
+    padding: 4rem 2rem 3.5rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(circle at 20% 80%, rgba(230,126,34,0.08) 0%, transparent 50%),
+      radial-gradient(circle at 80% 20%, rgba(26,74,122,0.15) 0%, transparent 50%);
+  }
+  .hero > * { position: relative; }
+  .hero-logo { width: 72px; height: 72px; margin: 0 auto 1.5rem; }
+  .hero h1 {
+    font-size: 1.75rem; font-weight: 300; letter-spacing: 0.08em;
+    text-transform: uppercase; margin-bottom: 0.25rem;
+  }
+  .hero h1 strong { font-weight: 700; }
+  .hero .sub {
+    font-size: 0.8rem; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--orange); font-weight: 600;
+  }
+
+  /* Layout */
+  .container { max-width: 960px; margin: 0 auto; padding: 0 1.5rem; }
+  .section { padding: 3rem 0; }
+  .section + .section { border-top: 1px solid var(--border); }
+  .section-title {
+    font-size: 0.7rem; font-weight: 700; letter-spacing: 0.12em;
+    text-transform: uppercase; color: var(--orange); margin-bottom: 0.5rem;
+  }
+  .section h2 {
+    font-size: 1.5rem; font-weight: 700; color: var(--navy-900);
+    margin-bottom: 1.5rem; text-wrap: balance;
+  }
+
+  /* Palette */
+  .palette-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 1rem;
+  }
+  .swatch {
+    border-radius: 10px; overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  }
+  .swatch-color { height: 80px; }
+  .swatch-info {
+    padding: 0.6rem 0.75rem; background: var(--card);
+  }
+  .swatch-name { font-size: 0.75rem; font-weight: 600; color: var(--text); }
+  .swatch-hex {
+    font-family: var(--mono); font-size: 0.7rem; color: var(--text-light);
+    margin-top: 2px;
+  }
+
+  /* Logo grid */
+  .logo-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem;
+  }
+  .logo-cell {
+    border-radius: 10px; padding: 2rem; display: flex;
+    align-items: center; justify-content: center;
+    min-height: 140px; position: relative;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  }
+  .logo-cell.light { background: #fff; border: 1px solid var(--border); }
+  .logo-cell.dark { background: var(--navy-950); }
+  .logo-cell svg { max-height: 80px; }
+  .logo-cell.horizontal svg { max-height: 56px; max-width: 280px; }
+  .logo-cell .label {
+    position: absolute; bottom: 8px; right: 12px;
+    font-size: 0.6rem; letter-spacing: 0.08em; text-transform: uppercase;
+    font-weight: 600;
+  }
+  .logo-cell.light .label { color: var(--text-light); }
+  .logo-cell.dark .label { color: rgba(255,255,255,0.35); }
+  .logo-row-title {
+    font-size: 0.8rem; font-weight: 600; color: var(--text-mid);
+    margin: 1.5rem 0 0.5rem; grid-column: 1 / -1;
+  }
+  .logo-row-title:first-child { margin-top: 0; }
+
+  /* Social */
+  .social-grid { display: grid; grid-template-columns: 200px 1fr; gap: 1.5rem; align-items: start; }
+  .social-item { text-align: center; }
+  .social-item .dims {
+    font-family: var(--mono); font-size: 0.65rem; color: var(--text-light);
+    margin-top: 0.5rem;
+  }
+  .profile-pic {
+    width: 180px; height: 180px; border-radius: 50%;
+    overflow: hidden; margin: 0 auto;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+  }
+  .profile-pic-inner {
+    width: 100%; height: 100%; display: flex;
+    align-items: center; justify-content: center;
+    background: var(--navy-900);
+  }
+  .profile-pic-inner svg { width: 100px; height: 100px; }
+  .banner-frame {
+    border-radius: 8px; overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    aspect-ratio: 4 / 1;
+  }
+  .banner-inner {
+    width: 100%; height: 100%; display: flex;
+    align-items: center; justify-content: center; gap: 2rem;
+    background: linear-gradient(135deg, var(--navy-950) 0%, var(--navy-700) 100%);
+    padding: 1.5rem 3rem; position: relative; overflow: hidden;
+  }
+  .banner-inner::before {
+    content: ''; position: absolute; right: -40px; top: -40px;
+    width: 200px; height: 200px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(230,126,34,0.12), transparent 70%);
+  }
+  .banner-inner > * { position: relative; }
+  .banner-inner svg { width: 64px; height: 64px; flex-shrink: 0; }
+  .banner-text { color: #fff; text-align: left; }
+  .banner-text .name {
+    font-size: 1.1rem; font-weight: 700; letter-spacing: 0.02em;
+    line-height: 1.2;
+  }
+  .banner-text .tag {
+    font-size: 0.6rem; color: var(--orange-light);
+    letter-spacing: 0.1em; text-transform: uppercase;
+    font-weight: 600; margin-top: 0.35rem;
+  }
+
+  /* Business card */
+  .card-pair { display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; }
+  .bcard {
+    width: 340px; height: 200px; border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+    overflow: hidden; flex-shrink: 0;
+  }
+  .bcard-front {
+    background: #fff; padding: 1.5rem;
+    display: flex; flex-direction: column; justify-content: space-between;
+    height: 100%; border: 1px solid var(--border);
+  }
+  .bcard-front .top { display: flex; align-items: center; gap: 0.75rem; }
+  .bcard-front .top svg { width: 36px; height: 36px; }
+  .bcard-front .company {
+    font-size: 0.65rem; font-weight: 700; color: var(--navy-900);
+    letter-spacing: 0.03em; line-height: 1.3;
+  }
+  .bcard-front .person { margin-top: auto; }
+  .bcard-front .person-name {
+    font-size: 0.85rem; font-weight: 700; color: var(--navy-900);
+  }
+  .bcard-front .person-role {
+    font-size: 0.65rem; color: var(--text-mid); margin-top: 1px;
+  }
+  .bcard-front .contact-line {
+    display: flex; gap: 1.5rem; margin-top: 0.6rem;
+    font-size: 0.55rem; color: var(--text-mid);
+  }
+  .bcard-front .contact-line span { white-space: nowrap; }
+  .bcard-front .accent-bar {
+    height: 3px; width: 40px; background: var(--orange);
+    border-radius: 2px; margin-top: 0.75rem;
+  }
+  .bcard-back {
+    background: var(--navy-900); height: 100%;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    position: relative; overflow: hidden;
+  }
+  .bcard-back::before {
+    content: ''; position: absolute; inset: 0;
+    background:
+      radial-gradient(circle at 30% 70%, rgba(230,126,34,0.06), transparent 60%),
+      radial-gradient(circle at 80% 30%, rgba(26,74,122,0.12), transparent 60%);
+  }
+  .bcard-back > * { position: relative; }
+  .bcard-back svg { width: 52px; height: 52px; margin-bottom: 0.75rem; }
+  .bcard-back .back-name {
+    font-size: 0.6rem; font-weight: 700; color: #fff;
+    letter-spacing: 0.06em; text-transform: uppercase;
+  }
+  .bcard-back .back-tag {
+    font-size: 0.45rem; color: var(--orange-light);
+    letter-spacing: 0.1em; text-transform: uppercase;
+    margin-top: 0.25rem; font-weight: 600;
+  }
+  .bcard-label {
+    text-align: center; font-size: 0.65rem; color: var(--text-light);
+    margin-top: 0.5rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  /* Letterhead */
+  .letterhead-frame {
+    max-width: 520px; margin: 0 auto;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+    border-radius: 4px; overflow: hidden;
+  }
+  .letterhead {
+    background: #fff; padding: 2.5rem 2rem 1.5rem;
+    aspect-ratio: 210 / 297;
+    display: flex; flex-direction: column;
+  }
+  .lh-header {
+    display: flex; justify-content: space-between;
+    align-items: flex-start; padding-bottom: 1rem;
+    border-bottom: 2px solid var(--navy-900);
+  }
+  .lh-logo { display: flex; align-items: center; gap: 0.6rem; }
+  .lh-logo svg { width: 32px; height: 32px; }
+  .lh-logo-text {
+    font-size: 0.6rem; font-weight: 700; color: var(--navy-900);
+    line-height: 1.3; letter-spacing: 0.02em;
+  }
+  .lh-info {
+    text-align: right; font-size: 0.45rem; color: var(--text-mid);
+    line-height: 1.6;
+  }
+  .lh-body { flex: 1; padding: 2rem 0; }
+  .lh-placeholder {
+    width: 60%; height: 6px; background: var(--border);
+    border-radius: 3px; margin-bottom: 0.6rem;
+  }
+  .lh-placeholder.short { width: 40%; }
+  .lh-placeholder.med { width: 75%; }
+  .lh-placeholder.gap { margin-top: 1rem; }
+  .lh-footer {
+    border-top: 1px solid var(--border);
+    padding-top: 0.75rem;
+    display: flex; justify-content: space-between;
+    font-size: 0.4rem; color: var(--text-light);
+  }
+  .lh-footer .accent { color: var(--orange); font-weight: 600; }
+
+  /* Signature */
+  .sig-controls {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .sig-controls label {
+    font-size: 0.7rem; font-weight: 600; color: var(--text-mid);
+    display: block; margin-bottom: 0.25rem;
+  }
+  .sig-controls input {
+    width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--border);
+    border-radius: 6px; font-size: 0.85rem; font-family: var(--sans);
+    color: var(--text); outline: none; transition: border-color 0.2s;
+  }
+  .sig-controls input:focus { border-color: var(--navy-500); }
+  .sig-preview {
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 10px; padding: 1.5rem 2rem;
+    margin-bottom: 1rem;
+  }
+  .btn-copy {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    background: var(--navy-900); color: #fff;
+    border: none; padding: 0.7rem 1.5rem; border-radius: 8px;
+    font-size: 0.85rem; font-weight: 600; cursor: pointer;
+    font-family: var(--sans); transition: background 0.2s;
+  }
+  .btn-copy:hover { background: var(--navy-700); }
+  .btn-copy.copied { background: #27ae60; }
+  .btn-copy svg { width: 16px; height: 16px; }
+  .sig-note {
+    font-size: 0.7rem; color: var(--text-light); margin-top: 0.75rem;
+    line-height: 1.5;
+  }
+
+  /* Download buttons */
+  .dl-row {
+    display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1rem;
+  }
+  .btn-dl {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--warm-white); border: 1px solid var(--border);
+    padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.7rem;
+    font-weight: 600; color: var(--text-mid); cursor: pointer;
+    font-family: var(--sans); transition: all 0.2s;
+    text-decoration: none;
+  }
+  .btn-dl:hover { background: #fff; border-color: var(--navy-500); color: var(--navy-700); }
+  .btn-dl svg { width: 14px; height: 14px; }
+
+  /* Responsive */
+  @media (max-width: 700px) {
+    .logo-grid { grid-template-columns: 1fr; }
+    .social-grid { grid-template-columns: 1fr; }
+    .card-pair { flex-direction: column; align-items: center; }
+    .sig-controls { grid-template-columns: 1fr; }
+    .banner-inner { padding: 1rem 1.5rem; gap: 1rem; }
+    .banner-text .name { font-size: 0.85rem; }
+  }
+</style>
+
+<!-- LOGO SVG TEMPLATE (hidden, cloned by JS) -->
+<template id="tpl-mark">
+  <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0f2b4a"/><stop offset="100%" stop-color="#1a4a7a"/>
+      </linearGradient>
+    </defs>
+    <polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="url(#lg)"/>
+    <polygon points="40,12 64,26 64,54 40,68 16,54 16,26" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="40" cy="36" r="6" fill="#e67e22"/>
+    <circle cx="40" cy="36" r="3" fill="#fff"/>
+    <circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/>
+    <circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/>
+    <circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/>
+    <path d="M40,28 L40,16 M36,20 L40,16 L44,20" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</template>
+
+<template id="tpl-mark-white">
+  <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#ffffff"/>
+    <polygon points="40,12 64,26 64,54 40,68 16,54 16,26" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+    <path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="40" cy="36" r="6" fill="#e67e22"/>
+    <circle cx="40" cy="36" r="3" fill="#0f2b4a"/>
+    <circle cx="20" cy="46" r="3.5" fill="rgba(15,43,74,0.5)"/>
+    <circle cx="60" cy="46" r="3.5" fill="rgba(15,43,74,0.5)"/>
+    <circle cx="40" cy="64" r="3.5" fill="rgba(15,43,74,0.5)"/>
+    <path d="M40,28 L40,16 M36,20 L40,16 L44,20" stroke="#0f2b4a" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</template>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-logo" id="hero-mark"></div>
+  <h1>Consorzio Logistico<br><strong>Latina Scalo</strong></h1>
+  <div class="sub">Brand Kit 2026</div>
+</div>
+
+<div class="container">
+
+  <!-- PALETTE -->
+  <div class="section">
+    <div class="section-title">01 — Palette</div>
+    <h2>Colori Istituzionali</h2>
+    <div class="palette-grid">
+      <div class="swatch">
+        <div class="swatch-color" style="background:#0f2b4a"></div>
+        <div class="swatch-info"><div class="swatch-name">Navy 900</div><div class="swatch-hex">#0F2B4A</div></div>
+      </div>
+      <div class="swatch">
+        <div class="swatch-color" style="background:#1a4a7a"></div>
+        <div class="swatch-info"><div class="swatch-name">Navy 700</div><div class="swatch-hex">#1A4A7A</div></div>
+      </div>
+      <div class="swatch">
+        <div class="swatch-color" style="background:#2670b0"></div>
+        <div class="swatch-info"><div class="swatch-name">Navy 500</div><div class="swatch-hex">#2670B0</div></div>
+      </div>
+      <div class="swatch">
+        <div class="swatch-color" style="background:#e67e22"></div>
+        <div class="swatch-info"><div class="swatch-name">Arancio</div><div class="swatch-hex">#E67E22</div></div>
+      </div>
+      <div class="swatch">
+        <div class="swatch-color" style="background:#f39c12"></div>
+        <div class="swatch-info"><div class="swatch-name">Arancio Chiaro</div><div class="swatch-hex">#F39C12</div></div>
+      </div>
+      <div class="swatch">
+        <div class="swatch-color" style="background:#f8f9fa; border: 1px solid #e2e6ec"></div>
+        <div class="swatch-info"><div class="swatch-name">Sfondo</div><div class="swatch-hex">#F8F9FA</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- LOGO VARIATIONS -->
+  <div class="section">
+    <div class="section-title">02 — Logo</div>
+    <h2>Varianti del Marchio</h2>
+
+    <div class="logo-row-title">Marchio (simbolo)</div>
+    <div class="logo-grid">
+      <div class="logo-cell light" id="mark-light"></div>
+      <div class="logo-cell dark" id="mark-dark"></div>
+    </div>
+
+    <div class="logo-row-title">Lockup orizzontale</div>
+    <div class="logo-grid">
+      <div class="logo-cell horizontal light" id="horiz-light"></div>
+      <div class="logo-cell horizontal dark" id="horiz-dark"></div>
+    </div>
+
+    <div class="logo-row-title">Lockup verticale</div>
+    <div class="logo-grid">
+      <div class="logo-cell light" id="vert-light" style="min-height:180px"></div>
+      <div class="logo-cell dark" id="vert-dark" style="min-height:180px"></div>
+    </div>
+
+    <div class="dl-row" id="dl-buttons"></div>
+  </div>
+
+  <!-- SOCIAL MEDIA -->
+  <div class="section">
+    <div class="section-title">03 — Social Media</div>
+    <h2>Profilo e Banner LinkedIn</h2>
+    <div class="social-grid">
+      <div class="social-item">
+        <div class="profile-pic">
+          <div class="profile-pic-inner" id="linkedin-pic"></div>
+        </div>
+        <div class="dims">400 &times; 400 px</div>
+      </div>
+      <div class="social-item">
+        <div class="banner-frame">
+          <div class="banner-inner" id="linkedin-banner">
+            <div class="banner-text">
+              <div class="name">Consorzio Logistico<br>Latina Scalo</div>
+              <div class="tag">Hub logistico integrato &middot; Lazio</div>
+            </div>
+          </div>
+        </div>
+        <div class="dims">1584 &times; 396 px</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- BUSINESS CARD -->
+  <div class="section">
+    <div class="section-title">04 — Biglietto da Visita</div>
+    <h2>Biglietto da Visita</h2>
+    <div class="card-pair">
+      <div>
+        <div class="bcard">
+          <div class="bcard-front" id="bcard-front">
+            <div class="top">
+              <div class="company">Consorzio Logistico<br>Latina Scalo</div>
+            </div>
+            <div class="person">
+              <div class="accent-bar"></div>
+              <div class="person-name" style="margin-top:0.5rem">Mario Rossi</div>
+              <div class="person-role">Direttore Operativo</div>
+              <div class="contact-line">
+                <span>+39 0773 000000</span>
+                <span>info@consorziologistico.it</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="bcard-label">Fronte</div>
+      </div>
+      <div>
+        <div class="bcard">
+          <div class="bcard-back" id="bcard-back">
+            <div class="back-name">Consorzio Logistico Latina Scalo</div>
+            <div class="back-tag">Logistica Integrata &middot; Latina Scalo</div>
+          </div>
+        </div>
+        <div class="bcard-label">Retro</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- LETTERHEAD -->
+  <div class="section">
+    <div class="section-title">05 — Carta Intestata</div>
+    <h2>Carta Intestata A4</h2>
+    <div class="letterhead-frame">
+      <div class="letterhead" id="letterhead">
+        <div class="lh-header">
+          <div class="lh-logo" id="lh-logo">
+            <div class="lh-logo-text">Consorzio Logistico<br>Latina Scalo</div>
+          </div>
+          <div class="lh-info">
+            Via della Dinamica Snc<br>
+            04100 Latina Scalo (LT)<br>
+            Tel. +39 0773 000000<br>
+            info@consorziologistico.it<br>
+            PEC: consorzio.latinascalo@pec.it
+          </div>
+        </div>
+        <div class="lh-body">
+          <div style="height:2rem"></div>
+          <div class="lh-placeholder med"></div>
+          <div class="lh-placeholder"></div>
+          <div class="lh-placeholder med"></div>
+          <div class="lh-placeholder short"></div>
+          <div class="lh-placeholder gap"></div>
+          <div class="lh-placeholder med"></div>
+          <div class="lh-placeholder"></div>
+          <div class="lh-placeholder med"></div>
+          <div class="lh-placeholder short"></div>
+          <div class="lh-placeholder gap"></div>
+          <div class="lh-placeholder med"></div>
+          <div class="lh-placeholder short"></div>
+        </div>
+        <div class="lh-footer">
+          <span><span class="accent">consorziologistico.it</span></span>
+          <span>PEC: consorzio.latinascalo@pec.it</span>
+          <span>Via della Dinamica Snc, 04100 Latina Scalo (LT)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- EMAIL SIGNATURE -->
+  <div class="section" style="padding-bottom: 4rem;">
+    <div class="section-title">06 — Firma Email</div>
+    <h2>Firma Aziendale</h2>
+    <div class="sig-controls">
+      <div>
+        <label for="sig-name">Nome e Cognome</label>
+        <input type="text" id="sig-name" value="Mario Rossi" oninput="updateSignature()">
+      </div>
+      <div>
+        <label for="sig-role">Ruolo</label>
+        <input type="text" id="sig-role" value="Direttore Operativo" oninput="updateSignature()">
+      </div>
+    </div>
+    <div class="sig-preview" id="sig-preview"></div>
+    <button class="btn-copy" id="btn-copy" onclick="copySignature()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+      Copia Firma
+    </button>
+    <div class="sig-note">
+      Copia la firma e incollala nelle impostazioni della tua email (Gmail: Impostazioni &rarr; Firma; Outlook: File &rarr; Opzioni &rarr; Posta &rarr; Firme). Modifica nome e ruolo nei campi qui sopra prima di copiare.
+    </div>
+  </div>
+
+</div>
+
+<script>
+// Build the logo SVG as a reusable string
+const MARK_SVG = `<svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="__LG__" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0f2b4a"/><stop offset="100%" stop-color="#1a4a7a"/></linearGradient></defs>
+  <polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="url(#__LG__)"/>
+  <polygon points="40,12 64,26 64,54 40,68 16,54 16,26" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+  <path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#fff"/>
+  <circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/>
+  <circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/>
+  <circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/>
+  <path d="M40,28 L40,16 M36,20 L40,16 L44,20" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>`;
+
+const MARK_WHITE_SVG = `<svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#ffffff"/>
+  <polygon points="40,12 64,26 64,54 40,68 16,54 16,26" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+  <path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#0f2b4a"/>
+  <circle cx="20" cy="46" r="3.5" fill="rgba(15,43,74,0.5)"/>
+  <circle cx="60" cy="46" r="3.5" fill="rgba(15,43,74,0.5)"/>
+  <circle cx="40" cy="64" r="3.5" fill="rgba(15,43,74,0.5)"/>
+  <path d="M40,28 L40,16 M36,20 L40,16 L44,20" stroke="#0f2b4a" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>`;
+
+function uid() { return 'g' + Math.random().toString(36).slice(2,8); }
+function injectMark(el, svg, id) {
+  const gid = uid();
+  el.innerHTML = svg.replace(/__LG__/g, gid);
+}
+
+function makeHorizSVG(textColor, gradId) {
+  const gid = gradId || uid();
+  const isWhite = textColor === '#ffffff';
+  const markFill = isWhite ? '#ffffff' : `url(#${gid})`;
+  const innerStroke = isWhite ? 'rgba(0,0,0,0.06)' : 'rgba(255,255,255,0.12)';
+  const hubCenter = isWhite ? '#0f2b4a' : '#fff';
+  const endNodes = isWhite ? 'rgba(15,43,74,0.5)' : 'rgba(255,255,255,0.7)';
+  const arrowStroke = isWhite ? '#0f2b4a' : '#fff';
+  return `<svg viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+    ${!isWhite ? `<defs><linearGradient id="${gid}" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0f2b4a"/><stop offset="100%" stop-color="#1a4a7a"/></linearGradient></defs>` : ''}
+    <polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="${markFill}"/>
+    <polygon points="40,12 64,26 64,54 40,68 16,54 16,26" fill="none" stroke="${innerStroke}" stroke-width="1"/>
+    <path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="${hubCenter}"/>
+    <circle cx="20" cy="46" r="3.5" fill="${endNodes}"/>
+    <circle cx="60" cy="46" r="3.5" fill="${endNodes}"/>
+    <circle cx="40" cy="64" r="3.5" fill="${endNodes}"/>
+    <path d="M40,28 L40,16 M36,20 L40,16 L44,20" stroke="${arrowStroke}" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="92" y="35" fill="${textColor}" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" font-weight="300" letter-spacing="0.5">CONSORZIO LOGISTICO</text>
+    <text x="92" y="55" fill="${textColor}" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">LATINA SCALO</text>
+  </svg>`;
+}
+
+function makeVertSVG(textColor, gradId) {
+  const gid = gradId || uid();
+  const isWhite = textColor === '#ffffff';
+  const markFill = isWhite ? '#ffffff' : `url(#${gid})`;
+  const innerStroke = isWhite ? 'rgba(0,0,0,0.06)' : 'rgba(255,255,255,0.12)';
+  const hubCenter = isWhite ? '#0f2b4a' : '#fff';
+  const endNodes = isWhite ? 'rgba(15,43,74,0.5)' : 'rgba(255,255,255,0.7)';
+  const arrowStroke = isWhite ? '#0f2b4a' : '#fff';
+  return `<svg viewBox="0 0 200 140" xmlns="http://www.w3.org/2000/svg">
+    ${!isWhite ? `<defs><linearGradient id="${gid}" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0f2b4a"/><stop offset="100%" stop-color="#1a4a7a"/></linearGradient></defs>` : ''}
+    <g transform="translate(70,0)">
+      <polygon points="30,3 54,16.5 54,43.5 30,57 6,43.5 6,16.5" fill="${markFill}"/>
+      <polygon points="30,9 48,19.5 48,40.5 30,51 12,40.5 12,19.5" fill="none" stroke="${innerStroke}" stroke-width="0.8"/>
+      <path d="M15,34.5 L30,27" stroke="#e67e22" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M45,34.5 L30,27" stroke="#e67e22" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M30,48 L30,27" stroke="#e67e22" stroke-width="2.2" stroke-linecap="round"/>
+      <circle cx="30" cy="27" r="4.5" fill="#e67e22"/><circle cx="30" cy="27" r="2.2" fill="${hubCenter}"/>
+      <circle cx="15" cy="34.5" r="2.6" fill="${endNodes}"/>
+      <circle cx="45" cy="34.5" r="2.6" fill="${endNodes}"/>
+      <circle cx="30" cy="48" r="2.6" fill="${endNodes}"/>
+      <path d="M30,21 L30,12 M27.5,15 L30,12 L32.5,15" stroke="${arrowStroke}" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="100" y="85" text-anchor="middle" fill="${textColor}" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" font-weight="300" letter-spacing="1">CONSORZIO LOGISTICO</text>
+    <text x="100" y="105" text-anchor="middle" fill="${textColor}" font-family="Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" font-weight="700" letter-spacing="1">LATINA SCALO</text>
+  </svg>`;
+}
+
+// Place all logos
+injectMark(document.getElementById('hero-mark'), MARK_SVG);
+
+// Mark cells
+const ml = document.getElementById('mark-light');
+injectMark(ml, MARK_SVG); ml.innerHTML += '<span class="label">Su chiaro</span>';
+const md = document.getElementById('mark-dark');
+md.innerHTML = MARK_WHITE_SVG + '<span class="label">Su scuro</span>';
+
+// Horizontal
+document.getElementById('horiz-light').innerHTML = makeHorizSVG('#0f2b4a') + '<span class="label">Su chiaro</span>';
+document.getElementById('horiz-dark').innerHTML = makeHorizSVG('#ffffff') + '<span class="label">Su scuro</span>';
+
+// Vertical
+document.getElementById('vert-light').innerHTML = makeVertSVG('#0f2b4a') + '<span class="label">Su chiaro</span>';
+document.getElementById('vert-dark').innerHTML = makeVertSVG('#ffffff') + '<span class="label">Su scuro</span>';
+
+// LinkedIn
+injectMark(document.getElementById('linkedin-pic'), MARK_SVG);
+document.getElementById('linkedin-pic').querySelector('svg').style.cssText = 'width:100px;height:100px';
+
+const bannerEl = document.getElementById('linkedin-banner');
+const bannerSvg = document.createElement('div');
+bannerSvg.innerHTML = MARK_WHITE_SVG;
+bannerSvg.querySelector('svg').style.cssText = 'width:64px;height:64px;flex-shrink:0';
+bannerEl.prepend(bannerSvg.firstElementChild);
+
+// Business card logos
+const bcFront = document.getElementById('bcard-front').querySelector('.top');
+const bcFrontLogo = document.createElement('div');
+bcFrontLogo.innerHTML = MARK_SVG.replace(/__LG__/g, uid());
+bcFrontLogo.querySelector('svg').style.cssText = 'width:36px;height:36px';
+bcFront.prepend(bcFrontLogo.firstElementChild);
+
+const bcBack = document.getElementById('bcard-back');
+const bcBackLogo = document.createElement('div');
+bcBackLogo.innerHTML = MARK_WHITE_SVG;
+bcBackLogo.querySelector('svg').style.cssText = 'width:52px;height:52px;margin-bottom:0.75rem';
+bcBack.prepend(bcBackLogo.firstElementChild);
+
+// Letterhead logo
+const lhLogo = document.getElementById('lh-logo');
+const lhSvg = document.createElement('div');
+lhSvg.innerHTML = MARK_SVG.replace(/__LG__/g, uid());
+lhSvg.querySelector('svg').style.cssText = 'width:32px;height:32px';
+lhLogo.prepend(lhSvg.firstElementChild);
+
+// Download buttons
+function downloadSVG(svgStr, filename) {
+  const a = document.createElement('a');
+  a.href = 'data:image/svg+xml,' + encodeURIComponent(svgStr.replace(/__LG__/g, 'logoGrad'));
+  a.download = filename;
+  a.click();
+}
+
+const dlIcon = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>`;
+const dlContainer = document.getElementById('dl-buttons');
+const downloads = [
+  ['Marchio colore', MARK_SVG, 'clls-mark.svg'],
+  ['Marchio bianco', MARK_WHITE_SVG, 'clls-mark-white.svg'],
+  ['Orizzontale colore', makeHorizSVG('#0f2b4a'), 'clls-horizontal.svg'],
+  ['Orizzontale bianco', makeHorizSVG('#ffffff'), 'clls-horizontal-white.svg'],
+  ['Verticale colore', makeVertSVG('#0f2b4a'), 'clls-vertical.svg'],
+  ['Verticale bianco', makeVertSVG('#ffffff'), 'clls-vertical-white.svg'],
+];
+downloads.forEach(([label, svg, file]) => {
+  const btn = document.createElement('button');
+  btn.className = 'btn-dl';
+  btn.innerHTML = dlIcon + ' ' + label;
+  btn.onclick = () => downloadSVG(svg, file);
+  dlContainer.appendChild(btn);
+});
+
+// EMAIL SIGNATURE
+const LOGO_SVG_B64 = btoa(unescape(encodeURIComponent(
+  MARK_SVG.replace(/__LG__/g, 'logoGrad')
+)));
+
+function getSignatureHTML(name, role) {
+  return `<table cellpadding="0" cellspacing="0" border="0" style="font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#1a1f2e;font-size:13px;line-height:1.5;max-width:480px;">
+  <tr><td colspan="2" style="padding-bottom:10px;">
+    <table cellpadding="0" cellspacing="0" border="0"><tr>
+      <td style="vertical-align:middle;padding-right:14px;">
+        <img src="data:image/svg+xml;base64,${LOGO_SVG_B64}" width="48" height="48" alt="CLLS" style="display:block;border:0;">
+      </td>
+      <td style="vertical-align:middle;">
+        <div style="font-size:15px;font-weight:700;color:#0f2b4a;line-height:1.3;">${name}</div>
+        <div style="font-size:12px;color:#4a5568;margin-top:1px;">${role}</div>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td colspan="2" style="padding-bottom:10px;">
+    <div style="height:2px;background:linear-gradient(90deg,#e67e22,#f39c12);border-radius:1px;width:60px;"></div>
+  </td></tr>
+  <tr><td colspan="2" style="font-size:12px;color:#4a5568;line-height:1.7;">
+    <strong style="color:#0f2b4a;font-size:12px;">Consorzio Logistico Latina Scalo</strong><br>
+    <span style="color:#4a5568;">Tel:</span> <a href="tel:+390773000000" style="color:#1a4a7a;text-decoration:none;">+39 0773 000000</a><br>
+    <span style="color:#4a5568;">Email:</span> <a href="mailto:info@consorziologistico.it" style="color:#1a4a7a;text-decoration:none;">info@consorziologistico.it</a><br>
+    <span style="color:#4a5568;">PEC:</span> <a href="mailto:consorzio.latinascalo@pec.it" style="color:#1a4a7a;text-decoration:none;">consorzio.latinascalo@pec.it</a><br>
+    <span style="color:#4a5568;">Via della Dinamica Snc, 04100 Latina Scalo (LT)</span><br>
+    <a href="https://consorziologistico.it" style="color:#e67e22;text-decoration:none;font-weight:600;">consorziologistico.it</a>
+  </td></tr>
+</table>`;
+}
+
+function updateSignature() {
+  const name = document.getElementById('sig-name').value || 'Nome Cognome';
+  const role = document.getElementById('sig-role').value || 'Ruolo';
+  document.getElementById('sig-preview').innerHTML = getSignatureHTML(name, role);
+}
+
+async function copySignature() {
+  const name = document.getElementById('sig-name').value || 'Nome Cognome';
+  const role = document.getElementById('sig-role').value || 'Ruolo';
+  const html = getSignatureHTML(name, role);
+  const btn = document.getElementById('btn-copy');
+  try {
+    const blob = new Blob([html], { type: 'text/html' });
+    const textBlob = new Blob([html], { type: 'text/plain' });
+    await navigator.clipboard.write([
+      new ClipboardItem({ 'text/html': blob, 'text/plain': textBlob })
+    ]);
+    btn.classList.add('copied');
+    btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> Copiata!`;
+    setTimeout(() => {
+      btn.classList.remove('copied');
+      btn.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg> Copia Firma`;
+    }, 2500);
+  } catch(e) {
+    const ta = document.createElement('textarea');
+    ta.value = html; document.body.appendChild(ta);
+    ta.select(); document.execCommand('copy');
+    document.body.removeChild(ta);
+    btn.textContent = 'Copiata (HTML)!';
+    setTimeout(() => { btn.textContent = 'Copia Firma'; }, 2000);
+  }
+}
+
+updateSignature();
+</script>

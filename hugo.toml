@@ -2,6 +2,12 @@ baseURL = 'https://consorziologistico.it/'
 locale = 'it'
 title = 'Consorzio Logistico Latina Scalo'
 theme = 'clls'
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
+
+[sitemap]
+  changefreq = 'monthly'
+  priority = 0.5
 
 [params]
   description = "Hub logistico strategico nel cuore del Lazio — sviluppo e valorizzazione del territorio"

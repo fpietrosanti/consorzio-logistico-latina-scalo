@@ -584,7 +584,7 @@ body {
   <h2>Latina Scalo</h2>
   <div class="cover-divider"></div>
   <p class="cover-tagline">Soluzioni di logistica integrata B2B nel cuore del Lazio. Spazi, servizi e trasporto per far crescere il tuo business.</p>
-  <p class="cover-subtitle">Catalogo Servizi 2024&ndash;2025</p>
+  <p class="cover-subtitle">Catalogo Servizi 2026&ndash;2027</p>
   <div class="cover-deco"></div>
 </div>
 
@@ -691,14 +691,15 @@ body {
 
       <div class="service-box">
         <h4>Trasporto Camionistico</h4>
-        <p>Servizio di trasporto su gomma con copertura completa.</p>
+        <div style="background: var(--accent); color: var(--white); display: inline-block; padding: 1mm 3mm; border-radius: 3px; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.05em; margin-bottom: 2mm;">PARTNER DI TRASPORTO: TRANSITALIA</div>
+        <p>Servizio di trasporto su gomma in partnership con <strong>Transitalia</strong>, operatore di riferimento nel settore camionistico.</p>
         <ul class="service-details">
           <li><strong>Regionale:</strong> Lazio e regioni limitrofe, consegne in giornata</li>
           <li><strong>Nazionale:</strong> Tutta Italia, 24/48h</li>
           <li><strong>Internazionale:</strong> Europa e Mediterraneo</li>
           <li>Carichi completi (FTL) e parziali (LTL)</li>
           <li>Last-mile B2B e consegne in cantiere</li>
-          <li>Flotta dedicata e partner certificati</li>
+          <li>Flotta dedicata Transitalia</li>
         </ul>
       </div>
     </div>
@@ -718,26 +719,15 @@ body {
     <p class="section-intro">Oltre a stoccaggio, handling e trasporto, offriamo servizi complementari che completano la catena logistica.</p>
 
     <div class="service-grid">
-      <div class="service-box">
+      <div class="service-box featured">
         <h4>Logistica Integrata 3PL</h4>
-        <p>Esternalizza l'intera catena logistica a un unico partner: dalla ricezione della merce alla consegna al cliente finale.</p>
+        <p>Esternalizza l'intera catena logistica a un unico partner: dalla ricezione della merce alla consegna al cliente finale. Warehousing interno + trasporto con <strong>Transitalia</strong>.</p>
         <ul class="service-details">
-          <li>Gestione completa supply chain</li>
-          <li>Ottimizzazione flussi e riduzione costi</li>
+          <li>Gestione completa supply chain end-to-end</li>
+          <li>Stoccaggio + handling + trasporto in un unico contratto</li>
+          <li>Ottimizzazione flussi e riduzione costi operativi</li>
           <li>KPI e reportistica dedicata</li>
-          <li>Account manager dedicato</li>
-          <li>SLA personalizzati</li>
-        </ul>
-      </div>
-
-      <div class="service-box">
-        <h4>Servizi Doganali</h4>
-        <p>Supporto per le operazioni di commercio internazionale.</p>
-        <ul class="service-details">
-          <li>Gestione pratiche import/export</li>
-          <li>Consulenza normativa doganale</li>
-          <li>Documentazione T1/T2</li>
-          <li>Deposito doganale</li>
+          <li>Account manager dedicato e SLA personalizzati</li>
         </ul>
       </div>
 
@@ -911,37 +901,73 @@ body {
     <h2 class="section-title">Posizione Strategica</h2>
     <p class="section-intro">Nel cuore del Centro-Sud Italia, al crocevia tra Roma e Napoli. Una posizione che garantisce efficienza logistica e copertura territoriale ottimale.</p>
 
-    <div class="position-grid">
-      <div class="position-card">
-        <h4>Indirizzo</h4>
-        <p><strong>Via della Dinamica Snc</strong><br>Zona Tor Tre Ponti<br>Latina Scalo (LT)<br>Italia</p>
+    <!-- MAP + INFO LAYOUT -->
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5mm; margin-bottom: 5mm;">
+      <!-- SVG Map -->
+      <div style="background: var(--gray-50); border-radius: 8px; padding: 4mm; display: flex; align-items: center; justify-content: center;">
+        <svg viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg" style="width: 100%; max-height: 200px;">
+          <!-- Lazio region outline (simplified) -->
+          <path d="M60,40 L120,20 L200,30 L260,60 L280,120 L270,180 L240,220 L200,260 L160,280 L120,300 L80,290 L40,240 L20,180 L30,120 L40,80 Z" fill="#e9ecef" stroke="#adb5bd" stroke-width="1.5"/>
+          <!-- SS148 Pontina road -->
+          <path d="M150,95 L145,135 L140,175 L138,200" stroke="#adb5bd" stroke-width="2" stroke-dasharray="4 3" fill="none"/>
+          <!-- Roma marker -->
+          <circle cx="150" cy="95" r="8" fill="#1a4a7a" opacity="0.7"/>
+          <text x="165" y="100" font-family="Inter,sans-serif" font-size="13" font-weight="700" fill="#0f2b4a">Roma</text>
+          <!-- Fiumicino marker -->
+          <circle cx="110" cy="110" r="4" fill="#6c757d"/>
+          <text x="70" y="106" font-family="Inter,sans-serif" font-size="9" fill="#6c757d">FCO</text>
+          <text x="60" y="118" font-family="Inter,sans-serif" font-size="8" fill="#adb5bd">80 km</text>
+          <!-- LATINA SCALO marker (main) -->
+          <circle cx="138" cy="200" r="12" fill="#e67e22" opacity="0.2"/>
+          <circle cx="138" cy="200" r="7" fill="#e67e22"/>
+          <circle cx="138" cy="200" r="3" fill="#fff"/>
+          <text x="155" y="195" font-family="Inter,sans-serif" font-size="11" font-weight="800" fill="#e67e22">LATINA</text>
+          <text x="155" y="208" font-family="Inter,sans-serif" font-size="11" font-weight="800" fill="#e67e22">SCALO</text>
+          <!-- Gaeta/Porto marker -->
+          <circle cx="200" cy="260" r="4" fill="#6c757d"/>
+          <text x="210" y="255" font-family="Inter,sans-serif" font-size="9" fill="#6c757d">Porto di Gaeta</text>
+          <text x="210" y="267" font-family="Inter,sans-serif" font-size="8" fill="#adb5bd">40 km</text>
+          <!-- Distance line Roma-Latina -->
+          <line x1="150" y1="103" x2="140" y2="192" stroke="#e67e22" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
+          <text x="120" y="150" font-family="Inter,sans-serif" font-size="8" fill="#e67e22" font-weight="600">60 km</text>
+          <!-- Napoli direction arrow -->
+          <path d="M138,215 L130,270 L125,300" stroke="#adb5bd" stroke-width="1.5" stroke-dasharray="4 3" fill="none"/>
+          <text x="80" y="295" font-family="Inter,sans-serif" font-size="9" fill="#6c757d">Napoli 150 km</text>
+          <!-- Legend: SS148 -->
+          <text x="105" y="165" font-family="Inter,sans-serif" font-size="8" fill="#adb5bd" transform="rotate(-80 105 165)">SS148 Pontina</text>
+        </svg>
       </div>
-      <div class="position-card">
-        <h4>Accessibilit&agrave; Stradale</h4>
-        <ul>
-          <li>SS148 Pontina &mdash; uscita Latina Scalo</li>
-          <li>A 60 km da Roma (GRA)</li>
-          <li>A 150 km da Napoli</li>
-          <li>Collegamento diretto asse Roma&ndash;Napoli</li>
-        </ul>
-      </div>
-      <div class="position-card">
-        <h4>Infrastrutture di Trasporto</h4>
-        <ul>
-          <li><strong>Treno:</strong> Stazione Latina Scalo (Roma&ndash;Napoli via Formia)</li>
-          <li><strong>Porto:</strong> 40 km dal Porto di Gaeta</li>
-          <li><strong>Aeroporto:</strong> 80 km da Roma Fiumicino (FCO)</li>
-          <li><strong>Interporto:</strong> collegamento con Interporto di Frosinone</li>
-        </ul>
-      </div>
-      <div class="position-card">
-        <h4>Vantaggi Fiscali</h4>
-        <ul>
-          <li>Area ZES (Zona Economica Speciale)</li>
-          <li>Credito d'imposta per investimenti</li>
-          <li>Semplificazioni amministrative</li>
-          <li>Agevolazioni per nuovi insediamenti</li>
-        </ul>
+      <!-- Info cards stacked -->
+      <div style="display: flex; flex-direction: column; gap: 4mm;">
+        <div class="position-card">
+          <h4>Indirizzo</h4>
+          <p><strong>Via della Dinamica Snc</strong><br>Zona Tor Tre Ponti<br>Latina Scalo (LT)</p>
+        </div>
+        <div class="position-card">
+          <h4>Accessibilit&agrave; Stradale</h4>
+          <ul>
+            <li>SS148 Pontina &mdash; uscita Latina Scalo</li>
+            <li>A 60 km da Roma (GRA)</li>
+            <li>A 150 km da Napoli</li>
+          </ul>
+        </div>
+        <div class="position-card">
+          <h4>Infrastrutture di Trasporto</h4>
+          <ul>
+            <li><strong>Treno:</strong> Stazione Latina Scalo</li>
+            <li><strong>Porto:</strong> 40 km &mdash; Gaeta</li>
+            <li><strong>Aeroporto:</strong> 80 km &mdash; Fiumicino</li>
+            <li><strong>Interporto:</strong> Frosinone</li>
+          </ul>
+        </div>
+        <div class="position-card">
+          <h4>Vantaggi Fiscali &mdash; Area ZES</h4>
+          <ul>
+            <li>Credito d'imposta per investimenti</li>
+            <li>Semplificazioni amministrative</li>
+            <li>Agevolazioni per nuovi insediamenti</li>
+          </ul>
+        </div>
       </div>
     </div>
 

@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brochure Commerciale — Consorzio Logistico Latina Scalo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --primary: #0f2b4a;
+  --primary-light: #1a4a7a;
+  --accent: #e67e22;
+  --accent-light: #f39c12;
+  --white: #ffffff;
+  --gray-50: #f8f9fa;
+  --gray-100: #f1f3f5;
+  --gray-200: #e9ecef;
+  --gray-400: #adb5bd;
+  --gray-600: #6c757d;
+  --gray-800: #343a40;
+  --gray-900: #212529;
+  --wa-green: #25D366;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: var(--gray-800);
+  line-height: 1.6;
+  background: var(--white);
+}
+
+/* === PRINT A4 LAYOUT === */
+@media print {
+  body { background: white; }
+  .page { page-break-after: always; box-shadow: none; margin: 0; width: 210mm; min-height: 297mm; }
+  .page:last-child { page-break-after: avoid; }
+  @page { size: A4; margin: 0; }
+}
+
+/* === SCREEN LAYOUT === */
+@media screen {
+  body { background: #e0e0e0; padding: 2rem 0; }
+  .page {
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto 2rem;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+  }
+}
+
+.page {
+  background: var(--white);
+  position: relative;
+  overflow: hidden;
+}
+
+/* === PAGE 1: COVER === */
+.cover {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 60mm 25mm;
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: var(--white);
+  min-height: 297mm;
+}
+.cover-logo { width: 90px; height: 90px; margin-bottom: 2rem; }
+.cover h1 {
+  font-size: 2.2rem;
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.3rem;
+}
+.cover h2 {
+  font-size: 2.6rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 2.5rem;
+}
+.cover-divider {
+  width: 80px;
+  height: 4px;
+  background: var(--accent);
+  border-radius: 2px;
+  margin-bottom: 2.5rem;
+}
+.cover-tagline {
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  opacity: 0.9;
+  max-width: 480px;
+  line-height: 1.7;
+}
+.cover-subtitle {
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-top: 3rem;
+}
+.cover-deco {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: var(--accent);
+}
+
+/* === COMMON PAGE ELEMENTS === */
+.page-inner {
+  padding: 18mm 22mm 20mm;
+  min-height: 297mm;
+  display: flex;
+  flex-direction: column;
+}
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8mm;
+  padding-bottom: 4mm;
+  border-bottom: 2px solid var(--accent);
+}
+.page-header-logo { height: 28px; opacity: 0.6; }
+.page-number {
+  font-size: 0.7rem;
+  color: var(--gray-400);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.section-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 2mm;
+}
+.section-title {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--primary);
+  margin-bottom: 5mm;
+  line-height: 1.2;
+}
+.section-intro {
+  font-size: 0.92rem;
+  color: var(--gray-600);
+  line-height: 1.65;
+  margin-bottom: 8mm;
+  max-width: 520px;
+}
+
+/* === PAGE 2: VALUE PROPOSITION === */
+.vp-hero {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: var(--white);
+  padding: 10mm 8mm;
+  border-radius: 8px;
+  margin-bottom: 8mm;
+  text-align: center;
+}
+.vp-hero h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 3mm;
+}
+.vp-hero p {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  opacity: 0.9;
+  max-width: 460px;
+  margin: 0 auto;
+}
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4mm;
+  margin-bottom: 8mm;
+}
+.stat-box {
+  text-align: center;
+  padding: 5mm 3mm;
+  background: var(--gray-50);
+  border-radius: 6px;
+  border-top: 3px solid var(--accent);
+}
+.stat-box .number {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--primary);
+  line-height: 1.1;
+}
+.stat-box .unit {
+  font-size: 0.68rem;
+  color: var(--gray-600);
+  display: block;
+  margin-top: 1mm;
+  line-height: 1.3;
+}
+.vp-points {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4mm;
+}
+.vp-point {
+  padding: 5mm;
+  border: 1px solid var(--gray-200);
+  border-radius: 6px;
+  border-left: 3px solid var(--accent);
+}
+.vp-point h4 {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 2mm;
+}
+.vp-point p {
+  font-size: 0.75rem;
+  color: var(--gray-600);
+  line-height: 1.5;
+}
+.chi-siamo-text {
+  font-size: 0.85rem;
+  color: var(--gray-800);
+  line-height: 1.7;
+  margin-bottom: 6mm;
+  columns: 2;
+  column-gap: 8mm;
+}
+.chi-siamo-text p { margin-bottom: 3mm; }
+
+/* === PAGE 3-4: SERVIZI === */
+.service-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5mm;
+  flex: 1;
+}
+.service-box {
+  padding: 6mm;
+  border-radius: 6px;
+  border: 1px solid var(--gray-200);
+  background: var(--white);
+}
+.service-box.featured {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: var(--white);
+  border: none;
+  grid-column: span 2;
+}
+.service-box.featured h4 { color: var(--accent-light); }
+.service-box.featured p { color: rgba(255,255,255,0.85); }
+.service-box.featured .service-details li { color: rgba(255,255,255,0.8); }
+.service-box.featured .service-details li::before { color: var(--accent-light); }
+.service-icon-sm {
+  width: 36px;
+  height: 36px;
+  margin-bottom: 3mm;
+}
+.service-box h4 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 2mm;
+}
+.service-box p {
+  font-size: 0.75rem;
+  color: var(--gray-600);
+  line-height: 1.5;
+  margin-bottom: 2mm;
+}
+.service-details {
+  list-style: none;
+  padding: 0;
+}
+.service-details li {
+  font-size: 0.72rem;
+  color: var(--gray-600);
+  padding: 0.8mm 0;
+  padding-left: 3.5mm;
+  position: relative;
+}
+.service-details li::before {
+  content: "\2022";
+  color: var(--accent);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+/* === PAGE 5: INFRASTRUTTURE === */
+.infra-main {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: var(--white);
+  padding: 8mm;
+  border-radius: 8px;
+  margin-bottom: 5mm;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6mm;
+}
+.infra-main h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--accent-light);
+  margin-bottom: 3mm;
+  grid-column: span 2;
+}
+.infra-col h4 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--white);
+  margin-bottom: 2mm;
+}
+.infra-col p, .infra-col li {
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.8);
+  line-height: 1.5;
+}
+.infra-col ul {
+  list-style: none;
+  padding: 0;
+}
+.infra-col li {
+  padding: 1mm 0 1mm 3.5mm;
+  position: relative;
+}
+.infra-col li::before {
+  content: "\2022";
+  color: var(--accent-light);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+.infra-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4mm;
+}
+.infra-card {
+  padding: 5mm;
+  background: var(--gray-50);
+  border-radius: 6px;
+  text-align: center;
+}
+.infra-card h4 {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 2mm;
+}
+.infra-card p {
+  font-size: 0.72rem;
+  color: var(--gray-600);
+  line-height: 1.4;
+}
+
+/* === PAGE 6: SETTORI === */
+.sector-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4mm;
+}
+.sector-box {
+  padding: 5mm;
+  border-radius: 6px;
+  border: 1px solid var(--gray-200);
+  text-align: center;
+}
+.sector-box h4 {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 2mm;
+}
+.sector-box p {
+  font-size: 0.72rem;
+  color: var(--gray-600);
+  line-height: 1.4;
+}
+.sector-icon-sm {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto 3mm;
+  display: block;
+}
+.pallet-cta {
+  background: var(--accent);
+  color: var(--white);
+  padding: 8mm;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 6mm;
+}
+.pallet-cta h3 {
+  font-size: 1.15rem;
+  font-weight: 800;
+  margin-bottom: 2mm;
+}
+.pallet-cta p {
+  font-size: 0.85rem;
+  opacity: 0.95;
+  line-height: 1.5;
+}
+
+/* === PAGE 7: POSIZIONE === */
+.position-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5mm;
+  margin-bottom: 6mm;
+}
+.position-card {
+  padding: 5mm;
+  border-radius: 6px;
+  border: 1px solid var(--gray-200);
+}
+.position-card h4 {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 2mm;
+  display: flex;
+  align-items: center;
+  gap: 2mm;
+}
+.position-card p, .position-card li {
+  font-size: 0.75rem;
+  color: var(--gray-600);
+  line-height: 1.5;
+}
+.position-card ul {
+  list-style: none;
+  padding: 0;
+}
+.position-card li {
+  padding: 1mm 0 1mm 3.5mm;
+  position: relative;
+}
+.position-card li::before {
+  content: "\2022";
+  color: var(--accent);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+.advantages-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4mm;
+}
+.advantage {
+  text-align: center;
+  padding: 5mm 3mm;
+  background: var(--primary);
+  color: var(--white);
+  border-radius: 6px;
+}
+.advantage .number {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--accent-light);
+}
+.advantage .label {
+  font-size: 0.68rem;
+  opacity: 0.8;
+  display: block;
+  margin-top: 1mm;
+}
+
+/* === PAGE 8: CONTATTI === */
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 30mm 25mm;
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: var(--white);
+  min-height: 297mm;
+}
+.contact-page h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 3mm;
+}
+.contact-page .tagline {
+  font-size: 1.05rem;
+  opacity: 0.85;
+  margin-bottom: 10mm;
+  max-width: 440px;
+}
+.contact-divider {
+  width: 60px;
+  height: 3px;
+  background: var(--accent);
+  border-radius: 2px;
+  margin: 0 auto 10mm;
+}
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6mm;
+  text-align: left;
+  margin-bottom: 12mm;
+  width: 100%;
+  max-width: 480px;
+}
+.contact-box {
+  padding: 5mm;
+  background: rgba(255,255,255,0.08);
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.12);
+}
+.contact-box h4 {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent-light);
+  margin-bottom: 2mm;
+}
+.contact-box p, .contact-box a {
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.9);
+  text-decoration: none;
+  line-height: 1.5;
+}
+.wa-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 3mm;
+  background: var(--wa-green);
+  color: var(--white);
+  padding: 4mm 10mm;
+  border-radius: 30px;
+  font-size: 1rem;
+  font-weight: 700;
+  text-decoration: none;
+  margin-top: 2mm;
+}
+.wa-cta svg {
+  width: 24px;
+  height: 24px;
+}
+.contact-footer {
+  margin-top: auto;
+  font-size: 0.72rem;
+  opacity: 0.4;
+}
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1: COVER ============ -->
+<div class="page cover">
+  <svg class="cover-logo" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="rgba(255,255,255,0.1)"/>
+    <polygon points="40,12 64,26 64,54 40,68 16,54 16,26" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="40" cy="36" r="6" fill="#e67e22"/>
+    <circle cx="40" cy="36" r="3" fill="#fff"/>
+    <circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/>
+    <circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/>
+    <circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/>
+    <path d="M40,28 L40,16 M36,20 L40,16 L44,20" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  <h1>Consorzio Logistico</h1>
+  <h2>Latina Scalo</h2>
+  <div class="cover-divider"></div>
+  <p class="cover-tagline">Soluzioni di logistica integrata B2B nel cuore del Lazio. Spazi, servizi e trasporto per far crescere il tuo business.</p>
+  <p class="cover-subtitle">Catalogo Servizi 2024&ndash;2025</p>
+  <div class="cover-deco"></div>
+</div>
+
+<!-- ============ PAGE 2: VALUE PROPOSITION ============ -->
+<div class="page">
+  <div class="page-inner">
+    <div class="page-header">
+      <svg class="page-header-logo" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg"><polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#0f2b4a"/><path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#fff"/><circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/><text x="92" y="35" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="14" font-weight="300" letter-spacing="0.5">CONSORZIO LOGISTICO</text><text x="92" y="55" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">LATINA SCALO</text></svg>
+      <span class="page-number">Pagina 02</span>
+    </div>
+
+    <span class="section-label">Il Consorzio</span>
+    <h2 class="section-title">Chi Siamo &amp; Value Proposition</h2>
+
+    <div class="chi-siamo-text">
+      <p>Il <strong>Consorzio Logistico Latina Scalo</strong> nasce dalla volont&agrave; di imprese del territorio di creare un polo logistico integrato nell'area di sviluppo industriale di Latina Scalo, in posizione strategica lungo l'asse Roma&ndash;Napoli.</p>
+      <p>La nostra missione &egrave; offrire alle aziende un <strong>partner logistico unico</strong> per stoccaggio, movimentazione e distribuzione, con infrastrutture moderne, personale qualificato e un modello flessibile che cresce con il vostro business.</p>
+    </div>
+
+    <div class="vp-hero">
+      <h3>La Tua Logistica, Semplificata</h3>
+      <p>Un unico interlocutore per tutte le esigenze logistiche B2B: dallo stoccaggio al trasporto, dal picking alla consegna. Spazi flessibili, costi variabili, operativit&agrave; garantita 24/7.</p>
+    </div>
+
+    <div class="stats-row">
+      <div class="stat-box">
+        <span class="number">19.000</span>
+        <span class="unit">mq coperti</span>
+      </div>
+      <div class="stat-box">
+        <span class="number">25.000</span>
+        <span class="unit">mq scoperti</span>
+      </div>
+      <div class="stat-box">
+        <span class="number">50+</span>
+        <span class="unit">anni di esperienza<br>combinata</span>
+      </div>
+      <div class="stat-box">
+        <span class="number">24/7</span>
+        <span class="unit">operativit&agrave;<br>garantita</span>
+      </div>
+    </div>
+
+    <div class="vp-points">
+      <div class="vp-point">
+        <h4>Costi Variabili</h4>
+        <p>Paghi solo per lo spazio e i servizi che utilizzi. Nessun investimento in strutture, personale o attrezzature: la logistica diventa un costo operativo, non un capitale immobilizzato.</p>
+      </div>
+      <div class="vp-point">
+        <h4>Scalabilit&agrave;</h4>
+        <p>Dai 10 posti pallet a migliaia: i nostri spazi si adattano alla stagionalit&agrave; e alla crescita del tuo business senza vincoli di lungo periodo.</p>
+      </div>
+      <div class="vp-point">
+        <h4>Posizione Strategica</h4>
+        <p>Baricentro logistico del Centro-Sud Italia, a 60 km da Roma, collegato a porti, interporti e rete autostradale. Area ZES con agevolazioni fiscali.</p>
+      </div>
+      <div class="vp-point">
+        <h4>Servizio Integrato</h4>
+        <p>Un unico referente per stoccaggio, handling, trasporto e documentazione. Processi coordinati, tempi ridotti, zero complessit&agrave; gestionale per il cliente.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ PAGE 3: SERVIZI (1/2) ============ -->
+<div class="page">
+  <div class="page-inner">
+    <div class="page-header">
+      <svg class="page-header-logo" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg"><polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#0f2b4a"/><path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#fff"/><circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/><text x="92" y="35" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="14" font-weight="300" letter-spacing="0.5">CONSORZIO LOGISTICO</text><text x="92" y="55" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">LATINA SCALO</text></svg>
+      <span class="page-number">Pagina 03</span>
+    </div>
+
+    <span class="section-label">Cosa Offriamo</span>
+    <h2 class="section-title">Servizi di Logistica Integrata</h2>
+    <p class="section-intro">Soluzioni B2B complete, dal ricevimento merci alla consegna finale. Ogni servizio &egrave; personalizzabile in base alle esigenze specifiche del cliente.</p>
+
+    <div class="service-grid">
+      <div class="service-box featured">
+        <h4>Stoccaggio e Warehousing</h4>
+        <p>Il cuore della nostra offerta: 19.000 mq di spazi coperti e 25.000 mq di piazzali per ogni tipologia di merce.</p>
+        <ul class="service-details">
+          <li>Posti pallet su scaffalature industriali multi-livello</li>
+          <li>Stoccaggio a terra per merci pesanti e voluminose</li>
+          <li>Aree dedicate a temperatura controllata</li>
+          <li>Stoccaggio scoperto e semicoperto per materiali edili</li>
+          <li>Gestione inventory in tempo reale con sistema WMS</li>
+          <li>Contratti flessibili: da singoli pallet a interi capannoni</li>
+        </ul>
+      </div>
+
+      <div class="service-box">
+        <h4>Warehouse Handling</h4>
+        <p>Gestione operativa completa della merce all'interno del magazzino.</p>
+        <ul class="service-details">
+          <li>Ricevimento e controllo qualit&agrave;</li>
+          <li>Picking e preparazione ordini</li>
+          <li>Packing e confezionamento</li>
+          <li>Etichettatura e codifica SKU</li>
+          <li>Pallettizzazione e filmatura</li>
+          <li>Cross-docking</li>
+          <li>Gestione resi e reverse logistics</li>
+        </ul>
+      </div>
+
+      <div class="service-box">
+        <h4>Trasporto Camionistico</h4>
+        <p>Servizio di trasporto su gomma con copertura completa.</p>
+        <ul class="service-details">
+          <li><strong>Regionale:</strong> Lazio e regioni limitrofe, consegne in giornata</li>
+          <li><strong>Nazionale:</strong> Tutta Italia, 24/48h</li>
+          <li><strong>Internazionale:</strong> Europa e Mediterraneo</li>
+          <li>Carichi completi (FTL) e parziali (LTL)</li>
+          <li>Last-mile B2B e consegne in cantiere</li>
+          <li>Flotta dedicata e partner certificati</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ PAGE 4: SERVIZI (2/2) ============ -->
+<div class="page">
+  <div class="page-inner">
+    <div class="page-header">
+      <svg class="page-header-logo" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg"><polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#0f2b4a"/><path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#fff"/><circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/><text x="92" y="35" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="14" font-weight="300" letter-spacing="0.5">CONSORZIO LOGISTICO</text><text x="92" y="55" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">LATINA SCALO</text></svg>
+      <span class="page-number">Pagina 04</span>
+    </div>
+
+    <span class="section-label">Servizi Complementari</span>
+    <h2 class="section-title">Logistica End-to-End</h2>
+    <p class="section-intro">Oltre a stoccaggio, handling e trasporto, offriamo servizi complementari che completano la catena logistica.</p>
+
+    <div class="service-grid">
+      <div class="service-box">
+        <h4>Logistica Integrata 3PL</h4>
+        <p>Esternalizza l'intera catena logistica a un unico partner: dalla ricezione della merce alla consegna al cliente finale.</p>
+        <ul class="service-details">
+          <li>Gestione completa supply chain</li>
+          <li>Ottimizzazione flussi e riduzione costi</li>
+          <li>KPI e reportistica dedicata</li>
+          <li>Account manager dedicato</li>
+          <li>SLA personalizzati</li>
+        </ul>
+      </div>
+
+      <div class="service-box">
+        <h4>Servizi Doganali</h4>
+        <p>Supporto per le operazioni di commercio internazionale.</p>
+        <ul class="service-details">
+          <li>Gestione pratiche import/export</li>
+          <li>Consulenza normativa doganale</li>
+          <li>Documentazione T1/T2</li>
+          <li>Deposito doganale</li>
+        </ul>
+      </div>
+
+      <div class="service-box">
+        <h4>Gestione Documentale</h4>
+        <p>Tracciabilit&agrave; completa e documentazione per ogni spedizione.</p>
+        <ul class="service-details">
+          <li>DDT e bolle di accompagnamento</li>
+          <li>Documentazione di trasporto CMR</li>
+          <li>Tracciabilit&agrave; end-to-end</li>
+          <li>Integrazione con gestionali (EDI/API)</li>
+        </ul>
+      </div>
+
+      <div class="service-box">
+        <h4>Servizi a Valore Aggiunto</h4>
+        <p>Personalizzazione e servizi extra per esigenze specifiche.</p>
+        <ul class="service-details">
+          <li>Co-packing e kitting</li>
+          <li>Controllo qualit&agrave; in ingresso</li>
+          <li>Gestione lotti e scadenze (FIFO/FEFO)</li>
+          <li>Fotografia prodotti per e-commerce</li>
+          <li>Assicurazione merci</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ PAGE 5: INFRASTRUTTURE ============ -->
+<div class="page">
+  <div class="page-inner">
+    <div class="page-header">
+      <svg class="page-header-logo" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg"><polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#0f2b4a"/><path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#fff"/><circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/><text x="92" y="35" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="14" font-weight="300" letter-spacing="0.5">CONSORZIO LOGISTICO</text><text x="92" y="55" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">LATINA SCALO</text></svg>
+      <span class="page-number">Pagina 05</span>
+    </div>
+
+    <span class="section-label">Infrastrutture</span>
+    <h2 class="section-title">Il Nostro Sito Logistico</h2>
+    <p class="section-intro">Un complesso logistico moderno e attrezzato, nell'area di sviluppo industriale di Latina Scalo.</p>
+
+    <div class="infra-main">
+      <h3>Capannoni Industriali &mdash; 19.000 mq coperti</h3>
+      <div class="infra-col">
+        <h4>Caratteristiche strutturali</h4>
+        <ul>
+          <li>Strutture modulari da 500 a 3.000 mq ciascuna</li>
+          <li>Altezza utile fino a 10 metri</li>
+          <li>Pavimentazione industriale per carichi pesanti</li>
+          <li>Illuminazione LED ad alta efficienza</li>
+          <li>Impianti di ventilazione e areazione</li>
+        </ul>
+      </div>
+      <div class="infra-col">
+        <h4>Attrezzature</h4>
+        <ul>
+          <li>Scaffalature portapallet multi-livello</li>
+          <li>Carrelli elevatori e transpallet</li>
+          <li>Baie di carico/scarico coperte</li>
+          <li>Rampe idrauliche per TIR</li>
+          <li>Sistemi di movimentazione automatizzati</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="infra-grid">
+      <div class="infra-card">
+        <h4>Piazzali Operativi</h4>
+        <p>25.000 mq di spazi esterni per manovra TIR, stoccaggio scoperto, zone di sosta veicoli e aree di carico/scarico.</p>
+      </div>
+      <div class="infra-card">
+        <h4>Sicurezza 24/7</h4>
+        <p>Videosorveglianza perimetrale, controllo accessi, impianti antincendio e antintrusione certificati. Guardiania notturna.</p>
+      </div>
+      <div class="infra-card">
+        <h4>Connettivit&agrave; e IT</h4>
+        <p>Fibra ottica dedicata, Wi-Fi industriale, sistema WMS per gestione digitale del magazzino in tempo reale.</p>
+      </div>
+      <div class="infra-card">
+        <h4>Uffici Integrati</h4>
+        <p>Spazi ufficio per il personale operativo, sale riunioni per incontri con clienti, area ristoro attrezzata.</p>
+      </div>
+      <div class="infra-card">
+        <h4>Accessibilit&agrave;</h4>
+        <p>Accesso diretto dalla SS148 Pontina. Strade interne per autoarticolati. Parcheggio riservato clienti.</p>
+      </div>
+      <div class="infra-card">
+        <h4>Sostenibilit&agrave;</h4>
+        <p>Impianti fotovoltaici in copertura, illuminazione LED a basso consumo, raccolta differenziata e gestione rifiuti certificata.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ PAGE 6: SETTORI ============ -->
+<div class="page">
+  <div class="page-inner">
+    <div class="page-header">
+      <svg class="page-header-logo" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg"><polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#0f2b4a"/><path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#fff"/><circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/><text x="92" y="35" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="14" font-weight="300" letter-spacing="0.5">CONSORZIO LOGISTICO</text><text x="92" y="55" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">LATINA SCALO</text></svg>
+      <span class="page-number">Pagina 06</span>
+    </div>
+
+    <span class="section-label">Competenze</span>
+    <h2 class="section-title">Settori Serviti</h2>
+    <p class="section-intro">Soluzioni logistiche specializzate per ogni verticale industriale. Esperienza consolidata nei principali settori B2B.</p>
+
+    <div class="sector-grid">
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24 6c-2 8-10 12-10 22a10 10 0 0020 0c0-10-8-14-10-22z" stroke="#0f2b4a" stroke-width="2.5" stroke-linejoin="round"/><path d="M18 30c0 3.3 2.7 6 6 6s6-2.7 6-6" stroke="#e67e22" stroke-width="2" opacity="0.6"/></svg>
+        <h4>Agroalimentare</h4>
+        <p>Stoccaggio e distribuzione food &amp; beverage, catena del freddo, tracciabilit&agrave; HACCP, gestione scadenze FEFO.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="14" y="4" width="20" height="40" rx="8" stroke="#0f2b4a" stroke-width="2.5"/><path d="M14 16h20M14 32h20" stroke="#0f2b4a" stroke-width="2"/><circle cx="24" cy="24" r="4" stroke="#e67e22" stroke-width="2"/></svg>
+        <h4>Farmaceutico</h4>
+        <p>Logistica GDP-compliant, stoccaggio a temperatura controllata, gestione lotti e scadenze, tracciabilit&agrave; completa.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="14" cy="34" r="6" stroke="#0f2b4a" stroke-width="2.5"/><circle cx="36" cy="34" r="6" stroke="#0f2b4a" stroke-width="2.5"/><path d="M20 34h10" stroke="#0f2b4a" stroke-width="2.5"/><path d="M20 28l4-12h10l4 12" stroke="#0f2b4a" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <h4>Automotive</h4>
+        <p>Gestione ricambi e componenti, just-in-time delivery, reverse logistics, stoccaggio sequenziato.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="10" width="32" height="28" rx="3" stroke="#0f2b4a" stroke-width="2.5"/><path d="M8 18h32" stroke="#0f2b4a" stroke-width="2"/><rect x="14" y="24" width="8" height="8" rx="1.5" stroke="#e67e22" stroke-width="2"/></svg>
+        <h4>E-Commerce</h4>
+        <p>Fulfillment B2B e B2C, picking unitario, packaging personalizzato, gestione resi, integrazione con marketplace.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 42V18l16-12 16 12v24" stroke="#0f2b4a" stroke-width="2.5" stroke-linejoin="round"/><path d="M8 42h32" stroke="#0f2b4a" stroke-width="2.5" stroke-linecap="round"/><rect x="18" y="28" width="12" height="14" rx="1" stroke="#e67e22" stroke-width="2"/></svg>
+        <h4>Edilizia</h4>
+        <p>Stoccaggio materiali da costruzione, gestione carichi pesanti e voluminosi, consegna in cantiere con gru.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16 8h16v6c0 6-4 10-8 12-4-2-8-6-8-12V8z" stroke="#0f2b4a" stroke-width="2.5" stroke-linejoin="round"/><path d="M24 26v8" stroke="#0f2b4a" stroke-width="2.5" stroke-linecap="round"/><path d="M16 38h16" stroke="#0f2b4a" stroke-width="2.5" stroke-linecap="round"/></svg>
+        <h4>Tessile e Moda</h4>
+        <p>Gestione appeso, stoccaggio stagionale, preparazione ordini per showroom e retail, packaging premium.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="14" width="36" height="24" rx="3" stroke="#0f2b4a" stroke-width="2.5"/><path d="M14 22h20M14 30h12" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/><circle cx="36" cy="30" r="3" stroke="#0f2b4a" stroke-width="2"/></svg>
+        <h4>GDO e Retail</h4>
+        <p>Stoccaggio grandi volumi, preparazione ordini per punti vendita, picking multi-referenza, consegne programmate.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="32" height="32" rx="4" stroke="#0f2b4a" stroke-width="2.5"/><path d="M8 20h32M20 8v32" stroke="#0f2b4a" stroke-width="2" opacity="0.4"/><circle cx="30" cy="30" r="6" stroke="#e67e22" stroke-width="2.5"/></svg>
+        <h4>Manifatturiero</h4>
+        <p>Stoccaggio materie prime e semilavorati, gestione scorte just-in-time, approvvigionamento linee produttive.</p>
+      </div>
+      <div class="sector-box">
+        <svg class="sector-icon-sm" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24 4L6 14v20l18 10 18-10V14L24 4z" stroke="#0f2b4a" stroke-width="2.5" stroke-linejoin="round"/><path d="M6 14l18 10 18-10M24 24v20" stroke="#0f2b4a" stroke-width="2" opacity="0.5"/><circle cx="24" cy="18" r="3" fill="#e67e22"/></svg>
+        <h4>Il Tuo Settore</h4>
+        <p>Soluzioni personalizzate per ogni esigenza. Contattaci per una consulenza logistica gratuita dedicata al tuo business.</p>
+      </div>
+    </div>
+
+    <div class="pallet-cta">
+      <h3>Cerchi posti pallet nel Centro-Sud Italia?</h3>
+      <p>Disponibilit&agrave; immediata di posti pallet su scaffalatura industriale, a partire da quantit&agrave; minime. Preventivo personalizzato in 24 ore.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ============ PAGE 7: POSIZIONE STRATEGICA ============ -->
+<div class="page">
+  <div class="page-inner">
+    <div class="page-header">
+      <svg class="page-header-logo" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg"><polygon points="40,4 72,22 72,58 40,76 8,58 8,22" fill="#0f2b4a"/><path d="M20,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M60,46 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><path d="M40,64 L40,36" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/><circle cx="40" cy="36" r="6" fill="#e67e22"/><circle cx="40" cy="36" r="3" fill="#fff"/><circle cx="20" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="60" cy="46" r="3.5" fill="rgba(255,255,255,0.7)"/><circle cx="40" cy="64" r="3.5" fill="rgba(255,255,255,0.7)"/><text x="92" y="35" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="14" font-weight="300" letter-spacing="0.5">CONSORZIO LOGISTICO</text><text x="92" y="55" fill="#0f2b4a" font-family="Inter,sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">LATINA SCALO</text></svg>
+      <span class="page-number">Pagina 07</span>
+    </div>
+
+    <span class="section-label">Location</span>
+    <h2 class="section-title">Posizione Strategica</h2>
+    <p class="section-intro">Nel cuore del Centro-Sud Italia, al crocevia tra Roma e Napoli. Una posizione che garantisce efficienza logistica e copertura territoriale ottimale.</p>
+
+    <div class="position-grid">
+      <div class="position-card">
+        <h4>Indirizzo</h4>
+        <p><strong>Via della Dinamica Snc</strong><br>Zona Tor Tre Ponti<br>Latina Scalo (LT)<br>Italia</p>
+      </div>
+      <div class="position-card">
+        <h4>Accessibilit&agrave; Stradale</h4>
+        <ul>
+          <li>SS148 Pontina &mdash; uscita Latina Scalo</li>
+          <li>A 60 km da Roma (GRA)</li>
+          <li>A 150 km da Napoli</li>
+          <li>Collegamento diretto asse Roma&ndash;Napoli</li>
+        </ul>
+      </div>
+      <div class="position-card">
+        <h4>Infrastrutture di Trasporto</h4>
+        <ul>
+          <li><strong>Treno:</strong> Stazione Latina Scalo (Roma&ndash;Napoli via Formia)</li>
+          <li><strong>Porto:</strong> 40 km dal Porto di Gaeta</li>
+          <li><strong>Aeroporto:</strong> 80 km da Roma Fiumicino (FCO)</li>
+          <li><strong>Interporto:</strong> collegamento con Interporto di Frosinone</li>
+        </ul>
+      </div>
+      <div class="position-card">
+        <h4>Vantaggi Fiscali</h4>
+        <ul>
+          <li>Area ZES (Zona Economica Speciale)</li>
+          <li>Credito d'imposta per investimenti</li>
+          <li>Semplificazioni amministrative</li>
+          <li>Agevolazioni per nuovi insediamenti</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="advantages-row">
+      <div class="advantage">
+        <span class="number">60 km</span>
+        <span class="label">da Roma</span>
+      </div>
+      <div class="advantage">
+        <span class="number">40 km</span>
+        <span class="label">dal Porto di Gaeta</span>
+      </div>
+      <div class="advantage">
+        <span class="number">80 km</span>
+        <span class="label">da Fiumicino</span>
+      </div>
+      <div class="advantage">
+        <span class="number">ZES</span>
+        <span class="label">Zona Economica Speciale</span>
+      </div>
+    </div>
+
+    <div style="margin-top: 8mm; padding: 6mm; background: var(--gray-50); border-radius: 8px; border-left: 4px solid var(--accent);">
+      <h4 style="font-size: 0.85rem; font-weight: 700; color: var(--primary); margin-bottom: 2mm;">Copertura Territoriale</h4>
+      <p style="font-size: 0.8rem; color: var(--gray-600); line-height: 1.6;">Dalla nostra posizione baricentrica serviamo l'intero Centro-Sud Italia con consegne in <strong>24 ore su Lazio, Campania, Abruzzo e Molise</strong>, e in <strong>48 ore su tutto il territorio nazionale</strong>. Per le consegne regionali nel Lazio, offriamo servizio espresso in giornata.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ============ PAGE 8: CONTATTI ============ -->
+<div class="page contact-page">
+  <h2>Parliamo del Tuo Progetto</h2>
+  <p class="tagline">Ogni esigenza logistica &egrave; unica. Raccontaci la tua e costruiremo insieme la soluzione pi&ugrave; efficace.</p>
+  <div class="contact-divider"></div>
+
+  <div class="contact-grid">
+    <div class="contact-box">
+      <h4>Email</h4>
+      <p>info@consorziologistico.it</p>
+    </div>
+    <div class="contact-box">
+      <h4>PEC</h4>
+      <p>consorziologisticolatinascalo@pec.it</p>
+    </div>
+    <div class="contact-box">
+      <h4>Sede</h4>
+      <p>Via della Dinamica Snc<br>Latina Scalo (LT)</p>
+    </div>
+    <div class="contact-box">
+      <h4>Web</h4>
+      <p>consorziologistico.it</p>
+    </div>
+  </div>
+
+  <a href="https://wa.me/390773316008?text=Ciao%2C%20vorrei%20informazioni%20sui%20vostri%20servizi%20logistici." class="wa-cta">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z" fill="#fff"/><path d="M12 2C6.477 2 2 6.477 2 12c0 1.89.525 3.66 1.438 5.168L2 22l4.832-1.438A9.955 9.955 0 0012 22c5.523 0 10-4.477 10-10S17.523 2 12 2zm0 18a7.96 7.96 0 01-4.108-1.14l-.292-.175-3.04.8.8-3.04-.175-.292A7.96 7.96 0 014 12c0-4.411 3.589-8 8-8s8 3.589 8 8-3.589 8-8 8z" fill="#fff"/></svg>
+    Scrivici su WhatsApp
+  </a>
+
+  <p class="contact-footer">Consorzio Logistico Latina Scalo &mdash; Tutti i diritti riservati</p>
+  <div class="cover-deco"></div>
+</div>
+
+</body>
+</html>

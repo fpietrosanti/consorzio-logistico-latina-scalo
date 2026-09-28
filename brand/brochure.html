@@ -905,38 +905,89 @@ body {
 
     <!-- MAP + INFO LAYOUT -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5mm; margin-bottom: 5mm;">
-      <!-- SVG Map -->
+      <!-- SVG Map — geo-proportional coordinates -->
       <div style="background: var(--gray-50); border-radius: 8px; padding: 4mm; display: flex; align-items: center; justify-content: center;">
-        <svg viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg" style="width: 100%; max-height: 200px;">
-          <!-- Lazio region outline (simplified) -->
-          <path d="M60,40 L120,20 L200,30 L260,60 L280,120 L270,180 L240,220 L200,260 L160,280 L120,300 L80,290 L40,240 L20,180 L30,120 L40,80 Z" fill="#e9ecef" stroke="#adb5bd" stroke-width="1.5"/>
-          <!-- SS148 Pontina road -->
-          <path d="M150,95 L145,135 L140,175 L138,200" stroke="#adb5bd" stroke-width="2" stroke-dasharray="4 3" fill="none"/>
-          <!-- Roma marker -->
-          <circle cx="150" cy="95" r="8" fill="#1a4a7a" opacity="0.7"/>
-          <text x="165" y="100" font-family="Inter,sans-serif" font-size="13" font-weight="700" fill="#0f2b4a">Roma</text>
-          <!-- Fiumicino marker -->
-          <circle cx="110" cy="110" r="4" fill="#6c757d"/>
-          <text x="70" y="106" font-family="Inter,sans-serif" font-size="9" fill="#6c757d">FCO</text>
-          <text x="60" y="118" font-family="Inter,sans-serif" font-size="8" fill="#adb5bd">80 km</text>
-          <!-- LATINA SCALO marker (main) -->
-          <circle cx="138" cy="200" r="12" fill="#e67e22" opacity="0.2"/>
-          <circle cx="138" cy="200" r="7" fill="#e67e22"/>
-          <circle cx="138" cy="200" r="3" fill="#fff"/>
-          <text x="155" y="195" font-family="Inter,sans-serif" font-size="11" font-weight="800" fill="#e67e22">LATINA</text>
-          <text x="155" y="208" font-family="Inter,sans-serif" font-size="11" font-weight="800" fill="#e67e22">SCALO</text>
-          <!-- Gaeta/Porto marker -->
-          <circle cx="200" cy="260" r="4" fill="#6c757d"/>
-          <text x="210" y="255" font-family="Inter,sans-serif" font-size="9" fill="#6c757d">Porto di Gaeta</text>
-          <text x="210" y="267" font-family="Inter,sans-serif" font-size="8" fill="#adb5bd">40 km</text>
-          <!-- Distance line Roma-Latina -->
-          <line x1="150" y1="103" x2="140" y2="192" stroke="#e67e22" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
-          <text x="120" y="150" font-family="Inter,sans-serif" font-size="8" fill="#e67e22" font-weight="600">60 km</text>
-          <!-- Napoli direction arrow -->
-          <path d="M138,215 L130,270 L125,300" stroke="#adb5bd" stroke-width="1.5" stroke-dasharray="4 3" fill="none"/>
-          <text x="80" y="295" font-family="Inter,sans-serif" font-size="9" fill="#6c757d">Napoli 150 km</text>
-          <!-- Legend: SS148 -->
-          <text x="105" y="165" font-family="Inter,sans-serif" font-size="8" fill="#adb5bd" transform="rotate(-80 105 165)">SS148 Pontina</text>
+        <svg viewBox="0 0 440 280" xmlns="http://www.w3.org/2000/svg" style="width: 100%; max-height: 220px;">
+          <!-- Coastline silhouette (Lazio-Campania, simplified) -->
+          <path d="M5,60 C20,55 40,50 62,58 L80,65 C90,68 95,72 100,80 L108,95
+                   C110,100 112,110 108,120 L100,138 C95,148 88,155 82,162
+                   L75,170 C70,178 68,185 72,195 L80,210 C85,218 92,225 100,230
+                   L115,238 C125,242 135,248 148,255 L165,262 C178,268 195,275 215,278
+                   L240,278 C260,275 280,268 300,260 L320,250 C340,238 360,225 380,210
+                   L400,192 C415,178 430,160 440,140"
+                stroke="#d0d7de" stroke-width="1.5" fill="none" opacity="0.6"/>
+          <!-- Sea fill hint -->
+          <path d="M5,60 C20,55 40,50 62,58 L80,65 C90,68 95,72 100,80 L108,95
+                   C110,100 112,110 108,120 L100,138 C95,148 88,155 82,162
+                   L75,170 C70,178 68,185 72,195 L80,210 C85,218 92,225 100,230
+                   L115,238 C125,242 135,248 148,255 L165,262 C178,268 195,275 215,278
+                   L240,278 C260,275 280,268 300,260 L320,250 C340,238 360,225 380,210
+                   L400,192 C415,178 430,160 440,140
+                   L440,280 L5,280 Z"
+                fill="#e8f0fe" opacity="0.25"/>
+
+          <!-- Autostrada A1 (Roma-Napoli, inland curve) -->
+          <path d="M135,42 C150,65 170,100 195,130 C215,155 250,185 300,210 L370,245"
+                stroke="#c9d1d9" stroke-width="2.5" fill="none" opacity="0.4"/>
+          <text x="230" y="155" font-family="Inter,sans-serif" font-size="7.5" fill="#adb5bd" transform="rotate(38 230 155)" opacity="0.7">A1</text>
+
+          <!-- SS148 Pontina (Roma-Latina, straighter) -->
+          <path d="M120,48 L140,82 L155,115 L162,148"
+                stroke="#8b949e" stroke-width="2" stroke-dasharray="6 4" fill="none" opacity="0.5"/>
+          <text x="118" y="98" font-family="Inter,sans-serif" font-size="7" fill="#8b949e" transform="rotate(65 118 98)">SS148</text>
+
+          <!-- Roma -->
+          <circle cx="130" cy="38" r="10" fill="#1a4a7a" opacity="0.12"/>
+          <circle cx="130" cy="38" r="5.5" fill="#1a4a7a"/>
+          <text x="143" y="35" font-family="Inter,sans-serif" font-size="13" font-weight="700" fill="#0f2b4a">Roma</text>
+          <text x="143" y="48" font-family="Inter,sans-serif" font-size="8" fill="#6c757d">GRA</text>
+
+          <!-- Fiumicino FCO -->
+          <circle cx="80" cy="52" r="3.5" fill="#6c757d"/>
+          <text x="52" y="46" font-family="Inter,sans-serif" font-size="8.5" fill="#6c757d" font-weight="600">FCO</text>
+          <text x="38" y="56" font-family="Inter,sans-serif" font-size="7" fill="#adb5bd">Fiumicino</text>
+
+          <!-- ★ LATINA SCALO — main marker -->
+          <circle cx="165" cy="152" r="16" fill="#e67e22" opacity="0.12"/>
+          <circle cx="165" cy="152" r="9" fill="#e67e22"/>
+          <circle cx="165" cy="152" r="4" fill="#fff"/>
+          <text x="180" y="147" font-family="Inter,sans-serif" font-size="12" font-weight="800" fill="#e67e22">LATINA</text>
+          <text x="180" y="161" font-family="Inter,sans-serif" font-size="12" font-weight="800" fill="#e67e22">SCALO</text>
+
+          <!-- Gaeta / Porto -->
+          <circle cx="255" cy="218" r="4" fill="#6c757d"/>
+          <text x="264" y="213" font-family="Inter,sans-serif" font-size="9" fill="#6c757d" font-weight="600">Gaeta</text>
+          <text x="264" y="224" font-family="Inter,sans-serif" font-size="7.5" fill="#adb5bd">Porto</text>
+
+          <!-- Napoli -->
+          <circle cx="375" cy="248" r="7" fill="#1a4a7a" opacity="0.10"/>
+          <circle cx="375" cy="248" r="4.5" fill="#6c757d"/>
+          <text x="386" y="244" font-family="Inter,sans-serif" font-size="11" font-weight="600" fill="#6c757d">Napoli</text>
+
+          <!-- Distance line: Roma → Latina Scalo -->
+          <line x1="132" y1="48" x2="163" y2="143" stroke="#e67e22" stroke-width="1.2" stroke-dasharray="4 3" opacity="0.6"/>
+          <rect x="120" y="85" width="40" height="16" rx="3" fill="#fff" stroke="#e67e22" stroke-width="0.8" opacity="0.9"/>
+          <text x="140" y="96" font-family="Inter,sans-serif" font-size="8.5" fill="#e67e22" font-weight="700" text-anchor="middle">60 km</text>
+
+          <!-- Distance line: Latina Scalo → Gaeta -->
+          <line x1="172" y1="160" x2="251" y2="215" stroke="#6c757d" stroke-width="1" stroke-dasharray="3 3" opacity="0.4"/>
+          <rect x="192" y="178" width="38" height="15" rx="3" fill="#fff" stroke="#6c757d" stroke-width="0.8" opacity="0.9"/>
+          <text x="211" y="189" font-family="Inter,sans-serif" font-size="8" fill="#6c757d" font-weight="600" text-anchor="middle">40 km</text>
+
+          <!-- Distance line: Fiumicino → Latina Scalo -->
+          <line x1="83" y1="55" x2="158" y2="147" stroke="#6c757d" stroke-width="1" stroke-dasharray="3 3" opacity="0.3"/>
+          <rect x="96" y="92" width="38" height="15" rx="3" fill="#fff" stroke="#6c757d" stroke-width="0.8" opacity="0.9"/>
+          <text x="115" y="103" font-family="Inter,sans-serif" font-size="8" fill="#6c757d" font-weight="600" text-anchor="middle">80 km</text>
+
+          <!-- Distance line: Latina Scalo → Napoli -->
+          <line x1="174" y1="157" x2="370" y2="246" stroke="#6c757d" stroke-width="1" stroke-dasharray="4 3" opacity="0.3"/>
+          <rect x="252" y="192" width="42" height="15" rx="3" fill="#fff" stroke="#6c757d" stroke-width="0.8" opacity="0.9"/>
+          <text x="273" y="203" font-family="Inter,sans-serif" font-size="8" fill="#6c757d" font-weight="600" text-anchor="middle">150 km</text>
+
+          <!-- Frosinone (interporto) -->
+          <circle cx="225" cy="120" r="3" fill="#adb5bd"/>
+          <text x="234" y="118" font-family="Inter,sans-serif" font-size="7.5" fill="#adb5bd">Frosinone</text>
+          <text x="234" y="128" font-family="Inter,sans-serif" font-size="6.5" fill="#c9d1d9">Interporto</text>
         </svg>
       </div>
       <!-- Info cards stacked -->

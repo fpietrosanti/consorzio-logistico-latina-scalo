@@ -665,6 +665,16 @@ ul { list-style: none; }
   width: 30px;
   height: 30px;
 }
+.btn-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+.whatsapp-icon-btn {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
 .whatsapp-fab:hover {
   transform: scale(1.1);
   box-shadow: 0 6px 24px rgba(0,0,0,0.3);

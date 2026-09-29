@@ -5,12 +5,17 @@ theme = 'clls'
 enableRobotsTXT = true
 disableKinds = ['taxonomy', 'term']
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [sitemap]
   changefreq = 'monthly'
   priority = 0.5
 
 [params]
-  description = "Hub logistico strategico nel cuore del Lazio — sviluppo e valorizzazione del territorio"
+  description = "Hub logistico B2B a Latina Scalo — 19.000 mq coperti, 25.000 mq scoperti. Stoccaggio, handling, trasporto e logistica 3PL integrata nel cuore del Lazio."
   email = "info@consorziologistico.it"
   telefono = "+39 0773 316008"
   pec = "consorziologisticolatinascalo@pec.it"

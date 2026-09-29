@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="section visible" style="padding-top: 6rem;">
+  <div class="container">
+    <div class="service-page-header">
+      <a href="{{ "servizi/" | relURL }}" class="breadcrumb-link">&larr; Tutti i servizi</a>
+      <span class="section-label">Servizi</span>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="section-intro">{{ . }}</p>{{ end }}
+    </div>
+    <div class="service-page-content">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}

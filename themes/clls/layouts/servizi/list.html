@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="section visible" style="padding-top: 6rem;">
+  <div class="container">
+    <span class="section-label">Cosa Offriamo</span>
+    <h1>{{ .Title }}</h1>
+    <p class="section-intro">{{ .Description }}</p>
+    <div class="services-grid">
+      {{ range .Pages.ByWeight }}
+      <a href="{{ .RelPermalink }}" class="service-card service-card-link">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Description }}</p>
+        <span class="card-arrow">&rarr;</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

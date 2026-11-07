@@ -1,6 +1,6 @@
 ---
 title: "Cisterna-Valmontone, oibreacha tosaithe: an t-athrú d'iompar earraí"
-description: "Bóthar ceangail Cisterna-Valmontone á thógáil ó Dheireadh Fómhair 2026, an Pontina faoi ANAS, Roma-Latina ar tairiscint: staid na n-oibreacha agus an tionchar ar lastas."
+description: "Cisterna-Valmontone á thógáil ó Dheireadh Fómhair 2026, an Pontina faoi ANAS, Roma-Latina ar tairiscint: staid na n-oibreacha agus an tionchar ar lastas."
 date: 2026-10-27
 url: "/ga/anailisi/bothar-ceangail-cisterna-valmontone-pontina/"
 layout: "articolo"

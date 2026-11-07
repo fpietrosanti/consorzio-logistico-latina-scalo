@@ -1,8 +1,8 @@
 ---
 title: "Costas an spáis pailléid: conas táille stórála a ríomh"
-description: "Spás pailléid in aghaidh na míosa, méadar cearnach, láimhseáil isteach agus amach, stoc meánach, ráta láimhdeachais agus árachas: comhpháirteanna táille stórála."
+description: "Spás pailléid sa mhí, méadar cearnach, láimhseáil isteach agus amach, stoc meánach, ráta láimhdeachais agus árachas: comhpháirteanna táille stórála."
 date: 2026-09-08
-url: "/ga/anailisi/costas-spas-pailleid-rionn/"
+url: "/ga/anailisi/costas-spas-pailleid-riomh/"
 layout: "articolo"
 image: "topics/pallet"
 imageAlt: "Pailléid adhmaid cruachta i stóras, grianghraf cartlainne"

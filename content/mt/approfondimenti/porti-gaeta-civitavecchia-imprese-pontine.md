@@ -1,6 +1,6 @@
 ---
 title: "Gaeta, Civitavecchia, Napli u Salerno: il-portijiet tal-impriżi Pontini"
-description: "Traffiku tal-2025 ta' Gaeta u Civitavecchia, kontejners ta' Salerno u Napli, distanzi minn Latina: liema portijiet jużaw l-impriżi tal-provinċja u għal liema merkanzija."
+description: "Traffiku 2025 ta' Gaeta u Civitavecchia, kontejners ta' Salerno u Napli, distanzi minn Latina: liema portijiet jużaw l-impriżi Pontini u għal liema merkanzija."
 date: 2026-11-04
 url: "/mt/analizi/portijiet-gaeta-civitavecchia-imprizi-pontini/"
 layout: "articolo"

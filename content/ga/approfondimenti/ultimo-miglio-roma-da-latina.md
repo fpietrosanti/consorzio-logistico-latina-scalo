@@ -1,6 +1,6 @@
 ---
 title: "An míle deiridh go Deisceart na Róimhe ó Latina: amanna bóthair, ZTL agus sliotáin"
-description: "Freastal ar Dheisceart na Róimhe ó stóras lasmuigh den GRA: faid go EUR, Ostiense, Magliana, Tor Vergata, rialacha ZTL d'fheithiclí earraí agus sliotáin seachadta."
+description: "Deisceart na Róimhe ó stóras lasmuigh den GRA: faid go EUR, Ostiense, Magliana, Tor Vergata, rialacha ZTL d'fheithiclí earraí agus sliotáin seachadta."
 date: 2026-10-12
 url: "/ga/anailisi/mile-deiridh-an-roimh-o-latina/"
 layout: "articolo"

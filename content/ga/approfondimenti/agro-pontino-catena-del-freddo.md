@@ -1,6 +1,6 @@
 ---
 title: "Agro Pontino, ciobhaí agus torthaí agus glasraí: lóistíocht an tslabhra fhuair"
-description: "Kiwi Latina IGP ar 5,446 heicteár, meath ciobhaí €215 milliún, glasraí réamhullmhaithe, onnmhairí agraibhia: an slabhra Pontino, fuarstórais agus iompar cuisnithe."
+description: "Kiwi Latina IGP ar 5,446 heicteár, meath ciobhaí €215 milliún, glasraí réamhullmhaithe, onnmhairí: an slabhra Pontino, fuarstórais agus iompar cuisnithe."
 date: 2026-10-31
 url: "/ga/anailisi/agro-pontino-slabhra-fuar/"
 layout: "articolo"

@@ -21,8 +21,8 @@ Lavoro autonomo fino alla fine.
 - [x] B  Ristrutturazione Hugo multilingua (content/it, i18n, layout geo/blog, hreflang, schema.org, selettore lingua)
 - [x] C  Contenuti IT: settori (8), blog (12+), hub geografici, FAQ, profili comuni
 - [x] D  Generatore pagine comuni (tools/gen_places.py) per tutte le lingue
-- [ ] E  Traduzioni: 23 lingue UE + zh (un agente per lingua)
-- [ ] F  Build, verifica, commit, push, verifica live
+- [x] E  Traduzioni: 23 lingue UE + zh (un agente per lingua)
+- [x] F  Build, verifica, commit, push, verifica live
 - [ ] G  LinkedIn: W1–W5 pubblicati il 2026-11-07; programmare W6+ con lo scheduler nativo
 
 ## Traduzioni (fase E) — coda
@@ -42,3 +42,14 @@ Dopo ogni lingua completa: `python tools/gen_places.py <lang>` (stub comuni + cr
 
 ## Log
 - 2026-11-07: LinkedIn W1–W5 pubblicati sulla Company Page.
+
+## Stato al 2026-11-07 (sera)
+- Sito online in 25 lingue (3.800 URL in sitemap, tutte 200). Deploy: timeout Pages 30 min + retry.
+- IndexNow: 3.801 URL inviate (indexnow.org, Bing, Yandex) — chiave in tools/indexnow.key; ripetere dopo grandi aggiornamenti.
+- Google Search Console: DA FARE da Fabio (login Google; estensione Chrome senza accesso al dominio).
+- Campagna prompt AI: task pianificato `clls-ai-prompt-campaign` (10:17 e 16:17), registro marketing/ai-campaign-log.csv (100 run).
+- LinkedIn: task `clls-linkedin-scheduler` (lunedì 08:30) da marketing/linkedin-calendar.csv; merge con tools/merge_linkedin_calendar.py.
+  Post ga/mt/lv/et in stato "review" (rilettura madrelingua). W6 (11/11) e W7 (18/11) programmati a mano.
+- LinkedIn pagina multilingua: testi in marketing/linkedin-intl/page-info.json; da inserire nelle 14 lingue supportate
+  (cs, da, de, el, es, fi, fr, hu, nl, pl, pt, ro, sv, zh_CN) dalla scheda Edit page > Languages.
+- Directory: docs/directories/registro-directory.csv (365) + ROADMAP.md; servono foto vere, email dedicata, decisioni di spesa.

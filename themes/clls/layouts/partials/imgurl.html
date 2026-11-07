@@ -1,0 +1,2 @@
+{{- /* ctx: image key like "places/latina"; returns absolute URL or "" */ -}}
+{{- $k := . -}}{{- if and $k (index hugo.Data.images $k) -}}{{ printf "img/%s.webp" $k | absURL }}{{- end -}}

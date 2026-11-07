@@ -1,106 +1,75 @@
 ---
-title: "Logistica 3PL Integrata"
-description: "Servizi di logistica 3PL a Latina Scalo: un unico interlocutore per stoccaggio, handling, trasporto e documentazione. Costi variabili, scalabilità totale."
+linkTitle: "Logistica 3PL"
+title: "Logistica conto terzi (3PL) a Latina Scalo"
+description: "Logistica conto terzi (3PL) a Latina Scalo (LT): stoccaggio, movimentazione, trasporto e gestione documentale affidati a un unico interlocutore."
+url: "/servizi/logistica-3pl/"
 layout: "servizio"
 weight: 4
+image: "topics/corsia-magazzino"
+imageAlt: "Corsia di un magazzino logistico con scaffalature porta-pallet su più livelli, foto di repertorio"
+faq:
+  - q: "Che cosa comprende il servizio di logistica 3PL del Consorzio Logistico Latina Scalo?"
+    a: "Il servizio di logistica conto terzi (3PL) del Consorzio Logistico Latina Scalo comprende stoccaggio, movimentazione, lavorazioni a valore aggiunto, trasporto su gomma con flotta dedicata e gestione documentale. Il committente affida l'intera catena a un unico interlocutore, nel polo di Via della Dinamica a Latina Scalo (LT)."
+  - q: "Chi è il Consorzio Logistico Latina Scalo?"
+    a: "Il Consorzio Logistico Latina Scalo è un consorzio di cinque aziende con oltre 50 anni di esperienza complessiva nella logistica. Opera in Via della Dinamica, zona Tor Tre Ponti, a Latina Scalo (LT), con 19.000 metri quadrati coperti e 25.000 metri quadrati scoperti."
+  - q: "Quali vantaggi ha l'esternalizzazione della logistica a Latina Scalo?"
+    a: "Affidando la logistica al Consorzio Logistico Latina Scalo il committente non investe in un proprio magazzino, nei mezzi o nel software di gestione: utilizza le superfici, il WMS e la flotta del Consorzio e paga in base ai servizi effettivamente resi, secondo le condizioni del contratto."
+  - q: "Come si avvia un contratto di logistica conto terzi con il Consorzio Logistico Latina Scalo?"
+    a: "L'avvio di un contratto 3PL con il Consorzio Logistico Latina Scalo parte dall'analisi dei dati del committente: anagrafica articoli, ordini medi e di picco, destinazioni e vettori. Seguono la definizione degli spazi, delle procedure operative e dei flussi informativi tra il gestionale del committente e il WMS."
+  - q: "Quali informazioni servono per un preventivo 3PL a Latina Scalo?"
+    a: "Per un preventivo di logistica conto terzi il Consorzio Logistico Latina Scalo chiede tipologia di merce, giacenza media in pallet o metri quadrati, numero di ordini e righe d'ordine, destinazioni delle consegne, servizi accessori richiesti e sistema gestionale in uso presso il committente."
 ---
 
-## Un unico interlocutore per tutta la logistica
+## Un unico interlocutore per la catena logistica
 
-Il Consorzio Logistico Latina Scalo offre un servizio di **logistica conto terzi (3PL) completamente integrato**: stoccaggio, movimentazione, trasporto e gestione documentale, affidati a un solo partner. Eliminiamo la complessità di coordinare più fornitori, riducendo i costi operativi e migliorando il livello di servizio.
+Il Consorzio Logistico Latina Scalo offre servizi di logistica conto terzi (3PL, third-party logistics) dal polo di Via della Dinamica, zona Tor Tre Ponti, a Latina Scalo (LT). Il committente affida a un unico interlocutore lo [stoccaggio]({{< relref "/servizi/stoccaggio" >}}), la [movimentazione]({{< relref "/servizi/handling" >}}), le [lavorazioni a valore aggiunto]({{< relref "/servizi/lavorazioni-valore-aggiunto" >}}), il [trasporto]({{< relref "/servizi/trasporto" >}}) e la [gestione documentale]({{< relref "/servizi/gestione-documentale" >}}).
 
-La nostra proposta 3PL è pensata per le aziende che vogliono concentrarsi sul proprio core business, delegando l'intera catena logistica a un operatore specializzato, radicato nel territorio e dotato di infrastrutture proprie.
+Il Consorzio riunisce cinque aziende con oltre 50 anni di esperienza complessiva. Il polo comprende 19.000 metri quadrati coperti, in capannoni modulari da 500 a 3.000 metri quadrati con altezza utile fino a 10 metri, e 25.000 metri quadrati scoperti.
 
----
+## Che cosa si esternalizza
 
-## Cosa include il servizio 3PL
+Con l'esternalizzazione (outsourcing) della logistica il committente trasferisce all'operatore le attività fisiche e informative che seguono la produzione o l'acquisto della merce:
 
-### Stoccaggio
+- **ricevimento e stoccaggio** a scaffale, a terra, in aree a temperatura controllata o su [piazzale scoperto]({{< relref "/servizi/piazzali-scoperti" >}});
+- **preparazione degli ordini**, con prelievo (picking), packing, etichettatura e pallettizzazione;
+- **lavorazioni su richiesta**, come composizione di kit e riconfezionamento;
+- **spedizione**, con la flotta dedicata del Consorzio o con vettori indicati dal committente;
+- **documenti e dati**: documenti di trasporto (DDT), tracciabilità dei movimenti e scambio di informazioni con il gestionale del committente.
 
-- **19.000 mq coperti** e **25.000 mq scoperti** a disposizione
-- Scaffalature multi-livello, stoccaggio a terra, aree a temperatura controllata
-- WMS con accesso al cliente per consultazione giacenze in tempo reale
+Il committente mantiene il controllo commerciale, cioè ordini, listini e rapporti con i clienti, mentre il Consorzio esegue le operazioni secondo procedure scritte e concordate.
 
-### Handling
+## Il modello economico
 
-- Ricevimento merce con controllo qualità
-- Picking singolo e multi-ordine
-- Packing, etichettatura, kitting
-- Cross-docking per transiti rapidi
+Nel modello 3PL il committente non investe in un proprio magazzino, nei mezzi di trasporto o nel software di gestione. Le tariffe sono calcolate per posto pallet o per metro quadrato di stoccaggio, per movimento in ingresso e in uscita, per riga d'ordine o per spedizione, in base alla combinazione di servizi scelta. Il costo della logistica segue così i volumi effettivi, entro le condizioni minime fissate dal contratto.
 
-### Trasporto
+## Le fasi del rapporto
 
-- Distribuzione regionale same-day (Lazio)
-- Copertura nazionale 48h
-- Spedizioni internazionali via rete partner
-- Gestione ultimo miglio
+### Analisi dei flussi
 
-### Gestione documentale
+Il lavoro parte dai dati storici del committente: anagrafica degli articoli con dimensioni, pesi e unità di imballo; giacenza media e di picco; numero di ordini e di righe d'ordine; destinazioni e vettori utilizzati. Da questi dati si ricavano la superficie necessaria, il tipo di stoccaggio e l'organizzazione delle aree di prelievo.
 
-- Emissione e archiviazione DDT
-- Bolle di consegna e packing list
-- CMR per trasporti internazionali
-- Reportistica periodica su movimentazioni, giacenze e KPI
+### Progetto operativo
 
----
+Sulla base dell'analisi il Consorzio definisce gli spazi assegnati, in magazzino multicliente o in un capannone dedicato, gli orari di ricevimento e spedizione, le regole di allocazione e prelievo e le procedure per anomalie, resi e inventari.
 
-## I vantaggi del modello 3PL
+### Integrazione dei sistemi
 
-### Costi variabili vs costi fissi
+Le anagrafiche, gli avvisi di arrivo e gli ordini del committente vengono trasmessi al WMS (software di gestione del magazzino) del Consorzio; in senso inverso il WMS restituisce conferme di ricevimento, giacenze e spedizioni eseguite. Formato e frequenza degli scambi si concordano in fase di avvio.
 
-Con il modello 3PL, la logistica diventa un **costo variabile** proporzionale ai volumi effettivi. Non servono investimenti in magazzini, personale, mezzi e tecnologia: si paga solo per ciò che si utilizza.
+### Avvio e gestione corrente
 
-- Nessun costo di affitto immobiliare
-- Nessun investimento in attrezzature
-- Personale operativo incluso nel servizio
-- WMS e tecnologia inclusi
+Il trasferimento della merce nel polo avviene secondo un calendario concordato, con conta e riconciliazione delle giacenze al ricevimento. Nella fase corrente il committente ha un referente unico per tutte le attività; volumi, anomalie e livelli di servizio sono esaminati con riunioni periodiche.
 
-### Scalabilità
+## Dotazioni del polo
 
-Il nostro polo logistico consente di **scalare rapidamente** in base alle esigenze del mercato:
+Le attività si appoggiano su baie di carico e scarico coperte, piazzali per la manovra di autoarticolati, aree di sosta per i veicoli, scaffalature industriali e aree a temperatura controllata. Il sito dispone di videosorveglianza perimetrale, controllo accessi, impianti antincendio e antintrusione, fibra ottica dedicata e Wi-Fi industriale. Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7.
 
-- **Picchi stagionali**: raddoppio della capacità operativa in pochi giorni
-- **Lancio nuovi prodotti**: spazio e risorse aggiuntive senza preavviso
-- **Riduzione volumi**: nessun vincolo su spazi o personale in eccesso
-- **Crescita graduale**: da pochi pallet al capannone intero, senza interruzioni
+## Per chi è indicato
 
-### Un unico interlocutore
+La logistica conto terzi a Latina Scalo è indicata per imprese che non dispongono di un magazzino proprio nel Lazio meridionale, per aziende che devono gestire picchi stagionali senza ampliare il proprio stabilimento e per produttori che vogliono separare la logistica dall'area produttiva. Le filiere servite comprendono [agroalimentare]({{< relref "/settori/agroalimentare" >}}), [farmaceutico]({{< relref "/settori/farmaceutico" >}}), [automotive]({{< relref "/settori/automotive" >}}), [e-commerce]({{< relref "/settori/ecommerce" >}}), [edilizia]({{< relref "/settori/edilizia" >}}), [tessile e moda]({{< relref "/settori/tessile-moda" >}}), [GDO e retail]({{< relref "/settori/gdo-retail" >}}) e [manifatturiero]({{< relref "/settori/manifatturiero" >}}).
 
-Un solo contratto, un solo referente, una sola fattura. Il vostro account manager dedicato coordina tutte le attività logistiche:
+Il polo si trova a circa 8,4 km su strada da [Latina]({{< relref "/logistica/latina" >}}), 33,5 km da [Aprilia]({{< relref "/logistica/aprilia" >}}), 49,8 km da [Pomezia]({{< relref "/logistica/pomezia" >}}) e 70,4 km da [Roma EUR]({{< relref "/logistica/eur" >}}). Per le imprese del sud pontino, [Terracina]({{< relref "/logistica/terracina" >}}) dista circa 38,2 km e [Fondi]({{< relref "/logistica/fondi" >}}) circa 56,3 km. Il quadro territoriale è descritto nelle pagine dedicate alla [provincia di Latina]({{< relref "/logistica/provincia-di-latina" >}}), a [Roma Sud]({{< relref "/logistica/roma-sud" >}}) e a [Roma]({{< relref "/logistica/roma" >}}).
 
-- **Onboarding strutturato**: analisi dei flussi, configurazione WMS, test operativi
-- **Referente dedicato**: un unico punto di contatto per ogni esigenza
-- **SLA personalizzati**: tempi di lavorazione e consegna concordati contrattualmente
-- **Review periodiche**: incontri mensili per analisi performance e ottimizzazione
+## Per un preventivo
 
----
-
-## Servizi a valore aggiunto
-
-Oltre alla logistica di base, offriamo attività complementari che creano valore per il cliente:
-
-- **Co-packing**: confezionamento conto terzi, assemblaggio kit, preparazione espositori
-- **Re-labeling**: sostituzione etichette per diversi mercati o canali di vendita
-- **Controllo qualità**: ispezione visiva, pesatura, test funzionali su campione
-- **Gestione resi**: ricezione, verifica, ricondizionamento e reinserimento a stock
-- **Reportistica avanzata**: dashboard personalizzate, KPI logistici, analisi dei costi
-
----
-
-## A chi ci rivolgiamo
-
-Il servizio 3PL è ideale per:
-
-- **PMI** che non possono permettersi una logistica interna strutturata
-- **E-commerce** in crescita che necessitano di un partner fulfillment affidabile
-- **Aziende in espansione** che cercano flessibilità senza investimenti fissi
-- **Imprese con distribuzione nazionale** che necessitano di un hub nel Centro Italia
-- **Multinazionali** che cercano un deposito regionale nel Lazio
-
----
-
-<div class="cta-box" style="margin-top: 3rem; padding: 2rem; background: var(--primary-900); border-radius: 12px; text-align: center;">
-  <h3 style="color: #fff; margin-bottom: 0.5rem;">Parliamo del tuo progetto</h3>
-  <p style="color: rgba(255,255,255,0.8); margin-bottom: 1.5rem;">Ogni esigenza logistica è unica. Raccontaci la tua.</p>
-  <a href="https://wa.me/390773316008?text=Ciao%2C%20vorrei%20informazioni%20sui%20vostri%20servizi%20logistici." target="_blank" rel="noopener" class="btn btn-outline btn-whatsapp" style="border-color: #fff; color: #fff;">Scrivici su WhatsApp</a>
-</div>
+Per un preventivo di logistica conto terzi indicare tipologia di merce, giacenza media e di picco in pallet o metri quadrati, numero di ordini e righe d'ordine al mese, destinazioni principali delle consegne, servizi accessori richiesti, sistema gestionale in uso e data prevista di avvio. Le richieste si inviano tramite il [modulo di contatto]({{< relref "/" >}}#contatti).

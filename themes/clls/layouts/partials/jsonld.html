@@ -1,0 +1,56 @@
+{{- $orgid := printf "%s#org" ("" | absURL) -}}
+{{- $org := dict
+  "@type" "LocalBusiness"
+  "@id" $orgid
+  "name" "Consorzio Logistico Latina Scalo"
+  "url" ("" | absLangURL)
+  "logo" ("apple-touch-icon.png" | absURL)
+  "image" ("img/og-image.png" | absURL)
+  "telephone" site.Params.telefonoE164
+  "email" site.Params.email
+  "description" (i18n "home_description")
+  "address" (dict "@type" "PostalAddress" "streetAddress" site.Params.via "addressLocality" site.Params.citta "postalCode" site.Params.cap "addressRegion" site.Params.provincia "addressCountry" "IT")
+  "geo" (dict "@type" "GeoCoordinates" "latitude" site.Params.lat "longitude" site.Params.lon)
+  "hasMap" "https://www.openstreetmap.org/?mlat=41.51006&mlon=12.95076#map=15/41.51006/12.95076"
+  "sameAs" (slice site.Params.linkedin)
+  "knowsAbout" (slice "logistica conto terzi" "stoccaggio merci" "magazzino" "cross-docking" "trasporto merci su gomma" "logistica 3PL")
+-}}
+{{- $graph := slice $org -}}
+{{- $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" ("" | absLangURL)) "url" ("" | absLangURL) "name" "Consorzio Logistico Latina Scalo" "inLanguage" site.Language.Locale "publisher" (dict "@id" $orgid)) -}}
+{{- if .IsHome -}}
+  {{- $areas := slice -}}
+  {{- range hugo.Data.places }}{{ if eq .kind "comune" }}{{ $areas = $areas | append (dict "@type" "City" "name" .name) }}{{ end }}{{ end -}}
+  {{- $graph = $graph | append (dict "@type" "Service" "serviceType" "Logistica conto terzi" "provider" (dict "@id" $orgid) "areaServed" $areas) -}}
+{{- else -}}
+  {{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" (i18n "nav_home") "item" ("" | absLangURL)) -}}
+  {{- $pos := 2 -}}
+  {{- with .Parent }}{{ if not .IsHome }}{{ $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" .LinkTitle "item" .Permalink) }}{{ $pos = add $pos 1 }}{{ end }}{{ end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" .LinkTitle "item" .Permalink) -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" $crumbs) -}}
+  {{- $img := partial "imgurl.html" .Params.image -}}
+  {{- if eq .Params.layout "articolo" -}}
+    {{- $a := dict "@type" "Article" "headline" .Title "description" (partial "pagedesc.html" .) "datePublished" (.Date.Format "2006-01-02") "dateModified" (.Lastmod.Format "2006-01-02") "inLanguage" site.Language.Locale "mainEntityOfPage" .Permalink "author" (dict "@id" $orgid) "publisher" (dict "@id" $orgid) -}}
+    {{- with $img }}{{ $a = merge $a (dict "image" .) }}{{ end -}}
+    {{- $graph = $graph | append $a -}}
+  {{- end -}}
+  {{- if or (eq .Params.layout "servizio") (eq .Params.layout "settore") -}}
+    {{- $graph = $graph | append (dict "@type" "Service" "name" .Title "description" (partial "pagedesc.html" .) "provider" (dict "@id" $orgid) "areaServed" (slice (dict "@type" "AdministrativeArea" "name" "Provincia di Latina") (dict "@type" "AdministrativeArea" "name" "Città metropolitana di Roma Capitale"))) -}}
+  {{- end -}}
+  {{- with .Params.place -}}
+    {{- $p := index (where hugo.Data.places "slug" .) 0 -}}
+    {{- $city := dict "@type" (cond (eq $p.kind "comune") "City" "Place") "name" $p.name "geo" (dict "@type" "GeoCoordinates" "latitude" $p.lat "longitude" $p.lon) -}}
+    {{- with $p.wikidata }}{{ $city = merge $city (dict "sameAs" (printf "https://www.wikidata.org/wiki/%s" .)) }}{{ end -}}
+    {{- $graph = $graph | append (dict "@type" "Service" "name" $.Title "serviceType" "Logistica conto terzi" "description" (partial "pagedesc.html" $) "provider" (dict "@id" $orgid) "areaServed" $city) -}}
+  {{- end -}}
+  {{- $faq := .Params.faq -}}
+  {{- with .Params.place -}}
+    {{- $p := index (where hugo.Data.places "slug" .) 0 -}}
+    {{- $faq = partial "placefaq.html" (dict "p" $p) -}}
+  {{- end -}}
+  {{- with $faq -}}
+    {{- $qs := slice -}}
+    {{- range . }}{{ $qs = $qs | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify))) }}{{ end -}}
+    {{- $graph = $graph | append (dict "@type" "FAQPage" "mainEntity" $qs) -}}
+  {{- end -}}
+{{- end -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

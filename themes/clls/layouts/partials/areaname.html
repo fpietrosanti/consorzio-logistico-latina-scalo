@@ -1,0 +1,1 @@
+{{- with .Params.subarea }}{{ i18n (printf "sub_%s" .) }}{{ else }}{{ with $.Params.area }}{{ i18n (printf "area_%s" .) }}{{ else }}{{ $.LinkTitle }}{{ end }}{{ end -}}

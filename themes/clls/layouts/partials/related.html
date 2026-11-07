@@ -1,0 +1,11 @@
+{{- $sib := slice -}}
+{{- with .Parent }}{{ if not .IsHome }}{{ $sib = .Pages }}{{ end }}{{ end -}}
+{{- $sib = where $sib "Permalink" "ne" .Permalink -}}
+{{- with first 6 $sib }}
+<section class="related">
+  <h2>{{ with $.Parent }}{{ .LinkTitle }}{{ end }}</h2>
+  <ul class="card-list">
+    {{ range . }}<li><a href="{{ .RelPermalink }}"><strong>{{ .LinkTitle }}</strong>{{ with .Description }}<span>{{ . | truncate 120 }}</span>{{ end }}</a></li>{{ end }}
+  </ul>
+</section>
+{{- end }}

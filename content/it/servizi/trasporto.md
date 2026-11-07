@@ -1,105 +1,80 @@
 ---
-title: "Trasporto e Distribuzione"
-description: "Servizi di trasporto e distribuzione merci da Latina Scalo: consegne same-day nel Lazio, 48h in tutta Italia, gestione ultimo miglio e spedizioni internazionali."
+linkTitle: "Trasporto e distribuzione"
+title: "Trasporto merci su gomma e distribuzione da Latina Scalo"
+description: "Trasporto su gomma da Latina Scalo (LT) con flotta dedicata: distribuzione dell'ultimo miglio nel Lazio meridionale e consegne B2B su tutto il territorio."
+url: "/servizi/trasporto/"
 layout: "servizio"
 weight: 3
+image: "topics/centro-distribuzione"
+imageAlt: "Mezzi pesanti in fase di carico presso le baie di un centro di distribuzione, foto di repertorio"
+faq:
+  - q: "Il Consorzio Logistico Latina Scalo effettua trasporti con una flotta dedicata?"
+    a: "Sì. Il Consorzio Logistico Latina Scalo esegue il trasporto su gomma con una flotta dedicata, sia per la distribuzione dell'ultimo miglio sia per le consegne B2B sul territorio nazionale. Le spedizioni partono dal polo di Via della Dinamica a Latina Scalo (LT)."
+  - q: "Quali aree serve il trasporto del Consorzio Logistico Latina Scalo?"
+    a: "Il Consorzio Logistico Latina Scalo effettua consegne B2B sul territorio nazionale e distribuzione dell'ultimo miglio. Dal polo di Latina Scalo, Latina centro dista circa 8,4 km su strada, Aprilia 33,5 km, Pomezia 49,8 km, Roma EUR 70,4 km e Fondi 56,3 km."
+  - q: "Quali strade collegano il polo di Latina Scalo a Roma e all'A1?"
+    a: "Latina Scalo è raggiungibile dalla SS148 Pontina, che collega Roma a Terracina, e dalla SS7 Appia. La SS156 dei Monti Lepini collega Latina a Frosinone e all'autostrada A1. Dall'ottobre 2026 è in costruzione la bretella Cisterna–Valmontone, senza data di apertura certa."
+  - q: "Il Consorzio Logistico Latina Scalo garantisce tempi di consegna fissi?"
+    a: "Il Consorzio Logistico Latina Scalo concorda tempi e finestre di consegna con il committente in base a destinazione, tipo di carico e orari di ricevimento dei destinatari. Le distanze su strada dal polo sono misurate con calcolo di percorso; per i mezzi pesanti i tempi sono più lunghi di quelli in auto."
+  - q: "Quali dati servono per un preventivo di trasporto da Latina Scalo?"
+    a: "Per un preventivo di trasporto il Consorzio Logistico Latina Scalo chiede luoghi di ritiro e consegna, numero di pallet o colli, peso e volume, frequenza delle spedizioni, orari di consegna dei destinatari ed eventuali vincoli come la consegna senza banchina o la temperatura della merce."
 ---
 
-## Distribuzione dal cuore del Lazio
+## Trasporto su gomma con flotta dedicata
 
-Il Consorzio Logistico Latina Scalo organizza e gestisce il trasporto delle merci dal nostro hub fino alla destinazione finale, con copertura regionale, nazionale e internazionale. La nostra posizione strategica — a 60 km da Roma lungo la SS148 Pontina — ci consente di servire il Centro-Sud Italia con tempi di consegna tra i più competitivi del mercato.
+Il Consorzio Logistico Latina Scalo esegue il trasporto delle merci su gomma con una flotta dedicata, a partire dal polo di Via della Dinamica, zona Tor Tre Ponti, a Latina Scalo (LT). Il servizio comprende la distribuzione dell'ultimo miglio e le consegne B2B sul territorio nazionale, e può essere affidato da solo o insieme allo [stoccaggio]({{< relref "/servizi/stoccaggio" >}}) e alla [movimentazione]({{< relref "/servizi/handling" >}}) nello stesso sito.
 
-Ogni spedizione viene pianificata, tracciata e gestita con un unico punto di contatto, eliminando la complessità della catena distributiva per il cliente.
+Quando magazzino e trasporto sono gestiti dallo stesso operatore, l'ordine passa dalla preparazione al carico senza cambi di interlocutore: il documento di trasporto viene emesso al momento del carico e la consegna è registrata nello stesso sistema che gestisce le giacenze.
 
----
+## Collegamenti stradali del polo
 
-## I nostri servizi di trasporto
+Latina Scalo è raggiungibile dalla SS148 Pontina e dalla SS7 Appia. La Pontina, gestita da ANAS, collega Roma a Terracina per circa 109 km; tra Roma e Borgo Piave (Latina) ha due carreggiate separate a due corsie per senso di marcia, mentre verso Terracina prosegue con una corsia per senso di marcia. La SS156 dei Monti Lepini collega Latina a Frosinone e al sistema autostradale dell'A1. Dall'ottobre 2026 è in costruzione la bretella Cisterna–Valmontone, che collegherà la Pontina all'A1 all'altezza di Valmontone; non c'è una data di apertura certa.
 
-### Distribuzione regionale — same-day Lazio
+### Distanze su strada dal polo
 
-Per le consegne nel Lazio, garantiamo il servizio **same-day**: la merce ritirata al mattino viene consegnata entro la giornata in tutta la regione.
+Le distanze sono calcolate con un servizio di calcolo di percorso (OSRM) per autovettura in condizioni di traffico regolare; per i mezzi pesanti i tempi sono più lunghi.
 
-- **Roma e provincia**: consegna entro 4-6 ore dal ritiro
-- **Latina, Frosinone, Rieti, Viterbo**: consegna in giornata
-- Ideale per rifornimenti urgenti, ricambi e forniture just-in-time
+| Destinazione | km su strada | Tempo indicativo in auto |
+|---|---|---|
+| [Latina]({{< relref "/logistica/latina" >}}) centro | 8,4 | 13 min |
+| [Cisterna di Latina]({{< relref "/logistica/cisterna-di-latina" >}}) | 14,8 | 21 min |
+| [Velletri]({{< relref "/logistica/velletri" >}}) | 25,1 | 35 min |
+| [Aprilia]({{< relref "/logistica/aprilia" >}}) | 33,5 | 36 min |
+| [Terracina]({{< relref "/logistica/terracina" >}}) | 38,2 | 49 min |
+| [Valmontone]({{< relref "/logistica/valmontone" >}}) | 39,9 | 57 min |
+| [Colleferro]({{< relref "/logistica/colleferro" >}}) | 42,4 | 56 min |
+| [Pomezia]({{< relref "/logistica/pomezia" >}}) | 49,8 | 50 min |
+| [Santa Palomba]({{< relref "/logistica/santa-palomba" >}}) | 54,8 | 57 min |
+| [Fondi]({{< relref "/logistica/fondi" >}}) | 56,3 | 72 min |
+| [Roma EUR]({{< relref "/logistica/eur" >}}) | 70,4 | 70 min |
+| [Fiumicino]({{< relref "/logistica/fiumicino" >}}) | 89,5 | 86 min |
 
-### Distribuzione nazionale — 48h Italia
+## Tipologie di servizio
 
-Raggiungiamo qualsiasi destinazione sul territorio italiano entro 48 ore lavorative:
+### Distribuzione dell'ultimo miglio
 
-- **Lazio**: 24h
-- **Campania, Abruzzo, Molise**: 24h
-- **Toscana, Umbria, Marche, Puglia, Calabria**: 24-48h
-- **Nord Italia e isole**: 48h
+La distribuzione dell'ultimo miglio copre la tratta finale verso punti vendita, cantieri, officine e clienti finali. I giri di consegna sono pianificati per zona e per finestra oraria del destinatario, con l'obiettivo di ridurre i chilometri a vuoto e le soste non necessarie. Il servizio è indicato per la distribuzione nella [provincia di Latina]({{< relref "/logistica/provincia-di-latina" >}}) e nel quadrante sud di [Roma]({{< relref "/logistica/roma" >}}).
 
-### Spedizioni internazionali
+### Consegne B2B sul territorio nazionale
 
-Per le spedizioni oltre confine, ci avvaliamo di una consolidata rete di partner logistici internazionali che garantisce copertura su tutta Europa e sulle principali rotte globali:
+Per le consegne a imprese fuori regione il Consorzio organizza spedizioni a carico completo, quando il volume occupa l'intero mezzo, oppure a carico parziale. Le spedizioni sono pianificate in base a destinazione, peso, volume e orari di ricevimento indicati dal destinatario.
 
-- **Groupage europeo**: consolidamento carichi per destinazioni EU
-- **Carichi completi (FTL)**: trasporto dedicato per volumi elevati
-- **Carichi parziali (LTL)**: ottimizzazione dei costi per volumi intermedi
-- Gestione documentazione doganale e pratiche di esportazione
+### Trasporti collegati al magazzino
 
-### Consegne express
+La flotta esegue anche i trasferimenti legati al ciclo di magazzino: ritiri presso gli stabilimenti del committente, rifornimenti di punti vendita, rientro di resi e di imballi a rendere. Per i flussi che non richiedono stoccaggio il trasporto si combina con il [cross-docking]({{< relref "/servizi/cross-docking" >}}).
 
-Per le urgenze che non possono aspettare:
+## Il processo di una spedizione
 
-- **Ritiro entro 2 ore** dalla richiesta
-- **Consegna dedicata** con mezzo esclusivo
-- **Tracking in tempo reale** con notifiche al mittente e al destinatario
-- Disponibile 7 giorni su 7, festivi compresi
+1. **Ricezione dell'ordine di trasporto**, dal gestionale del committente o con documento di carico.
+2. **Pianificazione**: assegnazione del mezzo e del giro, verifica di orari e vincoli di consegna.
+3. **Carico** alle baie coperte del polo, con controllo dei colli e dei pallet rispetto al documento di trasporto (DDT).
+4. **Consegna**, con firma del destinatario sul documento e annotazione delle eventuali riserve.
+5. **Rientro dei documenti** firmati e aggiornamento dello stato della spedizione, come descritto nella scheda di [gestione documentale]({{< relref "/servizi/gestione-documentale" >}}).
 
-### Gestione ultimo miglio
+## Settori serviti
 
-Il servizio di last-mile delivery è pensato per le aziende e-commerce e per la distribuzione capillare:
+Il trasporto serve filiere con esigenze differenti: consegne a cantiere per l'[edilizia]({{< relref "/settori/edilizia" >}}), rifornimenti di punti vendita per la [GDO e il retail]({{< relref "/settori/gdo-retail" >}}), componenti per l'[automotive]({{< relref "/settori/automotive" >}}) e il [manifatturiero]({{< relref "/settori/manifatturiero" >}}), colli per l'[e-commerce]({{< relref "/settori/ecommerce" >}}). Per le aree di [Roma Sud]({{< relref "/logistica/roma-sud" >}}), come Pomezia e Santa Palomba, il polo si trova a circa 50–55 km su strada.
 
-- Consegna al piano e con preavviso telefonico
-- Gestione dei tentativi di consegna e giacenze
-- Ritiro contestuale di resi e vuoti
-- Prova di consegna digitale (POD) con firma elettronica
+## Per un preventivo
 
----
-
-## Copertura territoriale
-
-| Area geografica | Tempo di consegna |
-|---|---|
-| **Lazio** | Express / same-day |
-| **Campania, Abruzzo, Molise** | 24h |
-| **Centro Italia** (Toscana, Umbria, Marche) | 24-48h |
-| **Sud Italia** (Puglia, Calabria, Basilicata) | 24-48h |
-| **Nord Italia** | 48h |
-| **Sicilia, Sardegna** | 48-72h |
-| **Europa** | 3-5 giorni lavorativi |
-
----
-
-## Tipologie di mezzi
-
-La nostra rete di trasporto utilizza veicoli di ogni dimensione, dal furgone al bilico:
-
-- **Furgoni** (fino a 35 q.li) per consegne urbane e last-mile
-- **Motrici** (fino a 120 q.li) per carichi medi
-- **Autoarticolati** (fino a 260 q.li / 33 pallet EUR) per carichi completi
-- **Mezzi con sponda idraulica** per consegne senza rampa
-- **Mezzi refrigerati** per la catena del freddo
-
----
-
-## Tracciabilità e documentazione
-
-Ogni spedizione è tracciata in tempo reale:
-
-- Numero di tracking univoco comunicato al momento del ritiro
-- Aggiornamenti di stato via email o SMS
-- POD (Proof of Delivery) digitale disponibile entro 24h dalla consegna
-- Gestione DDT, CMR e documentazione di trasporto
-
----
-
-<div class="cta-box" style="margin-top: 3rem; padding: 2rem; background: var(--primary-900); border-radius: 12px; text-align: center;">
-  <h3 style="color: #fff; margin-bottom: 0.5rem;">Parliamo del tuo progetto</h3>
-  <p style="color: rgba(255,255,255,0.8); margin-bottom: 1.5rem;">Ogni esigenza logistica è unica. Raccontaci la tua.</p>
-  <a href="https://wa.me/390773316008?text=Ciao%2C%20vorrei%20informazioni%20sui%20vostri%20servizi%20logistici." target="_blank" rel="noopener" class="btn btn-outline btn-whatsapp" style="border-color: #fff; color: #fff;">Scrivici su WhatsApp</a>
-</div>
+Per un preventivo di trasporto indicare luoghi di ritiro e di consegna, numero di pallet o colli, peso e volume per spedizione, frequenza settimanale o mensile, orari di ricevimento dei destinatari ed eventuali vincoli, come la consegna in assenza di banchina. Le richieste si inviano tramite il [modulo di contatto]({{< relref "/" >}}#contatti).

@@ -1,0 +1,7 @@
+{{- $p := .p -}}
+{{- $v := partial "placevars.html" (dict "p" $p) -}}
+{{- $a1 := cond $p.island (i18n "place_faq_a1_island" $v) (i18n "place_faq_a1" $v) -}}
+{{- return slice
+  (dict "q" (i18n "place_faq_q1" $v) "a" $a1)
+  (dict "q" (i18n "place_faq_q2" $v) "a" (i18n "place_faq_a2" $v))
+  (dict "q" (i18n "place_faq_q3" $v) "a" (i18n "place_faq_a3" $v)) -}}

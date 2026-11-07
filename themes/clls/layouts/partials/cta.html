@@ -1,0 +1,9 @@
+<aside class="cta-box">
+  <h2>{{ i18n "cta_title" }}</h2>
+  <p>{{ i18n "cta_text" }}</p>
+  <div class="cta-actions">
+    <a href="https://wa.me/{{ site.Params.whatsapp }}?text={{ i18n "whatsapp_prefill" | urlquery }}" target="_blank" rel="noopener" class="btn btn-whatsapp">{{ partial "wa-icon.html" }} {{ i18n "whatsapp_cta" }}</a>
+    <a href="{{ "" | relLangURL }}#contatti" class="btn btn-outline-light">{{ i18n "cta_button" }}</a>
+  </div>
+  <p class="cta-contacts">{{ i18n "contact_phone" }} <a href="tel:{{ site.Params.telefonoE164 }}">{{ site.Params.telefono }}</a> · <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></p>
+</aside>

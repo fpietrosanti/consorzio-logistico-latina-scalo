@@ -1,97 +1,84 @@
 ---
-title: "Warehouse Handling"
-description: "Servizi di movimentazione merci a Latina Scalo: ricevimento, picking, packing, etichettatura, kitting e cross-docking con operatività 24/7."
+linkTitle: "Movimentazione merci"
+title: "Movimentazione merci e handling a Latina Scalo (LT)"
+description: "Handling a Latina Scalo (LT): ricevimento merci, picking, packing, etichettatura, pallettizzazione e cross-docking, con baie coperte e operatività 24/7."
+url: "/servizi/handling/"
 layout: "servizio"
 weight: 2
+image: "topics/carrello-scaffalature"
+imageAlt: "Operatore di magazzino al lavoro tra le scaffalature porta-pallet, foto di repertorio"
+faq:
+  - q: "Quali attività di movimentazione svolge il Consorzio Logistico Latina Scalo?"
+    a: "Il Consorzio Logistico Latina Scalo svolge per conto terzi ricevimento merci, prelievo (picking), packing, etichettatura, pallettizzazione e cross-docking nel polo di Via della Dinamica a Latina Scalo (LT). Le attività sono registrate nel WMS del Consorzio e coordinate con stoccaggio e trasporto."
+  - q: "Il magazzino di Latina Scalo lavora anche di notte e nel fine settimana?"
+    a: "Il Consorzio Logistico Latina Scalo dichiara un'operatività 24 ore su 24, 7 giorni su 7. Orari di ricevimento, finestre di carico e turni dedicati a un singolo committente si concordano in fase di contratto, in base ai volumi e alla frequenza dei flussi."
+  - q: "Come avviene il controllo della merce in arrivo a Latina Scalo?"
+    a: "Al ricevimento il personale del Consorzio Logistico Latina Scalo confronta la merce con il documento di trasporto e con l'avviso di arrivo del committente, conta i colli, verifica lo stato degli imballi e annota eventuali riserve. Dopo il controllo la merce viene registrata nel WMS."
+  - q: "Il Consorzio Logistico Latina Scalo prepara ordini B2B e B2C?"
+    a: "Sì. Il Consorzio Logistico Latina Scalo prepara ordini a pallet intero, a collo e a pezzo, sia per clienti d'impresa (B2B) sia per spedizioni a consumatori finali (B2C). Modalità di prelievo, imballo ed etichette di spedizione si definiscono con il committente in fase di avvio."
+  - q: "Quali dati servono per un preventivo di handling a Latina Scalo?"
+    a: "Per un preventivo di movimentazione il Consorzio Logistico Latina Scalo chiede numero di ordini e righe d'ordine al giorno, tipologia di unità prelevate, picchi stagionali, formato degli imballi, vettori utilizzati e lavorazioni richieste come etichettatura o pallettizzazione."
 ---
 
-## Movimentazione merci professionale
+## Movimentazione per conto terzi a Latina Scalo
 
-Il Consorzio Logistico Latina Scalo offre un servizio completo di warehouse handling, dalla ricezione della merce alla sua spedizione. Il nostro team operativo, dotato di attrezzature industriali all'avanguardia, gestisce ogni fase della movimentazione con precisione, velocità e tracciabilità totale.
+Il Consorzio Logistico Latina Scalo esegue la movimentazione delle merci per conto terzi nel polo di Via della Dinamica, zona Tor Tre Ponti, a Latina Scalo (LT): ricevimento merci, prelievo (picking), packing, etichettatura, pallettizzazione e cross-docking. Le operazioni si svolgono nei capannoni del polo, 19.000 metri quadrati coperti in moduli da 500 a 3.000 metri quadrati, serviti da baie di carico e scarico coperte e da piazzali per la manovra degli autoarticolati.
 
-Operiamo con **turni continuativi 24/7**, garantendo la massima flessibilità per le aziende che necessitano di spedizioni urgenti, lavorazioni notturne o gestione di picchi stagionali.
+Il servizio può essere affidato insieme allo [stoccaggio]({{< relref "/servizi/stoccaggio" >}}), quando la merce resta a magazzino, oppure da solo, per flussi di transito o lavorazioni su lotti specifici. Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7.
 
----
+## Le fasi della movimentazione
 
-## Le fasi del nostro handling
+### Ricevimento merci
 
-### Ricevimento e controllo qualità
+Il mezzo attracca a una baia coperta. L'operatore confronta la merce con il documento di trasporto (DDT) e con l'avviso di arrivo del committente, conta colli e pallet, verifica lo stato degli imballi e annota sul documento del vettore le eventuali riserve per ammanchi o danni. Le anomalie sono comunicate al committente nella stessa giornata, con il riferimento della consegna.
 
-Ogni carico in ingresso viene sottoposto a un processo strutturato:
+### Registrazione e messa a dimora
 
-- **Verifica documentale**: controllo DDT, bolle di consegna, packing list
-- **Ispezione fisica**: verifica integrità degli imballaggi, conteggio colli, rilevazione danni
-- **Registrazione a sistema**: inserimento immediato nel WMS con generazione di etichette barcode
-- **Fotodocumentazione**: scatto fotografico delle condizioni di arrivo per eventuale contestazione
+La merce accettata viene registrata nel WMS (software di gestione del magazzino) e trasferita all'ubicazione assegnata, a scaffale o a terra. Da questo momento ogni spostamento interno è tracciato nel sistema, compresi i rifornimenti dalle aree di riserva a quelle di prelievo.
 
-### Stoccaggio e inventory management
+### Prelievo (picking)
 
-Dopo il ricevimento, la merce viene allocata nella posizione ottimale del magazzino:
+Il prelievo si organizza in base al profilo degli ordini:
 
-- **Mappatura automatica** delle ubicazioni tramite WMS
-- **Criteri FIFO/FEFO** per la rotazione delle scorte
-- **Inventari ciclici** programmati per garantire l'allineamento tra giacenza fisica e contabile
-- **Alert automatici** per scorte minime e prodotti in scadenza
+- **a pallet intero**, per le consegne B2B a piattaforme distributive e punti vendita;
+- **a collo**, per ordini misti destinati a rivenditori;
+- **a pezzo**, per ordini frazionati tipici dell'[e-commerce]({{< relref "/settori/ecommerce" >}}).
 
-### Picking: singolo e multi-ordine
+Per volumi elevati gli ordini possono essere raggruppati in giri di prelievo, così da ridurre i percorsi in corsia. La modalità si stabilisce analizzando le righe d'ordine giornaliere e la rotazione degli articoli.
 
-Il picking è il cuore dell'operatività di magazzino. Offriamo diverse modalità:
+### Packing e pallettizzazione
 
-- **Picking singolo** — prelievo dedicato ordine per ordine, ideale per spedizioni B2B di grandi volumi
-- **Multi-ordine (batch picking)** — prelievo aggregato di più ordini simultanei, ottimale per e-commerce e ordini frammentati
-- **Zone picking** — suddivisione del magazzino in aree operative per ridurre i percorsi
-- **Pick-to-light** — sistemi luminosi per guidare l'operatore e azzerare gli errori
+Gli articoli prelevati sono controllati per codice e quantità, imballati e preparati per la spedizione. Le unità destinate al trasporto su pallet sono composte secondo le regole di sovrapponibilità indicate dal committente e protette con filmatura o reggiatura.
 
-### Packing e confezionamento
+### Etichettatura
 
-Il reparto packing prepara la merce per la spedizione secondo le specifiche del cliente:
+Ogni collo o pallet in uscita riceve l'etichetta di spedizione del vettore e, se richiesto, le etichette di prodotto o di canale di vendita. Le lavorazioni più articolate, come la rietichettatura o la composizione di kit, sono descritte nella scheda delle [lavorazioni a valore aggiunto]({{< relref "/servizi/lavorazioni-valore-aggiunto" >}}).
 
-- Imballaggio standard con cartoni, film estensibile, reggette
-- Confezionamento personalizzato con materiali del cliente
-- Imbottitura e protezione per merci fragili
-- Pallettizzazione e filmatura automatica
+### Carico e spedizione
 
-### Etichettatura e kitting
+Le unità pronte sono raggruppate per destinazione o per vettore nell'area di spedizione e caricate alle baie. Il documento di trasporto viene emesso al momento del carico; la merce può partire con la flotta del Consorzio, descritta nella scheda [trasporto]({{< relref "/servizi/trasporto" >}}), o con il vettore scelto dal committente.
 
-- **Etichettatura**: applicazione etichette prodotto, spedizione, codici a barre, QR code
-- **Re-labeling**: sostituzione etichette per cambio mercato o canale di vendita
-- **Kitting**: assemblaggio di kit promozionali, confezioni regalo, bundle multi-referenza
-- **Co-packing**: confezionamento conto terzi per campagne marketing e lancio prodotti
+## Cross-docking
 
-### Cross-docking
+Per le merci che non devono essere stoccate il Consorzio esegue il cross-docking: la merce scaricata viene smistata per destinazione e ricaricata su altri mezzi senza passare per le ubicazioni di magazzino. Tempi di sosta, finestre di arrivo e regole di consolidamento sono illustrati nella scheda [cross-docking]({{< relref "/servizi/cross-docking" >}}).
 
-Per le merci che non necessitano di stoccaggio, il servizio di cross-docking consente il transito rapido dalla baia di scarico a quella di carico:
+## Infrastruttura di supporto
 
-- **Tempo di transito**: dalla ricezione alla rispedizione in meno di 24 ore
-- **Smistamento**: consolidamento e deconsolidamento carichi
-- **Riduzione costi**: eliminazione dello stoccaggio intermedio
-- **Ideale per**: distribuzione promozionale, trasferimenti inter-deposito, consegne just-in-time
+Le operazioni si appoggiano sulle dotazioni del polo:
 
----
+- baie di carico e scarico coperte e piazzali per la manovra di autoarticolati, con aree di sosta per i veicoli;
+- scaffalature industriali e altezza utile fino a 10 metri;
+- WMS, fibra ottica dedicata e Wi-Fi industriale nelle aree operative;
+- videosorveglianza perimetrale, controllo accessi e impianti antincendio e antintrusione.
 
-## Operatività 24/7
+## Avvio del servizio
 
-Il nostro magazzino opera su turni continuativi, 7 giorni su 7:
+L'avvio parte dall'analisi dei dati storici del committente: anagrafica articoli con dimensioni e pesi, ordini medi e di picco, numero di righe per ordine, vettori utilizzati. Sulla base di questi dati il Consorzio definisce il layout delle aree di prelievo, gli orari di ricevimento e di spedizione e i flussi informativi tra il gestionale del committente e il WMS, trattati nella scheda di [gestione documentale]({{< relref "/servizi/gestione-documentale" >}}).
 
-- **Turno diurno**: 06:00 – 14:00
-- **Turno pomeridiano**: 14:00 – 22:00
-- **Turno notturno**: 22:00 – 06:00 (su richiesta)
-- **Sabato e domenica**: operatività garantita per urgenze e clienti con SLA specifici
+## Settori e aree servite
 
----
+La movimentazione è dimensionata su profili diversi: ordini a pallet per la [GDO e il retail]({{< relref "/settori/gdo-retail" >}}), colli misti per il [tessile e moda]({{< relref "/settori/tessile-moda" >}}), componenti per l'[automotive]({{< relref "/settori/automotive" >}}) e il [manifatturiero]({{< relref "/settori/manifatturiero" >}}). Il polo serve imprese di [Latina]({{< relref "/logistica/latina" >}}), [Aprilia]({{< relref "/logistica/aprilia" >}}), [Cisterna di Latina]({{< relref "/logistica/cisterna-di-latina" >}}) e [Velletri]({{< relref "/logistica/velletri" >}}), quest'ultima a circa 25,1 km su strada, oltre al bacino della [provincia di Latina]({{< relref "/logistica/provincia-di-latina" >}}).
 
-## Attrezzature
+## Per un preventivo
 
-- Carrelli elevatori frontali e retrattili (fino a 5 tonnellate)
-- Transpallet elettrici e manuali
-- Nastri trasportatori e rulliere
-- Bilance industriali per pesatura in ingresso e uscita
-- Stampanti termiche per etichettatura in linea
-
----
-
-<div class="cta-box" style="margin-top: 3rem; padding: 2rem; background: var(--primary-900); border-radius: 12px; text-align: center;">
-  <h3 style="color: #fff; margin-bottom: 0.5rem;">Parliamo del tuo progetto</h3>
-  <p style="color: rgba(255,255,255,0.8); margin-bottom: 1.5rem;">Ogni esigenza logistica è unica. Raccontaci la tua.</p>
-  <a href="https://wa.me/390773316008?text=Ciao%2C%20vorrei%20informazioni%20sui%20vostri%20servizi%20logistici." target="_blank" rel="noopener" class="btn btn-outline btn-whatsapp" style="border-color: #fff; color: #fff;">Scrivici su WhatsApp</a>
-</div>
+Per un preventivo di movimentazione indicare numero medio e di picco di ordini e righe d'ordine al giorno, tipologia di unità prelevate (pallet, colli o pezzi), formato degli imballi, stagionalità dei flussi, vettori utilizzati e lavorazioni richieste come etichettatura o pallettizzazione. Le richieste si inviano tramite il [modulo di contatto]({{< relref "/" >}}#contatti).

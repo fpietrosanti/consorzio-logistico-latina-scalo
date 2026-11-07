@@ -1,346 +1,189 @@
 {{ define "main" }}
-
-<!-- HERO -->
+{{- $s := site.Params.sec -}}
+{{- $eur := index (where hugo.Data.places "slug" "eur") 0 -}}
 <section class="hero" id="hero">
   <div class="hero-overlay"></div>
   <div class="hero-content">
-    <h1>Soluzioni di logistica integrata<br>nel cuore del <span class="accent">Lazio</span></h1>
-    <p class="hero-subtitle">Hub strategico per lo sviluppo e la valorizzazione del territorio industriale di Latina Scalo. Servizi B2B personalizzati, infrastrutture moderne, operativit&agrave; continua.</p>
+    <h1>{{ i18n "home_hero_title" }}</h1>
+    <p class="hero-subtitle">{{ i18n "home_hero_sub" }}</p>
     <div class="hero-actions">
-      <a href="#servizi" class="btn btn-primary">Scopri i Servizi</a>
-      <a href="https://wa.me/390773316008?text=Ciao%2C%20vorrei%20informazioni%20sui%20vostri%20servizi%20logistici." target="_blank" rel="noopener" class="btn btn-outline btn-whatsapp"><svg class="whatsapp-icon-btn" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z" fill="currentColor"/><path d="M12 2C6.477 2 2 6.477 2 12c0 1.89.525 3.66 1.438 5.168L2 22l4.832-1.438A9.955 9.955 0 0012 22c5.523 0 10-4.477 10-10S17.523 2 12 2zm0 18a7.96 7.96 0 01-4.108-1.14l-.292-.175-3.04.8.8-3.04-.175-.292A7.96 7.96 0 014 12c0-4.411 3.589-8 8-8s8 3.589 8 8-3.589 8-8 8z" fill="currentColor"/></svg> Scrivici su WhatsApp</a>
+      <a href="{{ printf "%s/" $s.servizi | relLangURL }}" class="btn btn-primary">{{ i18n "home_btn_services" }}</a>
+      <a href="{{ printf "%s/" $s.logistica | relLangURL }}" class="btn btn-outline">{{ i18n "home_btn_areas" }}</a>
+      <a href="https://wa.me/{{ site.Params.whatsapp }}?text={{ i18n "whatsapp_prefill" | urlquery }}" target="_blank" rel="noopener" class="btn btn-outline btn-whatsapp">{{ partial "wa-icon.html" }} {{ i18n "whatsapp_cta" }}</a>
     </div>
   </div>
 </section>
 
-<!-- STATS BAR -->
-<section class="section visible" style="padding-top:0; padding-bottom: 4rem; opacity:1; transform:none;">
+<section class="section visible stats-section">
   <div class="container">
-    <div class="stats-bar">
-      <div class="stat-item">
-        <span class="stat-number">5</span>
-        <span class="stat-label">Aziende Consorziate</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number">19.000</span>
-        <span class="stat-label">mq Coperti + 25.000 mq Scoperti</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number">50+</span>
-        <span class="stat-label">Anni di Esperienza</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number">24/7</span>
-        <span class="stat-label">Operativit&agrave; Garantita</span>
-      </div>
+    <dl class="stats-bar">
+      <div class="stat-item"><dt class="stat-label">{{ i18n "stat_covered" }}</dt><dd class="stat-number">{{ lang.FormatNumber 0 19000 }}</dd></div>
+      <div class="stat-item"><dt class="stat-label">{{ i18n "stat_open" }}</dt><dd class="stat-number">{{ lang.FormatNumber 0 25000 }}</dd></div>
+      <div class="stat-item"><dt class="stat-label">{{ i18n "stat_members" }}</dt><dd class="stat-number">5</dd></div>
+      <div class="stat-item"><dt class="stat-label">{{ i18n "stat_eur" }}</dt><dd class="stat-number">{{ lang.FormatNumber 0 $eur.road_km }}</dd></div>
+    </dl>
+  </div>
+</section>
+
+<section class="section visible" id="chi-siamo">
+  <div class="container two-col">
+    <div class="col-text">
+      <span class="section-label">{{ i18n "home_about_label" }}</span>
+      <h2>{{ i18n "home_about_title" }}</h2>
+      <p>{{ i18n "home_about_p1" }}</p>
+      <p>{{ i18n "home_about_p2" }}</p>
+      <p>{{ i18n "home_about_p3" }}</p>
+    </div>
+    <div class="col-media">
+      {{ partial "figure.html" (dict "key" "topics/magazzino-interno" "alt" (i18n "svc_storage_title")) }}
     </div>
   </div>
 </section>
 
-<!-- CHI SIAMO -->
-<section class="section" id="chi-siamo">
+<section class="section section-alt visible" id="servizi">
   <div class="container">
-    <span class="section-label">Il Consorzio</span>
-    <h2>Chi Siamo</h2>
-    <div class="two-col">
-      <div class="col-text">
-        <p>Il <strong>Consorzio Logistico Latina Scalo</strong> nasce dalla volont&agrave; di imprese del territorio di creare un polo logistico integrato nell'area di sviluppo industriale di Latina Scalo.</p>
-        <p>La nostra missione &egrave; <strong>valorizzare il territorio</strong> attraverso servizi logistici di eccellenza, infrastrutture moderne e una rete di imprese che operano in sinergia per offrire soluzioni B2B competitive e sostenibili.</p>
-        <p>Situati in posizione strategica lungo l'asse Roma&ndash;Napoli, siamo il punto di riferimento per le aziende che necessitano di servizi di stoccaggio, movimentazione e distribuzione nel Centro-Sud Italia.</p>
-      </div>
-      <div class="col-highlights">
-        <div class="highlight-card">
-          <span class="highlight-number">19.000+25.000</span>
-          <span class="highlight-label">mq coperti + scoperti</span>
-        </div>
-        <div class="highlight-card">
-          <span class="highlight-number">5</span>
-          <span class="highlight-label">aziende consorziate</span>
-        </div>
-        <div class="highlight-card">
-          <span class="highlight-number">50+</span>
-          <span class="highlight-label">anni di esperienza combinata</span>
-        </div>
-        <div class="highlight-card">
-          <span class="highlight-number">24/7</span>
-          <span class="highlight-label">operativit&agrave; garantita</span>
-        </div>
-      </div>
-    </div>
+    <span class="section-label">{{ i18n "home_services_label" }}</span>
+    <h2>{{ i18n "home_services_title" }}</h2>
+    <p class="section-intro">{{ i18n "home_services_intro" }}</p>
+    <ul class="card-grid">
+      {{ with site.GetPage "/servizi" }}{{ range .Pages.ByWeight }}
+      <li class="card">
+        <a href="{{ .RelPermalink }}">
+          {{ with .Params.image }}{{ if index hugo.Data.images . }}<img src="{{ printf "img/%s.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
+          <span class="card-body"><strong>{{ .LinkTitle }}</strong><span>{{ .Description | truncate 150 }}</span></span>
+        </a>
+      </li>
+      {{ end }}{{ end }}
+    </ul>
   </div>
 </section>
 
-<!-- SERVIZI -->
-<section class="section section-alt" id="servizi">
+<section class="section visible" id="area-logistica">
   <div class="container">
-    <span class="section-label">Cosa Offriamo</span>
-    <h2>Servizi</h2>
-    <p class="section-intro">Servizi logistici integrati conformi al regolamento consortile, con standard qualitativi certificati e soluzioni personalizzate per ogni esigenza.</p>
-    <div class="services-grid">
-      <div class="service-card">
-        <div class="service-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="4" y="18" width="40" height="24" rx="3" stroke="currentColor" stroke-width="2.5"/><path d="M4 24h40M16 18v24M32 18v24" stroke="currentColor" stroke-width="2" opacity="0.5"/><path d="M14 10h20l6 8H8l6-8z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/></svg>
-        </div>
-        <h3>Stoccaggio e Magazzino</h3>
-        <p>Capannoni moderni con scaffalature industriali, aree di stoccaggio a temperatura controllata e gestione inventory in tempo reale.</p>
-      </div>
-      <div class="service-card">
-        <div class="service-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="14" width="26" height="18" rx="2" stroke="currentColor" stroke-width="2.5"/><path d="M32 20h8l4 6v6h-12V20z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><circle cx="15" cy="36" r="4" stroke="currentColor" stroke-width="2.5"/><circle cx="37" cy="36" r="4" stroke="currentColor" stroke-width="2.5"/></svg>
-        </div>
-        <h3>Trasporto e Distribuzione</h3>
-        <p>Servizi di trasporto su gomma con flotta dedicata, distribuzione last-mile e gestione delle consegne B2B su tutto il territorio nazionale.</p>
-      </div>
-      <div class="service-card">
-        <div class="service-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="14" height="14" rx="2" stroke="currentColor" stroke-width="2.5"/><rect x="26" y="8" width="14" height="14" rx="2" stroke="currentColor" stroke-width="2.5"/><rect x="8" y="26" width="14" height="14" rx="2" stroke="currentColor" stroke-width="2.5"/><rect x="26" y="26" width="14" height="14" rx="2" stroke="currentColor" stroke-width="2.5"/><path d="M15 15l18 18M33 15L15 33" stroke="currentColor" stroke-width="1.5" opacity="0.4"/></svg>
-        </div>
-        <h3>Movimentazione Merci</h3>
-        <p>Picking, packing, etichettatura, pallettizzazione e cross-docking con attrezzature all'avanguardia e personale qualificato.</p>
-      </div>
-      <div class="service-card">
-        <div class="service-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24 4L6 14v20l18 10 18-10V14L24 4z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M6 14l18 10 18-10M24 24v20" stroke="currentColor" stroke-width="2" opacity="0.5"/><circle cx="24" cy="18" r="3" fill="currentColor" opacity="0.6"/></svg>
-        </div>
-        <h3>Logistica 3PL Integrata</h3>
-        <p>Un unico interlocutore per stoccaggio, handling e trasporto. Costi variabili, scalabilit&agrave; garantita e gestione completa della supply chain.</p>
-      </div>
-      <div class="service-card">
-        <div class="service-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="6" width="32" height="36" rx="3" stroke="currentColor" stroke-width="2.5"/><path d="M16 16h16M16 24h16M16 32h10" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-        </div>
-        <h3>Gestione Documentale</h3>
-        <p>Tracciabilit&agrave; completa delle merci, documentazione di trasporto, bolle, DDT e integrazione con sistemi gestionali aziendali.</p>
-      </div>
-      <div class="service-card">
-        <div class="service-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24 4L6 14v20l18 10 18-10V14L24 4z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M6 14l18 10 18-10M24 24v20" stroke="currentColor" stroke-width="2" opacity="0.5"/></svg>
-        </div>
-        <h3>Logistica Integrata</h3>
-        <p>Soluzioni end-to-end personalizzate: dal ricevimento alla consegna, con ottimizzazione dei flussi e riduzione dei costi operativi.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- AREA LOGISTICA -->
-<section class="section" id="area-logistica">
-  <div class="container">
-    <span class="section-label">Infrastrutture</span>
-    <h2>Area Logistica</h2>
-    <p class="section-intro">Il nostro sito logistico dispone di capannoni industriali moderni, strategicamente posizionati nell'area di sviluppo industriale di Latina Scalo.</p>
+    <span class="section-label">{{ i18n "home_site_label" }}</span>
+    <h2>{{ i18n "home_site_title" }}</h2>
+    <p class="section-intro">{{ i18n "home_site_intro" }}</p>
     <div class="facilities-grid">
-      <div class="facility-card facility-main">
-        <div class="facility-icon">
-          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="4" y="28" width="56" height="30" rx="3" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.5)" stroke-width="2"/><polygon points="2,28 32,8 62,28" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.6)" stroke-width="2" stroke-linejoin="round"/><rect x="14" y="40" width="10" height="18" rx="1" stroke="#e67e22" stroke-width="2"/><rect x="28" y="40" width="10" height="18" rx="1" stroke="#e67e22" stroke-width="2"/><rect x="42" y="40" width="10" height="18" rx="1" stroke="#e67e22" stroke-width="2"/></svg>
-        </div>
-        <div>
-          <h3>Capannoni Industriali</h3>
-          <p>Strutture modulari da 500 a 3.000 mq ciascuna, altezza utile fino a 10 metri, predisposte per scaffalature portapallet e sistemi di movimentazione automatizzati.</p>
-        </div>
-      </div>
-      <div class="facility-card">
-        <div class="facility-icon-sm">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="4" y="32" width="40" height="4" rx="1" stroke="#0f2b4a" stroke-width="2.5"/><rect x="8" y="24" width="12" height="8" rx="1" stroke="#e67e22" stroke-width="2"/><rect x="28" y="20" width="14" height="12" rx="1" stroke="#e67e22" stroke-width="2"/><path d="M6 38v6M42 38v6" stroke="#0f2b4a" stroke-width="2" stroke-linecap="round"/><path d="M20 28h8" stroke="#1a4a7a" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 2"/><circle cx="10" cy="42" r="3" stroke="#0f2b4a" stroke-width="2"/><circle cx="38" cy="42" r="3" stroke="#0f2b4a" stroke-width="2"/></svg>
-        </div>
-        <h3>Piazzali Operativi</h3>
-        <p>Ampi piazzali per manovra TIR e autoarticolati, baie di carico/scarico coperte e zone di sosta veicoli.</p>
-      </div>
-      <div class="facility-card">
-        <div class="facility-icon-sm">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="32" height="32" rx="3" stroke="#0f2b4a" stroke-width="2.5"/><circle cx="24" cy="24" r="8" stroke="#e67e22" stroke-width="2.5"/><circle cx="24" cy="24" r="3" fill="#e67e22"/><path d="M24 8v4M24 36v4M8 24h4M36 24h4" stroke="#1a4a7a" stroke-width="2" stroke-linecap="round"/><path d="M13 13l3 3M32 32l3 3M35 13l-3 3M16 32l-3 3" stroke="#1a4a7a" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/></svg>
-        </div>
-        <h3>Sicurezza 24/7</h3>
-        <p>Videosorveglianza perimetrale, controllo accessi, impianti antincendio e antintrusione certificati.</p>
-      </div>
-      <div class="facility-card">
-        <div class="facility-icon-sm">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="12" y="6" width="24" height="36" rx="3" stroke="#0f2b4a" stroke-width="2.5"/><circle cx="24" cy="34" r="2" fill="#e67e22"/><path d="M18 14h12" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/><path d="M18 20h12" stroke="#1a4a7a" stroke-width="2" stroke-linecap="round" opacity="0.5"/><path d="M18 26h8" stroke="#1a4a7a" stroke-width="2" stroke-linecap="round" opacity="0.5"/><path d="M4 18c0 0 4-2 8-2M44 18c0 0-4-2-8-2" stroke="#0f2b4a" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/><path d="M4 18l3 3M4 18l3-3M44 18l-3 3M44 18l-3-3" stroke="#0f2b4a" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/></svg>
-        </div>
-        <h3>Connettivit&agrave;</h3>
-        <p>Fibra ottica dedicata, Wi-Fi industriale e sistemi WMS per la gestione digitale del magazzino.</p>
-      </div>
-      <div class="facility-card">
-        <div class="facility-icon-sm">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="12" width="36" height="24" rx="3" stroke="#0f2b4a" stroke-width="2.5"/><path d="M6 20h36" stroke="#0f2b4a" stroke-width="2"/><path d="M18 12v24" stroke="#1a4a7a" stroke-width="1.5" opacity="0.4"/><rect x="22" y="24" width="16" height="4" rx="1" fill="#e67e22" opacity="0.3"/><rect x="22" y="30" width="10" height="3" rx="1" fill="#1a4a7a" opacity="0.2"/><circle cx="10" cy="16" r="2" fill="#e67e22"/><path d="M16 42h16M20 36v6M28 36v6" stroke="#0f2b4a" stroke-width="2" stroke-linecap="round"/></svg>
-        </div>
-        <h3>Uffici e Servizi</h3>
-        <p>Spazi ufficio integrati, sale riunioni, area ristoro e servizi per il personale operativo.</p>
-      </div>
+      <div class="facility-card facility-main"><h3>{{ i18n "fac_buildings_title" }}</h3><p>{{ i18n "fac_buildings_text" }}</p></div>
+      <div class="facility-card"><h3>{{ i18n "fac_yards_title" }}</h3><p>{{ i18n "fac_yards_text" }}</p></div>
+      <div class="facility-card"><h3>{{ i18n "fac_security_title" }}</h3><p>{{ i18n "fac_security_text" }}</p></div>
+      <div class="facility-card"><h3>{{ i18n "fac_it_title" }}</h3><p>{{ i18n "fac_it_text" }}</p></div>
+      <div class="facility-card"><h3>{{ i18n "fac_offices_title" }}</h3><p>{{ i18n "fac_offices_text" }}</p></div>
     </div>
   </div>
 </section>
 
-<!-- SETTORI -->
-<section class="section section-alt" id="settori">
+<section class="section section-alt visible" id="settori">
   <div class="container">
-    <span class="section-label">Competenze</span>
-    <h2>Settori B2B</h2>
-    <p class="section-intro">Serviamo una vasta gamma di settori industriali con soluzioni logistiche specializzate e personalizzate.</p>
-    <div class="sectors-grid">
-      <div class="sector-card">
-        <div class="sector-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24 6c-2 8-10 12-10 22a10 10 0 0020 0c0-10-8-14-10-22z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M18 30c0 3.3 2.7 6 6 6s6-2.7 6-6" stroke="currentColor" stroke-width="2" opacity="0.4"/><path d="M24 6v4M20 12l-2-2M28 12l2-2" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.5"/></svg>
-        </div>
-        <h3>Agroalimentare</h3>
-        <p>Stoccaggio e distribuzione di prodotti alimentari, catena del freddo, tracciabilit&agrave; HACCP.</p>
-      </div>
-      <div class="sector-card">
-        <div class="sector-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="14" y="4" width="20" height="40" rx="8" stroke="currentColor" stroke-width="2.5"/><path d="M14 16h20M14 32h20" stroke="currentColor" stroke-width="2"/><circle cx="24" cy="24" r="4" stroke="currentColor" stroke-width="2"/><path d="M24 20v-4M24 32v-4M20 24h-4M32 24h-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/></svg>
-        </div>
-        <h3>Farmaceutico</h3>
-        <p>Logistica GDP-compliant, stoccaggio dedicato, gestione lotti e scadenze.</p>
-      </div>
-      <div class="sector-card">
-        <div class="sector-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="14" cy="34" r="6" stroke="currentColor" stroke-width="2.5"/><circle cx="36" cy="34" r="6" stroke="currentColor" stroke-width="2.5"/><path d="M20 34h10" stroke="currentColor" stroke-width="2.5"/><path d="M20 28l4-12h10l4 12" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M24 16h-8l-2 6" stroke="currentColor" stroke-width="2" stroke-linejoin="round" opacity="0.5"/><rect x="26" y="18" width="6" height="5" rx="1" stroke="currentColor" stroke-width="1.5" opacity="0.5"/></svg>
-        </div>
-        <h3>Automotive</h3>
-        <p>Gestione ricambi, just-in-time delivery, reverse logistics e stoccaggio componenti.</p>
-      </div>
-      <div class="sector-card">
-        <div class="sector-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="10" width="32" height="28" rx="3" stroke="currentColor" stroke-width="2.5"/><path d="M8 18h32" stroke="currentColor" stroke-width="2"/><rect x="14" y="24" width="8" height="8" rx="1.5" stroke="currentColor" stroke-width="2"/><path d="M26 26h8M26 30h6" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.5"/><circle cx="36" cy="14" r="2" fill="currentColor" opacity="0.4"/><path d="M18 10V6M30 10V6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-        </div>
-        <h3>E-Commerce</h3>
-        <p>Fulfillment B2B e B2C, picking unitario, packaging personalizzato e gestione resi.</p>
-      </div>
-      <div class="sector-card">
-        <div class="sector-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 42V18l16-12 16 12v24" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M8 42h32" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><rect x="18" y="28" width="12" height="14" rx="1" stroke="currentColor" stroke-width="2"/><path d="M24 28v14" stroke="currentColor" stroke-width="1.5" opacity="0.4"/><path d="M4 42l8-6M44 42l-8-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.3"/><path d="M24 6v4" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M20 6h8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-        </div>
-        <h3>Edilizia</h3>
-        <p>Stoccaggio materiali da costruzione, gestione carichi pesanti e consegna in cantiere.</p>
-      </div>
-      <div class="sector-card">
-        <div class="sector-icon">
-          <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16 8h16v6c0 6-4 10-8 12-4-2-8-6-8-12V8z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M16 8c-4 0-6 2-6 4v4c0 4 2 6 6 6" stroke="currentColor" stroke-width="2" opacity="0.4"/><path d="M32 8c4 0 6 2 6 4v4c0 4-2 6-6 6" stroke="currentColor" stroke-width="2" opacity="0.4"/><path d="M24 26v8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M16 38h16" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M14 42h20" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.4"/><circle cx="24" cy="16" r="2" fill="currentColor" opacity="0.4"/></svg>
-        </div>
-        <h3>Tessile e Moda</h3>
-        <p>Gestione appeso, stoccaggio stagionale, preparazione ordini per showroom e retail.</p>
-      </div>
-    </div>
+    <span class="section-label">{{ i18n "home_sectors_label" }}</span>
+    <h2>{{ i18n "home_sectors_title" }}</h2>
+    <p class="section-intro">{{ i18n "home_sectors_intro" }}</p>
+    <ul class="tag-list tag-list-lg">
+      {{ with site.GetPage "/settori" }}{{ range .Pages.ByWeight }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
+    </ul>
   </div>
 </section>
 
-<!-- DOVE SIAMO -->
-<section class="section" id="dove-siamo">
+<section class="section visible" id="aree">
   <div class="container">
-    <span class="section-label">Location</span>
-    <h2>Dove Siamo</h2>
-    <p class="section-intro">Posizione strategica nell'area industriale di Latina Scalo, al crocevia tra Roma e Napoli.</p>
+    <span class="section-label">{{ i18n "home_areas_label" }}</span>
+    <h2>{{ i18n "home_areas_title" }}</h2>
+    <p class="section-intro">{{ i18n "home_areas_intro" }}</p>
+    <div class="areas-home">
+      {{ range slice "latina" "roma-sud" "roma-citta" }}
+      {{ $area := . }}
+      <div class="area-col">
+        <h3>{{ with site.GetPage "/logistica" }}{{ range .Pages }}{{ if eq .Params.area $area }}<a href="{{ .RelPermalink }}">{{ i18n (printf "area_%s" $area) }}</a>{{ end }}{{ end }}{{ end }}</h3>
+        <ul class="nearby-list compact">
+          {{ range first 8 (sort (where (where hugo.Data.places "area" $area) "island" false) "road_km") }}{{ $o := . }}{{ with site.GetPage (printf "/logistica/%s" .slug) }}
+          <li><a href="{{ .RelPermalink }}"><strong>{{ $o.name }}</strong> <span>{{ lang.FormatNumber 1 $o.road_km }} {{ i18n "km" }} · {{ $o.drive_min }} {{ i18n "min" }}</span></a></li>
+          {{ end }}{{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+    <p><a class="text-link" href="{{ printf "%s/" $s.logistica | relLangURL }}">{{ i18n "all_areas" }} ({{ len hugo.Data.places }}) &rarr;</a></p>
+  </div>
+</section>
+
+{{ with site.GetPage "/approfondimenti" }}{{ with .Pages }}
+<section class="section section-alt visible" id="approfondimenti">
+  <div class="container">
+    <span class="section-label">{{ i18n "home_insights_label" }}</span>
+    <h2>{{ i18n "home_insights_title" }}</h2>
+    <ul class="card-grid">
+      {{ range first 6 .ByDate.Reverse }}
+      <li class="card"><a href="{{ .RelPermalink }}">
+        {{ with .Params.image }}{{ if index hugo.Data.images . }}<img src="{{ printf "img/%s.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
+        <span class="card-body"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_medium" }}</time><strong>{{ .LinkTitle }}</strong><span>{{ .Params.summary | default .Description | truncate 150 }}</span></span>
+      </a></li>
+      {{ end }}
+    </ul>
+    <p><a class="text-link" href="{{ printf "%s/" $s.approfondimenti | relLangURL }}">{{ i18n "all_insights" }} &rarr;</a></p>
+  </div>
+</section>
+{{ end }}{{ end }}
+
+<section class="section visible" id="dove-siamo">
+  <div class="container">
+    <span class="section-label">{{ i18n "home_location_label" }}</span>
+    <h2>{{ i18n "home_location_title" }}</h2>
     <div class="location-grid">
       <div class="map-wrapper">
-        <iframe
-          src="{{ .Site.Params.googleMapsEmbed }}"
-          width="100%"
-          height="450"
-          style="border:0;"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-          title="Mappa Consorzio Logistico Latina Scalo">
-        </iframe>
+        <iframe src="{{ site.Params.googleMapsEmbed }}" width="100%" height="420" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Consorzio Logistico Latina Scalo"></iframe>
       </div>
       <div class="location-info">
         <div class="location-card">
-          <div class="location-icon">
-            <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18 4C12.5 4 8 8.5 8 14c0 8 10 18 10 18s10-10 10-18c0-5.5-4.5-10-10-10z" stroke="#e67e22" stroke-width="2.5" stroke-linejoin="round"/><circle cx="18" cy="14" r="4" stroke="#e67e22" stroke-width="2"/></svg>
-          </div>
-          <h3>Indirizzo</h3>
-          <p>{{ .Site.Params.indirizzo }}</p>
+          <h3>{{ i18n "loc_address" }}</h3>
+          <p>{{ site.Params.via }}, {{ site.Params.localita }}<br>{{ site.Params.cap }} {{ site.Params.citta }} ({{ site.Params.provincia }})</p>
         </div>
         <div class="location-card">
-          <div class="location-icon">
-            <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 26h28" stroke="#0f2b4a" stroke-width="2.5" stroke-linecap="round"/><path d="M8 26V14l6-4 6 4v12" stroke="#0f2b4a" stroke-width="2" stroke-linejoin="round"/><path d="M20 20h8l4 6" stroke="#e67e22" stroke-width="2.5" stroke-linejoin="round"/><circle cx="12" cy="30" r="3" stroke="#0f2b4a" stroke-width="2"/><circle cx="26" cy="30" r="3" stroke="#e67e22" stroke-width="2"/></svg>
-          </div>
-          <h3>Come Raggiungerci</h3>
+          <h3>{{ i18n "loc_access" }}</h3>
           <ul>
-            <li><strong>Auto:</strong> SS148 Pontina, uscita Latina Scalo &mdash; a 60 km da Roma</li>
-            <li><strong>Treno:</strong> Stazione di Latina Scalo (linea Roma&ndash;Napoli via Formia)</li>
-            <li><strong>Porto:</strong> 40 km dal Porto di Gaeta</li>
-            <li><strong>Aeroporto:</strong> 80 km da Roma Fiumicino (FCO)</li>
+            <li>{{ i18n "loc_access_road" }}</li>
+            <li>{{ i18n "loc_access_rail" }}</li>
+            <li>{{ i18n "loc_access_port" }}</li>
+            <li>{{ i18n "loc_access_air" }}</li>
           </ul>
-        </div>
-        <div class="location-card">
-          <div class="location-icon">
-            <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18 4l14 8v16l-14 8L4 28V12L18 4z" stroke="#0f2b4a" stroke-width="2.5" stroke-linejoin="round"/><path d="M18 4v12l14-8" stroke="#1a4a7a" stroke-width="1.5" opacity="0.4"/><path d="M18 16l-14-4" stroke="#1a4a7a" stroke-width="1.5" opacity="0.4"/><path d="M18 16v20" stroke="#1a4a7a" stroke-width="1.5" opacity="0.4"/><circle cx="18" cy="20" r="3" stroke="#e67e22" stroke-width="2"/></svg>
-          </div>
-          <h3>Vantaggi Posizionali</h3>
-          <ul>
-            <li>Baricentro logistico Centro-Sud Italia</li>
-            <li>Collegamento diretto con l'asse Roma&ndash;Napoli</li>
-            <li>Prossimit&agrave; a porti e interporti</li>
-            <li>Area ZES (Zona Economica Speciale) con agevolazioni fiscali</li>
-          </ul>
+          <p><a class="text-link" href="{{ printf "%s/" $s.posizione | relLangURL }}">{{ i18n "loc_more" }} &rarr;</a></p>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- CONTATTI -->
-<section class="section section-alt" id="contatti">
+<section class="section section-alt visible" id="contatti">
   <div class="container">
-    <span class="section-label">Parliamone</span>
-    <h2>Contatti</h2>
-    <p class="section-intro">Vuoi saperne di pi&ugrave; sui nostri servizi o entrare a far parte del Consorzio? Compila il modulo e ti ricontatteremo.</p>
+    <span class="section-label">{{ i18n "home_contact_label" }}</span>
+    <h2>{{ i18n "home_contact_title" }}</h2>
+    <p class="section-intro">{{ i18n "home_contact_intro" }}</p>
     <div class="contact-grid">
-      <form class="contact-form" action="https://formsubmit.co/{{ .Site.Params.email }}" method="POST">
-        <input type="hidden" name="_subject" value="Nuova richiesta dal sito consorziologistico.it">
+      <form class="contact-form" action="https://formsubmit.co/{{ site.Params.email }}" method="POST">
+        <input type="hidden" name="_subject" value="{{ i18n "form_subject" }} [{{ site.Language.Lang }}]">
         <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_next" value="{{ .Site.BaseURL }}#contatti">
-        <input type="text" name="_honey" style="display:none">
+        <input type="hidden" name="_next" value="{{ "" | absLangURL }}#contatti">
+        <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
         <div class="form-row">
-          <div class="form-group">
-            <label for="nome">Nome e Cognome</label>
-            <input type="text" id="nome" name="nome" required placeholder="Mario Rossi">
-          </div>
-          <div class="form-group">
-            <label for="azienda">Azienda</label>
-            <input type="text" id="azienda" name="azienda" placeholder="Nome azienda">
-          </div>
+          <div class="form-group"><label for="nome">{{ i18n "form_name" }}</label><input type="text" id="nome" name="nome" required autocomplete="name"></div>
+          <div class="form-group"><label for="azienda">{{ i18n "form_company" }}</label><input type="text" id="azienda" name="azienda" autocomplete="organization"></div>
         </div>
         <div class="form-row">
-          <div class="form-group">
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" required placeholder="info@azienda.it">
-          </div>
-          <div class="form-group">
-            <label for="telefono">Telefono</label>
-            <input type="tel" id="telefono" name="telefono" placeholder="+39 333 1234567">
-          </div>
+          <div class="form-group"><label for="email">{{ i18n "form_email" }}</label><input type="email" id="email" name="email" required autocomplete="email"></div>
+          <div class="form-group"><label for="telefono">{{ i18n "form_phone" }}</label><input type="tel" id="telefono" name="telefono" autocomplete="tel"></div>
         </div>
-        <div class="form-group">
-          <label for="messaggio">Messaggio</label>
-          <textarea id="messaggio" name="messaggio" rows="5" required placeholder="Descrivi le tue esigenze logistiche..."></textarea>
-        </div>
-        <button type="submit" class="btn btn-primary btn-full">Invia Richiesta</button>
+        <div class="form-group"><label for="messaggio">{{ i18n "form_message" }}</label><textarea id="messaggio" name="messaggio" rows="5" required placeholder="{{ i18n "form_message_ph" }}"></textarea></div>
+        <button type="submit" class="btn btn-primary btn-full">{{ i18n "form_submit" }}</button>
       </form>
       <div class="contact-info">
         <div class="contact-item contact-whatsapp">
-          <h4>WhatsApp</h4>
-          <a href="https://wa.me/390773316008?text=Ciao%2C%20vorrei%20informazioni%20sui%20vostri%20servizi%20logistici." target="_blank" rel="noopener" class="whatsapp-link">
-            <svg class="whatsapp-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z" fill="#25D366"/><path d="M12 2C6.477 2 2 6.477 2 12c0 1.89.525 3.66 1.438 5.168L2 22l4.832-1.438A9.955 9.955 0 0012 22c5.523 0 10-4.477 10-10S17.523 2 12 2zm0 18a7.96 7.96 0 01-4.108-1.14l-.292-.175-3.04.8.8-3.04-.175-.292A7.96 7.96 0 014 12c0-4.411 3.589-8 8-8s8 3.589 8 8-3.589 8-8 8z" fill="#25D366"/></svg>
-            Scrivici su WhatsApp
-          </a>
+          <h3>{{ i18n "contact_whatsapp" }}</h3>
+          <a href="https://wa.me/{{ site.Params.whatsapp }}?text={{ i18n "whatsapp_prefill" | urlquery }}" target="_blank" rel="noopener" class="whatsapp-link">{{ partial "wa-icon.html" }} {{ i18n "whatsapp_cta" }}</a>
         </div>
-        <div class="contact-item">
-          <h4>Email</h4>
-          <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
-        </div>
-        <div class="contact-item">
-          <h4>PEC</h4>
-          <a href="mailto:{{ .Site.Params.pec }}">{{ .Site.Params.pec }}</a>
-        </div>
-        <div class="contact-item">
-          <h4>Sede</h4>
-          <p>{{ .Site.Params.indirizzo }}</p>
-        </div>
+        <div class="contact-item"><h3>{{ i18n "contact_phone" }}</h3><p><a href="tel:{{ site.Params.telefonoE164 }}">{{ site.Params.telefono }}</a></p></div>
+        <div class="contact-item"><h3>{{ i18n "contact_email" }}</h3><p><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></p></div>
+        <div class="contact-item"><h3>{{ i18n "contact_pec" }}</h3><p>{{ site.Params.pec }}</p></div>
       </div>
     </div>
   </div>
 </section>
-
 {{ end }}

@@ -1,0 +1,87 @@
+{{ define "main" }}
+{{- $p := index (where hugo.Data.places "slug" .Params.place) 0 -}}
+{{- $v := partial "placevars.html" (dict "p" $p) -}}
+{{- $prof := index (index hugo.Data.profiles site.Language.Lang | default dict) $p.slug | default (index (index hugo.Data.profiles "it" | default dict) $p.slug) -}}
+{{- $hub := "" -}}
+{{- with site.GetPage "/logistica" }}{{ range .Pages }}{{ if eq .Params.subarea $p.subarea }}{{ $hub = . }}{{ end }}{{ end }}{{ end -}}
+<article class="section visible page-place">
+  <div class="container">
+    {{ $crumbs := slice (dict "name" (i18n "nav_areas") "url" (printf "%s/" site.Params.sec.logistica | relLangURL)) }}
+    {{ with $hub }}{{ $crumbs = $crumbs | append (dict "name" (partial "areaname.html" .) "url" .RelPermalink) }}{{ end }}
+    {{ partial "breadcrumbs.html" ($crumbs | append (dict "name" $p.name)) }}
+    <header class="page-header">
+      <span class="section-label">{{ i18n "place_label" }} · {{ $v.Area }}</span>
+      <h1>{{ .Title }}</h1>
+      <p class="lead">{{ if $p.island }}{{ i18n "place_lead_island" $v }}{{ else }}{{ i18n "place_lead" $v }}{{ with $v.Roads }} {{ i18n "place_route" $v }}{{ end }}{{ end }}</p>
+    </header>
+
+    <div class="place-grid">
+      <div class="place-main">
+        {{ partial "figure.html" (dict "key" (printf "places/%s" $p.slug) "alt" $p.name "eager" true) }}
+
+        {{ with $prof }}
+        <h2>{{ i18n "place_profile_title" $v }}</h2>
+        <p>{{ .profile }}</p>
+        {{ end }}
+
+        <h2>{{ i18n "place_services_title" $v }}</h2>
+        <p>{{ i18n "place_services_intro" $v }}</p>
+        <ul class="check-list">
+          <li><a href="{{ with site.GetPage "/servizi/stoccaggio" }}{{ .RelPermalink }}{{ end }}">{{ i18n "place_svc_storage" }}</a></li>
+          <li><a href="{{ with site.GetPage "/servizi/handling" }}{{ .RelPermalink }}{{ end }}">{{ i18n "place_svc_handling" }}</a></li>
+          <li><a href="{{ with site.GetPage "/servizi/trasporto" }}{{ .RelPermalink }}{{ end }}">{{ i18n "place_svc_transport" }}</a></li>
+          <li><a href="{{ with site.GetPage "/servizi/piazzali-scoperti" }}{{ .RelPermalink }}{{ end }}">{{ i18n "place_svc_yards" }}</a></li>
+          <li><a href="{{ with site.GetPage "/servizi/gestione-documentale" }}{{ .RelPermalink }}{{ end }}">{{ i18n "place_svc_docs" }}</a></li>
+        </ul>
+
+        {{ with $prof }}{{ with .sectors }}
+        <h2>{{ i18n "place_sectors_title" }}</h2>
+        <p>{{ i18n "place_sectors_text" $v }}</p>
+        <ul class="tag-list">
+          {{ range . }}{{ with site.GetPage (printf "/settori/%s" .) }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
+        </ul>
+        {{ end }}{{ end }}
+      </div>
+
+      <aside class="place-side">
+        <div class="data-card">
+          <h2>{{ i18n "place_data_title" $v }}</h2>
+          <dl class="data-list">
+            {{ if $p.island }}
+            <dt>{{ i18n "place_data_ferry" }}</dt><dd>{{ i18n "place_data_ferry_value" }}</dd>
+            {{ else }}
+            <dt>{{ i18n "place_data_road" }}</dt><dd>{{ $v.Km }} {{ i18n "km" }}</dd>
+            <dt>{{ i18n "place_data_time" }}</dt><dd>{{ $p.drive_min }} {{ i18n "min" }}</dd>
+            {{ with $v.Roads }}<dt>{{ i18n "place_data_roads" }}</dt><dd>{{ . }}</dd>{{ end }}
+            {{ end }}
+            <dt>{{ i18n "place_data_air" }}</dt><dd>{{ $v.Air }} {{ i18n "km" }}</dd>
+            {{ with $p.population }}<dt>{{ i18n "place_data_pop" }}</dt><dd>{{ lang.FormatNumber 0 . }}</dd>{{ end }}
+            {{ with $p.elevation }}<dt>{{ i18n "place_data_elev" }}</dt><dd>{{ . }} m</dd>{{ end }}
+            <dt>{{ i18n "place_data_area" }}</dt><dd>{{ with $hub }}<a href="{{ .RelPermalink }}">{{ $v.Area }}</a>{{ else }}{{ $v.Area }}{{ end }}</dd>
+          </dl>
+          <p class="data-note">{{ i18n "place_data_note" }}</p>
+        </div>
+        <div class="map-box">
+          <h2 class="visually-hidden">{{ i18n "map_title" }}</h2>
+          <div class="leaflet-map" data-map='{{ dict "hub" (slice site.Params.lat site.Params.lon) "hubName" (i18n "map_hub") "points" (slice (dict "n" $p.name "c" (slice $p.lat $p.lon))) | jsonify }}'></div>
+          <p class="map-note">{{ i18n "map_note" }}</p>
+        </div>
+      </aside>
+    </div>
+
+    {{ partial "faq.html" (partial "placefaq.html" (dict "p" $p)) }}
+
+    <section class="nearby">
+      <h2>{{ i18n "place_nearby_title" }}</h2>
+      <ul class="nearby-list">
+        {{ range $p.nearby }}{{ $o := index (where hugo.Data.places "slug" .) 0 }}{{ with site.GetPage (printf "/logistica/%s" .) }}
+        <li><a href="{{ .RelPermalink }}"><strong>{{ $o.name }}</strong> <span>{{ if $o.island }}{{ i18n "place_data_ferry_value" }}{{ else }}{{ lang.FormatNumber 1 $o.road_km }} {{ i18n "km" }} · {{ $o.drive_min }} {{ i18n "min" }}{{ end }}</span></a></li>
+        {{ end }}{{ end }}
+      </ul>
+      {{ with $hub }}<p><a href="{{ .RelPermalink }}" class="text-link">{{ i18n "place_hub_link" $v }} &rarr;</a></p>{{ end }}
+    </section>
+
+    {{ partial "cta.html" . }}
+  </div>
+</article>
+{{ end }}

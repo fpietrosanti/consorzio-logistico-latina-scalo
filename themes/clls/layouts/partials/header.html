@@ -1,27 +1,40 @@
+{{- $s := site.Params.sec -}}
+<a class="skip-link" href="#main">{{ i18n "skip_to_content" }}</a>
 <header class="site-header" id="top">
-  <nav class="nav-container">
-    <a href="#top" class="logo-link">
+  <nav class="nav-container" aria-label="{{ i18n "nav_menu" }}">
+    <a href="{{ "" | relLangURL }}" class="logo-link">
       {{ partial "logo.html" . }}
       <span class="logo-text">Consorzio Logistico<br><strong>Latina Scalo</strong></span>
     </a>
-    <button class="nav-toggle" aria-label="Menu" aria-expanded="false">
-      <span></span><span></span><span></span>
-    </button>
+    <button class="nav-toggle" aria-label="{{ i18n "nav_menu" }}" aria-expanded="false"><span></span><span></span><span></span></button>
     <ul class="nav-menu">
-      <li><a href="/#chi-siamo">Chi Siamo</a></li>
-      <li class="nav-dropdown">
-        <a href="/#servizi">Servizi</a>
+      <li class="nav-dropdown"><a href="{{ printf "%s/" $s.servizi | relLangURL }}">{{ i18n "nav_services" }}</a>
         <ul class="nav-sub">
-          <li><a href="/servizi/stoccaggio/">Stoccaggio</a></li>
-          <li><a href="/servizi/handling/">Warehouse Handling</a></li>
-          <li><a href="/servizi/trasporto/">Trasporto</a></li>
-          <li><a href="/servizi/logistica-3pl/">Logistica 3PL</a></li>
+          {{- with site.GetPage "/servizi" }}{{ range .Pages.ByWeight }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
         </ul>
       </li>
-      <li><a href="/#area-logistica">Area Logistica</a></li>
-      <li><a href="/settori/">Settori</a></li>
-      <li><a href="/posizione/">Dove Siamo</a></li>
-      <li><a href="/#contatti" class="nav-cta">Contatti</a></li>
+      <li><a href="{{ printf "%s/" $s.settori | relLangURL }}">{{ i18n "nav_sectors" }}</a></li>
+      <li class="nav-dropdown"><a href="{{ printf "%s/" $s.logistica | relLangURL }}">{{ i18n "nav_areas" }}</a>
+        <ul class="nav-sub">
+          {{- with site.GetPage "/logistica" }}{{ range (where .Pages "Params.layout" "area").ByWeight }}<li><a href="{{ .RelPermalink }}">{{ partial "areaname.html" . }}</a></li>{{ end }}{{ end }}
+        </ul>
+      </li>
+      <li><a href="{{ printf "%s/" $s.approfondimenti | relLangURL }}">{{ i18n "nav_insights" }}</a></li>
+      <li><a href="{{ printf "%s/" $s.posizione | relLangURL }}">{{ i18n "nav_location" }}</a></li>
+      <li><a href="{{ "" | relLangURL }}#contatti" class="nav-cta">{{ i18n "nav_contact" }}</a></li>
+      <li class="nav-lang">
+        <details class="lang-switch">
+          <summary aria-label="{{ i18n "lang_label" }}">{{ upper site.Language.Lang }}</summary>
+          <ul>
+            {{- range site.Languages }}
+            {{- $lang := .Lang }}
+            {{- $href := cond (eq $lang "it") "/" (printf "/%s/" $lang) }}
+            {{- range $.AllTranslations }}{{ if eq .Language.Lang $lang }}{{ $href = .RelPermalink }}{{ end }}{{ end }}
+            <li><a href="{{ $href }}" hreflang="{{ $lang }}" lang="{{ $lang }}"{{ if eq $lang site.Language.Lang }} aria-current="true"{{ end }}>{{ .Label }}</a></li>
+            {{- end }}
+          </ul>
+        </details>
+      </li>
     </ul>
   </nav>
 </header>

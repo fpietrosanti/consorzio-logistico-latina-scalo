@@ -1,0 +1,5 @@
+{{- /* ctx: slice of dict name/url (last = current page) */ -}}
+<nav class="breadcrumbs" aria-label="{{ i18n "breadcrumb_label" }}">
+  <a href="{{ "" | relLangURL }}">{{ i18n "nav_home" }}</a>
+  {{- range . }} <span aria-hidden="true">/</span> {{ if .url }}<a href="{{ .url }}">{{ .name }}</a>{{ else }}<span>{{ .name }}</span>{{ end }}{{ end }}
+</nav>

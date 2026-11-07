@@ -1,0 +1,5 @@
+{{- if .IsHome -}}{{ i18n "home_title" }}
+{{- else -}}
+{{- $t := .Title -}}
+{{- if lt (len $t) 48 }}{{ $t }} | Consorzio Logistico Latina Scalo{{ else }}{{ $t }}{{ end -}}
+{{- end -}}

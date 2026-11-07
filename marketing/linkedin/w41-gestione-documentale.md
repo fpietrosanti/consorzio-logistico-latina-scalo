@@ -2,38 +2,30 @@
 week: 41
 date: "2027-07-13"
 pillar: "Servizi"
-title: "Gestione documentale e bolle di accompagnamento"
+title: "Gestione documentale: DDT, bolle e tracciabilità delle spedizioni"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-📋 **Gestione documentale: il cuore invisibile della logistica efficiente**
+Ogni movimento di merce in un magazzino conto terzi produce documenti: all'ingresso il documento di trasporto del fornitore, in uscita il DDT emesso per conto del committente, nelle spedizioni internazionali su strada la lettera di vettura CMR.
 
-Quante volte un errore su un DDT ha bloccato una spedizione? Quante ore perse a cercare una bolla di accompagnamento tra pile di carta?
+Il Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), gestisce per i committenti:
+- il controllo del DDT in ingresso e l'annotazione di eventuali riserve sul documento del vettore;
+- l'emissione dei documenti di trasporto e delle bolle in uscita;
+- la tracciabilità delle spedizioni;
+- l'integrazione con i gestionali del committente per lo scambio di ordini e conferme.
 
-Al Consorzio Logistico Latina Scalo abbiamo digitalizzato l'intero ciclo documentale per garantire ai nostri clienti **zero ritardi burocratici** e **tracciabilita completa** su ogni movimento merce.
+I documenti sono collegati alle registrazioni del WMS: a ogni uscita corrispondono articoli, quantità e, quando il committente lo richiede, lotti prelevati. Quando magazzino e trasporto sono affidati allo stesso operatore, il documento viene emesso al momento del carico e la consegna è registrata nello stesso sistema.
 
-🔹 **DDT digitali in tempo reale** — Ogni documento di trasporto viene generato, validato e archiviato elettronicamente. Niente piu copie smarrite, niente piu errori di trascrizione.
+Formati, intestazioni e dati da riportare si concordano in fase di avvio.
 
-🔹 **Compliance normativa garantita** — I nostri sistemi rispettano tutti i requisiti fiscali e doganali italiani ed europei, inclusi gli obblighi per le merci in transito nella ZLS del Lazio.
+L'approfondimento su DDT e CMR: https://consorziologistico.it/approfondimenti/documenti-trasporto-merci-ddt-cmr/
 
-🔹 **Tracciabilita end-to-end** — Dal momento in cui la merce entra nei nostri 19.000 mq coperti fino alla consegna finale, ogni passaggio e documentato e consultabile online.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🔹 **Integrazione con i vostri ERP** — I flussi documentali si sincronizzano con i principali gestionali aziendali, eliminando la doppia digitazione e riducendo gli errori umani.
-
-🔹 **Archiviazione a norma** — Conservazione sostitutiva conforme, con accesso immediato allo storico per audit, controlli e contenziosi.
-
-Per i settori **agroalimentare** e **farmaceutico**, dove la documentazione di accompagnamento e un obbligo critico, questo significa tranquillita operativa e conformita costante.
-
-La logistica paperless non e il futuro: e il presente. E chi non si adegua, resta indietro.
-
-📍 Via della Dinamica Snc, Zona Tor Tre Ponti, Latina Scalo — a soli 60 km da Roma
-
-👉 Vuoi vedere come funziona il nostro sistema documentale? Scrivici su WhatsApp: wa.me/390773316008
-
-#LogisticaDigitale #GestioneDocumentale #DDT #Warehouse #SupplyChain #3PL #LatinaScalo #ZonaLogisticaSemplificata #LogisticaItalia #Tracciabilita #PaperlessLogistics #ConsorzioLogistico
+#DDT #logistica #tracciabilita #trasporto #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un operatore al terminale digitale nel magazzino, con tablet in mano che mostra un DDT elettronico. Sullo sfondo, scaffalature industriali con merce pallettizzata. Toni professionali, luce naturale dal capannone. Overlay grafico con icone di documenti digitali e frecce di flusso.
+Foto di repertorio `topics/pallet` (data/images.json): pallet con etichetta di spedizione. Non è una foto del polo: non presentarla come tale.

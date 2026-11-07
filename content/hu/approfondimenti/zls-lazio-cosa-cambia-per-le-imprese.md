@@ -1,6 +1,6 @@
 ---
 title: "A lazioi ZLS: lehatárolás, adójóváírás és eljárások a vállalatok számára"
-description: "A lazioi ZLS 64 települést érint, ebből 15 Latina megyében. 2026–2028-as adójóváírás, 107.3.c területek, kataszteri helyrajzi szám és SUAP: mit kell ellenőrizni."
+description: "A lazioi ZLS 64 települést érint, ebből 15 Latina megyében. 2026–2028-as adójóváírás, 107.3.c területek, kataszteri földrészlet és SUAP: mit kell ellenőrizni."
 date: 2026-10-05
 url: "/hu/elemzesek/lazioi-zls-mi-valtozik-a-vallalatoknak/"
 layout: "articolo"

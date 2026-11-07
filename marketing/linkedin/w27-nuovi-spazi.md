@@ -2,34 +2,28 @@
 week: 27
 date: "2027-04-06"
 pillar: "Spazi"
-title: "Espansione: nuovi spazi in arrivo a Latina Scalo"
+title: "ZLS del Lazio: cosa prevede per le imprese della provincia di Latina"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-📐 Il Consorzio Logistico Latina Scalo cresce. E quando cresce un hub logistico, crescono le opportunità per chi ci lavora dentro.
+La Zona Logistica Semplificata (ZLS) del Lazio, istituita con DPCM del 17 novembre 2025, comprende 64 comuni, di cui 15 in provincia di Latina. Il Comune di Latina è tra i 15 comuni pontini inclusi in parte nella ZLS, per circa 280 ettari individuati su base catastale.
 
-Stiamo ampliando la nostra capacità operativa con nuovi spazi che si aggiungeranno ai 19.000 mq coperti e ai 25.000 mq scoperti già attivi. Una risposta concreta alla domanda crescente di superfici logistiche nel Lazio meridionale.
+Che cosa prevede il regime:
+- nelle aree ZLS ammissibili agli aiuti a finalità regionale, un credito d'imposta sugli investimenti in beni strumentali, prorogato per gli anni 2026–2028;
+- procedure amministrative semplificate e uno sportello unico (SUAP) dedicato.
 
-Cosa significa per le aziende:
+L'accesso al credito d'imposta dipende dalla particella catastale dell'investimento e richiede una comunicazione preventiva all'Agenzia delle Entrate. La verifica va quindi fatta sul singolo lotto, non sul comune.
 
-🔹 Nuove aree coperte disponibili per stoccaggio dedicato o condiviso
-🔹 Ampliamento dei piazzali per materiali voluminosi e container
-🔹 Ulteriori banchine di carico per aumentare la capacità di movimentazione
-🔹 Spazi modulabili: da 500 mq fino a interi capannoni
-🔹 Possibilità di entrare prima che gli spazi siano occupati — chi si muove adesso sceglie
+In provincia di Latina la ZLS interessa, tra gli altri, Aprilia, Cisterna di Latina, Latina, Pontinia, Sermoneta, Sezze, Fondi, Formia e Gaeta. La ZLS del Lazio comprende anche i porti di Civitavecchia, Fiumicino e Gaeta.
 
-L'espansione non nasce dal caso. Nasce dalla constatazione che la zona Tor Tre Ponti di Latina Scalo sta diventando un polo logistico di riferimento per il Centro Italia. La vicinanza a Roma (60 km), al Porto di Gaeta (40 km) e all'aeroporto di Fiumicino (80 km), combinata con i vantaggi della ZLS del Lazio, rende questa area sempre più attrattiva per operatori nazionali e internazionali.
+Il Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), ha raccolto norme, perimetro e adempimenti in un approfondimento: https://consorziologistico.it/approfondimenti/zls-lazio-cosa-cambia-per-le-imprese/
 
-Se la tua azienda sta cercando una base logistica nel Lazio — o sta pensando di trasferire operazioni dal quadrante romano per ridurre i costi — questo è il momento giusto per parlarne.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Gli spazi nuovi non restano vuoti a lungo.
-
-👉 Prenota una visita: consorziologistico.it oppure WhatsApp wa.me/390773316008
-
-#espansione #nuovispazi #logistica #warehouse #latinascalo #lazio #ZLS #immobiliarelogistico #B2B #crescita
+#ZLS #Lazio #logistica #impresa #latina
 
 ## Suggerimento Immagine
 
-Rendering o foto di un cantiere/nuova struttura in costruzione accanto ai capannoni esistenti. Oppure planimetria con le nuove aree evidenziate in un colore diverso. Sovrimpressione: "Nuovi spazi in arrivo | Prenota il tuo."
+Foto di repertorio `topics/agro-pontino` (data/images.json): paesaggio della pianura pontina. Didascalia con fonte e autore come da data/images.json. Non sovrapporre mappe che facciano intendere l'inclusione del polo nella ZLS.

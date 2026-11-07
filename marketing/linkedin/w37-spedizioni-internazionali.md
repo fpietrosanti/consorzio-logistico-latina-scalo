@@ -2,36 +2,26 @@
 week: 37
 date: "2027-06-15"
 pillar: "Servizi"
-title: "Spedizioni internazionali e doganali"
+title: "Fiumicino e i nodi di Roma per le spedizioni internazionali delle imprese pontine"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Il vostro prodotto e pronto. Il mercato internazionale vi aspetta. Ma tra la vostra merce e il cliente finale ci sono dogane, documentazione, tempi di transito e costi da ottimizzare.
+Per le imprese della provincia di Latina che spediscono all'estero, i nodi di riferimento nel Lazio sono l'aeroporto di Fiumicino e i porti del sistema di Civitavecchia, Fiumicino e Gaeta. Roma Fiumicino è il primo aeroporto italiano per passeggeri; per le merci il primo è Milano Malpensa. Accanto allo scalo opera la Cargo City, dedicata al traffico merci aereo.
 
-Al Consorzio Logistico Latina Scalo trasformiamo la complessita delle spedizioni internazionali in un processo fluido e gestito.
+La ZLS del Lazio comprende i porti di Civitavecchia, Fiumicino e Gaeta. Civitavecchia è il principale porto del Lazio, con traffici Ro-Ro, automotive e una crescente vocazione per il freddo.
 
-🌍 **Spedizioni via mare** — a soli 40 km dal **Porto di Gaeta**, garantiamo un collegamento rapido con le rotte mediterranee e intercontinentali. Consolidamento container, groupage e gestione FCL/LCL
+Dal polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), Fiumicino dista circa 89,5 km su strada, circa 86 minuti in auto in traffico regolare; Gaeta circa 70,1 km. Per i mezzi pesanti i tempi sono più lunghi.
 
-✈️ **Spedizioni via aerea** — 80 km dall'aeroporto di **Fiumicino** per le spedizioni urgenti e ad alto valore. Coordinamento con handler aeroportuali e corrieri espressi
+Il Consorzio cura stoccaggio, preparazione delle spedizioni, pallettizzazione, etichettatura e trasporto su gomma con flotta dedicata fino al punto di consegna indicato dal committente, con la relativa gestione documentale. Le pratiche doganali restano a cura dello spedizioniere o del doganalista scelto dal committente.
 
-🛃 **Supporto doganale** — assistenza nella preparazione della documentazione per import/export, classificazione merci, regimi doganali e certificati di origine
+La pagina dedicata a Fiumicino: https://consorziologistico.it/logistica/fiumicino/
 
-📍 **Vantaggio ZLS** — operiamo all'interno della **Zona Logistica Semplificata del Lazio**, che offre semplificazioni amministrative e agevolazioni per le operazioni di commercio internazionale
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🚛 **Distribuzione terrestre** — posizione baricentrica tra Roma (60 km) e Napoli (150 km), con accesso diretto alla rete autostradale per la distribuzione nell'Italia centrale e meridionale
-
-La nostra esperienza copre i settori piu esigenti: farmaceutico, chimico, automotive, tessile e agroalimentare. Ogni filiera ha le sue regole, i suoi documenti, i suoi tempi — e noi li conosciamo.
-
-Non vi offriamo solo metri quadri. Vi offriamo un hub logistico integrato dove stoccaggio, gestione ordini e spedizione internazionale convergono in un unico punto, eliminando passaggi intermedi e riducendo i tempi di consegna.
-
-**Pronte le vostre merci per varcare i confini?**
-Parliamone — scriveteci su WhatsApp per una proposta su misura 👇
-📱 wa.me/390773316008
-
-#SpedizioniInternazionali #Dogane #ImportExport #LogisticaInternazionale #PortoDiGaeta #Fiumicino #ZLS #ZonaLogisticaSemplificata #3PL #LogisticaLatina #ConsorzioLogistico #LatinaScalo #CommercioEstero #SupplyChain #Groupage #MadeInItaly
+#export #fiumicino #logistica #trasporto #latinascalo
 
 ## Suggerimento Immagine
 
-Mappa stilizzata del Centro Italia con evidenziati Latina Scalo, Roma, Porto di Gaeta, Fiumicino e Napoli, collegati da linee tratteggiate. In primo piano un container con bandiere internazionali o un globo con frecce di spedizione. Stile infografico, pulito, con colori aziendali.
+Foto di repertorio `topics/polo-logistico-aereo` (data/images.json): area cargo aeroportuale. Didascalia con fonte e autore come da data/images.json; non presentarla come foto del polo del Consorzio.

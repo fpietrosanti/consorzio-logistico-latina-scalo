@@ -2,34 +2,30 @@
 week: 23
 date: "2027-03-09"
 pillar: "Spazi"
-title: "Capannoni dedicati: il tuo magazzino, la nostra gestione"
+title: "Capannone dedicato: un modulo del polo riservato a un solo committente"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-🏭 Quando un'azienda cresce, lo spazio condiviso non basta più. Servono aree dedicate, su misura, con accesso riservato e operatività autonoma.
+Per i committenti con volumi stabili il Consorzio Logistico Latina Scalo può assegnare un capannone dedicato all'interno del polo di Via della Dinamica, a Latina Scalo (LT). La superficie coperta, 19.000 metri quadrati, è divisa in capannoni modulari da 500 a 3.000 metri quadrati ciascuno, con altezza utile fino a 10 metri e predisposizione per scaffalature portapallet.
 
-Al Consorzio Logistico Latina Scalo offriamo capannoni dedicati all'interno dei nostri 19.000 mq coperti — spazi esclusivi che il cliente gestisce come un magazzino proprio, con il supporto della nostra infrastruttura.
+Nel capannone dedicato:
+- la superficie si sceglie tra moduli da 500 a 3.000 metri quadrati;
+- configurazione delle scaffalature e aree di preparazione si progettano sui flussi del committente;
+- regole di allocazione e di prelievo sono definite in fase di avvio e gestite nel WMS;
+- restano comuni i servizi del polo: piazzali, baie coperte, controllo accessi, videosorveglianza perimetrale, impianti antincendio e antintrusione.
 
-Cosa significa in concreto:
+L'alternativa è una porzione di magazzino multicliente, adatta a volumi contenuti o variabili. La scelta tra le due formule si rivede in base all'andamento dei volumi.
 
-🔹 Area segregata con accesso controllato e indipendente
-🔹 Scaffalature configurate sulle esigenze specifiche del cliente
-🔹 Banchine di carico dedicate per flussi in entrata e uscita senza interferenze
-🔹 Possibilità di personalizzazione: temperatura controllata, aree picking, zone di preparazione ordini
-🔹 Contratti flessibili da 12 mesi con opzione di espansione
+Il Consorzio riunisce cinque aziende, con oltre 50 anni di esperienza complessiva, e può affiancare allo stoccaggio movimentazione, trasporto e gestione documentale.
 
-Per le aziende che hanno bisogno di una presenza logistica nel Centro Italia senza l'investimento di una struttura propria, il capannone dedicato è la soluzione ideale. Si hanno tutti i vantaggi di uno stabilimento di proprietà — riservatezza, controllo, personalizzazione — senza i costi fissi dell'immobiliare.
+Scheda dello stoccaggio: https://consorziologistico.it/servizi/stoccaggio/
 
-E il vantaggio competitivo della ZLS del Lazio si applica anche qui: un quadro normativo semplificato per le imprese che scelgono Latina Scalo come base operativa.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Abbiamo già clienti che operano con capannoni dedicati nei settori agroalimentare, farmaceutico e automotive. Lo spazio c'è. La flessibilità anche.
-
-👉 Parliamo del tuo progetto: consorziologistico.it oppure WhatsApp wa.me/390773316008
-
-#capannone #magazzinodedicato #logistica #warehousing #affitto #latinascalo #lazio #ZLS #3PL #B2B
+#magazzino #capannoni #stoccaggio #logistica #latinascalo
 
 ## Suggerimento Immagine
 
-Interno di un capannone dedicato con scaffalature industriali ordinate, area di lavoro ben illuminata e segnaletica di sicurezza. Ambiente pulito e organizzato. Eventuale carrello elevatore in movimento per dare senso di scala. Sovrimpressione: "Il tuo spazio. La nostra infrastruttura."
+Foto di repertorio `topics/magazzino-interno` (data/images.json): interno di un capannone con scaffalature. Non è una foto del polo: non presentarla come tale.

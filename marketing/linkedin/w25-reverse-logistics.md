@@ -2,54 +2,42 @@
 week: 25
 date: "2027-03-23"
 pillar: "Servizi"
-title: "Gestione resi e reverse logistics: il viaggio di ritorno conta"
+title: "Bretella Cisterna–Valmontone: il cantiere avviato a ottobre 2026"
 languages: ["it", "en"]
 ---
 
 ## Post LinkedIn — Italiano
 
-🔄 Il reso non è un fallimento. È una parte strutturale della supply chain moderna — e gestirlo male costa più della vendita stessa.
+Dall'ottobre 2026 è in costruzione la bretella Cisterna–Valmontone, che collegherà la Pontina all'A1 all'altezza di Valmontone. I lavori sono partiti dal cantiere di Campoverde.
 
-Al Consorzio Logistico Latina Scalo abbiamo costruito un processo di reverse logistics che trasforma i resi da problema a opportunità:
+La bretella sarà una strada extraurbana principale, senza pedaggio, con svincoli a Campoverde, Cisterna di Latina, Lariano e Labico. Non è nota una data di apertura.
 
-🔹 Ricezione e verifica della merce resa con controllo qualità
-🔹 Classificazione: rivendibile, da ricondizionare, da smaltire
-🔹 Reinserimento a stock dei prodotti conformi con aggiornamento inventario in tempo reale
-🔹 Gestione documentale e riconciliazione contabile per ogni reso
-🔹 Smaltimento o reindirizzamento dei prodotti non conformi
+Oggi i caselli A1 di riferimento per i mezzi pesanti in partenza da Latina Scalo sono Valmontone e Colleferro, raggiungibili sulla viabilità ordinaria, e Frosinone, attraverso la SS156 dei Monti Lepini. Il progetto dell'autostrada Roma–Latina è in fase di revisione: la Pontina resta l'asse principale tra Roma e Latina.
 
-Per chi opera nell'e-commerce, i resi possono rappresentare il 20-30% degli ordini. Per l'automotive, i ricambi difettosi hanno procedure di ritorno rigide. Per il farmaceutico, la tracciabilità del reso è un obbligo normativo.
+Dal polo del Consorzio Logistico Latina Scalo, in Via della Dinamica, le distanze su strada sono di circa 14,8 km per Cisterna di Latina, 39,9 km per Valmontone e 42,4 km per Colleferro. Il Consorzio esegue trasporto su gomma con flotta dedicata e consegne B2B sul territorio nazionale.
 
-In ogni caso, serve un partner che sappia gestire il flusso inverso con la stessa precisione di quello diretto.
+L'approfondimento con i dati del progetto: https://consorziologistico.it/approfondimenti/bretella-cisterna-valmontone-pontina/
 
-Il nostro hub di Latina Scalo, all'interno della ZLS del Lazio, è attrezzato per ricevere, ispezionare, classificare e ridistribuire merce resa da tutta Italia. E la posizione — baricentrica tra Roma, Napoli e il Porto di Gaeta — consente di consolidare i resi in un unico punto e da lì gestire il recupero del valore.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-La reverse logistics fatta bene non è un costo. È un vantaggio competitivo.
-
-👉 Vuoi ottimizzare la gestione dei tuoi resi? consorziologistico.it oppure WhatsApp wa.me/390773316008
-
-#reverselogistics #resi #ecommerce #supplychain #logistica #returns #latinascalo #lazio #3PL #warehouse
+#infrastrutture #pontina #A1 #trasporto #latinascalo
 
 ## Post LinkedIn — English
 
-🔄 Returns are not a failure. They are a structural part of the modern supply chain — and managing them poorly costs more than the sale itself.
+Since October 2026 the Cisterna–Valmontone link road has been under construction. It will connect the Pontina to the A1 motorway near Valmontone. Works started from the Campoverde site.
 
-At Consorzio Logistico Latina Scalo, we have built a reverse logistics process that turns returns from a problem into an opportunity:
+The road will be a toll-free main extra-urban road, with junctions at Campoverde, Cisterna di Latina, Lariano and Labico. No opening date is known.
 
-🔹 Receiving and inspecting returned goods with quality control
-🔹 Classification: resaleable, to refurbish, to dispose
-🔹 Restocking of compliant products with real-time inventory updates
-🔹 Documentation and accounting reconciliation for every return
-🔹 Disposal or redirection of non-compliant products
+Today the A1 toll gates used by heavy vehicles leaving Latina Scalo are Valmontone and Colleferro, via ordinary roads, and Frosinone, via the SS156 Monti Lepini road. The Rome–Latina motorway project is under review: the Pontina remains the main route between Rome and Latina.
 
-For e-commerce operators, returns can represent 20-30% of orders. For automotive, defective parts follow strict return procedures. For pharma, return traceability is a regulatory obligation.
+From the Consorzio Logistico Latina Scalo site in Via della Dinamica, road distances are about 14.8 km to Cisterna di Latina, 39.9 km to Valmontone and 42.4 km to Colleferro. The Consortium provides road transport with a dedicated fleet and B2B deliveries across Italy.
 
-Our hub in Latina Scalo — 60 km from Rome, 40 km from the Port of Gaeta — is equipped to receive, inspect, classify, and redistribute returned goods from across Italy.
+Background article (Italian): https://consorziologistico.it/approfondimenti/bretella-cisterna-valmontone-pontina/
 
-👉 Want to optimize your returns management? consorziologistico.it or WhatsApp wa.me/390773316008
+Information and quotes: consorziologistico.it, WhatsApp +39 0773 316008.
 
-#reverselogistics #returns #ecommerce #supplychain #logistics #3PL #warehouse #Italy #Lazio
+#infrastructure #pontina #A1 #transport #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un'area di ispezione resi: tavolo di lavoro con prodotti in fase di verifica, operatore con tablet per la registrazione. Sullo sfondo scaffalature con merce già classificata. Sovrimpressione: "Reverse Logistics | Il valore si recupera."
+Foto di repertorio `topics/centro-distribuzione` (data/images.json): mezzi pesanti in movimento. Non è una foto del polo né del cantiere: non presentarla come tale. In alternativa una mappa schematica del tracciato con le sole località citate nel testo, senza date.

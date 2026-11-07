@@ -1,6 +1,6 @@
 ---
 title: "Cisterna-Valmontone: ruszyła budowa. Co się zmienia dla przewozów towarów"
-description: "Łącznik Cisterna-Valmontone w budowie od października 2026, Pontina zarządzana przez ANAS, przetarg na Roma-Latina: stan inwestycji i wpływ na przepływy towarów."
+description: "Łącznik Cisterna-Valmontone w budowie od października 2026, Pontina zarządzana przez ANAS, przetarg na Roma-Latina: stan prac i wpływ na przepływy towarów."
 date: 2026-10-27
 url: "/pl/analizy/lacznik-cisterna-valmontone-pontina/"
 layout: "articolo"

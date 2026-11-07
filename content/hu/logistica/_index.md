@@ -1,7 +1,7 @@
 ---
 linkTitle: "Kiszolgált térségek"
 title: "Kiszolgált térségek: logisztika Latina, Róma Dél és Róma számára"
-description: "A Latina Scalo-i logisztikai központ által kiszolgált térségek: Latina megye, Róma Dél települései és Róma déli negyedei, a telephelytől mért közúti távolságokkal."
+description: "A Latina Scalo-i logisztikai központ kiszolgált térségei: Latina megye, Róma Dél települései és Róma déli negyedei, a telephelytől mért közúti távolságokkal."
 url: "/hu/logisztika/"
 layout: "aree"
 image: "topics/agro-pontino"

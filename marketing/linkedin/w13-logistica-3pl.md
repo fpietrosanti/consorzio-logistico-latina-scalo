@@ -2,44 +2,30 @@
 week: 13
 date: "2026-12-30"
 pillar: "Servizi"
-title: "Logistica 3PL: un unico interlocutore per tutta la supply chain"
+title: "Logistica 3PL: un unico interlocutore per stoccaggio, movimentazione e trasporto"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Quanti fornitori servono per gestire la tua logistica? Il magazziniere, il trasportatore, lo spedizioniere, il servizio di picking, il fornitore di imballaggi, chi gestisce i resi...
+Il Consorzio Logistico Latina Scalo offre logistica conto terzi (3PL) con un unico interlocutore, dal ricevimento della merce alla consegna. Il polo di Via della Dinamica, a Latina Scalo (LT), conta 19.000 metri quadrati coperti e 25.000 metri quadrati scoperti.
 
-E se bastasse un solo interlocutore?
+Le attività che possono essere affidate:
+- stoccaggio a scaffale, a terra e su piazzale;
+- movimentazione: picking, packing, etichettatura, pallettizzazione e cross-docking;
+- trasporto su gomma con flotta dedicata, ultimo miglio e consegne B2B sul territorio nazionale;
+- gestione documentale: DDT, bolle, tracciabilità e integrazione con i gestionali del committente.
 
-Al Consorzio Logistico Latina Scalo offriamo servizi di logistica 3PL (Third-Party Logistics) integrata. Significa che il cliente ci affida la gestione dell'intera catena logistica — dalla ricezione della merce alla consegna al destinatario finale — e noi coordiniamo tutto internamente.
+Il Consorzio riunisce cinque aziende, con oltre 50 anni di esperienza complessiva. Per il committente il riferimento operativo resta uno solo, e giacenze, ordini e spedizioni sono registrati nello stesso WMS.
 
-Cosa comprende il nostro servizio 3PL:
+Le attività possono essere affidate tutte insieme oppure una per volta, per esempio partendo dallo stoccaggio e aggiungendo in seguito la preparazione degli ordini o il trasporto. Perimetro dei servizi, volumi previsti e modalità di inventario si definiscono nell'offerta.
 
-🔹 Ricezione e controllo merce in ingresso
-🔹 Stoccaggio su scaffalature dedicate o a terra
-🔹 Gestione inventario con sistema WMS in tempo reale
-🔹 Picking e preparazione ordini (singoli o massivi)
-🔹 Confezionamento, etichettatura, kitting
-🔹 Spedizione e distribuzione — corriere espresso, groupage o carico completo
-🔹 Gestione resi e logistica inversa
+Scheda del servizio: https://consorziologistico.it/servizi/logistica-3pl/
 
-I vantaggi concreti per il cliente:
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-✅ Un solo contratto, un solo referente, una sola fattura
-✅ Costi variabili invece di costi fissi — paghi per quello che movimenti
-✅ Scalabilita' immediata nei periodi di picco
-✅ Eliminazione degli investimenti in magazzino proprio, personale e attrezzature
-✅ Visibilita' completa sullo stock tramite portale dedicato
-
-📍 Il nostro hub a Latina Scalo, nella ZLS del Lazio, e' la base operativa ideale per aziende che distribuiscono nel Centro-Sud Italia senza voler gestire direttamente la logistica.
-
-Terziarizzare non significa perdere il controllo. Significa affidarlo a chi lo fa di mestiere.
-
-👉 Parliamone: consorziologistico.it o WhatsApp wa.me/390773316008
-
-#logistica3PL #terziarizzazione #outsourcing #supplychain #logisticaintegrata #magazzino #fulfillment #latinascalo #lazio #B2B
+#logistica3PL #contractlogistics #logistica #supplychain #latinascalo
 
 ## Suggerimento Immagine
 
-Infografica o schema visivo che mostri il flusso 3PL: ricezione -> stoccaggio -> picking -> packing -> spedizione, con il logo del consorzio al centro come unico punto di coordinamento. In alternativa, foto dell'area operativa con operatori in diverse fasi di lavoro simultanee. Tono professionale e integrato.
+Foto di repertorio `topics/carrelli-elevatori` (data/images.json): carrelli elevatori in un magazzino. Non è una foto del polo: non presentarla come tale.

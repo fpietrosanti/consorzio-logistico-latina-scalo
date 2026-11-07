@@ -2,68 +2,54 @@
 week: 7
 date: "2026-11-18"
 pillar: "Settore"
-title: "E-commerce fulfillment: dal magazzino di Latina Scalo al cliente finale in 24h"
+title: "E-commerce: evasione degli ordini dal polo di Latina Scalo"
 languages: ["it", "en"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Il tuo cliente ha ordinato alle 10 di mattina. Alle 18 il pacco è già in viaggio. Domani sarà consegnato.
+Il Consorzio Logistico Latina Scalo svolge per le aziende che vendono online le operazioni di magazzino e di spedizione nel polo di Via della Dinamica, a Latina Scalo (LT). Il sito si trova a circa 70 km su strada da Roma EUR e a circa 50 km da Pomezia.
 
-Questo è e-commerce fulfillment al Consorzio Logistico Latina Scalo. Non una promessa — un processo operativo rodato.
+Le operazioni disponibili:
+- ricevimento merci e stoccaggio su scaffalature industriali;
+- prelievo (picking) per ordine, per singoli clienti o per rivenditori;
+- packing ed etichettatura dei colli in uscita;
+- pallettizzazione per le spedizioni B2B;
+- trasporto su gomma con flotta dedicata e distribuzione dell'ultimo miglio;
+- gestione documentale e integrazione con i gestionali del committente.
 
-Ecco come funziona:
+Il magazzino lavora con un WMS, fibra ottica dedicata e Wi-Fi industriale. Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7; gli orari di taglio degli ordini e i ritiri dei corrieri si concordano con il committente.
 
-📦 RICEZIONE STOCK — La tua merce arriva nel nostro magazzino da 19.000 mq. La registriamo, la stocchiamo su scaffalature multi-livello e la rendiamo disponibile a sistema in tempo reale.
+I capannoni modulari, da 500 a 3.000 metri quadrati, permettono di assegnare superfici diverse in base ai volumi. Lo spazio aggiuntivo per i periodi di picco va concordato in fase di offerta.
 
-📋 ORDINE RICEVUTO — Il tuo e-commerce genera l'ordine. Il nostro WMS lo acquisisce e avvia il picking.
+Scheda del settore: https://consorziologistico.it/settori/ecommerce/
 
-🏷️ PREPARAZIONE — Prelievo, controllo qualità, confezionamento. Se richiesto, packaging personalizzato con il tuo brand. Etichettatura e documentazione di spedizione generate automaticamente.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🚚 SPEDIZIONE — Affidamento al corriere entro la giornata. Tracking attivo dal momento del ritiro. Copertura nazionale con consegna in 24-48h sulla maggior parte del territorio italiano.
-
-Perché Latina Scalo per il tuo fulfillment?
-
-🔹 60 km da Roma — costi di ultimo miglio più bassi rispetto ai magazzini della Capitale
-🔹 SS148 Pontina — collegamento diretto, zero pedaggi
-🔹 Zona Logistica Semplificata (ZLS) — vantaggi fiscali per le imprese
-🔹 Flessibilità — gestiamo da poche decine a migliaia di spedizioni al giorno
-
-Non hai bisogno di un magazzino tuo. Hai bisogno di un partner che spedisca come se lo fosse.
-
-👉 Attiva il tuo fulfillment: consorziologistico.it o scrivici su WhatsApp.
-
-#ecommerce #fulfillment #logistica #spedizioni #lastmile #magazzino #latinascalo #B2B
+#ecommerce #fulfillment #logistica #magazzino #latinascalo
 
 ## Post LinkedIn — English
 
-Your customer ordered at 10 AM. By 6 PM, the parcel is on its way. Tomorrow, it will be delivered.
+Consorzio Logistico Latina Scalo handles warehousing and shipping for online sellers at its site in Via della Dinamica, Latina Scalo (LT), about 70 km by road from Rome EUR and about 50 km from Pomezia.
 
-This is e-commerce fulfillment at Consorzio Logistico Latina Scalo. Not a promise — a proven operational process.
+Available operations:
+- goods receiving and storage on industrial racking;
+- order picking, for individual customers or for resellers;
+- packing and labelling of outgoing parcels;
+- palletisation for B2B shipments;
+- road transport with a dedicated fleet and last-mile distribution;
+- document management and integration with the client's management software.
 
-Here's how it works:
+The warehouse runs on a WMS, with dedicated fibre and industrial Wi-Fi. The Consortium states that it operates 24 hours a day, 7 days a week; order cut-off times and carrier pick-ups are agreed with each client.
 
-📦 STOCK RECEIVING — Your goods arrive at our 19,000 sqm warehouse. We register, store them on multi-level racking, and make them available in the system in real time.
+Modular warehouses of 500 to 3,000 square metres allow space to be allocated according to volumes. Additional space for peak periods is agreed at quotation stage.
 
-📋 ORDER RECEIVED — Your e-commerce platform generates the order. Our WMS picks it up and triggers the picking process.
+Sector page: https://consorziologistico.it/settori/ecommerce/
 
-🏷️ PREPARATION — Picking, quality check, packing. Branded packaging available on request. Shipping labels and documentation generated automatically.
+Information and quotes: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🚚 DISPATCH — Handed to the carrier within the same day. Active tracking from pickup. Nationwide coverage with 24-48h delivery across most of Italy.
-
-Why Latina Scalo for your fulfillment?
-
-🔹 60 km from Rome — lower last-mile costs compared to warehouses in the capital
-🔹 SS148 Pontina motorway — direct connection, zero tolls
-🔹 Simplified Logistics Zone (ZLS) — tax advantages for businesses
-🔹 Flexibility — we handle from a few dozen to thousands of shipments per day
-
-You don't need your own warehouse. You need a partner who ships as if it were.
-
-👉 Activate your fulfillment: consorziologistico.it or message us on WhatsApp.
-
-#ecommerce #fulfillment #logistics #shipping #lastmile #warehousing #Italy #B2B
+#ecommerce #fulfillment #logistics #warehousing #latinascalo
 
 ## Suggerimento Immagine
 
-Carousel a 4 slide che segua il flusso visivo dell'ordine: (1) Schermata stilizzata di un ordine e-commerce in arrivo; (2) Operatore che preleva il prodotto dalla scaffalatura con palmare; (3) Pacco confezionato con etichetta di spedizione sul nastro trasportatore; (4) Furgone corriere in partenza dal piazzale del Consorzio. Stile dinamico, colori brand, CTA finale.
+Foto di repertorio `topics/inventario-barcode` (data/images.json): lettura di un codice a barre in magazzino. Non è una foto del polo: non presentarla come tale.

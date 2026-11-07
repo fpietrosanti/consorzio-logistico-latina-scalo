@@ -2,38 +2,28 @@
 week: 11
 date: "2026-12-16"
 pillar: "Spazi"
-title: "Dal singolo pallet al capannone intero: contratti flessibili per ogni esigenza"
+title: "Capannoni modulari da 500 a 3.000 metri quadrati, altezza utile fino a 10 metri"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Hai bisogno di 10 posti pallet per tre mesi? Oppure di 2.000 mq coperti con contratto annuale? Al Consorzio Logistico Latina Scalo la risposta e' la stessa: si puo' fare.
+La superficie coperta del Consorzio Logistico Latina Scalo, 19.000 metri quadrati in Via della Dinamica a Latina Scalo (LT), è divisa in capannoni modulari da 500 a 3.000 metri quadrati ciascuno. L'altezza utile arriva a 10 metri e i capannoni sono predisposti per scaffalature portapallet.
 
-La logistica non e' uguale per tutti. I volumi cambiano, le stagionalita' pesano, le aziende crescono (o ridimensionano). Per questo offriamo formule contrattuali che si adattano al business reale, non il contrario.
+La modularità consente due formule:
+- una porzione di magazzino multicliente, per volumi contenuti o variabili;
+- un capannone dedicato, per volumi stabili e procedure proprie del committente.
 
-Le nostre opzioni:
+Le merci pallettizzate sono collocate su scaffalature industriali e l'altezza utile permette di sviluppare la capacità in verticale. Numero di livelli e configurazione delle campate si stabiliscono in fase di progetto, in base a dimensioni e peso delle unità di carico. Colli fuori formato, bobine e imballi voluminosi sono stoccati a terra in aree delimitate.
 
-🔹 Singolo pallet — ideale per microimprese, e-commerce in fase di lancio, stoccaggio temporaneo
-🔹 Area dedicata — da 50 a 500 mq, con scaffalature assegnate e accesso riservato
-🔹 Capannone intero — moduli da 1.000 a 5.000 mq, con ingresso indipendente
-🔹 Piazzale scoperto — lotti da 200 mq in su, per materiali edili o voluminosi
+Il servizio si rivolge a produttori, distributori e importatori della provincia di Latina e del quadrante sud di Roma che hanno bisogno di spazio aggiuntivo senza prendere in locazione un immobile. Superficie, durata e servizi accessori si definiscono nell'offerta.
 
-La flessibilita' contrattuale:
+Scheda dello stoccaggio: https://consorziologistico.it/servizi/stoccaggio/
 
-✅ Durata minima da 1 mese — nessun vincolo pluriennale obbligatorio
-✅ Scalabilita' — possibilita' di aumentare o ridurre lo spazio con preavviso di 30 giorni
-✅ Contratti stagionali — per chi ha picchi di magazzino prevedibili (Black Friday, campagne estive, raccolti)
-✅ Pricing trasparente — costo per pallet/mq, tutto incluso (sorveglianza, assicurazione base, movimentazione concordata)
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-📍 19.000 mq coperti e 25.000 mq scoperti significano che c'e' sempre spazio per un nuovo consorziato. La nostra struttura consortile ci permette di offrire tariffe competitive rispetto ai grandi operatori, con un livello di servizio personalizzato.
-
-Non devi comprare un magazzino per avere un magazzino. Devi trovare il partner giusto.
-
-👉 Raccontaci le tue esigenze: consorziologistico.it o WhatsApp wa.me/390773316008. Preventivo entro 24 ore.
-
-#logistica #magazzino #stoccaggio #contrattiflessibili #affittomagazzino #pallet #latinascalo #lazio #PMI #B2B
+#magazzino #stoccaggio #logistica #capannoni #latinascalo
 
 ## Suggerimento Immagine
 
-Composizione grafica che mostri la scalabilita': da un singolo pallet su scaffale a un capannone intero, con frecce o progressione visiva. In alternativa, foto interna del magazzino con aree chiaramente delimitate per clienti diversi. Sovrimpressione: "Da 1 pallet a 5.000 mq". Tono ordinato e professionale.
+Foto di repertorio `topics/carrello-scaffalature` (data/images.json): carrello elevatore tra scaffalature portapallet. Non è una foto del polo: non presentarla come tale.

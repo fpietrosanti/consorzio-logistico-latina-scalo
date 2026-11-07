@@ -2,50 +2,31 @@
 week: 47
 date: "2027-08-24"
 pillar: "Spazi"
-title: "Un anno di Consorzio Logistico Latina Scalo: il bilancio della crescita"
+title: "Glossario della logistica: i termini di contratti e preventivi di magazzino"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Un anno fa aprivamo le porte del nostro polo logistico. Oggi guardiamo i numeri e il percorso fatto con orgoglio e gratitudine.
+Contratti e preventivi di logistica usano termini italiani e inglesi che non sempre hanno lo stesso significato per tutti gli operatori. Il Consorzio Logistico Latina Scalo ha pubblicato un glossario di 110 voci. Alcune delle più usate:
 
-365 giorni. Un traguardo che racconta molto piu di una data sul calendario.
+- Posto pallet: ubicazione, in scaffalatura o a terra, che accoglie un'unità di carico entro limiti di altezza e peso stabiliti.
+- FIFO e FEFO: prelievo per data di ingresso (first in, first out) o per data di scadenza (first expired, first out).
+- WMS: software di gestione del magazzino, che associa a ogni unità di carico la sua ubicazione.
+- Cross-docking: trasferimento della merce dal mezzo in arrivo a quello in partenza senza passare per lo stoccaggio.
+- 3PL: logistica conto terzi, in cui l'operatore gestisce per il committente stoccaggio, movimentazione e trasporto.
+- DDT: documento di trasporto che accompagna la merce.
 
-Quando abbiamo inaugurato i nostri 19.000 mq coperti e 25.000 mq scoperti in Via della Dinamica a Latina Scalo, avevamo una visione chiara: creare un hub logistico di riferimento per il Centro-Sud Italia. Oggi quella visione e realta.
+Definire i termini prima di firmare evita differenze di interpretazione su ciò che è incluso nella tariffa e su come si misura il servizio.
 
-Ecco cosa abbiamo costruito in 12 mesi:
+Il Consorzio, in Via della Dinamica a Latina Scalo (LT), offre stoccaggio su 19.000 metri quadrati coperti e 25.000 scoperti, movimentazione e trasporto su gomma.
 
-**I numeri della crescita**
+Il glossario completo: https://consorziologistico.it/approfondimenti/glossario-logistica/
 
-- Oltre il 75% degli spazi coperti gia allocati a clienti stabili
-- 30+ aziende che ci hanno scelto come partner logistico
-- 8 settori industriali serviti: dall'agroalimentare al farmaceutico, dall'automotive all'e-commerce
-- Migliaia di movimentazioni gestite con precisione e puntualita
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-**Cosa ci ha premiato**
-
-- La posizione strategica nella ZLS del Lazio, a 60 km da Roma e 40 km dal Porto di Gaeta
-- La flessibilita degli spazi: dal singolo posto pallet al magazzino dedicato
-- Un servizio 3PL integrato che copre stoccaggio, handling e trasporto
-- Un team che mette il cliente al centro, ogni giorno
-
-**Cosa viene dopo**
-
-Non ci fermiamo. Il secondo anno porta con se:
-
-- Ampliamento delle aree di stoccaggio a temperatura controllata
-- Nuove partnership nel settore e-commerce e GDO
-- Potenziamento della flotta per le tratte Roma-Napoli
-- Investimenti in automazione e digitalizzazione del magazzino
-
-A tutti i clienti, partner e collaboratori che hanno creduto in questo progetto: grazie. Questo primo anno e solo l'inizio.
-
-Vuoi far parte della nostra crescita? Parliamone.
-Scrivici su WhatsApp: wa.me/390773316008
-
-#ConsorzioLogisticoLatinaScalo #Logistica #Magazzino #LatinaScalo #ZLSLazio #LogisticaIntegrata #3PL #Stoccaggio #CentroSudItalia #Anniversario #Crescita #SupplyChain
+#logistica #glossario #magazzino #supplychain #latinascalo
 
 ## Suggerimento Immagine
 
-Collage fotografico con due immagini affiancate: a sinistra il magazzino vuoto al momento dell'inaugurazione, a destra lo stesso magazzino oggi pieno di merce e attivita. In sovrimpressione, il numero "1" grande e stilizzato con la scritta "Anno di crescita". Colori aziendali, tono celebrativo ma professionale.
+Foto di repertorio `topics/corsia-magazzino` (data/images.json): corsia di magazzino. Non è una foto del polo: non presentarla come tale.

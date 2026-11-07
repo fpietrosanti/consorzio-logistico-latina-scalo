@@ -1,6 +1,6 @@
 ---
 title: "Agro Pontino, kiwi și legume-fructe: logistica frigorifică"
-description: "Kiwi Latina IGP pe 5.446 de hectare, pierderi de 215 milioane, gama a IV-a și export agroalimentar: cum folosește filiera pontină celulele și transportul frigorific."
+description: "Kiwi Latina IGP pe 5.446 de hectare, pagube de 215 milioane, gama a IV-a și export agroalimentar: filiera pontină, celulele și transportul frigorific."
 date: 2026-10-31
 url: "/ro/analize/agro-pontino-lant-frigorific/"
 layout: "articolo"

@@ -2,41 +2,29 @@
 week: 8
 date: "2026-11-25"
 pillar: "Spazi"
-title: "Piazzali da 25.000 mq: stoccaggio scoperto per materiali edili e voluminosi"
+title: "Piazzali da 25.000 metri quadrati: stoccaggio scoperto per materiali edili e merci voluminose"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Non tutto sta su un pallet. Non tutto entra in un magazzino. Alcuni prodotti hanno bisogno di spazio — tanto spazio.
+Accanto ai 19.000 metri quadrati coperti, il polo del Consorzio Logistico Latina Scalo in Via della Dinamica, a Latina Scalo (LT), dispone di 25.000 metri quadrati di aree scoperte. Sono destinate alle merci che possono restare all'aperto:
 
-Al Consorzio Logistico Latina Scalo disponiamo di 25.000 mq di piazzali scoperti, attrezzati e sorvegliati. Un'area operativa dedicata a tutto ciò che non rientra nella logistica tradizionale da scaffalatura.
+- materiali da costruzione: laterizi, blocchi, manufatti in calcestruzzo, tubazioni, profilati;
+- container vuoti in attesa di riposizionamento o di un nuovo carico;
+- veicoli commerciali, rimorchi e attrezzature di cantiere tra un impiego e l'altro;
+- imballi industriali, bobine e colli fuori sagoma con imballo idoneo all'esterno.
 
-Cosa stocchiamo nei nostri piazzali:
+Il piazzale è diviso in aree delimitate per committente e per tipologia di merce, con corsie libere per la manovra degli autoarticolati. Ogni unità, compresi i container identificati dalla sigla, è registrata nel WMS con la sua area di stoccaggio e rientra negli inventari periodici.
 
-🔹 Materiali edili — laterizi, prefabbricati, tubi, profilati, pannelli
-🔹 Materiali voluminosi — bobine, strutture metalliche, macchinari
-🔹 Container e casse mobili — deposito temporaneo o a lungo termine
-🔹 Veicoli e attrezzature — mezzi d'opera, carrelli, piattaforme
+Coperto e scoperto nello stesso sito consentono di gestire con un solo contratto la parte della scorta da proteggere e quella da tenere all'aperto, con uscite sullo stesso mezzo e un unico documento di trasporto. Il porto commerciale più vicino è Gaeta, a circa 70 km su strada.
 
-I nostri piazzali non sono un parcheggio. Sono un'area logistica strutturata:
+Scheda dei piazzali: https://consorziologistico.it/servizi/piazzali-scoperti/
 
-✅ Pavimentazione industriale per carichi pesanti
-✅ Accessibilità per bilici, autoarticolati e mezzi speciali
-✅ Videosorveglianza 24/7 e illuminazione perimetrale
-✅ Accesso controllato con registro digitale
-✅ Possibilità di movimentazione con mezzi propri (carrelli elevatori, gru)
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-📍 Posizione: Via della Dinamica, Tor Tre Ponti, Latina Scalo. Direttamente sulla SS148 Pontina, a 60 km da Roma.
-
-Per le imprese edili, i cantieri del Lazio meridionale e le aziende manifatturiere che hanno bisogno di un deposito esterno affidabile e ben collegato, i nostri piazzali sono la soluzione operativa immediata.
-
-Contratti flessibili: mensili, stagionali o annuali. Spazio disponibile ora.
-
-👉 Richiedi un sopralluogo o un preventivo: consorziologistico.it o contattaci su WhatsApp. Rispondiamo entro 24 ore.
-
-#logistica #stoccaggioscoverto #piazzali #materialiedili #magazzino #deposito #latinascalo #lazio #B2B
+#logistica #stoccaggio #piazzali #edilizia #latinascalo
 
 ## Suggerimento Immagine
 
-Foto panoramica dei piazzali esterni con materiali stoccati in ordine (pallet di laterizi, container, materiali edili visibili). Angolazione che mostri l'ampiezza dell'area. Sovrimpressione: "25.000 mq di piazzali attrezzati". Se possibile, un mezzo pesante in manovra per dare scala. Luce diurna, cielo aperto.
+Foto di repertorio `topics/scarico-container` (data/images.json): movimentazione di container su piazzale. Non è una foto del polo: non presentarla come tale.

@@ -1,6 +1,6 @@
 ---
 title: "Szerződéses logisztikai szerződés: a kkv-k számára fontos kikötések"
-description: "Tárgy, felelősség, leltár, szolgáltatási KPI-k, kötbér és időtartam: hogyan épül fel egy kkv és egy logisztikai szolgáltató közötti szerződéses logisztikai szerződés."
+description: "Tárgy, felelősség, leltár, szolgáltatási KPI-k, kötbér és időtartam: így épül fel egy kkv és egy logisztikai szolgáltató közötti logisztikai szerződés."
 date: 2026-09-24
 url: "/hu/elemzesek/szerzodeses-logisztika-kkv-szerzodes-kpi/"
 layout: "articolo"

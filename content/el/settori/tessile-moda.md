@@ -1,7 +1,7 @@
 ---
 linkTitle: "Κλωστοϋφαντουργία και μόδα"
 title: "Logistics για την κλωστοϋφαντουργία και τη μόδα στη Latina και τη Νότια Ρώμη"
-description: "Αποθήκευση, picking και σήμανση για κλωστοϋφαντουργία και μόδα στο Latina Scalo: 19.000 m² στεγασμένοι χώροι, παραδόσεις σε καταστήματα της Νότιας Ρώμης και του Lazio."
+description: "Αποθήκευση, picking και σήμανση για κλωστοϋφαντουργία και μόδα στο Latina Scalo: 19.000 m² στεγασμένοι, παραδόσεις σε καταστήματα Νότιας Ρώμης και Lazio."
 url: "/el/tomeis/klostoyfantourgia-moda/"
 layout: "settore"
 weight: 6

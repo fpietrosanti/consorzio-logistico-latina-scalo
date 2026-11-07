@@ -2,34 +2,30 @@
 week: 34
 date: "2027-05-25"
 pillar: "Infrastrutture"
-title: "Pavimentazione industriale e portate: la base che regge tutto"
+title: "Magazzino coperto o piazzale scoperto: quali merci stoccare all'aperto"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-🔩 Nella logistica, tutto parte dal pavimento. Letteralmente.
+La scelta tra magazzino coperto e piazzale dipende dalla merce e dal suo imballaggio. Container, materiali da costruzione, bobine e macchinari con imballo idoneo possono restare all'aperto; carta, alimentari ed elettronica richiedono un ambiente chiuso.
 
-Una pavimentazione industriale inadeguata significa crepe sotto i carichi pesanti, carrelli che vibrano, scaffalature che perdono il livellamento. Al Consorzio Logistico Latina Scalo la base su cui operiamo è progettata per reggere le sollecitazioni della logistica reale:
+Gli elementi da valutare prima di decidere:
+- resistenza dell'imballo a pioggia, sole e sbalzi di temperatura;
+- sovrapponibilità dei colli e altezze di catasta;
+- spazio di manovra per i mezzi di sollevamento;
+- condizioni di assicurazione della merce stoccata all'esterno, da verificare con la propria polizza.
 
-🔹 Pavimentazione in calcestruzzo armato con finitura al quarzo ad alta resistenza
-🔹 Portata al pavimento adeguata a carichi concentrati: scaffalature multi-livello cariche, carrelli elevatori da 5 tonnellate, stoccaggio a blocchi
-🔹 Planarità controllata secondo normative per la circolazione sicura dei mezzi
-🔹 Giunti di dilatazione regolari per prevenire fessurazioni da ritiro e carichi ciclici
-🔹 Trattamento antipolvere per ambienti dove la pulizia è un requisito (alimentare, farmaceutico)
+Il polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), dispone di 19.000 metri quadrati coperti e 25.000 metri quadrati di aree scoperte. Le due parti della scorta sono registrate nello stesso WMS e possono uscire sullo stesso mezzo, con un unico documento di trasporto. Videosorveglianza perimetrale, controllo accessi e impianti antintrusione coprono anche le aree esterne.
 
-Perché questo conta per i nostri clienti? Perché una pavimentazione che cede significa merce danneggiata, scaffalature che si deformano, costi di manutenzione imprevisti e — nel caso peggiore — rischi per la sicurezza degli operatori.
+Per le merci voluminose che hanno bisogno di protezione dagli agenti atmosferici è possibile lo stoccaggio a terra nei capannoni.
 
-I nostri 19.000 mq coperti e i 25.000 mq di piazzali esterni sono realizzati con specifiche industriali che garantiscono la tenuta nel tempo anche sotto utilizzo intensivo.
+L'approfondimento: https://consorziologistico.it/approfondimenti/magazzino-coperto-o-piazzale-scoperto/
 
-Per le aziende dei settori edilizia, automotive, chimico e GDO — settori dove i carichi per metro quadro sono tra i più elevati — questa non è informazione tecnica. È una garanzia operativa.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Le fondamenta della buona logistica sono, letteralmente, sotto i nostri piedi.
-
-👉 Verifica di persona la qualità delle nostre infrastrutture: consorziologistico.it oppure WhatsApp wa.me/390773316008
-
-#pavimentazioneindustriale #infrastrutture #logistica #warehouse #sicurezza #carichipesanti #latinascalo #lazio #B2B #qualità
+#stoccaggio #piazzali #magazzino #logistica #latinascalo
 
 ## Suggerimento Immagine
 
-Foto ravvicinata della pavimentazione industriale del magazzino con finitura lucida al quarzo, carrello elevatore in transito e scaffalature cariche sullo sfondo. Prospettiva bassa per enfatizzare la superficie e la scala. Sovrimpressione: "Portate industriali | La base che regge tutto."
+Foto di repertorio `topics/container-reefer` (data/images.json): container su piazzale. Non è una foto del polo: non presentarla come tale.

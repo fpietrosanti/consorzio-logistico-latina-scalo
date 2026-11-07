@@ -2,38 +2,29 @@
 week: 36
 date: "2027-06-08"
 pillar: "Settori"
-title: "Food & beverage - logistica HACCP"
+title: "Agroalimentare: stoccaggio e distribuzione per le filiere dell'Agro Pontino"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Nel settore agroalimentare, la logistica non e un servizio accessorio. E parte integrante della sicurezza del prodotto.
+L'Agro Pontino è stato tra i primi territori italiani a ospitare impianti specializzati di kiwi, già negli anni Settanta. Il Kiwi Latina IGP, riconosciuto dall'Unione europea nel 2004, è prodotto in comuni delle province di Latina e Roma. Nel sud pontino il Centro Agroalimentare all'Ingrosso di Fondi (MOF) è un Mercato agroalimentare di interesse nazionale.
 
-Al Consorzio Logistico Latina Scalo gestiamo la supply chain food & beverage con un approccio rigoroso, costruito attorno ai principi **HACCP** e alla tracciabilita completa della filiera.
+Il Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), lavora per produttori e distributori del settore con:
+- aree di stoccaggio a temperatura controllata;
+- scaffalature industriali in capannoni con altezza utile fino a 10 metri;
+- WMS con gestione del lotto e prelievo per data di scadenza, quando richiesto;
+- picking, etichettatura e pallettizzazione secondo le regole delle piattaforme distributive;
+- trasporto su gomma con flotta dedicata.
 
-Cosa significa in pratica per la vostra azienda?
+Range di temperatura e condizioni di utilizzo delle aree a temperatura controllata vanno verificati con il Consorzio per la singola tipologia di prodotto, prima della firma del contratto. Requisiti igienico-sanitari e procedure del committente si valutano in fase di offerta.
 
-🌡️ **Controllo temperatura** — ambienti di stoccaggio a temperatura controllata per conservare l'integrita dei prodotti deperibili, dalle materie prime al prodotto finito
+Scheda del settore: https://consorziologistico.it/settori/agroalimentare/
 
-📋 **Protocolli HACCP** — procedure operative standardizzate per ogni fase: ricevimento, stoccaggio, movimentazione e spedizione, con punti di controllo critici documentati
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🔍 **Tracciabilita completa** — ogni lotto, ogni pallet, ogni movimento e registrato. In caso di richiamo prodotto, sapete esattamente dove si trova ogni unita
-
-📦 **Gestione dedicata** — aree separate per categorie merceologiche diverse, prevenzione della contaminazione crociata e rotazione FIFO/FEFO gestita dal nostro WMS
-
-📄 **Documentazione e certificazioni** — supporto nella gestione della documentazione sanitaria e doganale, fondamentale per chi esporta prodotti italiani nel mondo
-
-Il Lazio meridionale e un territorio a forte vocazione agroalimentare: olio, vino, latticini, ortofrutta. La nostra posizione a Latina Scalo, nel cuore della **ZLS del Lazio**, ci rende il partner naturale per le aziende del comparto che cercano efficienza logistica senza compromessi sulla qualita.
-
-Dai piccoli produttori locali ai grandi distributori della GDO, offriamo soluzioni 3PL modulari che si adattano ai vostri volumi e alla stagionalita del vostro business.
-
-**Volete una logistica alimentare che protegge il vostro brand?**
-Contattateci per una consulenza dedicata 👇
-📱 wa.me/390773316008
-
-#LogisticaAlimentare #HACCP #FoodLogistics #CatenaDelFreddo #Agroalimentare #FoodSafety #Tracciabilita #GDO #3PL #LogisticaLatina #ZLS #ConsorzioLogistico #LatinaScalo #FoodAndBeverage #SupplyChainFood #MadeInItaly
+#agroalimentare #agropontino #logistica #kiwi #latinascalo
 
 ## Suggerimento Immagine
 
-Interno del magazzino con pallet di prodotti alimentari confezionati, operatore con DPI che scansiona un codice a barre, ambiente pulito e ordinato. In evidenza un termometro digitale o display di temperatura. Toni luminosi, professionali. Badge HACCP sovrapposto nell'angolo.
+Foto di repertorio `topics/kiwi` (data/images.json): kiwi. Didascalia con fonte e autore come da data/images.json.

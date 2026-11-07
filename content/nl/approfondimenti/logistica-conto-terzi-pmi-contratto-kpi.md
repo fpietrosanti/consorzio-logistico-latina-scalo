@@ -1,6 +1,6 @@
 ---
 title: "Contract voor logistiek voor derden: de clausules voor een mkb-bedrijf"
-description: "Onderwerp, aansprakelijkheid, inventarisaties, service-KPI's, boetes en duur: zo wordt een contract voor logistiek voor derden tussen mkb en dienstverlener opgezet."
+description: "Onderwerp, aansprakelijkheid, inventarisaties, service-KPI's, boetes en duur: zo wordt een contract voor logistiek voor derden tussen mkb en 3PL opgezet."
 date: 2026-09-24
 url: "/nl/inzichten/contract-logistiek-voor-derden-mkb-kpi/"
 layout: "articolo"

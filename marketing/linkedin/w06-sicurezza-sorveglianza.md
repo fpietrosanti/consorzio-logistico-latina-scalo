@@ -2,34 +2,29 @@
 week: 6
 date: "2026-11-11"
 pillar: "Infrastrutture"
-title: "Sicurezza e sorveglianza: videosorveglianza 24/7, antincendio, accessi controllati"
+title: "Sicurezza del sito: videosorveglianza perimetrale, controllo accessi, antincendio e antintrusione"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-La tua merce è al sicuro? Nel nostro magazzino, sì. E possiamo dimostrarlo.
+Il polo del Consorzio Logistico Latina Scalo, in Via della Dinamica, zona Tor Tre Ponti, a Latina Scalo (LT), comprende 19.000 metri quadrati coperti e 25.000 metri quadrati di aree scoperte. Le dotazioni di sicurezza riguardano sia i capannoni sia i piazzali:
 
-La sicurezza al Consorzio Logistico Latina Scalo non è un optional — è infrastruttura. Ogni metro quadro dei nostri 19.000 mq coperti e 25.000 mq scoperti è protetto da un sistema integrato di sicurezza fisica e tecnologica.
+- videosorveglianza perimetrale del sito;
+- controllo degli accessi per mezzi e persone in ingresso;
+- impianti antincendio;
+- impianti antintrusione.
 
-🔹 Videosorveglianza 24/7 — Telecamere ad alta definizione su tutte le aree operative, i piazzali e i punti di accesso. Registrazione continua con archiviazione conforme alla normativa.
+Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7. Al ricevimento ogni unità di carico viene registrata nel WMS (software di gestione del magazzino) con la sua ubicazione, compresa la merce stoccata su piazzale, e rientra negli inventari periodici concordati con il committente.
 
-🔹 Controllo accessi — Ingresso al sito riservato al personale autorizzato e ai trasportatori identificati. Registro digitale di ogni accesso con orario e identità.
+Le stesse dotazioni servono lo stoccaggio a scaffale, lo stoccaggio a terra e le aree scoperte destinate a materiali da costruzione, container vuoti e merci voluminose. Le condizioni di custodia e le coperture assicurative vanno definite nel contratto, in base alla merce e al suo valore.
 
-🔹 Impianto antincendio — Sistema di rilevazione fumi e spegnimento conforme alle normative vigenti. Manutenzione programmata e verifiche periodiche certificate.
+La scheda dello stoccaggio descrive il processo dal ricevimento alla spedizione: https://consorziologistico.it/servizi/stoccaggio/
 
-🔹 Illuminazione perimetrale — Piazzali e aree esterne illuminati per garantire visibilità e sicurezza anche nelle operazioni notturne.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🔹 Personale formato — I nostri operatori sono formati sulle procedure di sicurezza, gestione emergenze e primo soccorso.
-
-Per le aziende che ci affidano la propria merce — che si tratti di prodotti alimentari di valore, componentistica industriale o stock e-commerce — la sicurezza è il primo requisito. Non il secondo.
-
-Proteggiamo il tuo magazzino come fosse il nostro. Perché lo è.
-
-👉 Vuoi verificare di persona i nostri standard di sicurezza? Prenota una visita: consorziologistico.it o WhatsApp.
-
-#logistica #sicurezza #magazzino #videosorveglianza #antincendio #warehousing #latinascalo #B2B
+#logistica #magazzino #sicurezza #stoccaggio #latinascalo
 
 ## Suggerimento Immagine
 
-Composizione fotografica: in primo piano una telecamera di sorveglianza esterna con il piazzale sullo sfondo, oppure il gate di accesso controllato con sbarra e lettore badge. Overlay grafico con icone dei 4 sistemi di sicurezza (telecamera, estintore, badge, lampada). Tono professionale e rassicurante.
+Foto di repertorio `topics/corsia-magazzino` (data/images.json): corsia di magazzino con scaffalature. Non è una foto del polo: non presentarla come tale. Nessuna sovrimpressione con dati diversi da quelli del testo.

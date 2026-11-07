@@ -1,7 +1,7 @@
 ---
 linkTitle: "Ρώμη, νότιος τομέας"
 title: "Logistics και αποθήκες για τις επιχειρήσεις του νότιου τομέα της Ρώμης"
-description: "Αποθήκη για λογαριασμό τρίτων στο Latina Scalo για επιχειρήσεις της νότιας Ρώμης: EUR, Castel Romano, Santa Palomba, Ostia, Tor Vergata. EUR περίπου 70 km οδικώς."
+description: "Αποθήκη για λογαριασμό τρίτων στο Latina Scalo για τη νότια Ρώμη: EUR, Castel Romano, Santa Palomba, Ostia, Tor Vergata. EUR περίπου 70 km οδικώς."
 url: "/el/logistiki/romi/"
 layout: "area"
 area: "roma-citta"

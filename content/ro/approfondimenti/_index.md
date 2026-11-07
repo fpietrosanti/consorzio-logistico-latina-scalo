@@ -1,7 +1,7 @@
 ---
 title: "Analize despre logistică, infrastructură și piață între Latina și sudul Romei"
 linkTitle: "Analize"
-description: "Analize și ghiduri ale Consorzio Logistico Latina Scalo: ZLS Lazio, Pontina, porturi, polul farmaceutic, lanțul frigorific, costuri de depozitare și contracte."
+description: "Analize și ghiduri ale Consorzio Logistico Latina Scalo: ZLS Lazio, Pontina, porturi, industria farmaceutică, lanț frigorific, costuri de depozitare, contracte."
 url: "/ro/analize/"
 image: "topics/polo-logistico-aereo"
 imageAlt: "Vedere aeriană a unui pol logistic cu depozite și platforme exterioare"

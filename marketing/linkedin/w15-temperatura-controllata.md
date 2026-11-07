@@ -2,46 +2,30 @@
 week: 15
 date: "2027-01-12"
 pillar: "Spazi"
-title: "Aree a temperatura controllata: dalla catena del freddo allo stoccaggio temperato"
+title: "Aree a temperatura controllata nel polo di Latina Scalo"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Non tutte le merci si conservano a temperatura ambiente. Alcune richiedono il freddo. Altre un clima stabile. Tutte richiedono garanzie.
+Il polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), comprende aree di stoccaggio a temperatura controllata all'interno dei 19.000 metri quadrati coperti. Le condizioni di utilizzo, compresi i range di temperatura, vanno verificate con il Consorzio per la singola tipologia di merce prima della firma del contratto.
 
-Al Consorzio Logistico Latina Scalo disponiamo di aree a temperatura controllata progettate per chi non puo' permettersi interruzioni nella catena del freddo.
+Il tema ha una base territoriale. La Regione Lazio indica il terminal ferroviario di Latina Scalo, oggi non operativo, come candidato a terminal per le filiere a temperatura controllata, agroalimentare e farmaceutica. In provincia il Centro Agroalimentare all'Ingrosso di Fondi (MOF) dispone di una centrale frigorifera e di piattaforme logistiche a temperatura controllata.
 
-Le nostre aree climatizzate:
+Per un preventivo servono:
+- tipologia di merce e condizioni di conservazione richieste;
+- formato e peso delle unità di carico;
+- numero di pallet o metri quadrati;
+- durata prevista e frequenza di ingressi e uscite.
 
-🔹 Celle frigorifere +2/+8°C — per farmaci, prodotti biologici, latticini, preparati freschi
-🔹 Aree temperate +15/+25°C — per cosmetici, integratori, vini, cioccolato, prodotti chimici sensibili
-🔹 Zone a temperatura ambiente monitorata — con registrazione continua per conformita' normativa
+Il Consorzio può abbinare allo stoccaggio la preparazione degli ordini e il trasporto su gomma con flotta dedicata.
 
-Come garantiamo la cold chain:
+L'approfondimento sulla catena del freddo nell'Agro Pontino: https://consorziologistico.it/approfondimenti/agro-pontino-catena-del-freddo/
 
-✅ Monitoraggio 24/7 con sensori IoT e alert automatici
-✅ Registrazione continua delle temperature — log scaricabili per audit
-✅ Gruppi di continuita' — in caso di blackout, i sistemi di refrigerazione restano attivi
-✅ Baie di carico dedicate — trasferimento rapido tra mezzo refrigerato e area controllata
-✅ Procedure di intervento in caso di deviazione termica documentate
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Per quali settori:
-
-📦 Agroalimentare — prodotti freschi, surgelati, conserve a temperatura stabile
-📦 Farmaceutico — stoccaggio GDP-compliant
-📦 Cosmetico — conservazione ottimale di formulazioni sensibili al calore
-📦 Chimico — reagenti e prodotti che richiedono range termici specifici
-📦 Enologico — stoccaggio vini in ambiente climatizzato
-
-📍 La nostra posizione a Latina Scalo, nel cuore dell'Agro Pontino, ci colloca naturalmente al servizio delle filiere agroalimentari del Lazio meridionale. Ma le nostre celle servono anche l'industria farmaceutica e cosmetica che distribuisce da Roma verso il Sud.
-
-Freddo non significa complicato. Significa organizzato.
-
-👉 Richiedi le specifiche tecniche delle nostre aree: consorziologistico.it o WhatsApp wa.me/390773316008
-
-#temperaturacontrollata #coldchain #catenadelfreddo #logistica #magazzinofrigorifero #stoccaggio #agroalimentare #pharma #latinascalo #lazio #B2B
+#catenadelfreddo #agroalimentare #logistica #magazzino #latinascalo
 
 ## Suggerimento Immagine
 
-Foto dell'interno di una cella frigorifera o area temperata con scaffalature e merci stoccate in ordine. Dettaglio visibile: display digitale di temperatura o sensore IoT con indicazione dei gradi. Sovrimpressione: "+2°C / +25°C — Cold Chain Garantita". Toni freddi, blu e bianco, illuminazione LED.
+Foto di repertorio `topics/camion-frigo` (data/images.json): veicolo refrigerato. Non è una foto del polo né della flotta del Consorzio: non presentarla come tale e non sovrimporre temperature.

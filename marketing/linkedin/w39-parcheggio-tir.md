@@ -2,36 +2,33 @@
 week: 39
 date: "2027-06-29"
 pillar: "Spazi"
-title: "Aree di sosta e parcheggio TIR"
+title: "Aree di sosta per i veicoli e piazzali di manovra nel polo"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Chi lavora nella logistica lo sa: trovare un parcheggio sicuro per i TIR nel Centro Italia e una sfida quotidiana.
+Nel polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), i mezzi in attesa di carico o scarico dispongono di aree di sosta dedicate, separate dalle corsie di manovra degli autoarticolati.
 
-Al Consorzio Logistico Latina Scalo offriamo **aree di sosta dedicate ai mezzi pesanti**, pensate per chi guida e per chi gestisce le flotte.
+Le dotazioni per i vettori:
+- aree di sosta per i veicoli;
+- piazzali per la manovra di autoarticolati;
+- baie di carico e scarico coperte;
+- controllo degli accessi all'ingresso del sito;
+- videosorveglianza perimetrale e impianti antintrusione.
 
-🅿️ **Parcheggio TIR custodito** — spazi ampi e organizzati all'interno del nostro complesso di 25.000 mq scoperti, con stalli dimensionati per autoarticolati, bilici e motrici con rimorchio. Manovra agevole anche per i mezzi piu lunghi
+Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7. Gli arrivi programmati riducono le attese: per questo le finestre di ricevimento si concordano con il committente e con i suoi fornitori in fase di avvio.
 
-🔒 **Sicurezza garantita** — area recintata, videosorveglianza attiva 24/7 e illuminazione LED perimetrale. I vostri mezzi e il vostro carico sono protetti, di giorno e di notte
+I 25.000 metri quadrati scoperti ospitano anche la sosta di veicoli commerciali, rimorchi e attrezzature tra un impiego e l'altro, registrati nel WMS come le altre unità stoccate su piazzale.
 
-🛣️ **Posizione strategica** — siamo sulla direttrice Roma-Napoli, a ridosso della viabilita principale del Lazio meridionale. Ideale come punto di sosta intermedio per le tratte nord-sud o come base di partenza per le consegne nell'area metropolitana romana
+Latina Scalo è raggiungibile dalla SS148 Pontina e dalla SS7 Appia; la SS156 dei Monti Lepini collega Latina a Frosinone e al sistema autostradale dell'A1.
 
-⏰ **Flessibilita oraria** — accesso all'area di sosta anche in orari notturni e nei weekend. Gli autisti possono programmare arrivi e ripartenze senza vincoli, sincronizzando i tempi di guida e riposo con le finestre di carico/scarico
+Scheda dei piazzali: https://consorziologistico.it/servizi/piazzali-scoperti/
 
-🚿 **Servizi per autisti** — perche dietro ogni consegna puntuale c'e un professionista della strada. Offriamo condizioni di sosta dignitose e funzionali, in un contesto sicuro e facilmente raggiungibile
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Per le aziende di trasporto e le flotte che operano nel Centro-Sud Italia, avere un punto di appoggio affidabile a Latina Scalo significa ottimizzare i percorsi, rispettare i tempi di riposo obbligatori e ridurre i costi di gestione della flotta.
-
-Operiamo nella **ZLS del Lazio**: un ulteriore vantaggio per chi gestisce flussi logistici complessi tra Roma, il Porto di Gaeta e Napoli.
-
-**Cercate un punto di sosta sicuro per la vostra flotta?**
-Parliamone 👇
-📱 wa.me/390773316008
-
-#ParcheggioTIR #TruckParking #LogisticaTrasporti #SostaAutisti #SicurezzaTrasporti #Autotrasporto #FleetManagement #LogisticaLatina #LatinaScalo #ConsorzioLogistico #ZLS #CentroItalia #SupplyChain #3PL #TrasportiItalia
+#autotrasporto #piazzali #logistica #trasporto #latinascalo
 
 ## Suggerimento Immagine
 
-Area parcheggio con TIR allineati in sosta ordinata, illuminazione serale/notturna LED visibile, recinzione perimetrale. Prospettiva che comunichi ampiezza e organizzazione dello spazio. Un autista che scende dalla cabina o cammina verso i servizi. Toni caldi della sera con luci fredde LED.
+Foto di repertorio `topics/centro-distribuzione` (data/images.json): autoarticolati in sosta presso un centro di distribuzione. Non è una foto del polo: non presentarla come tale.

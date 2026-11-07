@@ -2,42 +2,30 @@
 week: 44
 date: "2027-08-03"
 pillar: "Settori"
-title: "Manifatturiero e componentistica industriale"
+title: "Manifatturiero: scorte di materie prime, semilavorati e prodotti finiti"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-⚙️ **Logistica per il manifatturiero: quando ogni componente conta**
+Le imprese manifatturiere della provincia di Latina e del quadrante sud di Roma gestiscono a magazzino materie prime, semilavorati e prodotti finiti, spesso con formati diversi: pallet standard, bobine, casse fuori misura, componenti voluminosi.
 
-Nel settore manifatturiero, un componente mancante puo fermare un'intera linea di produzione. La logistica non e un servizio accessorio: e un **fattore critico di competitivita**.
+Il Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), offre al settore:
+- stoccaggio su scaffalature portapallet in capannoni con altezza utile fino a 10 metri;
+- stoccaggio a terra per i colli fuori formato e, per le unità con imballo idoneo, su 25.000 metri quadrati di piazzale;
+- registrazione nel WMS di codice articolo, quantità e lotto su richiesta;
+- prelievo, etichettatura e pallettizzazione delle unità in uscita;
+- cross-docking per la merce in transito;
+- trasporto su gomma con flotta dedicata e consegne B2B sul territorio nazionale.
 
-Al Consorzio Logistico Latina Scalo offriamo soluzioni di stoccaggio e movimentazione progettate specificamente per le esigenze dell'industria manifatturiera e della componentistica.
+Coperto e scoperto nello stesso sito permettono di tenere nello stesso polo le scorte da proteggere e quelle da stoccare all'aperto. Il polo dista circa 14,8 km su strada da Cisterna di Latina, circa 33,5 km da Aprilia e circa 42,4 km da Colleferro.
 
-🔹 **Stoccaggio organizzato per codice articolo** — I nostri 19.000 mq coperti ospitano sistemi di scaffalatura configurabili per componenti di ogni dimensione, dal bullone al pannello industriale.
+Scheda del settore: https://consorziologistico.it/settori/manifatturiero/
 
-🔹 **Just-in-Time e Just-in-Sequence** — Preparazione e consegna dei materiali sincronizzata con il ritmo produttivo del cliente. Niente scorte eccessive, niente fermi linea.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🔹 **Gestione lotti e FIFO** — Tracciabilita per lotto di produzione, rotazione controllata delle giacenze e reportistica in tempo reale per il tuo ufficio acquisti.
-
-🔹 **Cross-docking per urgenze** — Quando un fornitore consegna e il pezzo deve andare in produzione immediatamente, il nostro hub gestisce il transito rapido senza passare dallo stoccaggio.
-
-🔹 **Copertura automotive e industrial** — Serviamo gia aziende dei settori automotive, meccanico e impiantistico con flussi dedicati e SLA personalizzati.
-
-**Perche Latina Scalo per il manifatturiero?**
-
-📍 A 60 km da Roma e 150 km da Napoli, siamo nel corridoio logistico che collega i due principali distretti industriali del Centro-Sud
-
-📍 Il Porto di Gaeta a 40 km apre le porte all'import di componenti via mare
-
-📍 La **ZLS del Lazio** offre agevolazioni fiscali e semplificazioni burocratiche
-
-La tua supply chain manifatturiera merita un partner che parla la tua lingua operativa.
-
-👉 Raccontaci le tue esigenze: wa.me/390773316008
-
-#LogisticaManifatturiera #Componentistica #Automotive #JustInTime #SupplyChain #Warehouse #3PL #LatinaScalo #IndustriaItalia #ZLS #ConsorzioLogistico #Manifatturiero #StoccaggioIndustriale
+#manifatturiero #industria #logistica #magazzino #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un magazzino con scaffalature industriali cariche di componenti meccanici e scatole etichettate per codice. Un carrello elevatore in movimento tra le corsie. Dettaglio su etichette con codici a barre e numeri di lotto. Atmosfera operativa e organizzata, illuminazione industriale.
+Foto di repertorio `topics/carrello-scaffalature` (data/images.json): carrello elevatore tra scaffalature. Non è una foto del polo: non presentarla come tale.

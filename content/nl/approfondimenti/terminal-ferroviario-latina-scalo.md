@@ -1,6 +1,6 @@
 ---
 title: "Terminal van Latina Scalo: het regionale plan wil er een koelterminal van maken"
-description: "Het PRMTL van Lazio voorziet in de ingebruikname van de spoorterminal van Latina Scalo, die nu stilligt. Voorzieningen, aansluiting en actieve terminals in Lazio."
+description: "Het PRMTL van Lazio wil de spoorterminal van Latina Scalo, nu buiten bedrijf, in gebruik nemen. Voorzieningen, aansluiting en actieve terminals in Lazio."
 date: 2026-11-05
 url: "/nl/inzichten/spoorterminal-latina-scalo/"
 layout: "articolo"

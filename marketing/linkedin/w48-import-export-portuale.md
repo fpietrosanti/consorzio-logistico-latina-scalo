@@ -2,49 +2,26 @@
 week: 48
 date: "2027-08-31"
 pillar: "Settori"
-title: "Import/export e logistica portuale: il ponte tra mare e mercato"
+title: "Gaeta e Civitavecchia: i porti del Lazio per le imprese pontine"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-A soli 40 km dal Porto di Gaeta, il nostro polo logistico e il naturale anello di congiunzione tra le rotte marittime e i mercati del Centro Italia.
+Il porto di Gaeta fa parte dell'Autorità di Sistema Portuale del Mar Tirreno Centro-Settentrionale, insieme a Civitavecchia e Fiumicino. Nel 2025 Gaeta ha movimentato circa 1,8 milioni di tonnellate di merci, soprattutto rinfuse. L'intero sistema portuale di Civitavecchia, Fiumicino e Gaeta ha superato i 13 milioni di tonnellate.
 
-Il commercio internazionale non si ferma alla banchina. Si ferma — nel senso migliore — nei nostri magazzini.
+Civitavecchia è il principale porto del Lazio, con traffici Ro-Ro, automotive e una crescente vocazione per il freddo. La ZLS del Lazio comprende i porti di Civitavecchia, Fiumicino e Gaeta.
 
-L'Italia movimenta milioni di tonnellate di merci via mare ogni anno. Ma tra il container che attracca al porto e il prodotto sullo scaffale c'e un passaggio cruciale: la logistica dell'ultimo miglio portuale. Ed e esattamente qui che interveniamo.
+Per i container i porti di riferimento sul Tirreno meridionale sono Napoli e Salerno, gestiti dall'AdSP del Mar Tirreno Centrale e raggiungibili da Latina via A1 o via SS7 e Formia.
 
-**Cosa offriamo per l'import/export**
+Dal polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), Gaeta dista circa 70,1 km su strada, circa 91 minuti in auto in traffico regolare. Il Consorzio offre stoccaggio di merce in arrivo o in partenza, sosta di container vuoti su 25.000 metri quadrati di piazzale, pallettizzazione e trasporto su gomma con flotta dedicata. Le pratiche doganali restano a cura dello spedizioniere scelto dal committente.
 
-- Deposito doganale e stoccaggio temporaneo per merci in transito
-- Deconsolidamento container: scarico, controllo qualita, smistamento
-- Cross-docking per ridurre i tempi di giacenza e accelerare la distribuzione
-- Gestione documentale per operazioni doganali in coordinamento con spedizionieri
-- Trasporto dedicato Porto di Gaeta — Latina Scalo con tempi garantiti
+L'approfondimento sui porti delle imprese pontine: https://consorziologistico.it/approfondimenti/porti-gaeta-civitavecchia-imprese-pontine/
 
-**Il vantaggio ZLS**
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Operare all'interno della Zona Logistica Semplificata del Lazio significa:
-
-- Procedure amministrative semplificate per le imprese
-- Agevolazioni fiscali per investimenti produttivi
-- Infrastrutture dedicate e connessioni logistiche privilegiate
-- Un ecosistema pensato per favorire l'internazionalizzazione delle PMI
-
-**La nostra posizione strategica**
-
-- 40 km dal Porto di Gaeta — accesso diretto alle rotte mediterranee
-- 60 km da Roma — cuore del mercato nazionale
-- 80 km da Fiumicino — per le spedizioni aeree urgenti
-- 150 km da Napoli — collegamento con il piu grande porto del Mezzogiorno
-
-Che si tratti di materie prime agroalimentari dal Nord Africa, componentistica automotive dall'Asia o prodotti chimici dal Medio Oriente, il nostro polo e attrezzato per gestire ogni tipologia di merce con spazi dedicati e protocolli specifici.
-
-Hai merci in arrivo via mare? Parliamo di come ottimizzare la tua supply chain.
-WhatsApp: wa.me/390773316008
-
-#LogisticaPortuale #ImportExport #PortoDiGaeta #ZLSLazio #Dogana #Container #SupplyChain #CommercioInternazionale #CrossDocking #LatinaScalo #ConsorzioLogisticoLatinaScalo #Magazzino
+#porti #gaeta #civitavecchia #logistica #latinascalo
 
 ## Suggerimento Immagine
 
-Vista aerea split: meta immagine mostra il Porto di Gaeta con navi cargo e container, l'altra meta il magazzino del Consorzio con merci in fase di smistamento. Una linea grafica collega i due punti su una mappa stilizzata, evidenziando i 40 km di distanza. Toni blu e verdi, atmosfera internazionale.
+Foto di repertorio `topics/porto-gaeta` (data/images.json): porto di Gaeta. Didascalia con fonte e autore come da data/images.json.

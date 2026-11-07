@@ -2,66 +2,50 @@
 week: 16
 date: "2027-01-19"
 pillar: "Settori"
-title: "Automotive e componentistica: logistica just-in-time per la filiera"
+title: "Automotive e componentistica: stoccaggio e movimentazione dei ricambi"
 languages: ["it", "en"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Nell'automotive, un componente in ritardo ferma una linea di produzione. Un pezzo stoccato male diventa uno scarto. La logistica non e' un servizio di contorno: e' parte della catena produttiva.
+Il Consorzio Logistico Latina Scalo gestisce per conto terzi stoccaggio e movimentazione di componenti e ricambi nel polo di Via della Dinamica, a Latina Scalo (LT): 19.000 metri quadrati coperti in capannoni modulari da 500 a 3.000 metri quadrati, con altezza utile fino a 10 metri, e 25.000 metri quadrati di aree scoperte.
 
-Al Consorzio Logistico Latina Scalo lavoriamo con aziende della filiera automotive e della componentistica meccanica che hanno bisogno di precisione, puntualita' e capacita' di gestire volumi variabili.
+Per la filiera della componentistica:
+- stoccaggio su scaffalature portapallet e, per i pezzi fuori formato, a terra in aree delimitate;
+- registrazione nel WMS di codice articolo, quantità e, su richiesta, lotto;
+- prelievo a pallet intero, a collo o a pezzo;
+- etichettatura secondo le specifiche del destinatario;
+- cross-docking per la merce in transito;
+- trasporto su gomma con flotta dedicata verso officine, concessionari e stabilimenti.
 
-Cosa offriamo alla filiera automotive:
+Il polo è a circa 14,8 km su strada da Cisterna di Latina e a circa 42,4 km da Colleferro. Frequenze di rifornimento e finestre di consegna verso le linee di produzione si concordano con il committente in fase di offerta.
 
-🔹 Stoccaggio dedicato — aree coperte per componenti, ricambi, semilavorati e prodotti finiti
-🔹 Gestione just-in-time — sincronizzazione delle consegne con i ritmi produttivi del cliente
-🔹 Picking per linea di montaggio — preparazione kit componenti per singola commessa
-🔹 Stoccaggio a terra per carichi pesanti — motori, trasmissioni, parti carrozzeria
-🔹 Piazzali per veicoli — deposito temporaneo di mezzi, rimorchi, attrezzature
+Scheda del settore: https://consorziologistico.it/settori/automotive/
 
-Standard operativi:
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-✅ Tracciabilita' per numero di serie e lotto
-✅ Gestione FIFO rigorosa
-✅ Imballaggio protettivo e antiurto per componenti sensibili
-✅ Inventario ciclico e report settimanali sulle giacenze
-✅ Consegne programmate con slot orari garantiti
-
-📍 Latina Scalo si trova in una posizione strategica per la filiera automotive del Centro Italia: a 60 km da Roma, collegata alla rete autostradale e con accesso diretto per mezzi pesanti. Le aziende della componentistica che forniscono stabilimenti tra Lazio, Campania e Abruzzo trovano qui un hub logistico ottimale.
-
-Dentro la ZLS del Lazio — vantaggi fiscali concreti per chi investe in logistica.
-
-La filiera automotive chiede zero errori. Noi lavoriamo per zero sorprese.
-
-👉 Parliamo delle tue esigenze logistiche: consorziologistico.it o WhatsApp wa.me/390773316008
-
-#automotive #componentistica #logistica #justintime #supplychain #ricambi #magazzino #latinascalo #lazio #B2B #manufacturing
-
----
+#automotive #componentistica #ricambi #logistica #latinascalo
 
 ## LinkedIn Post — English
 
-In the automotive sector, a late component stops a production line. A poorly stored part becomes scrap. Logistics is not a support service — it is part of the manufacturing chain.
+Consorzio Logistico Latina Scalo provides third-party storage and handling of components and spare parts at its site in Via della Dinamica, Latina Scalo (LT): 19,000 square metres of covered space in modular warehouses of 500 to 3,000 square metres, with clear height up to 10 metres, plus 25,000 square metres of open yard.
 
-At Consorzio Logistico Latina Scalo, we serve automotive and mechanical component companies that need precision, punctuality, and the flexibility to handle variable volumes.
+For the components supply chain:
+- storage on pallet racking and, for out-of-gauge parts, floor storage in marked areas;
+- WMS records of item code, quantity and, on request, batch;
+- picking by full pallet, case or piece;
+- labelling to the consignee's specifications;
+- cross-docking for goods in transit;
+- road transport with a dedicated fleet to workshops, dealers and plants.
 
-Our automotive capabilities:
+The site is about 14.8 km by road from Cisterna di Latina and about 42.4 km from Colleferro. Replenishment frequencies and delivery windows to production lines are agreed with the client at quotation stage.
 
-🔹 Dedicated storage — covered areas for components, spare parts, semi-finished and finished goods
-🔹 Just-in-time management — deliveries synchronized with the client's production schedule
-🔹 Assembly-line picking — component kits prepared per order
-🔹 Heavy-load floor storage — engines, transmissions, body parts
-🔹 Vehicle yards — temporary storage for vehicles, trailers, equipment
+Sector page: https://consorziologistico.it/settori/automotive/
 
-📍 Latina Scalo sits 60 km from Rome, with direct highway access and heavy vehicle infrastructure, inside the Lazio Simplified Logistics Zone (ZLS) with real fiscal benefits.
+Information and quotes: consorziologistico.it, WhatsApp +39 0773 316008.
 
-The automotive supply chain demands zero errors. We work for zero surprises.
-
-👉 Let's discuss your logistics needs: consorziologistico.it or WhatsApp wa.me/390773316008
-
-#automotive #components #logistics #justintime #supplychain #manufacturing #Italy #Lazio #B2B
+#automotive #components #spareparts #logistics #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di componentistica meccanica o automotive stoccata su scaffalature industriali — ricambi, parti metalliche, scatole con codici visibili. In alternativa, area di picking con operatore che prepara un kit componenti. Sovrimpressione: "Automotive | Just-in-Time Logistics". Toni industriali, grigi e blu, illuminazione da magazzino.
+Foto di repertorio `topics/pallet` (data/images.json): pallet pronti per la spedizione. Non è una foto del polo: non presentarla come tale.

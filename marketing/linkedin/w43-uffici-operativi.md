@@ -2,43 +2,32 @@
 week: 43
 date: "2027-07-27"
 pillar: "Spazi"
-title: "Uffici operativi disponibili nel polo"
+title: "Uffici, sale riunioni e area ristoro nel polo di Via della Dinamica"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-🏢 **Uffici operativi nel cuore del polo logistico: lavora dove si muove la tua merce**
+Oltre ai capannoni e ai piazzali, il polo del Consorzio Logistico Latina Scalo in Via della Dinamica, zona Tor Tre Ponti, a Latina Scalo (LT), comprende uffici, sale riunioni e un'area ristoro per il personale.
 
-Perche gestire la logistica da un ufficio distante dal magazzino, quando puoi essere **a pochi passi dalle tue operazioni**?
+Le dotazioni di servizio del sito:
+- uffici e sale riunioni;
+- area ristoro per il personale;
+- fibra ottica dedicata e Wi-Fi industriale;
+- videosorveglianza perimetrale, controllo accessi, impianti antincendio e antintrusione.
 
-Il Consorzio Logistico Latina Scalo mette a disposizione **spazi ufficio integrati** direttamente all'interno del polo, pensati per aziende che vogliono unire gestione operativa e stoccaggio sotto lo stesso tetto.
+La parte operativa conta 19.000 metri quadrati coperti, in capannoni modulari da 500 a 3.000 metri quadrati con altezza utile fino a 10 metri, e 25.000 metri quadrati di aree scoperte. Sul sito lavorano il sistema WMS e le funzioni di gestione documentale: DDT, bolle e tracciabilità.
 
-🔹 **Uffici arredati e cablati** — Postazioni pronte all'uso con connettivita in fibra ottica, climatizzazione e arredi professionali. Entri e lavori dal primo giorno.
+Il Consorzio riunisce cinque aziende, con oltre 50 anni di esperienza complessiva, e offre stoccaggio, movimentazione, trasporto su gomma e logistica conto terzi con un unico interlocutore. L'eventuale disponibilità di postazioni per il personale del committente si verifica in fase di offerta.
 
-🔹 **Sale riunioni condivise** — Spazi per meeting con clienti, fornitori e partner logistici, dotati di videoproiettore e videoconferenza. Ideali per coordinare le operazioni senza spostarsi.
+Il polo dista circa 8,4 km su strada da Latina centro.
 
-🔹 **Co-locazione strategica** — Il tuo team amministrativo e commerciale opera nello stesso complesso dove la merce viene ricevuta, stoccata e spedita. Decisioni piu rapide, problemi risolti in tempo reale.
+Indicazioni e distanze: https://consorziologistico.it/posizione/
 
-🔹 **Parcheggio e accessibilita** — Ampi parcheggi per auto e mezzi pesanti sui nostri 25.000 mq scoperti, con accesso diretto dalla viabilita principale di Latina Scalo.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🔹 **Flessibilita contrattuale** — Spazi modulabili in base alle esigenze, da una singola postazione a un intero piano operativo. Contratti flessibili, senza vincoli pluriennali.
-
-**Per chi e pensato?**
-
-✅ Aziende e-commerce che gestiscono ordini e resi in loco
-✅ Distributori agroalimentari con ufficio qualita interno
-✅ Operatori 3PL che coordinano flotte e consegne
-✅ Imprese manifatturiere con magazzino componenti
-
-La nostra posizione — **60 km da Roma, 80 km da Fiumicino, 40 km da Gaeta** — ti mette al centro del Lazio produttivo, dentro la Zona Logistica Semplificata.
-
-📍 Via della Dinamica Snc, Zona Tor Tre Ponti, Latina Scalo
-
-👉 Prenota una visita e scopri gli spazi disponibili: wa.me/390773316008
-
-#UfficiLogistica #CoLocation #Warehouse #SpaziOperativi #LatinaScalo #LogisticaLazio #3PL #Ecommerce #ZonaLogisticaSemplificata #SupplyChain #ConsorzioLogistico #BusinessHub
+#logistica #latinascalo #magazzino #uffici #lazio
 
 ## Suggerimento Immagine
 
-Foto di un ufficio moderno e luminoso all'interno del polo logistico, con scrivania, monitor e vista attraverso la vetrata sulle operazioni di magazzino. Un professionista al lavoro con documenti e laptop. Ambiente pulito, professionale, con luce naturale. Possibile secondo scatto della sala riunioni.
+Foto di repertorio `topics/magazzino-interno` (data/images.json): interno di magazzino. Non è una foto del polo: non presentarla come tale. Non usare immagini di uffici che possano essere scambiate per quelli del Consorzio.

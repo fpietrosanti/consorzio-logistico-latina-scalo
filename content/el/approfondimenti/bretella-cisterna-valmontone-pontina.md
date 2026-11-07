@@ -1,6 +1,6 @@
 ---
 title: "Cisterna-Valmontone, ξεκίνησαν τα έργα: τι αλλάζει για τα εμπορεύματα"
-description: "Ο σύνδεσμος Cisterna-Valmontone υπό κατασκευή από τον Οκτώβριο 2026, η Pontina υπό την ANAS, η Roma-Latina σε διαγωνισμό: πρόοδος έργων και επιπτώσεις στις ροές."
+description: "Ο σύνδεσμος Cisterna-Valmontone υπό κατασκευή από τον Οκτώβριο 2026, η Pontina υπό την ANAS, η Roma-Latina σε διαγωνισμό: πρόοδος και επιπτώσεις στις ροές."
 date: 2026-10-27
 url: "/el/analyseis/syndesmos-cisterna-valmontone-pontina/"
 layout: "articolo"

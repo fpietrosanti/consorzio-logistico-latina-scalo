@@ -1,6 +1,6 @@
 ---
 title: "Rome-Zuid: de kaart van de logistieke clusters van Santa Palomba tot Fiumicino"
-description: "Santa Palomba, Pomezia, Castel Romano, Ardeatina, Fiumicino: oppervlakten, marktpartijen en ontwikkelingen in het zuiden van Rome en de rol van de provincie Latina."
+description: "Santa Palomba, Pomezia, Castel Romano, Ardeatina, Fiumicino: oppervlakten, bedrijven en ontwikkelingen in het zuiden van Rome en de rol van de provincie Latina."
 date: 2026-11-07
 url: "/nl/inzichten/rome-zuid-logistieke-clusters/"
 layout: "articolo"

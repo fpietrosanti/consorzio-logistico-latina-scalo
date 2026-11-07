@@ -1,6 +1,6 @@
 ---
 title: "Przemysł farmaceutyczny w prowincji Latina, 8,5 mld euro eksportu: wymagania logistyczne"
-description: "Latina jest drugą prowincją we Włoszech pod względem eksportu farmaceutycznego, 8,5 mld euro w 2025 r. Firmy w Aprilii, Cisternie, Latinie i Pomezii oraz zasady GDP."
+description: "Latina jest drugą prowincją Włoch w eksporcie farmaceutycznym, 8,5 mld euro w 2025 r. Firmy w Aprilii, Cisternie, Latinie i Pomezii oraz zasady GDP."
 date: 2026-10-29
 url: "/pl/analizy/klaster-farmaceutyczny-latina-logistyka/"
 layout: "articolo"

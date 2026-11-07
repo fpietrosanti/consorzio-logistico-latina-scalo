@@ -1,6 +1,6 @@
 ---
 title: "Agro Pontino, kiwi i owoce: logistyka łańcucha chłodniczego"
-description: "Kiwi Latina ChOG na 5446 ha, straty 215 mln euro, warzywa IV gamy i eksport rolno-spożywczy: jak łańcuch dostaw regionu korzysta z chłodni i chłodniczego transportu."
+description: "Kiwi Latina ChOG na 5446 ha, straty 215 mln euro, IV gama i eksport rolno-spożywczy: jak łańcuch dostaw regionu korzysta z chłodni i transportu chłodniczego."
 date: 2026-10-31
 url: "/pl/analizy/agro-pontino-lancuch-chlodniczy/"
 layout: "articolo"

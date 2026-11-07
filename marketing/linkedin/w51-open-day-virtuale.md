@@ -2,44 +2,28 @@
 week: 51
 date: "2027-09-21"
 pillar: "Spazi"
-title: "Open day virtuale: entra nel nostro polo logistico"
+title: "Logistica per le imprese di Cisterna di Latina: distanze e servizi"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Non serve venire a Latina Scalo per scoprire cosa possiamo fare per la vostra logistica. Vi portiamo noi dentro il nostro polo.
+Cisterna di Latina ospita uno degli agglomerati industriali dell'area tra Roma Sud e Latina ed è tra i comuni della provincia interessati dalla Zona Logistica Semplificata del Lazio. Il polo produttivo di Aprilia, Cisterna e Latina è specializzato nella fabbricazione di medicinali e preparati farmaceutici.
 
-Benvenuti al nostro open day virtuale.
+Dall'ottobre 2026 è in costruzione la bretella Cisterna–Valmontone, che collegherà la Pontina all'A1 all'altezza di Valmontone. Sarà una strada extraurbana principale senza pedaggio, con svincoli a Campoverde, Cisterna di Latina, Lariano e Labico.
 
-Sappiamo che il tempo dei decision maker e prezioso. Per questo abbiamo creato un percorso virtuale che vi permette di esplorare i nostri spazi, capire i nostri servizi e valutare le opportunita — tutto dal vostro ufficio.
+Il polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), dista da Cisterna di Latina circa 14,8 km su strada, circa 21 minuti in auto in traffico regolare. Per le imprese di Cisterna il Consorzio offre:
+- stoccaggio su 19.000 metri quadrati coperti e 25.000 metri quadrati scoperti;
+- aree di stoccaggio a temperatura controllata;
+- picking, packing, etichettatura, pallettizzazione e cross-docking;
+- trasporto su gomma con flotta dedicata e gestione documentale.
 
-**Cosa vedrete nel tour**
+La pagina dedicata a Cisterna di Latina: https://consorziologistico.it/logistica/cisterna-di-latina/
 
-**Area ricevimento merci**
-Il nostro ingresso operativo: baie di carico/scarico per bilici, area di controllo qualita in entrata, zona di accettazione con verifica documentale immediata. Capacita: gestione simultanea di 8 mezzi pesanti.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-**Magazzino principale — 19.000 mq coperti**
-Scaffalature portapallet fino a 10 metri di altezza, corridoi ottimizzati per la movimentazione con carrelli retrattili, aree dedicate per settore: alimentare, chimico, farmaceutico, e-commerce. Ogni zona con protocolli specifici di stoccaggio e sicurezza.
-
-**Area picking e confezionamento**
-Postazioni ergonomiche per il prelievo ordini, linee di confezionamento per kit e bundle, area etichettatura e imballaggio personalizzato. Qui ogni ordine prende forma.
-
-**Piazzale scoperto — 25.000 mq**
-Spazio per container, deposito materiali edili e ingombranti, area di sosta mezzi, parcheggio riservato ai clienti. Completamente recintato e videosorvegliato 24/7.
-
-**Area uffici e servizi**
-Sale riunioni per incontri con i clienti, uffici operativi del team logistico, sala controllo con monitoraggio in tempo reale.
-
-**Come partecipare**
-
-Prenotate una videochiamata dedicata di 30 minuti con il nostro team commerciale. Vi guideremo attraverso gli spazi con video in diretta e risponderemo a ogni domanda.
-
-Prenotate il vostro tour personalizzato.
-WhatsApp: wa.me/390773316008
-
-#OpenDay #TourVirtuale #Magazzino #Logistica #LatinaScalo #ConsorzioLogisticoLatinaScalo #Stoccaggio #WarehouseHandling #SpaziLogistici #3PL #SupplyChain #BehindTheScenes
+#cisternadilatina #logistica #magazzino #lazio #latinascalo
 
 ## Suggerimento Immagine
 
-Composizione a griglia con 4-6 foto professionali degli spazi del magazzino: area ricevimento, corridoi scaffalature, zona picking, piazzale esterno, uffici. Al centro un pulsante play stilizzato che suggerisce il concetto di tour virtuale. Bordo grafico con il branding del Consorzio e la scritta "Open Day Virtuale — Prenota il tuo tour".
+Foto di repertorio `places/cisterna-di-latina` (data/images.json). Didascalia con fonte e autore come da data/images.json.

@@ -2,33 +2,31 @@
 week: 21
 date: "2027-02-23"
 pillar: "Servizi"
-title: "Cross-docking e transito veloce: la merce non aspetta"
+title: "Cross-docking a Latina Scalo: la merce in transito senza passare dallo stoccaggio"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-⏱️ Nel mondo della logistica, ogni ora conta. Per questo al Consorzio Logistico Latina Scalo abbiamo strutturato un servizio di cross-docking che elimina i tempi morti.
+Il cross-docking è il trasferimento della merce dal mezzo in arrivo al mezzo in partenza senza passare per lo stoccaggio, o con una sosta breve in un'area di transito. Serve a consolidare carichi di fornitori diversi o a frazionare un carico completo in consegne più piccole.
 
-Come funziona? La merce arriva, viene scaricata, smistata e ricaricata su un altro mezzo — il tutto senza passare dallo stoccaggio tradizionale. Il risultato:
+Il Consorzio Logistico Latina Scalo esegue il cross-docking nel polo di Via della Dinamica, a Latina Scalo (LT), con:
+- baie di carico e scarico coperte;
+- piazzali per la manovra di autoarticolati e aree di sosta per i veicoli;
+- registrazione dei movimenti nel WMS;
+- emissione dei documenti di trasporto in uscita;
+- trasporto su gomma con flotta dedicata per la ripartenza.
 
-🔹 Tempi di transito ridotti al minimo
-🔹 Nessun costo di giacenza
-🔹 Rotazione rapida delle merci deperibili e urgenti
-🔹 Minore manipolazione = minore rischio di danneggiamento
+Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7. Il cross-docking può essere combinato con lo stoccaggio, per la parte di merce che resta a magazzino, e con le uscite da piazzale.
 
-Il nostro hub di Latina Scalo, con le sue banchine di carico dedicate e i piazzali da 25.000 mq, è progettato per gestire flussi di transito intensi. Riceviamo carichi completi da fornitori e li ricomponiamo in spedizioni parziali dirette ai singoli punti di consegna — tutto in giornata.
+Per impostare il servizio servono le frequenze degli arrivi, il numero di destinazioni, il formato delle unità di carico e le finestre orarie dei destinatari.
 
-Per chi opera nella GDO, nell'e-commerce o nell'agroalimentare, il cross-docking è la differenza tra consegnare in tempo e perdere il cliente.
+Scheda del servizio: https://consorziologistico.it/servizi/cross-docking/
 
-E la posizione aiuta: a 60 km da Roma e 40 km dal Porto di Gaeta, siamo il nodo naturale per il transito rapido tra il Tirreno e il Centro-Sud Italia.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Il cross-docking non è un servizio accessorio. È un approccio logistico che cambia le regole del gioco — e noi lo facciamo ogni giorno, nella Zona Logistica Semplificata del Lazio.
-
-👉 Hai bisogno di velocità nella tua supply chain? Parliamone: consorziologistico.it oppure scrivici su WhatsApp wa.me/390773316008
-
-#crossdocking #logistica #transitoveloce #supplychain #latinascalo #lazio #ZLS #3PL #warehouse
+#crossdocking #logistica #trasporto #distribuzione #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un'area di cross-docking in attività: da un lato un camion in fase di scarico, dall'altro un mezzo in caricamento. Al centro, operatori con transpallet che smistano pallet. Ambiente luminoso, ritmo di lavoro sostenuto. Sovrimpressione: "Cross-docking | Zero tempi morti".
+Foto di repertorio `topics/scarico-bancali` (data/images.json): trasferimento di bancali tra mezzi. Non è una foto del polo: non presentarla come tale.

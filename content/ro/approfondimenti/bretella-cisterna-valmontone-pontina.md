@@ -1,6 +1,6 @@
 ---
 title: "Cisterna-Valmontone, șantierul a început: ce se schimbă pentru mărfuri"
-description: "Legătura Cisterna-Valmontone în construcție din octombrie 2026, Pontina administrată de ANAS, Roma-Latina în licitație: stadiul lucrărilor și efectele asupra fluxurilor."
+description: "Cisterna-Valmontone în construcție din octombrie 2026, Pontina administrată de ANAS, Roma-Latina în licitație: stadiul lucrărilor și efectele asupra mărfurilor."
 date: 2026-10-27
 url: "/ro/analize/legatura-cisterna-valmontone-pontina/"
 layout: "articolo"

@@ -1,6 +1,6 @@
 ---
 title: "Agro Pontino, kivi és zöldség-gyümölcs: a hűtési lánc logisztikája"
-description: "Kiwi Latina OFJ 5446 hektáron, 215 milliós kár a kivipusztulás miatt, IV. kategória és agrárexport: hogyan használja a térség a hűtőkamrákat és a hűtött szállítást."
+description: "Kiwi Latina OFJ 5446 hektáron, 215 milliós kár a kivipusztulás miatt, IV. kategória, agrárexport: így használja a térség a hűtőkamrákat és a hűtött szállítást."
 date: 2026-10-31
 url: "/hu/elemzesek/agro-pontino-hutesi-lanc/"
 layout: "articolo"

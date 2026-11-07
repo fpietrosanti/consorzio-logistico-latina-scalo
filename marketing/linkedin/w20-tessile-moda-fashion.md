@@ -2,72 +2,50 @@
 week: 20
 date: "2027-02-16"
 pillar: "Settori"
-title: "Tessile, moda e fashion logistics: gestire collezioni, non solo scatole"
+title: "Tessile e moda: stoccaggio, etichettatura e preparazione degli ordini"
 languages: ["it", "en"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Nel tessile e nella moda, la logistica non gestisce prodotti. Gestisce collezioni, stagioni, taglie, varianti colore, campionari. Ogni capo ha un codice, una destinazione, una scadenza commerciale.
+Il Consorzio Logistico Latina Scalo gestisce per aziende del tessile e della moda le operazioni di magazzino nel polo di Via della Dinamica, a Latina Scalo (LT).
 
-Al Consorzio Logistico Latina Scalo conosciamo le esigenze specifiche della fashion logistics e offriamo servizi pensati per chi lavora con il tempo delle collezioni, non con quello del magazzino standard.
+Le attività disponibili per il settore:
+- stoccaggio di colli e pallet su scaffalature industriali, in capannoni con altezza utile fino a 10 metri;
+- registrazione nel WMS per codice articolo e quantità, con l'ubicazione di ogni unità di carico;
+- prelievo a collo o a pezzo per i rifornimenti ai punti vendita e per gli ordini online;
+- etichettatura di prodotto o di canale e rietichettatura, quando la stessa merce va a clienti o mercati con requisiti diversi;
+- packing e pallettizzazione secondo le regole del destinatario;
+- trasporto su gomma con flotta dedicata e consegne B2B sul territorio nazionale.
 
-Cosa offriamo al settore tessile e moda:
+I capannoni modulari, da 500 a 3.000 metri quadrati, permettono di adeguare la superficie ai volumi della stagione. Lo spazio aggiuntivo nei periodi di picco, come l'arrivo delle collezioni, va concordato in fase di offerta. Testi, codici e formato delle etichette sono forniti o approvati dal committente.
 
-🔹 Stoccaggio dedicato — aree asciutte, ventilate, protette dalla polvere e dalla luce diretta
-🔹 Appenderia — barre per capi appesi, ideale per abiti, capispalla, campionari
-🔹 Gestione per SKU complessa — taglia, colore, modello, stagione, lotto
-🔹 Picking per singolo capo — preparazione ordini B2B (showroom, punti vendita) e B2C (e-commerce)
-🔹 Etichettatura e ri-etichettatura — cartellini prezzo, etichette composizione, tag antitaccheggio
+Scheda del settore: https://consorziologistico.it/settori/tessile-moda/
 
-Servizi a valore aggiunto:
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-✅ Stiratura e ripiegatura prima della spedizione
-✅ Confezionamento con packaging brandizzato del cliente
-✅ Gestione resi e-commerce — controllo qualita', ricondizionamento, reinserimento a stock
-✅ Preparazione campionari per fiere e showroom
-✅ Distribuzione stagionale — gestione dei picchi saldi e lancio collezione
-
-📍 La posizione di Latina Scalo — 60 km da Roma, 80 km da Fiumicino — e' strategica per i brand che producono nel Centro-Sud e distribuiscono in Italia e in Europa. Il collegamento con il Porto di Gaeta (40 km) serve chi importa tessuti e prodotti finiti dall'estero.
-
-La moda ha i suoi tempi. La logistica della moda deve rispettarli.
-
-👉 Raccontaci il tuo progetto: consorziologistico.it o WhatsApp wa.me/390773316008
-
-#tessile #moda #fashionlogistics #logistica #ecommerce #fulfillment #abbigliamento #magazzino #latinascalo #lazio #B2B #madeinitaly
-
----
+#moda #tessile #fashionlogistics #logistica #latinascalo
 
 ## LinkedIn Post — English
 
-In textile and fashion, logistics doesn't handle products. It handles collections, seasons, sizes, color variants, and sample ranges. Every garment has a code, a destination, and a commercial deadline.
+Consorzio Logistico Latina Scalo runs warehouse operations for textile and fashion companies at its site in Via della Dinamica, Latina Scalo (LT).
 
-At Consorzio Logistico Latina Scalo, we understand the specific needs of fashion logistics and offer services designed around collection timelines, not standard warehouse cycles.
+Available activities for the sector:
+- storage of cartons and pallets on industrial racking, in warehouses with clear height up to 10 metres;
+- WMS records by item code and quantity, with the location of every load unit;
+- case or piece picking for store replenishment and online orders;
+- product or channel labelling and relabelling, when the same goods go to customers or markets with different requirements;
+- packing and palletisation to the consignee's rules;
+- road transport with a dedicated fleet and B2B deliveries across Italy.
 
-Our fashion logistics capabilities:
+Modular warehouses of 500 to 3,000 square metres allow the space to follow seasonal volumes. Additional space for peak periods, such as the arrival of new collections, is agreed at quotation stage. Label texts, codes and formats are supplied or approved by the client.
 
-🔹 Dedicated storage — dry, ventilated, dust-free and light-protected areas
-🔹 Hanging garment rails — for apparel, outerwear, sample collections
-🔹 Complex SKU management — size, color, model, season, lot
-🔹 Single-item picking — B2B (showrooms, retail) and B2C (e-commerce) order preparation
-🔹 Labeling and relabeling — price tags, composition labels, anti-theft tags
+Sector page: https://consorziologistico.it/settori/tessile-moda/
 
-Value-added services:
+Information and quotes: consorziologistico.it, WhatsApp +39 0773 316008.
 
-✅ Pressing and refolding before shipment
-✅ Branded packaging per client specifications
-✅ E-commerce returns management — quality check, reconditioning, restocking
-✅ Sample preparation for trade shows and showrooms
-✅ Seasonal distribution — sales peak and collection launch management
-
-📍 Latina Scalo — 60 km from Rome, 80 km from Fiumicino Airport, 40 km from the Port of Gaeta. Inside the Lazio Simplified Logistics Zone (ZLS).
-
-Fashion has its own deadlines. Fashion logistics must meet them.
-
-👉 Tell us about your project: consorziologistico.it or WhatsApp wa.me/390773316008
-
-#textile #fashion #fashionlogistics #logistics #ecommerce #fulfillment #apparel #warehouse #Italy #Lazio #B2B #madeinitaly
+#fashion #textile #fashionlogistics #logistics #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un'area magazzino con appenderia (barre con capi appesi visibili) accanto a scaffalature con scatole di calzature o accessori. In alternativa, operatore che prepara un pacco con packaging brandizzato. Sovrimpressione: "Fashion Logistics | Dal Campionario al Last-Mile". Toni eleganti ma operativi, illuminazione calda.
+Foto di repertorio `topics/corsia-magazzino` (data/images.json): corsia di magazzino con scaffalature e colli. Non è una foto del polo: non presentarla come tale; evitare immagini di capi appesi.

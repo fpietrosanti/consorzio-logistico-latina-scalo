@@ -2,38 +2,31 @@
 week: 35
 date: "2027-06-01"
 pillar: "Spazi"
-title: "Stoccaggio outdoor per container e macchinari"
+title: "Container vuoti, mezzi e attrezzature: la sosta su piazzale"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Avete container, macchinari pesanti o materiali ingombranti che hanno bisogno di uno spazio sicuro e accessibile?
+Sui 25.000 metri quadrati di aree scoperte del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), trovano posto anche unità che non sono merce in senso stretto:
 
-Al Consorzio Logistico Latina Scalo mettiamo a disposizione **25.000 mq di piazzale scoperto**, progettato per rispondere alle esigenze di stoccaggio outdoor piu impegnative.
+- container vuoti in attesa di riposizionamento o di un nuovo carico;
+- veicoli commerciali e rimorchi tra un impiego e l'altro;
+- macchine operatrici e attrezzature di cantiere;
+- imballi industriali e componenti di grandi dimensioni.
 
-Non parliamo di un semplice parcheggio. Parliamo di un'area logistica strutturata, con:
+All'arrivo il mezzo entra attraverso il controllo accessi. Ogni unità, compresi i container identificati dalla sigla, è registrata nel WMS con la sua area di stoccaggio. Il piazzale è suddiviso in aree delimitate per committente; le corsie restano libere per la manovra dei mezzi pesanti.
 
-📦 **Stoccaggio container** — deposito di container da 20' e 40', con movimentazione dedicata e posizionamento ottimizzato per la rotazione delle merci
+Il porto commerciale più vicino è Gaeta, a circa 70,1 km su strada dal polo. L'area di Santa Palomba, che ospita il terminal intermodale di Pomezia–Santa Palomba, dista circa 54,8 km.
 
-🏗️ **Macchinari pesanti e attrezzature** — spazi rinforzati per escavatori, gru, componenti industriali e materiali edili di grandi dimensioni
+Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7. Le uscite possono essere combinate con il cross-docking di merce in arrivo o con consegne della flotta del Consorzio.
 
-🔄 **Flessibilita coperto/scoperto** — possibilita di combinare aree esterne con i nostri 19.000 mq coperti per una gestione integrata delle merci sensibili alle intemperie
+Scheda dei piazzali: https://consorziologistico.it/servizi/piazzali-scoperti/
 
-🚛 **Accesso per mezzi di grandi dimensioni** — viabilita interna progettata per autoarticolati, bilici e trasporti eccezionali, con ampi spazi di manovra
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-📍 **Posizione strategica** — a soli 60 km da Roma e 40 km dal Porto di Gaeta, dentro la Zona Logistica Semplificata del Lazio, con collegamenti diretti alle principali arterie stradali
-
-I settori che gia si affidano ai nostri piazzali? Edilizia, automotive, chimico, agroalimentare — ma la configurazione modulare ci permette di adattarci a qualsiasi filiera.
-
-La sicurezza non e un optional: videosorveglianza attiva, illuminazione LED perimetrale e presidio costante garantiscono la protezione delle vostre merci 24 ore su 24.
-
-**Cercate spazio per i vostri asset piu ingombranti?**
-Scriveteci su WhatsApp per un sopralluogo gratuito e un preventivo personalizzato 👇
-📱 wa.me/390773316008
-
-#LogisticaLatina #StoccaggioOutdoor #ContainerStorage #MagazzinoCoperto #LogisticaIntegrata #ZonaLogisticaSemplificata #ZLS #LatinaScalo #ConsorzioLogistico #Edilizia #Automotive #3PL #SupplyChain #TrasportiItalia #PiazzaleLogistico
+#container #piazzali #stoccaggio #logistica #latinascalo
 
 ## Suggerimento Immagine
 
-Veduta aerea o grandangolare del piazzale scoperto con container impilati, macchinari parcheggiati e un autoarticolato in manovra. Luce diurna, cielo azzurro, con il capannone coperto visibile sullo sfondo. Sovrimpressione del logo Consorzio Logistico e della dicitura "25.000 mq di spazio esterno".
+Foto di repertorio `topics/container-reefer` (data/images.json): container su piazzale. Non è una foto del polo: non presentarla come tale.

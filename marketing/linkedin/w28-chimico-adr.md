@@ -2,52 +2,42 @@
 week: 28
 date: "2027-04-13"
 pillar: "Settori"
-title: "Chimico e materiali pericolosi: logistica ADR senza compromessi"
+title: "Pomezia–Santa Palomba: il polo logistico e il terminal intermodale di Roma Sud"
 languages: ["it", "en"]
 ---
 
 ## Post LinkedIn — Italiano
 
-⚠️ Stoccare e movimentare sostanze chimiche e materiali pericolosi non è un servizio che si improvvisa. Serve formazione specifica, infrastrutture adeguate e il rispetto rigoroso della normativa ADR.
+Santa Palomba è uno dei principali poli logistici del Lazio: ospita operatori logistici e piattaforme della grande distribuzione. Nell'area si trova il terminal intermodale di Pomezia–Santa Palomba, il primo del Lazio per unità di trasporto intermodale movimentate.
 
-Al Consorzio Logistico Latina Scalo gestiamo merci classificate ADR con la competenza e le strutture che il settore richiede:
+Per le imprese della provincia di Latina il terminal è un riferimento per il trasporto combinato strada-ferrovia. Il terminal ferroviario di Latina Scalo non è operativo; il Piano regionale della mobilità, dei trasporti e della logistica del Lazio ne prevede la rimessa in esercizio.
 
-🔹 Aree di stoccaggio segregate e conformi alla normativa per materiali pericolosi
-🔹 Personale formato secondo gli standard ADR e le procedure di emergenza
-🔹 Vasche di contenimento e sistemi antispandimento
-🔹 Documentazione di trasporto ADR gestita con precisione
-🔹 Coordinamento con trasportatori certificati per il trasferimento in sicurezza
+Dal polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), le distanze su strada sono di circa 49,8 km per Pomezia e 54,8 km per Santa Palomba. Il collegamento è la SS148 Pontina, che tra Latina (Borgo Piave) e Roma ha due carreggiate separate a due corsie per senso di marcia.
 
-Il settore chimico ha esigenze specifiche che la logistica generalista non può soddisfare: compatibilità tra classi di pericolo, limiti di stoccaggio per unità di superficie, ventilazione adeguata, distanze di sicurezza. Noi conosciamo queste regole e le applichiamo ogni giorno.
+Il Consorzio esegue trasporto su gomma con flotta dedicata e consegne B2B sul territorio nazionale. Per le imprese che lavorano con il quadrante sud di Roma il polo mette a disposizione 19.000 metri quadrati coperti e 25.000 metri quadrati scoperti.
 
-Per i produttori chimici del Lazio e della Campania settentrionale, avere un hub ADR a Latina Scalo significa evitare di attraversare Roma per raggiungere i depositi del nord — con un risparmio significativo in tempi e costi di trasporto.
+La pagina dedicata a Santa Palomba: https://consorziologistico.it/logistica/santa-palomba/
 
-La posizione nella ZLS del Lazio aggiunge un ulteriore vantaggio normativo e fiscale per le imprese del settore che scelgono di centralizzare qui le proprie operazioni logistiche.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Sicurezza e conformità non sono negoziabili. I nostri standard nemmeno.
-
-👉 Hai materiali ADR da gestire? Parliamone: consorziologistico.it oppure WhatsApp wa.me/390773316008
-
-#ADR #materialipericolosi #chimico #logistica #sicurezza #warehouse #latinascalo #lazio #hazmat #3PL
+#intermodale #santapalomba #logistica #romasud #latinascalo
 
 ## Post LinkedIn — English
 
-⚠️ Storing and handling chemical substances and hazardous materials is not a service you improvise. It requires specific training, adequate infrastructure, and strict ADR compliance.
+Santa Palomba is one of the main logistics areas in Lazio, hosting logistics operators and large-retail distribution platforms. It is also home to the Pomezia–Santa Palomba intermodal terminal, the first in Lazio by intermodal units handled.
 
-At Consorzio Logistico Latina Scalo, we manage ADR-classified goods with the expertise and facilities the sector demands:
+For companies in the province of Latina the terminal is a reference point for combined road-rail transport. The Latina Scalo rail terminal is not operational; the Lazio regional transport and logistics plan provides for bringing it back into service.
 
-🔹 Segregated storage areas compliant with hazardous materials regulations
-🔹 ADR-trained personnel with emergency response procedures
-🔹 Containment basins and spill prevention systems
-🔹 ADR transport documentation managed with precision
-🔹 Coordination with certified carriers for safe transfers
+From the Consorzio Logistico Latina Scalo site in Via della Dinamica, Latina Scalo (LT), road distances are about 49.8 km to Pomezia and 54.8 km to Santa Palomba, via the SS148 Pontina, which has dual carriageways with two lanes each way between Latina (Borgo Piave) and Rome.
 
-Located 60 km from Rome within the Simplified Logistics Zone (ZLS) of Lazio, our hub offers chemical companies a strategic alternative to the congested northern corridor.
+The Consortium provides road transport with a dedicated fleet and B2B deliveries across Italy, with 19,000 square metres of covered space and 25,000 square metres of open yard.
 
-👉 Need ADR logistics? consorziologistico.it or WhatsApp wa.me/390773316008
+Area page (Italian): https://consorziologistico.it/logistica/santa-palomba/
 
-#ADR #hazmat #chemical #logistics #warehouse #safety #Italy #Lazio #3PL #supplychain
+Information and quotes: consorziologistico.it, WhatsApp +39 0773 316008.
+
+#intermodal #santapalomba #logistics #rome #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un'area di stoccaggio ADR con segnaletica di sicurezza ben visibile (pittogrammi GHS), vasche di contenimento e pallet con fusti/contenitori etichettati. Operatore con DPI completi. Ambiente controllato e ordinato. Sovrimpressione: "ADR | Sicurezza certificata."
+Foto di repertorio `topics/terminal-intermodale` (data/images.json): terminal intermodale con gru e container. Didascalia con fonte e autore come da data/images.json; non presentarla come foto del polo del Consorzio.

@@ -2,40 +2,32 @@
 week: 9
 date: "2026-12-02"
 pillar: "Servizi"
-title: "Trasporto e distribuzione: same-day nel Lazio, 48 ore in tutta Italia"
+title: "Trasporto su gomma e distribuzione dal polo di Latina Scalo"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Il magazzino migliore del mondo non serve a nulla se la merce non arriva in tempo.
+Il Consorzio Logistico Latina Scalo esegue il trasporto delle merci su gomma con una flotta dedicata, a partire dal polo di Via della Dinamica, a Latina Scalo (LT). Il servizio comprende la distribuzione dell'ultimo miglio e le consegne B2B sul territorio nazionale, e può essere affidato da solo o insieme allo stoccaggio e alla movimentazione.
 
-Al Consorzio Logistico Latina Scalo il trasporto non e' un servizio accessorio: e' parte integrante della catena logistica. Gestiamo la distribuzione con mezzi propri e una rete di trasportatori selezionati, con un obiettivo chiaro: rispettare le finestre di consegna dei nostri clienti.
+Distanze su strada dal polo, calcolate per autovettura in traffico regolare:
+- Latina centro: circa 8,4 km
+- Cisterna di Latina: circa 14,8 km
+- Aprilia: circa 33,5 km
+- Pomezia: circa 49,8 km
+- Roma EUR: circa 70,4 km
+- Fiumicino: circa 89,5 km
 
-I nostri tempi di resa:
+Per i mezzi pesanti i tempi sono più lunghi. Latina Scalo è raggiungibile dalla SS148 Pontina e dalla SS7 Appia; la SS156 dei Monti Lepini collega Latina a Frosinone e al sistema autostradale dell'A1.
 
-🚛 Same-day — consegne entro giornata su Roma e provincia, Frosinone, Latina, tutto il Lazio
-🚛 24 ore — Campania, Abruzzo, Umbria, Toscana meridionale
-🚛 48 ore — copertura nazionale, isole incluse
+Quando magazzino e trasporto sono gestiti dallo stesso operatore, il documento di trasporto viene emesso al momento del carico e la consegna è registrata nello stesso sistema che gestisce le giacenze.
 
-Come ci riusciamo:
+Scheda del servizio: https://consorziologistico.it/servizi/trasporto/
 
-✅ Picking e preparazione ordini entro la mattina per spedizioni in giornata
-✅ Tracciamento in tempo reale delle spedizioni
-✅ Flotta mista: furgoni per le consegne urbane, bilici per i carichi completi
-✅ Gestione documentale integrata — DDT, CMR, packing list
-✅ Coordinamento diretto con il nostro magazzino — zero passaggi intermedi
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-📍 La nostra posizione su Via della Dinamica, direttamente sulla SS148 Pontina, ci da' un vantaggio competitivo reale: raggiungiamo il GRA di Roma in meno di un'ora, il Porto di Gaeta in 30 minuti, Fiumicino in 50 minuti.
-
-Per chi distribuisce prodotti nel Centro-Sud Italia — dalla GDO all'e-commerce, dall'agroalimentare all'industria — avere la logistica a Latina Scalo significa tagliare i tempi e i costi dell'ultimo miglio.
-
-Non ci limitiamo a stoccare. Consegniamo.
-
-👉 Richiedi una quotazione trasporto: consorziologistico.it o scrivici su WhatsApp wa.me/390773316008
-
-#trasporto #distribuzione #logistica #sameday #spedizioni #ultimomiglio #latinascalo #lazio #B2B #supply chain
+#trasporto #distribuzione #logistica #latinascalo #lazio
 
 ## Suggerimento Immagine
 
-Foto di un mezzo commerciale (furgone o bilico) con livrea del consorzio in partenza dal piazzale, possibilmente con operatore che chiude il portellone. Sovrimpressione: "Same-day Lazio | 48h Italia". Sfondo operativo, luce mattutina. Tono dinamico e professionale.
+Foto di repertorio `topics/centro-distribuzione` (data/images.json): mezzi in carico presso un centro di distribuzione. Non è una foto del polo: non presentarla come tale.

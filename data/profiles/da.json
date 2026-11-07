@@ -1,0 +1,1066 @@
+{
+  "aprilia": {
+    "profile": "Aprilia ligger i den nordligste del af Agro Pontino, hvor SS148 Pontina krydser SS207 Nettunense, og betjenes af regionaltoglinjen FL8 Rom–Nettuno. I kommunen ligger et konsortieforvaltet industriområde på 256 hektar, som deles med Lanuvio, og kommunen indgår med 167 hektar i Lazios forenklede logistikzone (ZLS). Erhvervslivet er primært farmaceutisk med fabrikker tilhørende koncerner som Pfizer, Abbott, Angelini og Recordati; landbruget omfatter vinmarkerne i DOC Aprilia og en mineralvandskilde. Det giver strømme af aktive farmaceutiske ingredienser, primæremballage og færdigvarer, der kræver sporbarhed af partier, temperaturstyret lagring og dedikerede transporter.",
+    "sectors": [
+      "farmaceutico",
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Aprilia_(Italia)",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "bassiano": {
+    "profile": "Bassiano er en landsby i Monti Lepini med udsigt over den pontinske slette, forbundet med dalen via provinsvejen Sermonetana mod Sermoneta og Latina Scalo. I kommunen udspringer vandløbet Brivolco, en biflod til Ufente. Økonomien består af små fødevarevirksomheder: byen er kendt for lagret skinke, suppleret med ekstra jomfruolivenolie og vin. Touring Club Italiano har tildelt den Bandiera arancione, og dagsturismen samler sig i weekenderne. Logistisk er mængderne små og fragmenterede: pølsevarer under modning, forsendelser af egnsprodukter til detailhandlen og leveringer ad bjergveje med lette køretøjer.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Bassiano"
+    ]
+  },
+  "campodimele": {
+    "profile": "Campodimele ligger på en karstbakke, hvor Monti Ausoni møder Aurunci, i baglandet mellem Fondi og Itri. Landsbyen kan kun nås ad én kørevej, der tager af fra SS82 della Valle del Liri, statsvejen, der fra Itri fører ind i landet. Der er få og små erhvervsaktiviteter: blandt de traditionelle fødevarer, som ministeriet har anerkendt, er cicerchia (en bælgfrugt) og det hjemmebagte brød fra Campodimele, og byen har Touring Clubs Bandiera arancione. Det logistiske behov drejer sig især om levering af små partier, forsyning af detailbutikker og forsendelse af bælgfrugter og egnsprodukter.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Campodimele"
+    ]
+  },
+  "castelforte": {
+    "profile": "Castelforte ligger ved den østlige grænse af provinsen Latina på de yderste udløbere af Monti Aurunci, med den historiske bykerne og bydelen Suio ud mod Garigliano-dalen ved grænsen til Campania. I Suio ligger termalbade, arvtagere efter de antikke romerske Terme Vescine, som sammen med landbruget i dalen og små håndværksvirksomheder bærer en væsentlig del af den lokale økonomi. Kommunen indgår i Lazios forenklede logistikzone (ZLS) med 11,64 hektar i et område, der er berettiget til regionalstøtte. Den lokale logistik betjener overnatnings- og kursteder, detailhandel og byggepladser med strømme mod både Formia og Cassino og motorvejen A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castelforte",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "cisterna-di-latina": {
+    "profile": "Cisterna di Latina ligger ved den nordlige indgang til Agro Pontino, ved SS7 Appia og jernbanen Rom–Napoli via Formia; fra kommunens område ved Campoverde startede i 2026 anlægget af forbindelsesvejen Cisterna–Valmontone mod motorvejen A1. Det konsortieforvaltede industriområde dækker 368 hektar, heraf 192 i den forenklede logistikzone (ZLS). Her ligger aluminiumsvalseværket i Olmobello, Nomad Foods' Findus-anlæg for frostvarer til det italienske marked og farmaceutiske virksomheder som Nuova Ompi og BSP Pharmaceuticals; i bydelen Borgo Flora begyndte dyrkningen af kiwi i 1970'erne. De lokale forsyningskæder kræver frostkæde, tunge læs af metalhalvfabrikata og sporede farmaceutiske strømme.",
+    "sectors": [
+      "agroalimentare",
+      "farmaceutico",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cisterna_di_Latina",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "cori": {
+    "profile": "Cori er en bakkeby i det nordvestlige Monti Lepini over den pontinske slette, med bydelen Giulianello mod Velletri. Provinsvejene forbinder den med Cisterna og Pontina, med Latina Scalo via Doganella di Ninfa og med A1-tilkørslen ved Valmontone via Artena; den mest benyttede jernbanestation er Cisternas. Området producerer vine under DOC Cori rød og hvid samt olie af itrana-oliven med vinkældre og oliemøller, hertil kommer kiksfabrikker, virksomheder med konserves i olie og en tradition for træstole. Logistikken følger kalenderen for vinhøst og olivenhøst: glas, palleterede flasker og distribution til vinhandlere og dagligvarekæder.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cori"
+    ]
+  },
+  "fondi": {
+    "profile": "Fondi breder sig over sletten, der er omkranset af Monti Ausoni og Aurunci og åben mod Det Tyrrhenske Hav; den gennemskæres af SS7 Appia og er forbundet med Ciociaria via SR637 mod Lenola, og stationen Fondi-Sperlonga ligger på strækningen Rom–Napoli via Formia. Økonomien drejer sig om frugt og grønt: citruslundene har givet plads til grøntsager, tidlige drivhusafgrøder og frugt, og byen huser engrosmarkedet for fødevarer (MOF, Mercato Ortofrutticolo di Fondi), som ifølge operatøren omsætter knap 10 millioner kvintaler om året og ikke har jernbaneforbindelse. Kommunen indgår i den forenklede logistikzone (ZLS) med 69,70 hektar. Det giver natlige temperaturstyrede strømme, sæsontoppe og stor efterspørgsel efter vejtransport.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fondi",
+      "https://www.mof.it/index.php/mof"
+    ]
+  },
+  "formia": {
+    "profile": "Formia ligger mellem udløberne af Monti Aurunci og Gaetabugten ved Appia SS7, hvor SR213 Flacca mod Sperlonga og Terracina og SR630 Ausonia mod Cassino tager af; stationen Formia-Gaeta ligger på strækningen Rom–Napoli. Fra havnen afgår færger og hydrofoilbåde til Ponza og Ventotene, og byen fungerer derfor som base for forsyningen af øerne. Erhvervsområderne Penitro, Ponzanello–Mamurrano og Castagneto, der blev etableret af det tidligere Consorzio Sud Pontino, er knyttet til havnen; kommunen indgår i den forenklede logistikzone (ZLS) med 124 hektar. Handel, service, byggeri og håndværk inden for keramik og jern skaber bydistribution og konsolidering af læs til udskibning.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Formia",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "gaeta": {
+    "profile": "Gaeta ligger på forbjerget, der lukker bugten af samme navn mod vest, og er forbundet med Appia og Formia via SR213 Flacca. Handelshavnen hører under havnemyndigheden for det centrale og nordlige Tyrrhenske Hav og håndterede i 2025 ca. 1,8 millioner tons, næsten udelukkende flydende og tørt bulkgods; Lazios forenklede logistikzone (ZLS) omfatter 142,61 hektar af kommunen plus 17,53 hektar havneområder, og området Monte Conca er et konsortieforvaltet erhvervsområde. Byen er hjemhavn for flagskibet i den amerikanske Sjette Flåde og har en etableret badeturisme. Logistikken kombinerer bulkgods fra havnen, forsyning af overnatningssteder med sommertoppe og egnsprodukter som oliven fra Gaeta.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gaeta",
+      "https://www.shippingitaly.it/2026/02/17/nei-porti-del-lazio-oltre-131-mln-di-tonnellate-e-35-mln-di-crocieristi-nel-2025/"
+    ]
+  },
+  "itri": {
+    "profile": "Itri ligger i en dal i Monti Aurunci langs Appia SS7 mellem Fondi og Formia, hvor SS82 della Valle del Liri begynder; stationen ligger på strækningen Rom–Napoli via Formia, og kysten følges af SR213 Flacca. Landbruget er hovederhvervet: oliven fra Itri forarbejdes i lage og presses til olie, og på bakkerne produceres vinen Abbuoto. Kommunen hører til området under Consorzio Industriale Sud Pontino og indgår i den forenklede logistikzone (ZLS) med 3,70 hektar, mens turiststrømmene fra Rom og Napoli er stigende. Det logistiske behov drejer sig om emballeret olie og oliven med høst om efteråret og forsendelser fordelt over året.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Itri"
+    ]
+  },
+  "latina": {
+    "profile": "Latina er hovedby i Agro Pontino: SS148 Pontina forbinder den med Rom, SS7 Appia krydser kommunen, og SS156 dei Monti Lepini fører mod Frosinone og motorvejen A1; jernbanestationen ligger i Latina Scalo på strækningen Rom–Napoli via Formia. Industrien domineres af farmaci, efterfulgt af kemi, fødevarer, mejeri, metallurgi og præcisionsmekanik, koncentreret i det konsortieforvaltede industriområde i Latina Scalo og i de 280 hektar, der indgår i den forenklede logistikzone (ZLS). Landbruget omfatter drivhuse, blomsteravl, grøntsager og Kiwi Latina IGP. Offentlige kontorer og servicesektoren fuldender billedet med efterspørgsel efter farmaceutisk logistik, kølekæde og bydistribution.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Latina",
+      "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Logistica.pdf"
+    ]
+  },
+  "lenola": {
+    "profile": "Lenola ligger mellem højderne i Ausoni og Aurunci ved grænsen mellem provinserne Latina og Frosinone, langs SR637, der stiger fra Fondi mod Ciociaria og møder Appia nede i dalen. Byen er kendt for helligdommen Madonna del Colle, et pilgrimsmål, og området hører til produktionszonen for mozzarella di bufala campana DOP. Erhvervslivet består af små landbrugs-, håndværks- og handelsvirksomheder, der er orienteret mod frugt- og grøntmarkedet og servicen i Fondi. Logistikken omfatter især friske mejeriprodukter, forsyning af den lokale handel og transporter i bakket terræn langs aksen Fondi–Frosinone.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lenola"
+    ]
+  },
+  "maenza": {
+    "profile": "Maenza er en bakkekommune i Monti Lepini i ca. 360 meters højde i baglandet til Priverno og nær SS156 dei Monti Lepini mod Frosinone. Området, der i vid udstrækning er dækket af skov og olivenlunde, har en småskala økonomi baseret på primærerhverv og turisme. Der drives fjerkræ- og kaninavl, opdræt af bøfler og heste og dyrkning af kirsebær, oliven, vin, hvede og majs, med mindre produktion af figner, kaki og kiwi. Det logistiske behov er knyttet til letfordærvelige friskvarer, foder og landbrugsforsyninger med leveringer ad provinsveje i bakket terræn.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Maenza"
+    ]
+  },
+  "minturno": {
+    "profile": "Minturno strækker sig fra bakkerne i Monti Aurunci til kysten ved Gaetabugten, helt til Gariglianos udmunding og grænsen til Campania. I bydelen Scauri krydser Appia SS7 statsvejen mod Cassino, og stationen Minturno-Scauri ligger på strækningen Rom–Napoli. Erhvervsområderne Penitro og Parchi stammer fra det tidligere Consorzio Sud Pontino, og kommunen indgår i den forenklede logistikzone (ZLS) med 59,06 hektar i et område, der er berettiget til regionalstøtte. Økonomien forener bade- og kulturturisme omkring udgravningerne i Minturnae, landbrug på Garigliano-sletten og handel. Det giver sæsonbestemte leveringer til overnatningssteder og strømme mod Campania og A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Minturno",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "monte-san-biagio": {
+    "profile": "Monte San Biagio ligger på en udløber af Monti Ausoni ud mod sletten og søen ved Fondi og gennemskæres af Appia SS7. Stationen Monte San Biagio-Terracina Mare på strækningen Rom–Napoli via Formia betjenes af regionaltog og siden 2024 også af to Intercity-fjerntog. Området er produktionszone for mozzarella di bufala campana DOP, olien Colline Pontine DOP og Moscato di Terracina DOC og grænser op til frugt- og grøntområdet ved Fondi. Kommunen indgår i den forenklede logistikzone (ZLS) med 12,80 hektar uden for det område, der giver ret til skattefradrag. Den lokale logistik omfatter friske mejeriprodukter, olie og vin.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_San_Biagio",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "norma": {
+    "profile": "Norma ligger på en klippevæg i Monti Lepini, der hæver sig over Agro Pontino og Giardino di Ninfa; provinsvejen Norbana fører ned mod sletten, og Cotral-busruter forbinder byen med Latina via Sermoneta og Latina Scalo. Økonomien bygger på olivendyrkning, mindre landbrug og kulturturisme: byen har den arkæologiske park for det antikke Norba og et chokolademuseum og har siden 2023 været medlem af Città dell'olio. Der er ingen egne industriområder, og virksomhederne er orienteret mod sletten nedenfor. Det logistiske behov er begrænset til olie, håndlavede konfekturevarer og forsyninger til handel og overnatningssteder.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Norma_(Italia)"
+    ]
+  },
+  "pontinia": {
+    "profile": "Pontinia er en planlagt by i Agro Pontino, anlagt mellem floden Sisto og Appia SS7 i udkanten af Parco Nazionale del Circeo. I kommunen ligger to konsortieforvaltede industriområder: Mazzocchio på 445 hektar ved grænsen til Priverno og Sonnino og Pontinia på 126 hektar, som deles med Latina og Sabaudia; kommunen indgår i den forenklede logistikzone (ZLS) med 78,17 hektar uden for det område, der giver ret til skattefradrag. I Mazzocchio ligger vognmandsvirksomheder, producenter af køkkenvaske og plastkomponenter til køkkener og badeværelser, økologiske fødevarer og emballage; i landdistrikterne dominerer landbrug og mejeriindustri, der kræver kølet transport og konsolidering af læs.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pontinia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ponza": {
+    "profile": "Ponza er hovedøen i den pontinske øgruppe; kommunen omfatter også Palmarola, Gavi og Zannone. Færger og hydrofoilbåde forbinder den hele året med Formia, med faste afgange også fra Terracina og Napoli; om sommeren kommer forbindelser fra Anzio, Ischia og San Felice Circeo samt til Ventotene. Økonomien afhænger af sommerturismen, primært fra Lazio og Campania, og af fiskeri, med mindre produktion af linser og vinen Fieno di Ponza IGT. Alle forsyninger kommer ad søvejen: logistikken kræver konsolidering af læs i udskibningshavnene, reservation af plads på færgerne og lagre dimensioneret efter badesæsonens top.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponza_(comune)",
+      "https://www.directferries.it/laziomar.htm"
+    ]
+  },
+  "priverno": {
+    "profile": "Priverno ligger midt i Amaseno-dalen langs SS156 dei Monti Lepini, der forbinder den pontinske slette med Frosinone og motorvejen A1. Stationen Priverno-Fossanova på strækningen Rom–Napoli via Formia er også forgreningspunkt for sidebanen til Terracina. Økonomien kombinerer aktivt landbrug, industri knyttet til det nærliggende industriområde Mazzocchio, håndværk inden for keramik, terrakotta og kobber samt turisme omkring cistercienserklosteret Fossanova. I de senere år har byggeaktiviteten været betydelig. Den lokale logistik betjener byggepladser og handel med byggematerialer, landbrugsprodukter og strømme langs tværforbindelsen mellem Latina og Frosinone.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Priverno"
+    ]
+  },
+  "prossedi": {
+    "profile": "Prossedi er en bakkelandsby i Monti Lepini, synlig fra SS156 halvvejs mellem Priverno og Frosinone, og gennemløbes af floden Amaseno og dens biflod Monteacuto. Området er overvejende bakket og bjergrigt; det eneste flade område ligger langs Amaseno, hvor køkkenhaverne er samlet, mens skråningerne domineres af olivenlunde og vinmarker. Byen har Touring Clubs Bandiera arancione og en økonomi med små landbrugsbedrifter og handelsvirksomheder. Beliggenheden ved SS156 placerer den på aksen mellem Agro Pontino og Valle del Sacco; det logistiske behov drejer sig om friske grøntsager, olie og vin i små partier.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Prossedi"
+    ]
+  },
+  "rocca-massima": {
+    "profile": "Rocca Massima på Monte Massimo i Monti Lepini i 735 meters højde er den højest beliggende kommune i provinsen Latina; en stor del af befolkningen bor i landsbyerne længere nede mod Cori og Giulianello. Provinsvejene fører til Giulianello, Cori og Segni, og Cotral-busser forbinder byen med Velletri. Økonomien bygger på landbrug og husdyrhold, især olivendyrkning og olieproduktion, med sommerturisme i den historiske bykerne. Der er ingen nævneværdige erhvervsområder. Logistikken drejer sig om afsætning af olie og leveringer ad bjergveje, hvor der kræves lette køretøjer og planlagte leveringer.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Massima"
+    ]
+  },
+  "roccagorga": {
+    "profile": "Roccagorga ligger i Monti Lepini i Amaseno-dalen over Priverno, forbundet med SS156 dei Monti Lepini og derfra med den pontinske slette og Frosinone. Området er bakket og bjergrigt og består af kalksten uden permanente vandløb: landbruget er derfor bakkelandbrug med oliven og mindre afgrøder. Blandt de traditionelle erhverv skiller kunstnerisk kobberarbejde sig ud. Byen har ingen egne industriområder, og den erhvervsaktive befolkning er orienteret mod Priverno og erhvervsområderne på sletten som Mazzocchio. Det logistiske behov er knyttet til små leveringer til handel og håndværk og forsyning af byggesektoren.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccagorga"
+    ]
+  },
+  "roccasecca-dei-volsci": {
+    "profile": "Roccasecca dei Volsci er en lille bakkekommune med udsigt over Priverno og Amaseno-dalen, med skove, der når op til 700 meter; SS156 dei Monti Lepini lidt længere nede forbinder den med den pontinske slette og Frosinone. Bydelen Lucerna i en dal ved grænsen til Amaseno har en økonomi baseret på produktion af bøffelmælk, der leveres til egnens mejerier. Resten af området lever af bakkelandbrug, vandreturisme og nærservice. Logistisk betyder det daglig indsamling af frisk mælk, levering af foder og forsyninger til husdyrbrug samt kølet transport over korte afstande.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccasecca_dei_Volsci"
+    ]
+  },
+  "sabaudia": {
+    "profile": "Sabaudia er en planlagt by i Agro Pontino med et fladt område, der omfatter klitkysten, kystsøerne og skovene i Parco Nazionale del Circeo; SS148 Pontina forbinder den med Latina og Terracina. Sammen med Terracina og Fondi samler den en stor del af provinsens drivhusproduktion med grøntsager til friskmarkedet og til forarbejdning. En del af det konsortieforvaltede industriområde Pontinia ligger i kommunen. Om sommeren mangedobler badeturismen efterspørgslen efter service. Logistikken skal håndtere løbende høst af grøntsager under temperaturstyring og samtidig den sæsonbestemte forsyning af badeanstalter og overnatningssteder.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sabaudia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "san-felice-circeo": {
+    "profile": "San Felice Circeo ligger på forbjerget Circeo i den sydlige ende af Agro Pontino; SS148 Pontina passerer nær kommunens nordgrænse, og Cotral-ruter forbinder den med provinsens byer og med Rom. Om sommeren forbinder en fast søforbindelse havnen med øen Ponza. Økonomien domineres af bade- og lystbådeturisme med sommerhuse og overnatningssteder, der samler efterspørgslen fra juni til september; blandt de traditionelle håndværk er produktion af stilmøbler. Den lokale logistik er præget af stærk sæsonvariation: forsyning af restauranter og handel samt levering af møbler.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Felice_Circeo"
+    ]
+  },
+  "santi-cosma-e-damiano": {
+    "profile": "Santi Cosma e Damiano strækker sig mellem skråningerne i Monti Aurunci og Garigliano-sletten i provinsens sydøstlige hjørne ved grænsen til provinsen Frosinone og, på den anden side af floden, Campania. I 1960'erne satte åbningen af en fabrik for selvklæbende materialer, der senere lukkede, gang i industrialiseringen; i dag består økonomien af små håndværks- og landbrugs- og husdyrvirksomheder, handel og distribution, restauration og travbanen Ippodromo del Garigliano, åbnet i 1997. Erhvervsområdet Pantaniello og 10,24 hektar i den forenklede logistikzone (ZLS), berettiget til regionalstøtte, giver plads til etableringer. Logistikken betjener handelsdistribution, mejeriprodukter og strømme mod Campania og A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santi_Cosma_e_Damiano_(Italia)",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "sermoneta": {
+    "profile": "Sermoneta strækker sig fra Monti Lepini til Agro Pontino: middelalderbyen med Castello Caetani hæver sig over sletten, mens den lavere del af kommunen grænser op til Latina Scalo og indgår i det konsortieforvaltede industriområde Latina Scalo, der dækker 448 hektar fordelt på Latina, Sermoneta og Sezze. Kommunen indgår i den forenklede logistikzone (ZLS) med 128 hektar uden for det område, der giver ret til skattefradrag. Landbrugsmæssigt hører området til zonerne for carciofo romanesco IGP, olien Colline Pontine DOP og mozzarella di bufala DOP. Kulturturisme, også knyttet til det nærliggende Giardino di Ninfa, og industrien på sletten skaber forskellige logistiske behov.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sermoneta",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sezze": {
+    "profile": "Sezze strækker sig mellem Monti Lepini og Agro Pontino og gennemløbes af floden Ufente; stationen Sezze Romano ligger på strækningen Rom–Napoli via Formia. Økonomien er fortsat landbrugspræget og sæsonbestemt: artiskokker, høstet fra slutningen af januar, broccoletti i januar-februar, tomater, visciole (surkirsebær) fra Lepini og Hayward-kiwi, høstet fra slutningen af oktober, samt bøffelmælk og -mozzarella. Fabrikkerne, der blev etableret med støtte fra Cassa per il Mezzogiorno, er for størstedelens vedkommende nedlagt, men en del af industriområdet Latina Scalo ligger i kommunen, som indgår i den forenklede logistikzone (ZLS) med 35,25 hektar. Logistikken følger høstkalenderen med toppe i frisk frugt og grønt.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sezze",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sonnino": {
+    "profile": "Sonnino ligger i et bakket og bjergrigt område i Monti Ausoni i den central-sydlige del af provinsen Latina. Motortrafikvejen Frosinone–mare forbinder den med A1-tilkørslen ved Frosinone og med kysten ved Terracina, mens Pontina og Appia fører mod Latina og Rom; stationerne på den gamle linje Velletri–Terracina er nedlagt, og den nærmeste aktive station er Priverno-Fossanova. Området er produktionszone for olien Colline Pontine DOP, mozzarella di bufala campana og Moscato di Terracina DOC og grænser op til industriområdet Mazzocchio. Det logistiske behov omfatter olie, mejeriprodukter og vin med forbindelser mod Ciociaria og kysten.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sonnino"
+    ]
+  },
+  "sperlonga": {
+    "profile": "Sperlonga ligger på en klippeudløber af Monte San Magno ud mod Gaetabugten mellem Terracina og Gaeta og betjenes i hele sin udstrækning af SR213 Flacca; den nærmeste jernbanestation er Fondi-Sperlonga, der er forbundet med byen med bus. Økonomien er næsten udelukkende turistbaseret: byen er med i I Borghi più belli d'Italia, og ud over strandene findes det arkæologiske museum ved Villa di Tiberio. Landbruget spiller en mindre rolle med pomodoro perino og sedano bianco di Sperlonga IGP. Logistikken er stærkt sæsonbestemt med forsyninger koncentreret om sommeren til hoteller, restauranter og badeanstalter.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sperlonga"
+    ]
+  },
+  "spigno-saturnia": {
+    "profile": "Spigno Saturnia ligger i Monti Aurunci i baglandet til Minturno i et område domineret af Monte Petrella og gennemløbet af floden Ausente; kommunens lavere del ligger langs SR630 Ausonia, der forbinder Formia med Cassino og A1. De traditionelle erhverv omfatter produktion af håndlavede teglfliser, broderi og knipling, mens landbruget omfatter dyrkning af itrana-oliven. Der er ingen større erhvervsområder, og den erhvervsaktive befolkning er orienteret mod kysten ved Gaetabugten. Det logistiske behov drejer sig om tegl og byggematerialer, olie og oliven samt leveringer til den lokale handel.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spigno_Saturnia"
+    ]
+  },
+  "terracina": {
+    "profile": "Terracina afslutter Agro Pontino mod syd ved Amasenos udmunding: her ender SS148 Pontina, med ét spor i hver retning efter Borgo Piave, og her passerer Appia SS7 og SR213 Flacca mod Sperlonga og Gaeta; en sidebane forbinder byen med Priverno-Fossanova. Turismen er hovederhvervet med provinsens største antal ferieboliger, ved siden af fiskeri, blomsteravl, drivhusgrøntsager, bøffelopdræt og produkter som jordbærret Favetta og Moscato di Terracina. Havnen har sæsonforbindelser til Ponza. Logistikken kombinerer temperaturstyret frugt og grønt, fangst og forsyninger til sommerturismen.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Terracina",
+      "https://it.wikipedia.org/wiki/Strada_statale_148_Pontina"
+    ]
+  },
+  "ventotene": {
+    "profile": "Ventotene er med holmen Santo Stefano Lazios mindste kommune målt på areal og regionens sydligste. Hovedforbindelsen er til Formia, som Laziomar betjener hele året med færge, der også tager køretøjer, og med hurtigbåd; om sommeren kommer afgange til Ponza og fra Napoli. Færgerne og den kommercielle transport lægger til i den nye havn Cala Rossano, mens den romerske havn modtager fiskerbåde og mindre fartøjer; en helikopterlandingsplads betjener redningstjenesten. Økonomien lever af sommerturisme og et mindre landbrug med linser blandt de traditionelle produkter. Lagrene skal planlægges efter afgangene fra Formia og sommertoppen.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ventotene_(comune)",
+      "https://www.directferries.it/formia_ventotene_traghetto.htm"
+    ]
+  },
+  "pomezia": {
+    "profile": "Pomezia strækker sig over Agro Romano mellem skråningerne af Colli Albani og kysten og betjenes af SS148 Pontina, Laurentina, Ardeatina og kystvejen Ostia–Anzio; stationen Pomezia-Santa Palomba ligger på strækningen Rom–Napoli via Formia ved siden af den intermodale terminal SGT. Industrien, der voksede med støtte fra Cassa per il Mezzogiorno, omfatter farmaci og bioteknologi (Menarini, Johnson & Johnson, IRBM), elektronik og forsvar (Leonardo, Northrop Grumman Italia), papirvarer, plast og fødevarer med pølsefabrikken Fiorucci, snacks fra Crik Crok og et malteri. Industriområdet Santa Palomba huser logistikoperatører og distributionscentre for dagligvarehandlen. Efterspørgslen efter logistik er bred: lægemidler, fødevarer og dagligvarer.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pomezia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ardea": {
+    "profile": "Ardea ligger på en tufklippe syd for Pomezia i Agro Romano med et område, der skråner ned mod havet i kystbydelene Tor San Lorenzo og Marina di Ardea; SS148 Pontina krydser den indre del. Kommunen har bevaret et landbrugspræg med produktion inden for zonerne for mozzarella di bufala campana og vinene Colli Albani og Roma DOC, men har siden 1970'erne udviklet industri- og håndværksområder langs Pontina. Boligvæksten i de seneste årtier, knyttet til produktions- og logistikcentrene i Pomezia, har givet næring til byggeri og handel. Det giver leveringer af byggematerialer, detaildistribution og sommerturisme.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ardea"
+    ]
+  },
+  "anzio": {
+    "profile": "Anzio ligger på forbjerget af samme navn på kysten syd for Rom og betjenes af SS207 Nettunense, kystvejen SS601 Ostia–Anzio og stationerne på regionallinjen FL8 Rom–Nettuno. Økonomien bæres af badeturisme og havnen, der har en flåde på ca. 60 fiskerbåde og over 800 tons fangst om året, og hvorfra der er sæsonforbindelser til Ponza. I kommunen ligger Colgate-Palmolives italienske fabrik, og baglandet hører til zonen for mozzarella di bufala campana. For logistikken er forsyningskæden for frisk fisk, strømmene af personlige pleje- og husholdningsprodukter og sommerforsyningen af handel og restauranter vigtige.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Anzio"
+    ]
+  },
+  "nettuno": {
+    "profile": "Nettuno ligger på kysten mellem Campagna romana og Agro Pontino; floden Astura danner grænsen til Latina kommune. Byen er endestation for regionalbanen Rom–Nettuno og er forbundet med SS148 Pontina via afkørslerne Campo di Carne og Campoverde, med SS207 Nettunense mod Aprilia og Castelli Romani og med kystvejen SS601 mod Anzio. Turismen er hovederhvervet: badeturisme med lystbådehavnen Marina di Nettuno samt historisk og religiøs turisme med helligdommen Santa Maria Goretti og den amerikanske militærkirkegård. Landbrugsbaglandet hører til zonen for bøffelmozzarella. Logistikken skal håndtere sommertoppe i forbrug og restauration.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nettuno_(Italia)"
+    ]
+  },
+  "ciampino": {
+    "profile": "Ciampino danner bindeled mellem Rom og Castelli Romani: byen gennemskæres af SS7 Appia og Anagnina, her begynder Via dei Laghi mod Velletri, og ringvejen Grande Raccordo Anulare løber få hundrede meter fra kommunegrænsen mellem afkørslerne Gregna Sant'Andrea og Appia. Ciampino station, hvor linjerne FL4 og FL6 mødes, er den tredjevigtigste i Lazio efter Termini og Tiburtina. Kommunen har givet navn til lufthavnen G. B. Pastine, der drives af Aeroporti di Roma og det italienske luftvåben. Økonomien er centreret om service og detailhandel med efterspørgsel efter bydistribution og leveringer til butikker og lufthavnsbrugere.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ciampino"
+    ]
+  },
+  "marino": {
+    "profile": "Marino ligger i den nordvestlige del af Colli Albani med et område, der strækker sig til bydelene på sletten mod Ciampino og Rom som Santa Maria delle Mole, Cava dei Selci og Castelluccia; byen gennemskæres af SS7 Appia og SR207 Nettunense. Vinavl har længe været det førende erhverv: DOC Marino har været anerkendt siden 1970, og andelsvinkælderen Gotto d'Oro, grundlagt i 1946, er den største producent. Tidligere var der brud af peperino og basalt, og i dag er byggeri fortsat en vigtig sektor ved siden af smedehåndværk, trykkerier og bagerier. Logistikken håndterer aftappet vin, byggematerialer og bydistribution.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Marino_(Italia)"
+    ]
+  },
+  "castel-gandolfo": {
+    "profile": "Castel Gandolfo strækker sig fra Colli Albani til Agro Romano ud mod Albanosøen og ligger helt inden for Parco regionale dei Castelli Romani. Området gennemskæres af SS7 Appia og SS140 del lago Albano, og stationen ligger på jernbanen Rom–Albano. Pavepaladset med de pavelige villaer og Domitians villa giver en stabil kultur- og religiøs turisme. Vinavlen varetages af store andelsvinkældre i nabokommunerne, og kommunens vedtægt forbyder antenner og faste telekommunikationsanlæg. Hospital og mange servicefunktioner ligger uden for kommunen, så logistikken drejer sig primært om restauration, handel og overnatningssteder.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Gandolfo"
+    ]
+  },
+  "albano-laziale": {
+    "profile": "Albano Laziale er en af de største kommuner i Colli Albani og omfatter ud over centrum ved SS7 Appia bydelene Pavona og Cecchina på sletten, som gennemskæres af SR207 Nettunense; byen betjenes af regionaltoglinjen FL4. I 2018 var der 2.863 lokale enheder med 8.516 ansatte og en erhvervsstruktur centreret om service, herunder hospital, kontorer og handel. Ved siden af vintraditionen under Colli Albani DOC har byen et engrosmarked for frugt og grønt, der historisk har haft betydning for grøntsager og artiskokker. Det logistiske behov drejer sig om frisk frugt og grønt, forsyning af detailhandlen og leveringer til sundhedsinstitutioner og kontorer.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Albano_Laziale"
+    ]
+  },
+  "ariccia": {
+    "profile": "Ariccia er en af byerne i Castelli Romani og gennemskæres af SS7 Appia, der her krydser dalen på Ariccia-broen; i romertiden var Aricia den første rasteplads på Via Appia uden for Rom. Monumentkomplekset med Palazzo Chigi og Berninis piazza giver en dagsturisme fra Rom. Det bedst kendte produkt er porchetta, suppleret med hvidvin fra Colli Albani DOC og bøffelmozzarella; de mange fraschette (enkle vinstuer) samler efterspørgslen i weekenderne. Logistisk betyder det forarbejdet kød, der skal transporteres kølet, hyppig forsyning af restauranter og toppe i forbindelse med lokale festivaler og arrangementer.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ariccia"
+    ]
+  },
+  "genzano-di-roma": {
+    "profile": "Genzano di Roma ligger i Colli Albani langs SS7 Appia mellem Ariccia og Velletri med udsigt over Nemisøen; stationen San Gennaro ligger på jernbanen Rom–Velletri, regionallinjen FL4. I landbruget dominerer vinavl: Genzano og Lanuvio udgør kernen i zonen for DOC-vinene Colli Lanuvini, med olivendyrkning, blomsteravl, frugt og grøntsager. Der er ca. 400 håndværksvirksomheder inden for læder, flet, glas, keramik og stilmøbler, men den vigtigste sektor er brødbagning med pane casareccio di Genzano, hævet med surdej og bagt i brændeovn. Den lokale logistik kræver daglig distribution af bagervarer og forsendelser af vin.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genzano_di_Roma"
+    ]
+  },
+  "lanuvio": {
+    "profile": "Lanuvio ligger på den sydlige skråning af Colli Albani ud mod sletten ved Aprilia, med station på jernbanen Rom–Velletri. Hovederhvervet er landbrug, især vinavl under DOC Colli Lanuvini og Colli Albani, sammen med olivendyrkning, blomsteravl, frugtavl og grøntsagsdyrkning. Industri og handel er koncentreret langs SR207 Nettunense, der forbinder Rom med Aprilia, Anzio og Nettuno, og en del af Aprilias konsortieforvaltede industriområde, i alt 256 hektar, ligger i kommunen. Det logistiske behov kombinerer sæsonbestemte landbrugsprodukter, vin og blomster med industrielle strømme mod produktionsområdet i Aprilia og Pontina.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lanuvio",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "velletri": {
+    "profile": "Velletri afslutter Colli Albani mod syd ud mod Agro Pontino: her mødes SS7 Appia og Via dei Laghi, mens Via Ariana fører til Lariano og Casilina; jernbanen Rom–Velletri, åbnet i 1863, betjenes i dag af regionallinjen FL4. Primærsektoren bygger på vin med DOC Velletri, Castelli Romani og Roma og på handel med landbrugsprodukter fra omegnen. Industri og håndværk er fordelt langs Appia Nuova mod den pontinske industri og i industriområdet Contrada Lazzaria ved grænsen til provinsen Latina. Blandt de traditionelle erhverv er keramik og terrakotta.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Velletri"
+    ]
+  },
+  "lariano": {
+    "profile": "Lariano ligger på højderne i Artemisio i den sydlige udkant af Colli Albani mellem Velletri, som den var en bydel af indtil 1967, og Artena; en stor del af området ligger i Parco regionale dei Castelli Romani mellem kastanjeskove og bakker, der skråner ned mod den pontinske slette. Via Ariana forbinder den med Velletri og Casilina, og projektet for forbindelsesvejen Cisterna–Valmontone omfatter en tilslutning ved Lariano. Landbruget hører til zonerne for vinene Velletri DOC og Castelli Romani DOC ved siden af oliven og skov. Økonomien består af små virksomheder, handel og service med logistiske behov knyttet til vin, egnsprodukter og byggeforsyninger.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lariano",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "nemi": {
+    "profile": "Nemi ligger ud mod krateret med søen af samme navn i Colli Albani og nås ad SP Nemorense, der tager af fra Appia ved Genzano, og ad Via dei Laghi. Økonomien var længe landbrugsbaseret: dalen omkring søen blev dyrket med løg og æbler, kraterets sider er terrasserede og beplantet med oliven, og i dag er det karakteristiske produkt jordbær i sæson- og remonterende sorter, fejret med en festival i juni. Museet for de romerske skibe og selve landsbyen tiltrækker dagsturister fra Rom. Det logistiske behov drejer sig om skrøbelig frugt med kort holdbarhed, der kræver hurtig kølet transport, og forsyning af restauranter og handel.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nemi"
+    ]
+  },
+  "rocca-di-papa": {
+    "profile": "Rocca di Papa strækker sig over de centrale højder i Colli Albani og gennemskæres af Via Anagnina, der følger den antikke Via Latina, af SS218, der forbinder den med Grottaferrata og Ariccia, og af Via dei Laghi. Andelen af beskæftigede i kommunen er lavere end gennemsnittet for Castelli Romani. Vin dyrkes i den lavere nordvestlige del i kontakt med zonerne for Frascati og Marino, mens kastanje dominerer i større højder: skovbruget, med tømmer primært til byggeri, har altid været et af fundamenterne for den lokale økonomi. Logistikken omfatter tømmer og byggematerialer, vin og leveringer ad veje i bakket terræn.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_di_Papa"
+    ]
+  },
+  "grottaferrata": {
+    "profile": "Grottaferrata ligger på den side af Colli Albani, der vender mod Rom, mellem Frascati, Marino og Rocca di Papa, og gennemskæres af Anagnina, Maremmana III, Via dei Laghi og Pedemontana dei Castelli, der på tværs forbinder Tuscolana, Anagnina og Appia. Området hører til produktionszonen for Frascati og Castelli Romani DOC med mindre olivendyrkning, men i 1900-tallet veg vinavlen for håndværk, handel og service. Det græske kloster San Nilo tiltrækker kulturturisme. Den lokale logistik omfatter handelsdistribution, leveringer til liberale erhverv og service samt forsendelser af vin fra egnens vinkældre.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Grottaferrata"
+    ]
+  },
+  "frascati": {
+    "profile": "Frascati ligger i Colli Albani langs Via Tuscolana; jernbanen Rom–Frascati, den første i Kirkestaten, forbinder byen med Termini, mens stationen Tor Vergata på strækningen Rom–Cassino ligger ved grænsen til Rom. Landbrugsarealet er beplantet med oliven og vin, med druer til vinen Frascati DOC. Byen huser internationale forskningscentre: INFN's Laboratori Nazionali di Frascati, Den Europæiske Rumorganisations center ESRIN og afdelinger af ENEA. Servicesektoren vejer tungt. Det giver to forskellige logistiske behov: vin og landbrugsprodukter på den ene side, udstyr og tekniske forsyninger til forskningscentrene på den anden.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Frascati"
+    ]
+  },
+  "monte-porzio-catone": {
+    "profile": "Monte Porzio Catone ligger i det østlige Colli Albani mellem Frascati og Monte Compatri nær motorvejsforgreningen Roma Sud på A1. Hovederhvervet er vinavl på den vulkanske jord i Frascati-betegnelsen: kommunen har en af de højeste koncentrationer af vinkældre i Castelli Romani, bl.a. Fontana Candida, Villa Simone og Poggio le Volpi, og en betydelig del af vinen sælges i Rom eller eksporteres. I kommunen ligger også en afdeling af det nationale astronomiske observatorium. Byen har været uden jernbane siden 1944 og betjenes af busruter. Logistikken er knyttet til vinkæden: indgående glas, udgående paller med flasker og eksportforsendelser.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Porzio_Catone"
+    ]
+  },
+  "monte-compatri": {
+    "profile": "Monte Compatri har sin historiske bykerne i Colli Albani langs Maremmana III og bydele på sletten ved Tuscolana som Molara, ved Casilina som Pantano Borghese og Laghetto og ved Prenestina som Osa. I Pantano ligger endestationen for linje C i Roms metro med park-and-ride og busruter. På jorderne under byen produceres vinene Montecompatri Colonna, Frascati superiore og Cannellino di Frascati, og der er en omfattende produktion af ekstra jomfruolivenolie. Bydelene langs Roms østlige indfaldsveje giver ud over strømmene af vin og olie en efterspørgsel efter handelsdistribution og leveringer til hovedstadens østlige forstæder.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "rocca-priora": {
+    "profile": "Rocca Priora er den højest beliggende kommune i Castelli Romani: centrum ligger over 760 meter på østsiden af Colli Albani med udsigt mod dalen ved Casilina og A1. En stor del af området ligger i Parco regionale dei Castelli Romani. Vejnettet består af provinsveje, bl.a. Tuscolana mod Rom og Artena, Anagnina og vejen til Colle di Fuori og San Cesareo. Tidligere forsynede byen Rom med sne og is, der blev opbevaret i højden. I dag dominerer boliger, handel og service med skov og mindre landbrug. Den lokale logistik omfatter leveringer ad bjergveje, boligbyggeri og forsyning af butikker.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Priora"
+    ]
+  },
+  "colonna": {
+    "profile": "Colonna ligger på en vulkansk bakke i den nordøstlige udkant af Castelli Romani og er målt på areal den mindste kommune i Castelli og den næstmindste i Lazio efter Ventotene. Området gennemskæres af Via Casilina, ligger nær knudepunktet mellem A1 og forgreningen Roma Sud og betjenes af stationen Colonna Galleria på linje FL6 med et tog ca. hver time til Roma Termini. Vinmarkerne hører til betegnelsen Montecompatri Colonna. Økonomien er primært bolig- og handelspræget og knyttet til pendling til Rom. Det logistiske behov drejer sig om detaildistribution, leveringer til virksomhederne langs Casilina og forsendelser af vin.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colonna_(Italia)",
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "san-cesareo": {
+    "profile": "San Cesareo ligger ved Via Casilina, hvor forgreningen Roma Sud møder A1, med en motorvejstilkørsel i kommunen; i romertiden lå der kroer og handelsstationer langs Via Labicana. En del af området hører til zonerne for vinene Castelli Romani DOC og Roma DOC. Industriområdet, der opstod i slutningen af 1980'erne langs Casilina tæt ved motorvejen, huser haller til håndværk, produktion og logistik. Kombinationen af motorvejsadgang og mellemstore haller gør kommunen til et transit- og lagerpunkt for distribution mod det østlige Rom og Valle del Sacco.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Cesareo",
+      "https://www.immobiliare.it/en/annunci/101095913/"
+    ]
+  },
+  "zagarolo": {
+    "profile": "Zagarolo ligger mellem Monti Prenestini og Sacco-dalen, forbundet via Zagarolese, SR155 di Fiuggi og Prenestina Nuova; Zagarolo station på strækningen Rom–Napoli via Cassino betjener også pendlere fra Palestrina, mens de gamle stationer Zagarolo Paese og Zagarolo Scalo er lukket. Kommunen omfatter også bydelen Valle Martella ved grænsen til Monte Compatri. Blandt de traditionelle erhverv skiller produktion af stilmøbler sig ud. Kommunen er vokset som boligområde i Roms østlige opland. Den lokale logistik omfatter møbler og indretning til forsendelse og handelsdistribution til de nye boligkvarterer.",
+    "sectors": [
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Zagarolo"
+    ]
+  },
+  "gallicano-nel-lazio": {
+    "profile": "Gallicano nel Lazio ligger på en tufbakke ved foden af Monti Prenestini i den østlige del af Roms storbyområde, omgivet af dale udgravet af vandløb og skovområder. Byen gennemskæres ikke af statsveje: et net af provinsveje forbinder den med San Cesareo og Zagarolo, med Palestrina, med Poli og mod Tivoli ad Maremmana Inferiore. Landskabet, der historisk har været domineret af vinmarker og olivenlunde, har bevaret et landbrugsislæt, men økonomien er i dag primært bolig-, handels- og servicepræget. Kilderne om erhvervsstrukturen er sparsomme. Det logistiske behov drejer sig om forsyning af handlen, boligbyggeri og mindre produktion af olie og vin.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gallicano_nel_Lazio"
+    ]
+  },
+  "palestrina": {
+    "profile": "Palestrina ligger på skråningerne af Monti Prenestini; bydelene i dalen ligger ved SS6 Casilina, mens SR155 di Fiuggi forbinder centrum med Cave, Genazzano, Fiuggi og Frosinone, og A1 krydser kommunen mellem Carchitti og Valvarino. Stationen på strækningen Rom–Napoli via Cassino er forladt, og pendlerne benytter Zagarolos. Helligdommen for Fortuna Primigenia og det arkæologiske museum understøtter kulturturismen. Blandt de traditionelle erhverv er kunstnerisk kobberarbejde og broderi med en skole, der opstod i byen. Kommunen er et service- og skolecentrum for nabobyerne med efterspørgsel efter handelsdistribution og leveringer mod dalen.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Palestrina"
+    ]
+  },
+  "labico": {
+    "profile": "Labico, der indtil 1872 hed Lugnano, ligger langs Casilina mellem San Cesareo og Valmontone i overgangszonen mellem Colli Albani og Sacco-dalen. Labico station ligger på strækningen Rom–Napoli via Cassino og betjenes af regionaltog på FL6. Projektet for forbindelsesvejen Cisterna–Valmontone, hvis anlæg startede i 2026, omfatter en tilslutning ved Labico, der vil forbinde området med Pontina. Kilderne om den lokale økonomi er begrænsede: boliger, handel langs Casilina og små håndværks- og landbrugsvirksomheder dominerer. Beliggenheden mellem Casilina, jernbanen og den kommende forbindelsesvej er relevant for distributionslagre og transportoperatører.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Labico",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "valmontone": {
+    "profile": "Valmontone ligger på en tufhøjde langs Casilina i den øvre Sacco-dal og betjenes af A1-tilkørslen Valmontone og stationen på strækningen Rom–Cassino–Napoli; området krydses også af højhastighedsbanen Rom–Napoli. Forbindelsesvejen Cisterna–Valmontone, under anlæg siden 2026, vil her forbinde Pontina med A1. Ved tilkørslen ligger forlystelsesparken Rainbow MagicLand og outletcentret Valmontone Fashion District, der skaber store strømme af besøgende og varer. Det giver løbende forsyning af tøjbutikker og restauranter, returhåndtering og efterspørgsel efter distributionshaller nær motorvejen.",
+    "sectors": [
+      "gdo-retail",
+      "tessile-moda",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Valmontone",
+      "https://turismoroma.it/it/node/5117"
+    ]
+  },
+  "artena": {
+    "profile": "Artena er en landsby i det nordlige Monti Lepini ud mod Sacco-dalen, betjent af A1-tilkørslen Valmontone og Valmontone station på linje FL6; Tuscolana, Via Ariana og provinsvejen mod Giulianello forbinder den med Castelli Romani og Cori. Økonomien bygger på landbrug og husdyrhold med vinmarker i zonen for Castelli Romani DOC. En del af arealerne fra det tidligere industrikompleks BPD, i dag forvaltet af et selskab i Avio-koncernen, ligger i kommunen sammen med Colleferro og Segni. Den lokale logistik omfatter landbrugs- og husdyrprodukter og underleverandørerne til dalens industri med direkte adgang til A1.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Artena",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "colleferro": {
+    "profile": "Colleferro voksede op omkring Bombrini Parodi Delfino, der blev etableret i 1912 for at producere sprængstoffer og siden var aktiv inden for kemi, mekanik og tekstil; fra den historie stammer Avios rumfartscenter. Koncernen forvalter ca. 910 hektar fordelt på Colleferro, Segni og Artena, heraf 450 til industri, og i byen ligger en cementfabrik tilhørende Italcementi. Kommunen har en tilkørsel til A1, gennemskæres af Casilina, og fra Colleferro Scalo udgår Carpinetana mod Priverno. Her ligger SLIM, det delvist realiserede multimodale logistiksystem, og kommunen indgår i den forenklede logistikzone (ZLS) uden for det område, der giver ret til skattefradrag. Der er behov for specialtransporter, farligt gods og bulkgods til byggeri.",
+    "sectors": [
+      "manifatturiero",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colleferro",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "segni": {
+    "profile": "Segni ligger i det nordlige Monti Lepini over Sacco-dalen og Colleferro. I kommunen udvinder stenbruddet San Bruno kalksten til cementproduktion, der transporteres til Italcementis cementfabrik i Colleferro med et system af seks transportbånd på i alt 4,3 kilometer, en løsning, der undgår vejtransport. En del af arealerne fra det tidligere BPD-kompleks ligger i kommunen. I landbruget er det typiske produkt marrone segnino, en kastanjesort med høst om efteråret. Det logistiske behov kombinerer underleverandørerne til dalens råstof- og industrisektor med sæsonsalg af kastanjer og forsyning af byen.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Segni_(Italia)",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "gavignano": {
+    "profile": "Gavignano ligger på et lille forbjerg ved sammenløbet af Rio og floden Sacco ved foden af Monte Lupone på nordsiden af Monti Lepini; i kommunen ligger Fonte Meo, en kilde kendt for sine vanddrivende egenskaber. I 1900-tallet gjorde BPD's ekspansion i Colleferro mange af byens landmænd til industriarbejdere, og den erhvervsaktive befolkning er fortsat orienteret mod dalens industricenter. I kommunen er der bakkelandbrug og små håndværks- og handelsvirksomheder samt en historisk arv knyttet til benediktinerklostrene i dalen. Den lokale logistik betjener især underleverandørerne til industrien i Colleferro og forsyningen af byens handel.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gavignano_(Italia)"
+    ]
+  },
+  "montelanico": {
+    "profile": "Montelanico har et bjergrigt område mod syd på nordsiden af Monti Lepini, der bliver bakket og siden fladt mod Sacco-dalen; ved grænsen til Segni og Cori rejser Monte Lupone sig. Kommunen gennemskæres af SR609 Carpinetana, der forbinder Colleferro med Priverno, og af en provinsvej mod Segni. Det typiske produkt er kastanjen, fejret med en festival, der siden 1963 er afholdt i oktobers tredje uge; olivendyrkning, husdyrhold og små virksomheder fuldender økonomien. Logistikken følger høstsæsonen om efteråret og betjener forbindelsen mellem industricentret i Colleferro og byerne i Lepini.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Montelanico"
+    ]
+  },
+  "carpineto-romano": {
+    "profile": "Carpineto Romano ligger i den centrale del af Monti Lepini ved grænsen til provinserne Latina og Frosinone i et bjergrigt område, der kulminerer med de 1.536 meter på Monte Semprevisa. Byen er pave Leo XIII's fødeby. SR609 Carpinetana forbinder den på den ene side med Sacco-dalen og Colleferro og på den anden med Maenza og Priverno. De traditionelle erhverv omfatter keramik og terrakotta, og museet La Reggia dei Volsci udstiller genstande fra landbrugets og hyrdelivets traditioner. Økonomien er småskala med skove, græsgange og turisme knyttet til arrangementer som Palio della Carriera; leveringer sker ad bjergveje.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Carpineto_Romano"
+    ]
+  },
+  "gorga": {
+    "profile": "Gorga er en lille kommune i Monti Lepini domineret af Monte San Marino, der rager over 1.380 meter. Bjergområdet, kendt som Gorga-plateauet, har udbredte karstfænomener, herunder grotten Campo di Caccia, der er mål for speleologiske ekspeditioner. Byen er forbundet med Sacco-dalen via provinsvejene, der fører ned mod Carpinetana og Colleferro. Kilderne om den lokale økonomi er sparsomme: hovederhvervet er landbrug og fåre- og gedehold med græsgange, skove og vandreturisme knyttet til plateauet. Det logistiske behov er begrænset til forsyning af byens handel og planlagte leveringer ad bjergveje.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gorga_(Italia)"
+    ]
+  },
+  "cave": {
+    "profile": "Cave ligger mellem Monti Prenestini og Sacco-dalen og gennemskæres af SS155 di Fiuggi, der forbinder Rom og Frosinone; en provinsvej forbinder den med A1-tilkørslen og jernbanestationen i Valmontone, mens Cotral-ruter forbinder den med Roma Anagnina og Ponte Mammolo samt med skolecentrene i Palestrina og Colleferro. Det typiske landbrugsprodukt er marrone di Cave, optaget blandt Lazios traditionelle fødevarer. Den lokale økonomi består af landbrug, handel og service for et boligopland. Det logistiske behov drejer sig om kastanjehøsten om efteråret og distribution til byerne langs Prenestina.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cave_(Italia)"
+    ]
+  },
+  "genazzano": {
+    "profile": "Genazzano ligger på en tufudløber, der fra Monti Prenestini skråner ned mod Sacco-dalen ved grænsen mellem Roms storbykommune og provinsen Frosinone, og er forbundet via SR155 di Fiuggi med Cave, Palestrina og Fiuggi. Helligdommen Madonna del Buon Consiglio tiltrækker pilgrimme hele året, og i den historiske bykerne ligger Castello Colonna. Kilderne om den lokale erhvervsstruktur er sparsomme: landbrug i dalen, mindre handel, restauration og service til den religiøse turisme dominerer. Det logistiske behov drejer sig om forsyning af overnatningssteder og restauranter og forbindelserne mod A1-tilkørslen Valmontone og Ciociaria.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genazzano"
+    ]
+  },
+  "fiumicino": {
+    "profile": "Fiumicino huser lufthavnen Leonardo da Vinci, Italiens største passagerlufthavn og Core-knudepunkt i TEN-T-nettet, med Cargo City og ved siden af logistikplatformen Roma–Fiumicino, hvis jernbaneterminal er under udredning. Lufthavnens station er forbundet med Rom via Leonardo Express og FL1; kommunen betjenes af motorvejen Rom–Fiumicino og langs FL5 af stationerne Maccarese-Fregene og Torrimpietra-Palidoro. Havnen hører under havnemyndigheden for det centrale og nordlige Tyrrhenske Hav og er et fiskericentrum med et stort fiskemarked. For logistikken er luftfragt, international groupage, kølekæde for fisk og forsyning af lufthavnens virksomheder vigtige.",
+    "sectors": [
+      "ecommerce",
+      "agroalimentare",
+      "farmaceutico"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fiumicino",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "eur": {
+    "profile": "EUR er byplanzone 12A i Municipio IX inden for ringvejen Grande Raccordo Anulare på begge sider af Via Cristoforo Colombo; herfra udgår SS148 Pontina mod Latina, og metrolinje B forbinder området med centrum via stationerne EUR Magliana, EUR Palasport og EUR Fermi. Kvarteret er det vigtigste administrations- og kontorcentrum i den sydlige del af Rom: her ligger hovedsæderne for store koncerner som ENI og Poste Italiane, ministeriekontorer, kongrescentret La Nuvola og museer. Efterspørgslen efter logistik er typisk for et kontordistrikt: arkiver og dokumenter, kontorartikler, it-udstyr, opstilling til kongresser og arrangementer samt leveringer inden for faste tidsvinduer.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Eur_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/EUR"
+    ]
+  },
+  "laurentino": {
+    "profile": "Laurentino er byplanzone 12D i Municipio IX inden for Grande Raccordo Anulare mellem Via Cristoforo Colombo og Via Laurentina, som har givet området navn; zonen omfatter naturreservatet Laurentino-Acqua Acetosa. Det er et overvejende boligområde, der voksede fra 1970'erne med store almene byggeprojekter, og det grænser op til kontorcentret EUR, der også kan nås fra metrolinje B's endestation Laurentina. Der er ingen produktionsvirksomheder: økonomien består af nærbutikker, personlige serviceydelser og kontorer. Det logistiske behov er bydistributionens: forsyning af butikker, levering af onlinekøb og service til små forretninger.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Laurentino"
+    ]
+  },
+  "ostiense": {
+    "profile": "Ostiense er Roms tiende kvarter mellem Aurelianmuren og Tiberen. Fra 1907 var det byens første industriområde med flodhavnen, gasværket Gazometro, kraftværket Centrale Montemartini og engrosmarkederne Mercati Generali, der senere lukkede. I dag er området omdannet til service, kultur og universitet: siden 1992 har Università Roma Tre haft hjemsted her, og Centrale Montemartini er et museum. Kvarteret er et trafikknudepunkt med stationen Roma Ostiense, metrolinje B's station Piramide og endestationen for banen Rom–Lido, og Via Ostiense fører mod EUR og kysten. Logistikken betjener restauranter, handel, universitet og kontorer med hyppige byleveringer.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostiense"
+    ]
+  },
+  "garbatella": {
+    "profile": "Garbatella er bebyggelsen, der blev grundlagt i 1920 som haveby for arbejderne ved den nærliggende flodhavn og industriområdet Ostiense; i dag svarer den til byplanzone 11C i Municipio VIII. Bebyggelsen er boligpræget med karréer omkring gårde og smalle gader, og langs Via Cristoforo Colombo ligger Regione Lazios bygning, sæde for regionsregeringen. Området betjenes af metrolinje B's station Garbatella og grænser op til stationen Roma Ostiense. Økonomien består af nærbutikker, restauration, offentlig service og regionale kontorer. Leveringerne kræver lette køretøjer, der passer til det interne vejnet, samt dokumentservice til kontorerne.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Garbatella"
+    ]
+  },
+  "torrino": {
+    "profile": "Torrino er zone Z. XXVII i Agro romano ved og inden for Grande Raccordo Anulare mellem Via del Mare mod vest og Via Cristoforo Colombo og Pontina mod øst. Ved siden af boligkvartererne er der i området Casal Grottoni og Viale dell'Oceano Pacifico opført kontorbygninger: IBM's hovedsæde, Eurosky Business Park og Torre Europarco, kontorer for skattemyndigheden Agenzia delle Entrate og handelskammerets driftskontor. Her ligger også indkøbscentret Euroma2. Kombinationen af kontorer, detailkæder og boliger skaber leveringer til butikker, kontorforsyninger og en stor mængde pakker til private.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torrino"
+    ]
+  },
+  "spinaceto": {
+    "profile": "Spinaceto er byplanzone 12G i Municipio IX syd for Grande Raccordo Anulare mellem Via di Mezzocammino og Via Pontina; navnet betegner også en frazione af Roma Capitale. Kvarteret blev planlagt med de almene boligplaner i 1960'erne og 1970'erne med service og handel i kvarteret. Forbindelsen til metrolinje B, som var forudset i byplanen fra 1968, blev aldrig realiseret, og den kollektive trafik varetages af busser. Direkte adgang til Pontina forbinder kvarteret både med EUR og med erhvervsområderne Castel Romano og Pomezia. Det logistiske behov drejer sig primært om detaildistribution og boligleveringer.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spinaceto"
+    ]
+  },
+  "trigoria": {
+    "profile": "Trigoria er en frazione af Roma Capitale i området Castel di Decima uden for Grande Raccordo Anulare og øst for Pontina i udkanten af naturreservatet Decima-Malafede. Stedet er kendt for sportscentret Fulvio Bernardini, hvor AS Roma træner, og for Università Campus Bio-Medico med universitetshospital. Resten af området veksler mellem lav boligbebyggelse og landskabet i Agro romano. Universitetshospitalet giver en særlig efterspørgsel efter logistik: lægemidler, medicinsk udstyr, laboratoriemateriel og sundhedsforsyninger, der skal leveres med sporbarhed, samt service til sportsanlæggene og boligerne.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Trigoria"
+    ]
+  },
+  "castel-romano": {
+    "profile": "Castel Romano er byplanzone 12M i Municipio IX, kilet ind mellem Pontina og Via di Pratica di Mare; det konsortieforvaltede industriområde ligger ved km 23 på Pontina og dækker 266 hektar, heraf 191 til industri. Industriområdet Pontina, oprettet i 1952, har siden 1960'erne huset metallurgiske forskningscentre, telekommunikationsvirksomheder, et fødevarekonsortium og Dino De Laurentiis' filmstudier, der i 2014 blev omdannet til temaparken Cinecittà World. Siden 2003 har Castel Romano Designer Outlet ligget her. For logistikken er den løbende forsyning af outletbutikkerne, returhåndtering, forsyninger til parken og industrielle strømme langs Pontina vigtige.",
+    "sectors": [
+      "tessile-moda",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Romano",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "santa-palomba": {
+    "profile": "Santa Palomba er et område delt mellem Rom, Ardea og Pomezia; den romerske del er byplanzone 12N i Municipio IX. Mellem km 20 og km 23 på Ardeatina omkring stationen Pomezia-Santa Palomba er der vokset et industriområde frem, hvor Fiorucci, Angelini, ABB, Johnson & Johnson og Procter & Gamble har til huse. Det konsortieforvaltede område dækker 483 hektar og er det største i området Rom-Latina; her ligger logistikoperatører som DHL Supply Chain, GLS og STEF og distributionscentre for dagligvarehandlen. SGT-terminalen er den største i Lazio målt på håndterede intermodale enheder. Området samler strømme af dagligvarer, kølevarer og lægemidler.",
+    "sectors": [
+      "gdo-retail",
+      "farmaceutico",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santa_Palomba",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "tor-vergata": {
+    "profile": "Tor Vergata er godset i Agro romano mellem Tuscolana og Casilina uden for Grande Raccordo Anulare i området Torre Gaia; her ligger Università degli Studi di Roma Tor Vergata, hovedstadens andet statslige universitet, med et campus på ca. fem hundrede hektar. I området ligger også Policlinico Tor Vergata, et universitetshospital åbnet i slutningen af 1990'erne. Vejnettet forbinder området med A1 og forgreningen Roma Sud. Den lokale logistik er centreret om sundhed og forskning: lægemidler, medicinsk udstyr, reagenser og laboratorieinstrumenter med sporbarhed samt service til studerende og beboere i de omkringliggende kvarterer.",
+    "sectors": [
+      "farmaceutico",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Gaia",
+      "https://it.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_di_Roma_Tor_Vergata"
+    ]
+  },
+  "romanina": {
+    "profile": "Romanina er byplanzone 10G i Municipio VII uden for og tæt ved Grande Raccordo Anulare mellem Via Tuscolana og A1; handelsområdet betjenes af afkørsel 20 på ringvejen (GRA). Siden 1980'erne har området oplevet en kraftig udbygning med boliger, kontorer og især handel med en af byens største koncentrationer af indkøbscentre. Fra 1982 til 2018 havde Tor Vergata-universitetet afdelinger her, og de tidligere Officine Marconi er omdannet til kulturcenter. Logistisk er området et leveringspunkt for detailkæder og specialbutikker med hurtig adgang til ringvejen og motorvejen.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Romanina"
+    ]
+  },
+  "cinecitta": {
+    "profile": "Cinecittà er betegnelsen for området i kvarteret Don Bosco i Municipio VII mellem Casilina og Tuscolana, delt i to af Viale Palmiro Togliatti. Kvarteret er vokset siden 1950'erne omkring filmstudierne Cinecittà, grundlagt i 1936, og betjenes af metrolinje A langs Tuscolana. Økonomien forener audiovisuel produktion, handel og en tæt boligbebyggelse med store indkøbscentre i den sydlige del. Der er to logistiske behov: håndtering af kulisser, teknisk udstyr og kostumer til produktionerne og bydistribution til et af byens mest befolkede områder.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Don_Bosco_(Roma)"
+    ]
+  },
+  "anagnina": {
+    "profile": "Anagnina har navn efter vejen, der fra Rom stiger op mod Castelli Romani: området mellem Osteria del Curato og Grande Raccordo Anulare rummer endestationen for metrolinje A og terminalen for Cotral-busruterne mod Castelli Romani og det sydlige Lazio. Siden 1960'erne har små og mellemstore fremstillingsvirksomheder etableret sig langs Anagnina ved siden af historiske fabrikker i telekommunikationsindustrien, der blev fremmet af Cassa per il Mezzogiorno. Uden for ringvejen ved Torre di Mezzavia har et stort indkøbscenter været i drift siden 2004. Det giver varestrømme til butikker og håndværkere og udgående leveringer mod Ciampino og Castelli Romani.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Osteria_del_Curato_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/Via_Anagnina"
+    ]
+  },
+  "tuscolano": {
+    "profile": "Tuscolano er Roms ottende kvarter i den østlige del af byen tæt ved Aurelianmuren og har navn efter Via Tuscolana, der krydser det sammen med Appia Nuova. Det er et tæt bebygget kvarter, udlagt allerede i 1911, med intensiv boligbebyggelse, kvartersmarkeder og en lang række butikker langs de to indfaldsveje; metrolinje A løber under Tuscolana. Der er ingen produktionsvirksomheder, men tidligere depoter for den kollektive trafik, der er omdannet. Logistikken her er nær bydistribution: forsyning af butikker og restauranter i overbelastede gader, hjemmeleveringer og afhentning af returvarer.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tuscolano"
+    ]
+  },
+  "appio-latino": {
+    "profile": "Appio-Latino er Roms niende kvarter i den sydøstlige del tæt ved Aurelianmuren og har navn efter Via Appia Antica og Via Latina. Ved siden af en kompakt boligbebyggelse langs Appia Nuova med kvartersmarkedet Metronio og mange butikker omfatter kvarteret store beskyttede grønne områder som parken Caffarella, der hænger sammen med parken ved Appia Antica. Anlægsarbejderne for metrolinje C berører området ved Amba Aradam. Logistikken må tage højde for arkæologiske og landskabelige restriktioner, boliggader og leveringer til butikker og restauranter med små køretøjer og aftalte tidspunkter.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Appio-Latino"
+    ]
+  },
+  "ostia": {
+    "profile": "Ostia, officielt Lido di Ostia, er Roms kystbydel og sæde for Municipio X ud mod Det Tyrrhenske Hav, afgrænset af Tiberen, der adskiller den fra Fiumicino kommune. Den er forbundet med centrum via banen Rom–Lido, Via del Mare og Via Cristoforo Colombo. Økonomien afhænger af handel, service og badeturisme med badeanstalter langs kysten, Roms lystbådehavn og tiltrækningen fra udgravningerne i Ostia Antica. Befolkningen er stor, og om sommeren stiger den daglige tilstrømning fra Rom. Det giver leveringer med stærk sæsonvariation til badeanstalter, restauranter og handel og en konstant strøm af pakker til beboerne.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostia_(Roma)"
+    ]
+  },
+  "acilia": {
+    "profile": "Acilia er en officiel borgata i Rom i Municipio X ved km 18-19 på Via del Mare mellem EUR og Ostia; Acilia Nord strækker sig mellem Tiberen og Via Ostiense, Acilia Sud derfra mod Via Cristoforo Colombo uden for Grande Raccordo Anulare. Den blev grundlagt som landsby i forbindelse med landvindingen i 1919 og er vokset til et stort boligkvarter, der betjenes af banen Rom–Lido. Langs Via Ostiense, der i romertiden forbandt byen med havnene i Ostia, er handel, håndværk og service samlet. Det logistiske behov drejer sig om detaildistribution, byggematerialer og boligleveringer.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Acilia"
+    ]
+  },
+  "infernetto": {
+    "profile": "Infernetto er en frazione af Rom i Municipio X uden for Grande Raccordo Anulare på østsiden af Via Cristoforo Colombo mellem pinjeskoven Castel Fusano og præsidentens gods Castelporziano. Den opstod efter krigen, da et stort område fra 1947 blev udstykket af et andelsselskab, og har udviklet sig som et kvarter med villaer og lave huse med have og lav tæthed. Erhvervslivet består næsten kun af nærbutikker og service. Den spredte bebyggelse og det lange vejnet gør leveringerne mindre effektive end i kompakte kvarterer: der kræves planlagte ruter for pakker, dagligvarelevering og mindre byggearbejder.",
+    "sectors": [
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Infernetto"
+    ]
+  },
+  "casal-palocco": {
+    "profile": "Casal Palocco er zone Z. XXXIV i Rom i byens sydvestlige del uden for Grande Raccordo Anulare mellem Via del Mare og Via Cristoforo Colombo og grænser op til Acilia og Infernetto. Det er et boligområde planlagt i 1960'erne, hvor bolig-, handels- og idrætsområder blev fastlagt allerede i projektet: indkøbscentret Le Terrazze og mange idrætsanlæg indgår i den oprindelige plan. Bebyggelsen består overvejende af villaer og boligkomplekser omgivet af grønt. Den lokale logistik omfatter boligleveringer af pakker og møbler, forsyning af indkøbscentrene og vedligeholdelse af huse og haver.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Casal_Palocco"
+    ]
+  },
+  "magliana": {
+    "profile": "Magliana strækker sig langs vejen af samme navn på Tiberens højre bred i Municipio XI mellem Via Portuense og floden inden for Grande Raccordo Anulare. Boligkvarteret, der overvejende blev bygget i 1970'erne, ligger under niveauet for Tiberens andet dige og beskyttes af pumpestationer; mod nord ligger naturreservatet Tenuta dei Massimi. Området ligger nær motorvejen Rom–Fiumicino og stationerne på linje FL1, og EUR nås på den anden side af floden. Langs Via della Magliana veksler handel, håndværk og service. Det logistiske behov kombinerer bydistribution og hurtige forbindelser til Fiumicino lufthavn.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Magliana"
+    ]
+  },
+  "ponte-galeria": {
+    "profile": "Ponte Galeria er zone Z. XLI i Municipio XI uden for Grande Raccordo Anulare mellem Tiberen mod syd og motorvejen A12 Rom–Civitavecchia mod vest og gennemskæres af motorvejen Rom–Fiumicino og banen FL1. Her ligger Fiera di Roma med ni haller og et kongrescenter ved siden af handels- og engroscentre. Beliggenheden mellem byen og Fiumicino lufthavn gør det til et område med lagre og service for speditører og kurerer. Efterspørgslen efter logistik omfatter messeopstillinger med stramme monteringstider, gods til Cargo City i Fiumicino og distribution til den vestlige del af Rom.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponte_Galeria",
+      "https://it.wikipedia.org/wiki/Fiera_di_Roma"
+    ]
+  },
+  "capannelle": {
+    "profile": "Capannelle er zone Z. XVIII i Agro romano i den sydøstlige del ved og inden for Grande Raccordo Anulare mellem Via Tuscolana og Appia Nuova. Området betjenes af stationen Capannelle på strækningen Rom–Cassino–Napoli med regionaltogene FL4 og FL6; indtil 1978 forbandt en sporvej det med området ved Termini station. Området omfatter travbanen Ippodromo delle Capannelle, dele af parken Parco degli Acquedotti og boligkvarterer som Lucrezia Romana nær Ciampino lufthavn. Det logistiske behov drejer sig om arrangementer og idrætsanlæg, distribution i kvartererne og forbindelser til lufthavnen og Appia.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Capannelle_(zona_di_Roma)"
+    ]
+  },
+  "morena": {
+    "profile": "Morena er byplanzone 10L i Municipio VII øst for hovedstaden uden for Grande Raccordo Anulare på begge sider af Via Anagnina. Det er et overvejende boligkvarter, der forbinder Tor Vergata, Ciampino lufthavn og Castelli Romani, og som er vokset hurtigt i de seneste årtier. Langs Anagnina ligger butikker, håndværkere og små lagre, der også betjener nabokommunen Ciampino. Det logistiske behov er knyttet til distribution af forbrugsvarer, byggematerialer til boligbyggeri og hjemmeleveringer i et område med tæt trafik langs indfaldsvejen.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Morena_(zona_di_Roma)"
+    ]
+  },
+  "falcognana": {
+    "profile": "Falcognana er en frazione af Rom i området Castel di Leva i Municipio IX ved km 14 på Via Ardeatina uden for Grande Raccordo Anulare, ca. to kilometer fra helligdommen Divino Amore. Området, der delvist stadig er landbrugsland, er omfattet af en detailplan for boligbyggeri. I et tidligere stenbrud langs Ardeatina er der indrettet en losseplads, udpeget som alternativ til Malagrotta, hvilket har medført protester fra beboere og nabokommunen Marino. Beliggenheden ved Ardeatina mellem ringvejen og erhvervsområdet Santa Palomba er relevant for transport af byggematerialer, affaldsbehandling og distribution mod Castelli Romani.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Falcognana",
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "cecchignola": {
+    "profile": "Cecchignola i den sydlige del af Rom mellem Laurentina og Ardeatina er især kendt for militærbyen: fra 1930'erne planlagde Ispettorato del Genio her et anlæg for de øverste kommandoer langs aksen, der i dag hedder Viale dell'Esercito, hvor Museo storico della motorizzazione militare har haft til huse siden 1955. Ved siden af hærens kaserner og skoler er der opstået nye boligkvarterer som dem i Tor Pagnotta. Forbindelsen til Grande Raccordo Anulare er hurtig. Efterspørgslen efter logistik drejer sig om forsyninger til de militære anlæg, materialer til boligbyggepladser og distribution i de nye kvarterer.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cecchignola",
+      "https://it.wikipedia.org/wiki/Castello_della_Cecchignola"
+    ]
+  },
+  "vitinia": {
+    "profile": "Vitinia ligger i den sydvestlige del af Rom i området Mezzocammino i Municipio IX uden for Grande Raccordo Anulare mellem Via Ostiense mod nord og Via Cristoforo Colombo mod syd og betjenes af banen Rom–Lido. Kvarteret opstod efter krigen med regelmæssige udstykninger: villaer og mindre etageejendomme, der sjældent har mere end to etager, med de første butikker allerede i 1949. I området ligger militærets brændstofdepot i Mezzocammino. Økonomien er bolig- og handelspræget. Det logistiske behov drejer sig om leveringer til beboerne, forsyning af butikkerne langs Ostiense og forbindelserne mod EUR og Ostia.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Vitinia"
+    ]
+  },
+  "mezzocammino": {
+    "profile": "Mezzocammino er zone Z. XXXI i Agro romano i Tiberdalen uden for Grande Raccordo Anulare mellem floden og Via Cristoforo Colombo. Navnet stammer fra den antikke rasteplads for prammene, der sejlede op ad Tiberen fra havnen i Ostia mod Rom. Ringvejen krydser floden på broen Ponte di Mezzocammino, åbnet i 1951 og nationalt monument siden 2003. I de senere år er der kommet nye boligområder, og på banen Rom–Lido er stationen Torrino-Mezzocammino under opførelse. Den lokale logistik omfatter byggepladser, distribution til de nye kvarterer og leveringer til beboerne i et område med få veje.",
+    "sectors": [
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Mezzocammino"
+    ]
+  },
+  "castel-di-leva": {
+    "profile": "Castel di Leva er zone Z. XXIII i Agro romano i den sydlige del uden for Grande Raccordo Anulare og grænser op til Ciampino lufthavn og kommunerne Marino, Castel Gandolfo, Albano Laziale, Ardea og Pomezia. Langs Via Ardeatina ligger helligdommen Madonna del Divino Amore, et pilgrimsmål, og området omfatter også den romerske del af Santa Palomba og bydelen Falcognana. Der er stadig store landbrugsarealer i den romerske campagna. Området kombinerer pilgrimsstrømme, landbrug og nærhed til industriområdet Santa Palomba: det giver leveringer til religiøse overnatningssteder, landbrugsprodukter og transport mod erhvervsområderne mod syd.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "tor-bella-monaca": {
+    "profile": "Tor Bella Monaca er en frazione af Rom i området Torre Angela i Municipio VI på nordsiden af Via Casilina uden for Grande Raccordo Anulare på et bølget terræn gennemskåret af grøften af samme navn. Tidligere lå her en Breda-fabrik og toldstationen i Torrenova; med byplanen fra 1962 blev området udlagt til byudvikling, og i 1980'erne blev der opført et stort alment boligkvarter. Nye veje forbinder det med Tor Vergata-universitetet. Økonomien er boligpræget med kvartershandel. Logistikken omfatter distribution af forbrugsvarer og hjemmeleveringer til tæt bebyggede ejendomme.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Bella_Monaca"
+    ]
+  },
+  "torre-angela": {
+    "profile": "Torre Angela er zone Z. XIII i Agro romano og byplanzone 8F i Municipio VI uden for Grande Raccordo Anulare langs Via Casilina med gravmæler fra kejsertiden i området Torrenova. Den opstod som landsby på landet og har udviklet sig til et tæt bebygget kvarter med delvis uplanlagt byudvikling; den betjenes af metrolinje C, der løber langs Casilina. Handlen er samlet langs indfaldsvejen med butikker, håndværkere og små lagre. Det logistiske behov drejer sig om forsyning af butikkerne langs Casilina, byggematerialer til renoveringer og et stort antal boligleveringer.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Angela"
+    ]
+  },
+  "tor-sapienza": {
+    "profile": "Tor Sapienza er zone Z. VIII i Rom og byplanzone 7C i Municipio V i den østlige del inden for Grande Raccordo Anulare mellem Via Prenestina og den bynære del af motorvejen A24. Ved siden af boligkvartererne rummer området produktionsvirksomheder: Birra Peronis bryggeri i Rom, et militært center for vedligeholdelse af telekommunikationsudstyr og tidligere fabrikker, hvoraf en huser museet MAAM. Adgangen til A24 og ringvejen gør området velegnet til lagre og distribution. Det logistiske behov omfatter drikkevarer i store mængder, industrikomponenter og distribution til byens østlige del.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Sapienza"
+    ]
+  },
+  "centocelle": {
+    "profile": "Centocelle er byplanzone 7A i Municipio V i den østlige del af Rom og har navn efter området for den tidligere militærflyveplads, i dag en arkæologisk park. Kvarteret, der er udviklet fra 1920'erne med lave huse til arbejdere, håndværkere og små handlende, er i dag et af byens tættest befolkede. Metrolinje C, åbnet i 2014-2015, krydser det med tre stationer, og banen Rom–Giardinetti forbinder det langs Casilina med området ved Termini. Handlen er spredt med kvartersmarkeder og handelsgader som Via dei Castani. Logistikken er nærlogistik: daglig forsyning af butikker og restauranter og hjemmeleveringer i smalle gader.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Centocelle"
+    ]
+  }
+}

@@ -2,48 +2,30 @@
 week: 17
 date: "2027-01-26"
 pillar: "Servizi"
-title: "Picking, packing, etichettatura: il valore aggiunto dentro il magazzino"
+title: "Picking, packing, etichettatura e pallettizzazione nello stesso sito dello stoccaggio"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Stoccare e' facile. Il difficile viene dopo: prelevare il prodotto giusto, confezionarlo correttamente, etichettarlo senza errori e spedirlo in tempo. E' qui che si gioca la partita della logistica moderna.
+Nel polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), le lavorazioni sulla merce si svolgono negli stessi capannoni in cui è stoccata. Tra stoccaggio, lavorazione e spedizione la merce non viene trasferita in un altro sito.
 
-Al Consorzio Logistico Latina Scalo i servizi a valore aggiunto in magazzino non sono un'aggiunta: sono il cuore dell'operativita' per molti dei nostri clienti.
+Le lavorazioni ordinarie:
+- prelievo (picking) dalle ubicazioni registrate nel WMS, a pallet intero, a collo o a pezzo;
+- packing secondo le istruzioni del committente: scelta del cartone, riempimento, inserimento di documenti, chiusura e identificazione del collo;
+- etichettatura di spedizione e, su richiesta, di prodotto o di canale, compresa la rietichettatura;
+- pallettizzazione secondo le regole del destinatario, con filmatura o reggiatura.
 
-I nostri servizi VAS (Value Added Services):
+Molte piattaforme distributive fissano regole proprie su etichette, composizione dei pallet e documenti da allegare. Il Consorzio raccoglie queste specifiche in fase di avvio e le traduce in istruzioni di lavoro per ciascun destinatario.
 
-🔹 Picking — prelievo per singolo pezzo, collo o pallet, guidato da WMS con logica FIFO/FEFO
-🔹 Packing — confezionamento su misura: scatole, film estensibile, riempitivi, materiali antiurto
-🔹 Etichettatura — applicazione di etichette prodotto, etichette spedizione, codici a barre, QR code
-🔹 Kitting — assemblaggio di kit promozionali, bundle, confezioni regalo
-🔹 Co-packing — riconfezionamento per canali diversi (GDO, e-commerce, export)
-🔹 Controllo qualita' — verifica visiva e dimensionale prima della spedizione
+La composizione di kit e il riconfezionamento sono valutati su richiesta, in base a quantità, frequenza e materiali.
 
-I numeri che contano:
+Scheda delle lavorazioni: https://consorziologistico.it/servizi/lavorazioni-valore-aggiunto/
 
-✅ Tasso di errore picking inferiore all'0,5%
-✅ Preparazione ordini standard entro 4 ore dalla ricezione
-✅ Gestione picchi stagionali con personale formato e scalabile
-✅ Etichettatura conforme ai requisiti GDO (EAN, SSCC) e marketplace (Amazon, eBay)
-✅ Reportistica giornaliera su ordini evasi, giacenze residue, anomalie
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-Per quali clienti:
-
-📦 E-commerce — fulfillment B2C con packing brandizzato
-📦 GDO — preparazione ordini per centri di distribuzione
-📦 Agroalimentare — etichettatura multilingua per export
-📦 Industria — kitting componenti per linee di montaggio
-
-📍 Al Consorzio Logistico Latina Scalo non ci limitiamo a custodire la merce. La lavoriamo, la prepariamo, la rendiamo pronta per il cliente finale.
-
-Il magazzino non e' un deposito. E' una fabbrica di servizio.
-
-👉 Scopri i nostri servizi VAS: consorziologistico.it o WhatsApp wa.me/390773316008
-
-#picking #packing #etichettatura #fulfillment #logistica #VAS #magazzino #ecommerce #GDO #latinascalo #lazio #B2B
+#picking #packing #etichettatura #logistica #latinascalo
 
 ## Suggerimento Immagine
 
-Foto ravvicinata di un operatore al banco di lavoro che applica un'etichetta su un collo, con scanner barcode e materiali di imballaggio visibili. In alternativa, sequenza fotografica picking -> packing -> etichetta -> spedizione. Sovrimpressione: "Picking | Packing | Etichettatura". Tono operativo e preciso, illuminazione da magazzino.
+Foto di repertorio `topics/pallet` (data/images.json): pallet filmati pronti per l'uscita. Non è una foto del polo: non presentarla come tale.

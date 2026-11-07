@@ -1,6 +1,6 @@
 ---
 title: "Gaeta, Civitavecchia, Neapole și Salerno: porturile companiilor pontine"
-description: "Traficul din 2025 la Gaeta și Civitavecchia, containerele din Salerno și Neapole, distanțe față de Latina: ce porturi folosesc companiile din provincie și pentru ce mărfuri."
+description: "Traficul din 2025 la Gaeta și Civitavecchia, containere la Salerno și Neapole, distanțe față de Latina: ce porturi folosesc companiile și pentru ce mărfuri."
 date: 2026-11-04
 url: "/ro/analize/porturi-gaeta-civitavecchia-companii-pontine/"
 layout: "articolo"

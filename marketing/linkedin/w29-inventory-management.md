@@ -2,37 +2,29 @@
 week: 29
 date: "2027-04-20"
 pillar: "Servizi"
-title: "Inventory management e reportistica: sapere sempre cosa hai e dove"
+title: "Inventari e controllo delle giacenze: come si confrontano WMS e conta fisica"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-📊 Quanti pezzi hai a stock in questo momento? Qual è il tasso di rotazione del tuo prodotto più venduto? Quanti giorni di copertura ti restano?
+Nel magazzino del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), le giacenze registrate nel WMS sono confrontate con la conta fisica secondo il calendario concordato con il committente.
 
-Se la risposta è "devo controllare", il tuo sistema di inventory management ha un problema.
+Le modalità di inventario:
+- inventario a rotazione, che conta a turno famiglie di articoli senza fermare il magazzino;
+- conta completa a fine periodo, per esempio alla chiusura dell'esercizio;
+- conta delle unità stoccate su piazzale, con gli stessi controlli della merce al coperto.
 
-Al Consorzio Logistico Latina Scalo la gestione dell'inventario è il cuore del servizio che offriamo ai nostri clienti:
+Le differenze rilevate sono segnalate al committente con il dettaglio di articolo e ubicazione. Ogni unità di carico resta associata nel WMS al codice articolo, alla quantità e, quando il committente lo richiede, al lotto. Le regole di prelievo, per data di ingresso o per data di scadenza, si definiscono in fase di avvio.
 
-🔹 Inventario perpetuo aggiornato a ogni movimento di magazzino
-🔹 Tracciabilità per lotto, data di scadenza, numero seriale
-🔹 Alert automatici per sottoscorta e overstock
-🔹 Report periodici personalizzati: giacenze, movimenti, indici di rotazione
-🔹 Accesso diretto del cliente ai dati di stock tramite portale dedicato
-🔹 Inventari fisici programmati con riconciliazione automatica
+Nel contratto di logistica conto terzi conviene fissare la tolleranza sulle differenze inventariali, il criterio di compensazione tra eccedenze e mancanze e la ripartizione del costo degli inventari straordinari richiesti dal committente.
 
-Per le aziende che ci affidano la loro logistica, questo significa avere il controllo totale sulle proprie merci senza dover gestire un magazzino proprio. Vedono tutto, decidono tutto — noi eseguiamo.
+Scheda dello stoccaggio: https://consorziologistico.it/servizi/stoccaggio/
 
-La reportistica non è un accessorio: è lo strumento che permette di prendere decisioni informate sugli acquisti, sulla produzione e sulla distribuzione. Un report settimanale ben fatto vale più di una riunione.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-I nostri 19.000 mq coperti sono mappati a livello di singola ubicazione: ogni pallet ha un indirizzo, ogni movimento lascia una traccia digitale. Questo è il livello di precisione che il mercato oggi richiede.
-
-Dalla PMI con 200 referenze al distributore con 10.000 SKU — il sistema scala, i dati restano affidabili.
-
-👉 Vuoi vedere come gestiamo il tuo inventario? consorziologistico.it oppure WhatsApp wa.me/390773316008
-
-#inventorymanagement #WMS #reportistica #logistica #stock #warehouse #latinascalo #lazio #3PL #KPI
+#inventario #WMS #magazzino #logistica #latinascalo
 
 ## Suggerimento Immagine
 
-Schermata di un dashboard WMS con grafici di giacenza, indici di rotazione e mappa visuale del magazzino. In secondo piano, operatore che scansiona un barcode. Sovrimpressione: "Inventory Management | Dati in tempo reale."
+Foto di repertorio `topics/inventario-barcode` (data/images.json): conta con lettore di codici a barre. Non è una foto del polo: non presentarla come tale.

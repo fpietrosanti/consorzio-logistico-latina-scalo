@@ -1,7 +1,7 @@
 ---
 linkTitle: "Monti Lepini και Ausoni"
 title: "Logistics και αποθήκες για τις επιχειρήσεις των Monti Lepini και Ausoni"
-description: "Αποθήκευση και μεταφορές για λογαριασμό τρίτων από το Latina Scalo για Priverno, Sonnino, Cori, Maenza και τους δήμους των Lepini και Ausoni, κατά μήκος της SS156."
+description: "Αποθήκευση και μεταφορές για λογαριασμό τρίτων από το Latina Scalo για Priverno, Sonnino, Cori, Maenza και τους δήμους των Lepini και Ausoni, μέσω της SS156."
 url: "/el/logistiki/lepini-ausoni/"
 layout: "area"
 subarea: "lepini-ausoni"

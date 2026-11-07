@@ -1,6 +1,6 @@
 ---
 title: "Gaeta, Civitavecchia, Neapol i Salerno: porty firm z prowincji Latina"
-description: "Przeładunki w Gaecie i Civitavecchii w 2025 r., kontenery w Salerno i Neapolu, odległości od Latiny: z jakich portów korzystają firmy z prowincji i dla jakich towarów."
+description: "Przeładunki w Gaecie i Civitavecchii w 2025 r., kontenery w Salerno i Neapolu, odległości od Latiny: z jakich portów i dla jakich towarów korzystają firmy."
 date: 2026-11-04
 url: "/pl/analizy/porty-gaeta-civitavecchia-firmy-prowincji-latina/"
 layout: "articolo"

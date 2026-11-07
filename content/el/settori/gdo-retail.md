@@ -1,7 +1,7 @@
 ---
 linkTitle: "Οργανωμένο λιανεμπόριο"
 title: "Logistics για το οργανωμένο λιανεμπόριο μεταξύ Latina και Νότιας Ρώμης"
-description: "Αποθήκευση, cross-docking και παραδόσεις σε καταστήματα και κέντρα διανομής λιανεμπορίου από το Latina Scalo, περίπου 55 km από τις πλατφόρμες της Santa Palomba."
+description: "Αποθήκευση, cross-docking και παραδόσεις σε καταστήματα και κέντρα διανομής από το Latina Scalo, περίπου 55 km από τις πλατφόρμες της Santa Palomba."
 url: "/el/tomeis/organomeno-lianemporio/"
 layout: "settore"
 weight: 7

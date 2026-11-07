@@ -1,0 +1,1066 @@
+{
+  "aprilia": {
+    "profile": "Aprilia asub Agro Pontino põhjatipus, maanteede SS148 Pontina ja SS207 Nettunense ristumiskohas, ning seda teenindab regionaalne raudteeliin FL8 Rooma–Nettuno. Piirkonnas asub 256 hektari suurune konsortsiumi tööstusala, mida jagatakse Lanuvioga, ning omavalitsusest 167 hektarit kuulub Lazio ZLS-i (lihtsustatud logistikavöönd). Tootmisbaas on peamiselt farmaatsiatööstus, kus on selliste kontsernide nagu Pfizer, Abbott, Angelini ja Recordati tehased; põllumajandus hõlmab DOC Aprilia viinamarjaistandusi ja mineraalveeallikat. Sellest tulenevad toimeainete, esmapakendite ja valmistoodete vood, mis vajavad partiide jälgitavust, temperatuurikontrolliga ladustamist ja eraldi vedusid.",
+    "sectors": [
+      "farmaceutico",
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Aprilia_(Italia)",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "bassiano": {
+    "profile": "Bassiano on Monti Lepini mäestiku küla Pontina tasandiku kohal, mis on orgu ühendatud provintsimaanteega Sermonetana Sermoneta ja Latina Scalo suunas. Piirkonnas saab alguse Brivolco oja, Ufente jõe lisajõgi. Majandus koosneb väikestest põllumajandus- ja toiduainetööstusettevõtetest: küla on tuntud laagerdatud singi poolest, lisaks toodetakse ekstra-neitsioliiviõli ja veini. Touring Club Italiano on andnud külale oranži lipu (Bandiera arancione) ning päevaturism koondub nädalavahetustele. Logistikas on mahud väikesed ja killustatud: laagerduvad lihatooted, kohalike toodete saadetised jaekaubandusse ning tarned mägiteedel kergsõidukitega.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Bassiano"
+    ]
+  },
+  "campodimele": {
+    "profile": "Campodimele asub karstikünkal, kus Monti Ausoni ühineb Aurunci mäestikuga, Fondi ja Itri vahelises sisemaas. Külla viib üksainus sõidetav tee, mis hargneb Valle del Liri maanteelt SS82, riigimaanteelt, mis tõuseb Itrist sisemaa suunas. Majandustegevust on vähe ja see on väikesemahuline: ministeeriumi tunnustatud traditsiooniliste põllumajandus- ja toiduainete hulka kuuluvad Campodimele seahernes (cicerchia) ja kodune leib ning külal on Touring Clubi oranž lipp. Logistikavajadused puudutavad peamiselt väikeste partiide tarneid, kaupluste varustamist ning kaunviljade ja kohalike toodete saatmist.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Campodimele"
+    ]
+  },
+  "castelforte": {
+    "profile": "Castelforte asub Latina provintsi idapiiril Monti Aurunci viimastel jalamitel; ajalooline keskus ja Suio küla avanevad Garigliano orule Campania piiril. Suios asuvad kuurortravilad, Rooma ajastu Terme Vescine'i järeltulijad, mis koos oruala põllumajanduse ja väikeste käsitööettevõtetega moodustavad olulise osa kohalikust majandusest. Omavalitsus kuulub Lazio ZLS-i (lihtsustatud logistikavöönd) 11,64 hektariga regionaalabi saamise tingimustele vastaval alal. Kohalik logistika teenindab majutus- ja kuurortasutusi, jaekaubandust ja ehitusplatse, vood on suunatud nii Formia kui ka Cassino ja kiirtee A1 poole.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castelforte",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "cisterna-di-latina": {
+    "profile": "Cisterna di Latina asub Agro Pontino põhjapoolse sissesõidu juures, maanteel SS7 Appia ja raudteel Rooma–Napoli Formia kaudu; selle territooriumil Campoverdes algas 2026. aastal kiirtee A1 suunas kulgeva Cisterna–Valmontone ühendustee ehitus. Konsortsiumi tööstusala hõlmab 368 hektarit, millest 192 kuulub ZLS-i (lihtsustatud logistikavöönd). Seal tegutsevad Olmobello alumiiniumi valtsimistehas, Nomad Foodsi Findusi tehas Itaalia turule mõeldud külmutatud toodete jaoks ning farmaatsiaettevõtted nagu Nuova Ompi ja BSP Pharmaceuticals; Borgo Flora külas alustati 1970. aastatel kiivi kasvatamist. Kohalikud tarneahelad vajavad sügavkülmaahelat, pooltoodetest metallide raskeid veoseid ja jälgitavaid farmaatsiavoogusid.",
+    "sectors": [
+      "agroalimentare",
+      "farmaceutico",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cisterna_di_Latina",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "cori": {
+    "profile": "Cori on Monti Lepini loodeosa künklik asula Pontina tasandiku kohal, mille Giulianello küla asub Velletri suunas. Provintsimaanteed ühendavad seda Cisterna ja Pontinaga, Doganella di Ninfa kaudu Latina Scaloga ning Artena kaudu kiirtee A1 Valmontone sõlmega; enim kasutatav raudteejaam on Cisternas. Piirkonnas toodetakse DOC Cori punaseid ja valgeid veine ning Itrana oliividest oliiviõli veinikeldrites ja õlipressides, lisaks tegutsevad küpsisetehased, õlis konservide tootjad ning on puittoolide valmistamise traditsioon. Logistika järgib viinamarjade ja oliivide korjeaega: klaas, kaubaalustele laotud pudelid ning jaotus veinipoodidesse ja suurjaekaubandusse.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cori"
+    ]
+  },
+  "fondi": {
+    "profile": "Fondi asub Monti Ausoni ja Aurunci mäestikest piiratud ning Türreeni mere poole avatud tasandikul, mida läbib maantee SS7 Appia ja mida Lenola kaudu kulgev SR637 ühendab Ciociariaga; Fondi-Sperlonga jaam asub Rooma–Napoli liinil Formia kaudu. Majandus keerleb puu- ja köögiviljade ümber: tsitrusistandused on asendunud köögiviljade, kasvuhoonete varajaste saakide ja puuviljadega ning linnas asub hulgimüügi toidukeskus MOF, mis haldaja andmetel käitleb aastas ligi 10 miljonit tsentnerit ja millel puudub raudteeühendus. Omavalitsus kuulub ZLS-i (lihtsustatud logistikavöönd) 69,70 hektariga. Sellest tulenevad öised temperatuurikontrolliga vood, hooajalised tipud ja suur nõudlus maanteeveo järele.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fondi",
+      "https://www.mof.it/index.php/mof"
+    ]
+  },
+  "formia": {
+    "profile": "Formia asub Monti Aurunci jalamite ja Gaeta lahe vahel maanteel SS7 Appia, kohas, kus algavad SR213 Flacca Sperlonga ja Terracina suunas ning SR630 Ausonia Cassino suunas; Formia-Gaeta jaam asub Rooma–Napoli liinil. Sadamast väljuvad praamid ja tiiburlaevad Ponzale ja Ventotenele, mistõttu on linn saarte varustamise baas. Penitro, Ponzanello–Mamurrano ja Castagneto tootmisalad, mis loodi endise Consorzio Sud Pontino raames, on seotud sadamatööga; omavalitsus kuulub ZLS-i (lihtsustatud logistikavöönd) 124 hektariga. Kaubandus, teenused, ehitus ning keraamika- ja raudtoodete käsitöö tekitavad linnasisest jaotust ja veoste koondamist laevale laadimiseks.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Formia",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "gaeta": {
+    "profile": "Gaeta asub samanimelist lahte läänest sulgeval neemel ja on maanteega SR213 Flacca ühendatud Appia ja Formiaga. Kaubasadam kuulub Kesk-Põhja-Türreeni mere sadamasüsteemi ametisse (Autorità di Sistema Portuale del Mar Tirreno Centro-Settentrionale) ja käitles 2025. aastal umbes 1,8 miljonit tonni, peaaegu ainult vedel- ja puistlasti; Lazio ZLS-i (lihtsustatud logistikavöönd) kuulub 142,61 hektarit omavalitsuse territooriumist ja lisaks 17,53 hektarit sadamaalasid, Monte Conca piirkond on konsortsiumi tootmisala. Linnas paikneb USA Kuuenda laevastiku lipulaev ning rannaturism on välja kujunenud. Logistika ühendab sadama puistlasti, majutusasutuste varustamise suviste tippudega ja kohalikud tooted nagu Gaeta oliiv.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gaeta",
+      "https://www.shippingitaly.it/2026/02/17/nei-porti-del-lazio-oltre-131-mln-di-tonnellate-e-35-mln-di-crocieristi-nel-2025/"
+    ]
+  },
+  "itri": {
+    "profile": "Itri asub Monti Aurunci orus maanteel SS7 Appia Fondi ja Formia vahel, kus algab Valle del Liri maantee SS82; jaam on Rooma–Napoli liinil Formia kaudu ning rannikut puudutab SR213 Flacca. Peamine tegevusala on põllumajandus: Itri oliivi töödeldakse soolvees ja pressitakse õliks, küngastel toodetakse Abbuoto veini. Omavalitsus kuulub Consorzio Industriale Sud Pontino piirkonda ja ZLS-i (lihtsustatud logistikavöönd) 3,70 hektariga, turistide vood Roomast ja Napolist kasvavad. Logistikavajadused puudutavad pakendatud õli ja oliive, sügisese korje ja aasta peale jaotuvate saadetistega.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Itri"
+    ]
+  },
+  "latina": {
+    "profile": "Latina on Agro Pontino keskus: maantee SS148 Pontina ühendab seda Roomaga, SS7 Appia läbib omavalitsuse territooriumi ja SS156 dei Monti Lepini viib Frosinone ja kiirtee A1 suunas; raudteejaam asub Latina Scalos Rooma–Napoli liinil Formia kaudu. Tööstust juhib farmaatsia, millele järgnevad keemia-, toidu-, piima- ja juustutööstus, metallurgia ja täppismehaanika, mis on koondunud Latina Scalo konsortsiumi tööstusalale ja ZLS-i (lihtsustatud logistikavöönd) kuuluvatele aladele kokku 280 hektaril. Põllumajandus hõlmab kasvuhooneid, lillekasvatust, köögivilju ja Kiwi Latina IGP-d. Pildi täiendavad riigiasutused ja teenindussektor ning nõudlus farmaatsialogistika, külmaahela ja linnasisese jaotuse järele.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Latina",
+      "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Logistica.pdf"
+    ]
+  },
+  "lenola": {
+    "profile": "Lenola asub Ausoni ja Aurunci mäestike vahel Latina provintsi piiril Frosinone provintsi suunas, maantee SR637 ääres, mis tõuseb Fondist Ciociaria poole ja ühineb orus Appiaga. Küla on tuntud palverännakute sihtkoha Madonna del Colle pühamu poolest ning piirkond kuulub mozzarella di bufala campana DOP tootmisalasse. Majandus koosneb väikestest põllumajandus-, käsitöö- ja kaubandusettevõtetest, mis on seotud Fondi puu- ja köögiviljaturu ja teenustega. Logistika puudutab peamiselt värskeid piimatooteid, kohaliku kaubanduse varustamist ja vedusid künklikul maastikul Fondi–Frosinone suunal.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lenola"
+    ]
+  },
+  "maenza": {
+    "profile": "Maenza on Monti Lepini künklik omavalitsus umbes 360 meetri kõrgusel, Priverno sisemaal, Frosinone suunduva maantee SS156 dei Monti Lepini lähedal. Suures osas metsade ja oliivisaludega kaetud piirkonnas on väikesemahuline majandus, mis põhineb esmasektoril ja turismil. Seal kasvatatakse kodulinde ja küülikuid, pühvleid ja hobuseid ning kirsse, oliive, viinamarju, nisu ja maisi, väiksemas mahus ka viigimarju, hurmaad ja kiivit. Logistikavajadused on seotud kiiresti riknevate värskete toodete, sööda ja põllumajandustarvetega ning tarnetega künklikel provintsiteedel.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Maenza"
+    ]
+  },
+  "minturno": {
+    "profile": "Minturno ulatub Monti Aurunci küngastelt Gaeta lahe rannikuni, kuni Garigliano jõe suudmeni ja Campania piirini. Scauri külas ristub maantee SS7 Appia Cassino suunduva riigimaanteega ning Minturno-Scauri jaam asub Rooma–Napoli liinil. Penitro ja Parchi tootmisalad pärinevad endisest Consorzio Sud Pontinost ning omavalitsus kuulub ZLS-i (lihtsustatud logistikavöönd) 59,06 hektariga regionaalabi saamise tingimustele vastaval alal. Majandus ühendab ranna- ja arheoloogiaturismi Minturnae alaga, põllumajandust Garigliano tasandikul ja kaubandust. Sellest tulenevad hooajalised tarned majutusasutustele ning vood Campania ja kiirtee A1 suunas.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Minturno",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "monte-san-biagio": {
+    "profile": "Monte San Biagio asub Monti Ausoni eelmäestikul Fondi tasandiku ja järve kohal ning seda läbib maantee SS7 Appia. Monte San Biagio-Terracina Mare jaama Rooma–Napoli liinil Formia kaudu teenindavad regionaalrongid ja alates 2024. aastast ka kaks kaugliini Intercity-rongi. Piirkond kuulub mozzarella di bufala campana DOP, oliiviõli Colline Pontine DOP ja Moscato di Terracina DOC tootmisalasse ning piirneb Fondi puu- ja köögiviljapiirkonnaga. Omavalitsus kuulub ZLS-i (lihtsustatud logistikavöönd) 12,80 hektariga, väljaspool maksukrediidi saamise tingimustele vastavat ala. Kohalik logistika puudutab värskeid piimatooteid, õli ja veini.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_San_Biagio",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "norma": {
+    "profile": "Norma asub Monti Lepini kaljuseinal, mis kõrgub Agro Pontino ja Ninfa aia (Giardino di Ninfa) kohal; provintsimaantee Norbana laskub tasandikule ning Cotrali bussiliinid ühendavad seda Sermoneta ja Latina Scalo kaudu Latinaga. Majandus põhineb oliivikasvatusel, väikepõllumajandusel ja kultuuriturismil: külas asuvad muistse Norba arheoloogiapark ja šokolaadimuuseum ning alates 2023. aastast kuulub see Città dell'olio võrgustikku. Oma tööstusalad puuduvad ja ettevõtted on seotud allpool asuva tasandikuga. Logistikavajadused piirduvad õli, käsitööna valmistatud kondiitritoodete ning kaubanduse ja majutusasutuste varustamisega.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Norma_(Italia)"
+    ]
+  },
+  "pontinia": {
+    "profile": "Pontinia on Agro Pontino rajatud linn Sisto jõe ja maantee SS7 Appia vahel, Circeo rahvuspargi serval. Selle territooriumil asub kaks konsortsiumi tööstusala: Mazzocchio, 445 hektarit Priverno ja Sonnino piiril, ning Pontinia, 126 hektarit, mida jagatakse Latina ja Sabaudiaga; omavalitsus kuulub ZLS-i (lihtsustatud logistikavöönd) 78,17 hektariga, väljaspool maksukrediidi saamise tingimustele vastavat ala. Mazzocchios tegutsevad autoveoettevõtted, köögi- ja vannitoa valamute ning plastkomponentide tootjad, mahetoidu tootjad ja pakenditootjad; maapiirkondades domineerivad põllumajandus ning piima- ja juustutööstus, mis vajavad külmveoseid ja veoste koondamist.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pontinia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ponza": {
+    "profile": "Ponza on Pontine saarestiku peamine saar; omavalitsusse kuuluvad ka Palmarola, Gavi ja Zannone. Praamid ja tiiburlaevad ühendavad seda aasta ringi Formiaga, regulaarsed reisid toimuvad ka Terracinast ja Napolist; suvel lisanduvad ühendused Anziost, Ischialt ja San Felice Circeost ning Ventotenega. Majandus sõltub suviturismist, peamiselt Laziost ja Campaniast, ning kalapüügist, väikeses mahus toodetakse läätsi ja veini Fieno di Ponza IGT. Kõik tarned saabuvad meritsi: logistika vajab veoste koondamist laadimissadamates, praamidel ruumi broneerimist ja ujumishooaja tipu järgi kavandatud varusid.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponza_(comune)",
+      "https://www.directferries.it/laziomar.htm"
+    ]
+  },
+  "priverno": {
+    "profile": "Priverno asub Amaseno oru keskel maantee SS156 dei Monti Lepini ääres, mis ühendab Pontina tasandikku Frosinone ja kiirteega A1. Priverno-Fossanova jaam Rooma–Napoli liinil Formia kaudu on ka Terracina liini hargnemiskoht. Majandus ühendab aktiivset põllumajandust, lähedal asuva Mazzocchio tööstusalaga seotud tööstust, keraamika-, terrakota- ja vasekäsitööd ning Fossanova tsistertslaste kloostri ümber koonduvat turismi. Viimastel aastatel on ehitustegevus olnud elav. Kohalik logistika teenindab ehitusplatse ja ehitusmaterjalide kaubandust, põllumajandustooteid ning voogusid Latina ja Frosinone vahelisel põikteel.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Priverno"
+    ]
+  },
+  "prossedi": {
+    "profile": "Prossedi on Monti Lepini künklik küla, mis on nähtav maanteelt SS156 poolel teel Priverno ja Frosinone vahel ning mida läbivad Amaseno jõgi ja selle lisajõgi Monteacuto. Piirkond on suures osas künklik ja mägine; ainus tasane ala on Amaseno ääres, kuhu on koondunud köögiviljaaiad, nõlvadel domineerivad oliivisalud ja viinamarjaistandused. Külal on Touring Clubi oranž lipp ning majandus koosneb väikestest põllumajandus- ja kaubandusettevõtetest. Asukoht maantee SS156 ääres paigutab selle Agro Pontino ja Valle del Sacco vahelisele suunale; logistikavajadused puudutavad värskeid köögivilju, õli ja veini väikestes partiides.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Prossedi"
+    ]
+  },
+  "rocca-massima": {
+    "profile": "Rocca Massima Monti Lepini Monte Massimo mäel 735 meetri kõrgusel on Latina provintsi kõrgeimal asuv omavalitsus; suur osa elanikest elab orus asuvates külades Cori ja Giulianello suunas. Provintsimaanteed viivad Giulianellosse, Corisse ja Segnisse ning Cotrali bussid ühendavad küla Velletriga. Majandus põhineb põllumajandusel ja loomakasvatusel, eriti oliivikasvatusel ja õlitootmisel, ajaloolises keskuses on suviturism. Olulisi tootmisalasid ei ole. Logistika puudutab õli turustamist ja tarneid mägiteedel, kus on vaja kergsõidukeid ja planeeritud tarneid.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Massima"
+    ]
+  },
+  "roccagorga": {
+    "profile": "Roccagorga asub Monti Lepini mäestikus Amaseno orus Priverno kohal ning on ühendatud maanteega SS156 dei Monti Lepini ja selle kaudu Pontina tasandiku ja Frosinonega. Piirkond on künklik ja mägine, lubjakivist, püsivate vooluveekogudeta: põllumajandus on seetõttu künklik, oliivide ja väikeste kultuuridega. Traditsiooniliste tegevuste seas paistab silma vase kunstiline töötlemine. Külal ei ole oma tööstusalasid ning tööealine elanikkond on seotud Priverno ja tasandiku tootmisaladega, nagu Mazzocchio. Logistikavajadused on seotud väikeste tarnetega kaubandusele ja käsitööle ning ehitussektori varustamisega.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccagorga"
+    ]
+  },
+  "roccasecca-dei-volsci": {
+    "profile": "Roccasecca dei Volsci on väike künklik omavalitsus Priverno ja Amaseno oru kohal, kus metsad tõusevad kuni 700 meetrini; veidi allpool kulgev maantee SS156 dei Monti Lepini ühendab seda Pontina tasandiku ja Frosinonega. Amaseno piiril orus asuva Lucerna küla majandus põhineb pühvlipiima tootmisel, mis antakse üle piirkonna juustutööstustele. Ülejäänud piirkond elab künklikust põllumajandusest, matkaturismist ja kohalikest teenustest. Logistika jaoks tähendab see värske piima igapäevast kogumist, sööda ja loomakasvatustarvete tarneid ning lühikese vahemaa külmvedu.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccasecca_dei_Volsci"
+    ]
+  },
+  "sabaudia": {
+    "profile": "Sabaudia on Agro Pontino rajatud linn tasase territooriumiga, mis hõlmab luitelist rannikut, rannikujärvi ja Circeo rahvuspargi metsi; maantee SS148 Pontina ühendab seda Latina ja Terracinaga. Koos Terracina ja Fondiga on siia koondunud suur osa provintsi kasvuhoonekultuuridest, köögiviljad on mõeldud värskelt müügiks ja töötlemiseks. Osa Pontinia konsortsiumi tööstusalast asub selle territooriumil. Suvel mitmekordistab rannaturism nõudlust teenuste järele. Logistika peab haldama köögiviljade pidevat temperatuurikontrolliga kogumist ning samal ajal rannaettevõtete ja majutusasutuste hooajalist varustamist.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sabaudia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "san-felice-circeo": {
+    "profile": "San Felice Circeo asub Circeo neemel Agro Pontino lõunatipus; maantee SS148 Pontina kulgeb omavalitsuse põhjapiiri lähedalt ning Cotrali liinid ühendavad seda provintsi keskuste ja Roomaga. Suvel ühendab regulaarne laevaliin sadamat Ponza saarega. Majanduses domineerib ranna- ja paaditurism, suvilad ja majutusasutused koondavad nõudluse juunist septembrini; traditsiooniliste käsitöötegevuste hulka kuulub stiilmööbli valmistamine. Kohalikku logistikat iseloomustab tugev hooajalisus: toitlustuse ja kaubanduse varustamine ning mööbli tarned.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Felice_Circeo"
+    ]
+  },
+  "santi-cosma-e-damiano": {
+    "profile": "Santi Cosma e Damiano ulatub Monti Aurunci nõlvade ja Garigliano tasandiku vahel provintsi kaguservas, piirnedes Frosinone provintsiga ja teisel pool jõge Campaniaga. 1960. aastatel käivitas industrialiseerimise hiljem suletud kleebiste tehase avamine; tänapäeval koosneb majandus väikestest käsitöö-, põllumajandus- ja loomakasvatusettevõtetest, kaubandusest ja jaotusest, toitlustusest ning 1997. aastal avatud Garigliano hipodroomist. Pantaniello tootmisala ja 10,24 hektarit ZLS-is (lihtsustatud logistikavöönd), mis vastavad regionaalabi saamise tingimustele, pakuvad ruumi ettevõtete rajamiseks. Logistika teenindab kaubanduslikku jaotust, piimatooteid ning voogusid Campania ja kiirtee A1 suunas.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santi_Cosma_e_Damiano_(Italia)",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "sermoneta": {
+    "profile": "Sermoneta ulatub Monti Lepini mäestikust Agro Pontinoni: keskaegne küla koos Caetani lossiga kõrgub tasandiku kohal, territooriumi madalam osa piirneb Latina Scaloga ja kuulub Latina Scalo konsortsiumi tööstusalasse, mis hõlmab 448 hektarit Latina, Sermoneta ja Sezze vahel. Omavalitsus kuulub ZLS-i (lihtsustatud logistikavöönd) 128 hektariga, väljaspool maksukrediidi saamise tingimustele vastavat ala. Põllumajanduses kuulub piirkond artišoki carciofo romanesco IGP, oliiviõli Colline Pontine DOP ja pühvlimozzarella DOP tootmisaladesse. Kultuuriturism, mis on seotud ka lähedal asuva Ninfa aiaga (Giardino di Ninfa), ja tasandiku tööstus tekitavad erinevaid logistikavajadusi.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sermoneta",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sezze": {
+    "profile": "Sezze ulatub Monti Lepini ja Agro Pontino vahel ning seda läbib Ufente jõgi; Sezze Romano jaam asub Rooma–Napoli liinil Formia kaudu. Majandus on endiselt põllumajanduslik ja hooajaline: jaanuari lõpust korjatav artišokk, jaanuari-veebruari brokoli, tomatid, Lepini hapukirsid (visciole) ja oktoobri lõpust korjatav Haywardi kiivi, lisaks pühvlipiim ja -mozzarella. Lõuna-Itaalia arengufondi (Cassa per il Mezzogiorno) toel avatud tehased on suures osas suletud, kuid osa Latina Scalo konsortsiumi tööstusalast asub omavalitsuse territooriumil, mis kuulub ZLS-i (lihtsustatud logistikavöönd) 35,25 hektariga. Logistika järgib saagikoristuse kalendrit, värskete puu- ja köögiviljade tippudega.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sezze",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sonnino": {
+    "profile": "Sonnino asub Monti Ausoni künklikul ja mägisel alal Latina provintsi kesk-lõunaosas. Kiirtee Frosinone–mare ühendab seda kiirtee A1 Frosinone sõlme ja Terracina rannikuga, Pontina ja Appia viivad Latina ja Rooma suunas; vana Velletri–Terracina liini jaamad on suletud ja lähim toimiv jaam on Priverno-Fossanova. Piirkond kuulub oliiviõli Colline Pontine DOP, mozzarella di bufala campana ja Moscato di Terracina DOC tootmisalasse ning piirneb Mazzocchio tööstusalaga. Logistikavajadused puudutavad õli, piimatooteid ja veini, ühendustega Ciociaria ja ranniku suunas.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sonnino"
+    ]
+  },
+  "sperlonga": {
+    "profile": "Sperlonga asub Monte San Magno mäeharjal Gaeta lahe kohal Terracina ja Gaeta vahel ning seda teenindab kogu ulatuses maantee SR213 Flacca; lähim raudteejaam on Fondi-Sperlonga, mis on külaga ühendatud bussiga. Majandus on peaaegu täielikult turismipõhine: küla kuulub ühendusse Borghi più belli d'Italia ning randade kõrval asub Tiberiuse villa arheoloogiamuuseum. Põllumajandusel on väiksem roll, kasvatatakse pirnikujulist tomatit ja valget sellerit sedano bianco di Sperlonga IGP. Logistika on tugevalt hooajaline, varustamine koondub suvesse hotellide, toitlustuse ja rannaettevõtete jaoks.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sperlonga"
+    ]
+  },
+  "spigno-saturnia": {
+    "profile": "Spigno Saturnia asub Monti Aurunci mäestikus Minturno sisemaal, piirkonnas, kus domineerib Monte Petrella ja mida läbib Ausente jõgi; omavalitsuse madalam osa jääb maantee SR630 Ausonia äärde, mis ühendab Formiat Cassino ja kiirteega A1. Traditsiooniliste tegevuste hulka kuuluvad käsitsi valmistatud terrakota, tikandid ja pitsid, põllumajandus hõlmab Itrana oliivi kasvatamist. Suured tootmisüksused puuduvad ning tööealine elanikkond on seotud Gaeta lahe rannikuga. Logistikavajadused puudutavad tellistooteid ja ehitusmaterjale, õli ja oliive ning tarneid kohalikule kaubandusele.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spigno_Saturnia"
+    ]
+  },
+  "terracina": {
+    "profile": "Terracina sulgeb Agro Pontino lõunast Amaseno suudme juures: siin lõpeb maantee SS148 Pontina, mis pärast Borgo Piavet on ühe sõidurajaga kummaski suunas, ning siit kulgevad SS7 Appia ja SR213 Flacca Sperlonga ja Gaeta suunas; raudteeharu ühendab linna Priverno-Fossanovaga. Peamine tegevusala on turism, provintsi suurima puhkemajutuse arvuga, lisaks kalapüük, lillekasvatus, kasvuhoonete köögiviljad, pühvlikasvatus ning sellised tooted nagu Favetta maasikas ja Moscato di Terracina. Sadamal on hooajalised ühendused Ponzaga. Logistika ühendab temperatuurikontrolliga puu- ja köögivilju, kalasaaki ning suvist turismi varustamist.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Terracina",
+      "https://it.wikipedia.org/wiki/Strada_statale_148_Pontina"
+    ]
+  },
+  "ventotene": {
+    "profile": "Ventotene koos Santo Stefano saarekesega on pindalalt Lazio väikseim ja regiooni lõunapoolseim omavalitsus. Peamine ühendus on Formiaga, mida Laziomar teenindab aasta ringi praamiga, mis veab ka sõidukeid, ja kiirlaevaga; suvel lisanduvad reisid Ponzaga ja Napolist. Praamid ja kaubavedu randuvad Cala Rossano uues sadamas, Rooma-aegne sadam võtab vastu kalalaevu ja väikealuseid; helikopteriväljak teenindab päästetöid. Majandus elab suviturismist ja väikesest põllumajandusest, traditsiooniliste toodete hulka kuuluvad läätsed. Varud tuleb planeerida Formiast väljumiste ja suvise tipu järgi.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ventotene_(comune)",
+      "https://www.directferries.it/formia_ventotene_traghetto.htm"
+    ]
+  },
+  "pomezia": {
+    "profile": "Pomezia ulatub Agro Romanos Colli Albani nõlvade ja ranniku vahel ning seda teenindavad maanteed SS148 Pontina, Laurentina, Ardeatina ja rannikumaantee Ostia–Anzio; Pomezia-Santa Palomba jaam asub Rooma–Napoli liinil Formia kaudu, SGT intermodaalterminali kõrval. Lõuna-Itaalia arengufondi (Cassa per il Mezzogiorno) toel kasvanud tööstus hõlmab farmaatsiat ja biotehnoloogiat (Menarini, Johnson & Johnson, IRBM), elektroonikat ja kaitsetööstust (Leonardo, Northrop Grumman Italia), paberitooteid, plasti ning toiduainetööstust, sealhulgas Fiorucci lihatööstus, Crik Croki suupisted ja linnasetehas. Santa Palomba tööstusalal tegutsevad logistikaettevõtted ja suurjaekaubanduse jaotuskeskused. Logistikanõudlus on lai: ravimid, toiduained, igapäevatarbekaubad.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pomezia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ardea": {
+    "profile": "Ardea asub Pomeziast lõuna pool Agro Romanos tuffkivikaljul, territoorium laskub mere poole rannikuküladeni Tor San Lorenzo ja Marina di Ardea; maantee SS148 Pontina läbib selle sisemaaosa. Omavalitsus on säilitanud põllumajandusliku iseloomu, tootmine kuulub mozzarella di bufala campana ning veinide Colli Albani ja Roma DOC alasse, kuid alates 1970. aastatest on Pontina äärde rajatud tööstus- ja käsitööettevõtteid. Viimaste aastakümnete elamuehitus, mis on seotud Pomezia tootmis- ja logistikakeskustega, on elavdanud ehitust ja kaubandust. Sellest tulenevad ehitusmaterjalide tarned, jaejaotus ja suvised turismivood.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ardea"
+    ]
+  },
+  "anzio": {
+    "profile": "Anzio asub samanimelisel neemel Roomast lõuna pool rannikul ning seda teenindavad maantee SS207 Nettunense, rannikumaantee SS601 Ostia–Anzio ja regionaalse raudteeliini FL8 Rooma–Nettuno jaamad. Majandus põhineb rannaturismil ja sadamal, kus on umbes 60 kalalaevast koosnev laevastik ja üle 800 tonni kalasaaki aastas ning kust väljuvad hooajalised ühendused Ponzale. Piirkonnas asub Colgate-Palmolive'i Itaalia tehas ning sisemaa kuulub mozzarella di bufala campana tootmisalasse. Logistikas on olulised värske kala tarneahel, isikuhooldus- ja kodukaupade vood ning kaubanduse ja toitlustuse suvine varustamine.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Anzio"
+    ]
+  },
+  "nettuno": {
+    "profile": "Nettuno asub rannikul Rooma Campagna ja Agro Pontino vahel; Astura jõgi märgib piiri Latina omavalitsusega. See on regionaalse raudteeliini Rooma–Nettuno lõpp-peatus ning on ühendatud maanteega SS148 Pontina Campo di Carne ja Campoverde mahasõitude kaudu, maanteega SS207 Nettunense Aprilia ja Castelli suunas ning rannikumaanteega SS601 Anzio suunas. Peamine tegevusala on turism: rannaturism koos Marina di Nettuno jahisadamaga ning ajaloo- ja usuturism koos Santa Maria Goretti pühamu ja Ameerika sõjaväekalmistuga. Põllumajanduslik sisemaa kuulub pühvlimozzarella tootmisalasse. Logistika peab vastama tarbimise ja toitlustuse suvistele tippudele.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nettuno_(Italia)"
+    ]
+  },
+  "ciampino": {
+    "profile": "Ciampino on Rooma ja Castelli Romani vaheline ühenduslüli: seda läbivad maanteed SS7 Appia ja Anagnina, siin algab Velletri suunduv Via dei Laghi ning Rooma ringtee (Grande Raccordo Anulare) kulgeb mõnesaja meetri kaugusel omavalitsuse piirist, Gregna Sant'Andrea ja Appia mahasõitude vahel. Ciampino jaam, liinide FL4 ja FL6 kohtumispunkt, on tähtsuselt Lazio kolmas Termini ja Tiburtina järel. Omavalitsus annab nime G. B. Pastine lennujaamale, mida haldavad Aeroporti di Roma ja Itaalia õhujõud. Majandus keskendub teenustele ja jaekaubandusele, nõudlusega linnasisese jaotuse ning kaupluste ja lennujaama klientide tarnete järele.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ciampino"
+    ]
+  },
+  "marino": {
+    "profile": "Marino asub Colli Albani loodeosas, territoorium ulatub tasandiku küladeni Ciampino ja Rooma suunas, nagu Santa Maria delle Mole, Cava dei Selci ja Castelluccia; seda läbivad maanteed SS7 Appia ja SR207 Nettunense. Veinindus oli pikka aega juhtiv sektor: DOC Marino on tunnustatud alates 1970. aastast ning 1946. aastal asutatud ühistuveinikelder Gotto d'Oro on peamine tootja. Varem tegutsesid peperino- ja basaldikarjäärid, tänapäeval on ehitus endiselt oluline sektor, lisaks raudtoodete käsitöö, trükkimine ja pagaritööstus. Logistika käitleb villitud veini, ehitusmaterjale ja linnasisest jaotust.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Marino_(Italia)"
+    ]
+  },
+  "castel-gandolfo": {
+    "profile": "Castel Gandolfo ulatub Colli Albanist Agro Romanoni, avaneb Albano järvele ja asub täielikult Castelli Romani regionaalpargis. Territooriumi läbivad maanteed SS7 Appia ja SS140 del lago Albano ning jaam asub Rooma–Albano raudteel. Paavsti palee koos paavsti villadega ja Domitianuse villa toovad püsivat kultuuri- ja usuturismi. Viinamarjakasvatust korraldavad naaberomavalitsuste suured ühistuveinikeldrid ning omavalitsuse põhikiri keelab antennid ja statsionaarsed telekommunikatsiooniseadmed. Haigla ja paljud teenused asuvad väljaspool omavalitsust, seega puudutab logistika peamiselt toitlustust, kaubandust ja majutust.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Gandolfo"
+    ]
+  },
+  "albano-laziale": {
+    "profile": "Albano Laziale on üks Colli Albani suurima pindalaga omavalitsusi ning hõlmab lisaks maantee SS7 Appia äärsele keskusele tasandiku külasid Pavona ja Cecchina, mida läbib SR207 Nettunense; linna teenindab regionaalne raudteeliin FL4. 2018. aastal tegutses seal 2 863 kohalikku üksust 8 516 töötajaga, tootmisstruktuur on keskendunud teenustele, sealhulgas haigla, ametiasutused ja kaubandus. Colli Albani DOC veinitraditsiooni kõrval asub linnas puu- ja köögiviljade hulgiturg, mis on ajalooliselt olnud oluline köögiviljade ja artišokkide jaoks. Logistikavajadused puudutavad värskeid puu- ja köögivilju, jaekaubanduse varustamist ning tarneid tervishoiuasutustele ja kontoritele.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Albano_Laziale"
+    ]
+  },
+  "ariccia": {
+    "profile": "Ariccia on üks Castelli Romani keskusi, mida läbib maantee SS7 Appia, mis ületab siin oru Ariccia sillaga; Rooma ajal oli Aricia Roomast lahkudes Via Appia esimene peatuspaik. Palazzo Chigi ja Bernini väljaku monumentaalne kompleks toetab Roomast tulevat päevaturismi. Tuntuim toode on porchetta, lisaks Colli Albani DOC valge vein ja pühvlimozzarella; arvukad fraschetta-söögikohad koondavad nõudluse nädalavahetustele. Logistika jaoks tähendab see külmveol transporditavaid lihatooteid, toitlustuse sagedast varustamist ning laatade ja ürituste tippe.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ariccia"
+    ]
+  },
+  "genzano-di-roma": {
+    "profile": "Genzano di Roma asub Colli Albanis maantee SS7 Appia ääres Ariccia ja Velletri vahel Nemi järve kohal; San Gennaro jaam asub Rooma–Velletri raudteel, regionaalliinil FL4. Põllumajanduses domineerib viinamarjakasvatus: Genzano ja Lanuvio on Colli Lanuvini DOC veinide piirkonna keskmes, lisaks oliivi-, lille-, puu- ja köögiviljakasvatus. Tegutseb umbes 400 käsitööettevõtet naha, punutiste, klaasi, keraamika ja stiilmööbli alal, kuid kõige olulisem sektor on pagaritööstus, mille tuntuim toode on looduslikult kergitatud ja puuahjus küpsetatud pane casareccio di Genzano. Kohalik logistika vajab pagaritoodete igapäevast jaotust ja veini saatmist.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genzano_di_Roma"
+    ]
+  },
+  "lanuvio": {
+    "profile": "Lanuvio asub Colli Albani lõunanõlval Aprilia tasandiku poole ning jaam asub Rooma–Velletri raudteel. Peamine tegevusala on põllumajandus, eriti Colli Lanuvini ja Colli Albani DOC viinamarjakasvatus, koos oliivi-, lille-, puu- ja köögiviljakasvatusega. Tööstus ja kaubandus on koondunud maantee SR207 Nettunense äärde, mis ühendab Roomat Aprilia, Anzio ja Nettunoga, ning osa Aprilia konsortsiumi tööstusalast, kokku 256 hektarit, asub omavalitsuse territooriumil. Logistikavajadused ühendavad hooajalisi põllumajandustooteid, veini ja lilli tööstusvoogudega Aprilia tootmiskeskuse ja Pontina suunas.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lanuvio",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "velletri": {
+    "profile": "Velletri sulgeb Colli Albani lõunast Agro Pontino suunas: siin kohtuvad maanteed SS7 Appia ja Via dei Laghi, Via Ariana viib Larianosse ja Casilinale; 1863. aastal avatud Rooma–Velletri raudteed teenindab tänapäeval regionaalliin FL4. Esmasektor põhineb veinil, DOC Velletri, Castelli Romani ja Roma, ning ümbruskonna põllumajandustoodete kaubandusel. Tööstus- ja käsitööettevõtted paiknevad Appia Nuova ääres Pontina tööstuse suunas ning Contrada Lazzaria tööstusalal Latina provintsi piiril. Traditsiooniliste töötlemisalade hulka kuuluvad keraamika ja terrakota.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Velletri"
+    ]
+  },
+  "lariano": {
+    "profile": "Lariano asub Artemisio mägedes Colli Albani lõunaserval, Velletri, mille osa see oli kuni 1967. aastani, ja Artena vahel; suur osa territooriumist kuulub Castelli Romani regionaalparki, kastanimetsade ja Pontina tasandiku poole laskuvate küngaste vahele. Via Ariana ühendab seda Velletri ja Casilinaga ning Cisterna–Valmontone ühendustee projekt näeb ette ristmiku Larianos. Põllumajandus kuulub Velletri DOC ja Castelli Romani DOC veinide aladesse, lisaks oliivid ja metsad. Majandus koosneb väikeettevõtetest, kaubandusest ja teenustest, logistikavajadused on seotud veini, kohalike toodete ja ehitustarvetega.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lariano",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "nemi": {
+    "profile": "Nemi asub Colli Albanis samanimelise järve kraatri serval, kuhu pääseb provintsimaanteelt SP Nemorense, mis hargneb Appiast Genzano juures, ning Via dei Laghilt. Majandus oli kaua põllumajanduslik: järve ümbritsevas orus kasvatati sibulat ja õunu, kraatri nõlvad on terrassitud ja kaetud oliivipuudega ning tänapäeval on iseloomulik toode maasikas hooajaliste ja korduvalt kandvate sortidena, mille auks peetakse juunis laata. Rooma laevade muuseum ja küla toovad Roomast päevaturiste. Logistikavajadused puudutavad lühikese tsükliga õrnu puuvilju kiire külmveoga ning toitlustuse ja kaubanduse varustamist.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nemi"
+    ]
+  },
+  "rocca-di-papa": {
+    "profile": "Rocca di Papa ulatub Colli Albani keskosa mägedes ning seda läbivad muistset Via Latinat järgiv Via Anagnina, Grottaferrata ja Ariccia suunduv SS218 ning Via dei Laghi. Omavalitsuses töötava elanikkonna osakaal on Castelli keskmisest madalam. Viinamarju kasvatatakse madalamas loodeosas, Frascati ja Marino alade piiril, kõrgemal domineerib kastan: metsatööstus, mille puit läheb peamiselt ehitusse, on alati olnud üks kohaliku majanduse alustalasid. Logistika puudutab puitu ja ehitusmaterjale, veini ning tarneid künklikel teedel.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_di_Papa"
+    ]
+  },
+  "grottaferrata": {
+    "profile": "Grottaferrata asub Colli Albani Rooma-poolsel nõlval Frascati, Marino ja Rocca di Papa vahel ning seda läbivad Anagnina, Maremmana III, Via dei Laghi ja Pedemontana dei Castelli, mis ühendab risti Tuscolanat, Anagninat ja Appiat. Piirkond kuulub Frascati ja Castelli Romani DOC tootmisalasse, väiksemas mahus on oliivikasvatust, kuid 20. sajandil andis viinamarjakasvatus teed käsitöö-, kaubandus- ja teenindustegevusele. San Nilo kreeka klooster toob kultuuriturismi. Kohalik logistika puudutab kaubanduslikku jaotust, tarneid vabakutselistele ja teenusettevõtetele ning piirkonna veinikeldrite veini saatmist.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Grottaferrata"
+    ]
+  },
+  "frascati": {
+    "profile": "Frascati asub Colli Albanis Via Tuscolana ääres; Rooma–Frascati raudtee, Paavstiriigi esimene, ühendab linna Terminiga, Rooma–Cassino liini Tor Vergata jaam asub Rooma piiril. Põllumajandusmaal kasvatatakse oliive ja viinamarju Frascati DOC veini jaoks. Linnas asuvad rahvusvahelised teaduskeskused: INFN-i Frascati riiklikud laborid, Euroopa Kosmoseagentuuri ESRIN-i keskus ja ENEA üksused. Teenindussektori osakaal on suur. Sellest tulenevad kaks eraldi logistikanõudlust: ühelt poolt vein ja põllumajandustooted, teiselt poolt seadmed ja tehnilised tarvikud teaduskeskustele.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Frascati"
+    ]
+  },
+  "monte-porzio-catone": {
+    "profile": "Monte Porzio Catone asub Colli Albani idaosas Frascati ja Monte Compatri vahel, kiirtee A1 Rooma Sud haru lähedal. Peamine tegevusala on viinamarjakasvatus Frascati päritolunimetuse vulkaanilistel muldadel: omavalitsuses on üks Castelli Romani suurimaid veinikeldrite tihedusi, sealhulgas Fontana Candida, Villa Simone ja Poggio le Volpi, ning märkimisväärne osa veinist müüakse Roomas või eksporditakse. Piirkonnas asub ka riikliku astronoomiaobservatooriumi üksus. Raudteeühendus puudub alates 1944. aastast ning küla teenindavad bussiliinid. Logistika on seotud veini tarneahelaga: sissetulev klaas, väljaminevad pudelialused ja ekspordisaadetised.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Porzio_Catone"
+    ]
+  },
+  "monte-compatri": {
+    "profile": "Monte Compatri ajalooline keskus asub Colli Albanis Maremmana III ääres, tasandiku külad aga Tuscolanal, nagu Molara, Casilinal, nagu Pantano Borghese ja Laghetto, ning Prenestinal, nagu Osa. Pantanos asub Rooma metroo C-liini lõpp-peatus koos pargi-ja-sõida parkla ja bussiliinidega. Küla all asuvatel maadel toodetakse veine Montecompatri Colonna, Frascati superiore ja Cannellino di Frascati ning ekstra-neitsioliiviõli tootmine on ulatuslik. Külade paiknemine Rooma idapoolsete konsulaarteede ääres toob lisaks veini- ja õlivoogudele nõudluse kaubandusliku jaotuse ja pealinna idapoolse äärelinna tarnete järele.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "rocca-priora": {
+    "profile": "Rocca Priora on Castelli Romani kõrgeimal asuv omavalitsus: keskus asub üle 760 meetri kõrgusel Colli Albani idaküljel ja avaneb Casilina ja kiirtee A1 oru poole. Suur osa territooriumist kuulub Castelli Romani regionaalparki. Teedevõrk koosneb provintsimaanteedest, sealhulgas Tuscolana Rooma ja Artena suunas, Anagnina ning tee Colle di Fuori ja San Cesareo suunas. Varem varustas küla Roomat kõrgustikul säilitatud lume ja jääga. Tänapäeval domineerivad elamud, kaubandus ja teenused, lisaks metsad ja väikepõllumajandus. Kohalik logistika puudutab tarneid mägiteedel, elamuehitust ja kaupluste varustamist.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Priora"
+    ]
+  },
+  "colonna": {
+    "profile": "Colonna asub vulkaanilisel künkal Castelli Romani kirdetipus ning on pindalalt Castelli väikseim ja Lazio teine väikseim omavalitsus Ventotene järel. Territooriumi läbib Via Casilina, see asub kiirtee A1 ja Rooma Sud haru sõlme lähedal ning seda teenindab FL6 liini Colonna Galleria jaam, kust väljub Rooma Termini suunas umbes üks rong tunnis. Viinamarjaistandused kuuluvad Montecompatri Colonna päritolunimetuse alla. Majandus on peamiselt elamu- ja kaubanduspõhine, seotud Rooma tööalase pendelrändega. Logistikavajadused puudutavad jaejaotust, tarneid Casilina äärsetele ettevõtetele ja veini saatmist.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colonna_(Italia)",
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "san-cesareo": {
+    "profile": "San Cesareo asub Via Casilinal Rooma Sud haru ja kiirtee A1 ühenduskohas, omavalitsuse territooriumil on kiirtee sõlm; Rooma ajal asusid siin Via Labicana ääres võõrastemajad ja kaubapeatused. Osa territooriumist kuulub Castelli Romani DOC ja Roma DOC veinide aladesse. 1980. aastate lõpus Casilina äärde kiirtee lähedale rajatud tööstusalal asuvad laohooned käsitöö-, tootmis- ja logistikategevuseks. Kiirteeühenduse ja keskmise suurusega laohoonete kombinatsioon muudab omavalitsuse transiidi- ja ladustamispunktiks Ida-Rooma ja Valle del Sacco suunduvale jaotusele.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Cesareo",
+      "https://www.immobiliare.it/en/annunci/101095913/"
+    ]
+  },
+  "zagarolo": {
+    "profile": "Zagarolo asub Monti Prenestini ja Sacco oru vahel ning on ühendatud teedega Zagarolese, SR155 di Fiuggi ja Prenestina Nuova; Rooma–Napoli liini (Cassino kaudu) Zagarolo jaam teenindab ka Palestrina pendelrändajaid, vanad Zagarolo Paese ja Zagarolo Scalo jaamad on suletud. Territooriumi hulka kuulub ka Valle Martella küla Monte Compatri piiril. Traditsiooniliste tegevuste seas paistab silma stiilmööbli tootmine. Omavalitsus on kasvanud Rooma idapoolse tagamaa elamupiirkonnana. Kohalik logistika puudutab saadetavat mööblit ja sisustust ning uute elamurajoonide kaubanduslikku jaotust.",
+    "sectors": [
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Zagarolo"
+    ]
+  },
+  "gallicano-nel-lazio": {
+    "profile": "Gallicano nel Lazio asub tuffkivikünkal Monti Prenestini jalamil Rooma suurlinnapiirkonna idaosas, ümbritsetuna ojade uuristatud orgudest ja metsaaladest. Riigimaanteid see ei läbi: provintsimaanteede võrk ühendab seda San Cesareo ja Zagarologa, Palestrinaga, Poliga ning Maremmana Inferiore kaudu Tivoli suunas. Ajalooliselt viinamarjaistanduste ja oliivisaludega kaetud maapiirkonnas on säilinud põllumajanduslik osa, kuid majandus on tänapäeval peamiselt elamu-, kaubandus- ja teenusepõhine. Allikaid tootmisstruktuuri kohta on vähe. Logistikavajadused puudutavad kaubanduse varustamist, elamuehitust ning väikesemahulist õli- ja veinitootmist.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gallicano_nel_Lazio"
+    ]
+  },
+  "palestrina": {
+    "profile": "Palestrina asub Monti Prenestini nõlvadel; oru külad asuvad maanteel SS6 Casilina, SR155 di Fiuggi ühendab keskust Cave, Genazzano, Fiuggi ja Frosinonega ning kiirtee A1 läbib territooriumi Carchitti ja Valvarino vahel. Rooma–Napoli liini (Cassino kaudu) jaam on mahajäetud ja pendelrändajad kasutavad Zagarolo jaama. Fortuna Primigenia pühamu ja arheoloogiamuuseum toetavad kultuuriturismi. Traditsiooniliste töötlemisalade hulka kuuluvad kunstiline vasetöö ja tikkimine, mille kool sai alguse linnas. Omavalitsus on naaberasulate teenuste ja koolide keskus, nõudlusega kaubandusliku jaotuse ja oru suunas toimuvate tarnete järele.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Palestrina"
+    ]
+  },
+  "labico": {
+    "profile": "Labico, mille nimi oli kuni 1872. aastani Lugnano, asub Casilina ääres San Cesareo ja Valmontone vahel, Colli Albani ja Sacco oru vahelisel üleminekualal. Labico jaam asub Rooma–Napoli liinil Cassino kaudu ja seda teenindavad FL6 regionaalrongid. Cisterna–Valmontone ühendustee projekt, mille ehitus algas 2026. aastal, näeb ette ristmiku Labicos, mis ühendab piirkonna Pontinaga. Allikad kohaliku majanduse kohta on piiratud: domineerivad elamud, Casilina äärne kaubandus ning väikesed käsitöö- ja põllumajandusettevõtted. Asukoht Casilina, raudtee ja tulevase ühendustee vahel pakub huvi jaotusladudele ja veoettevõtetele.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Labico",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "valmontone": {
+    "profile": "Valmontone asub tuffkivikõrgendikul Casilina ääres Sacco oru ülemjooksul ning seda teenindavad kiirtee A1 Valmontone sõlm ja Rooma–Cassino–Napoli liini jaam; territooriumi läbib ka Rooma–Napoli kiirraudtee. Alates 2026. aastast ehitatav Cisterna–Valmontone ühendustee ühendab siin Pontina kiirteega A1. Kiirtee sõlme kõrval asuvad lõbustuspark Rainbow MagicLand ja outletkeskus Valmontone Fashion District, mis tekitavad suuri külastajate ja kaupade voogusid. Sellest tulenevad rõivakaupluste ja toitlustuse pidev varustamine, tagastuste haldamine ning nõudlus jaotuslaohoonete järele kiirtee lähedal.",
+    "sectors": [
+      "gdo-retail",
+      "tessile-moda",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Valmontone",
+      "https://turismoroma.it/it/node/5117"
+    ]
+  },
+  "artena": {
+    "profile": "Artena on Monti Lepini põhjaosa küla Sacco oru kohal, mida teenindavad kiirtee A1 Valmontone sõlm ja FL6 liini Valmontone jaam; Tuscolana, Via Ariana ja Giulianello provintsimaantee ühendavad seda Castelli ja Coriga. Majandus põhineb põllumajandusel ja loomakasvatusel, viinamarjaistandused kuuluvad Castelli Romani DOC alasse. Osa endise BPD tööstuskompleksi aladest, mida tänapäeval haldab Avio kontserni ettevõte, asub selle territooriumil koos Colleferro ja Segniga. Kohalik logistika puudutab põllumajandus- ja loomakasvatustooteid ning oru tööstuse allhanget, otseühendusega kiirteele A1.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Artena",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "colleferro": {
+    "profile": "Colleferro tekkis Bombrini Parodi Delfino ümber, mis rajati 1912. aastal lõhkeainete tootmiseks ja tegutses hiljem keemia-, mehaanika- ja tekstiilitööstuses; sellest ajaloost pärineb Avio kosmosetööstuse keskus. Kontsern haldab umbes 910 hektarit Colleferro, Segni ja Artena vahel, millest 450 on tööstusmaa, ning linnas tegutseb Italcementi tsemenditehas. Omavalitsusel on kiirtee A1 sõlm, seda läbib Casilina ning Colleferro Scalost algab Priverno suunduv Carpinetana. Siin asub osaliselt valminud multimodaalne logistikasüsteem SLIM ning omavalitsus kuulub ZLS-i (lihtsustatud logistikavöönd) väljaspool maksukrediidi saamise tingimustele vastavat ala. Vaja on erivedusid, ohtlike kaupade vedu ja ehituse puistematerjale.",
+    "sectors": [
+      "manifatturiero",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colleferro",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "segni": {
+    "profile": "Segni asub Monti Lepini põhjaosas Sacco oru ja Colleferro kohal. Selle territooriumil kaevandatakse San Bruno karjääris tsemenditootmiseks lubjakivi, mis veetakse Colleferro Italcementi tsemenditehasesse kuue konveierlindi süsteemiga kogupikkusega 4,3 kilomeetrit, mis väldib maanteevedu. Osa endise BPD kompleksi aladest asub omavalitsuse territooriumil. Põllumajanduses on iseloomulik toode marrone segnino, sügisel korjatav kastanisort. Logistikavajadused ühendavad oru kaevandus- ja tööstusallhanget kastanite hooajalise turustamise ja küla varustamisega.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Segni_(Italia)",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "gavignano": {
+    "profile": "Gavignano asub väikesel neemel Rio ja Sacco jõe ühinemiskohas Monte Lupone jalamil Monti Lepini põhjanõlval; territooriumil asub Fonte Meo, oma diureetiliste omaduste poolest tuntud allikas. 20. sajandil muutis BPD laienemine Colleferros paljud küla põllumehed tööstustöölisteks ning tööealine elanikkond on endiselt seotud oru tööstuskeskusega. Omavalitsuses on säilinud künklik põllumajandus ning väikesed käsitöö- ja kaubandusettevõtted, ajaloopärand on seotud oru benediktiini mungandusega. Kohalik logistika teenindab peamiselt Colleferro tööstuse allhanget ja külakaubanduse varustamist.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gavignano_(Italia)"
+    ]
+  },
+  "montelanico": {
+    "profile": "Montelanico territoorium on lõunas mägine, Monti Lepini põhjanõlval, ning muutub Sacco oru suunas künklikuks ja seejärel tasaseks; Segni ja Cori piiril kõrgub Monte Lupone. Omavalitsust läbivad Colleferrot Privernoga ühendav SR609 Carpinetana ja Segni suunduv provintsimaantee. Iseloomulik toode on kastan, mille auks peetakse alates 1963. aastast oktoobri kolmandal nädalal laata; majandust täiendavad oliivikasvatus, loomakasvatus ja väikeettevõtted. Logistika järgib sügisese korje hooaega ning teenindab ühendust Colleferro tööstuskeskuse ja Lepini asulate vahel.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Montelanico"
+    ]
+  },
+  "carpineto-romano": {
+    "profile": "Carpineto Romano asub Monti Lepini keskosas Latina ja Frosinone provintsi piiril, mägisel alal, mille kõrgeim punkt on 1 536 meetri kõrgune Monte Semprevisa. See on paavst Leo XIII sünnikoht. Ühelt poolt Sacco oru ja Colleferroga ning teiselt poolt Maenza ja Privernoga ühendab seda SR609 Carpinetana. Traditsiooniliste tegevuste hulka kuuluvad keraamika ja terrakota ning muuseum La Reggia dei Volsci eksponeerib põllumajandus- ja karjandustraditsiooni esemeid. Majandus on väikesemahuline, metsade, karjamaade ja selliste üritustega nagu Palio della Carriera seotud turismiga; tarned toimuvad mägiteedel.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Carpineto_Romano"
+    ]
+  },
+  "gorga": {
+    "profile": "Gorga on Monti Lepini väike omavalitsus, mille kohal kõrgub üle 1 380 meetri kõrgune Monte San Marino. Gorga platooks nimetatud mägialal on ulatuslikud karstinähtused, sealhulgas Campo di Caccia koobas, speleoloogide uurimisretkede sihtkoht. Küla on Sacco oruga ühendatud provintsiteedega, mis laskuvad Carpinetana ja Colleferro suunas. Allikaid kohaliku majanduse kohta on vähe: valdav tegevus on põllumajandus ja karjandus, karjamaade, metsade ja platooga seotud matkaturismiga. Logistikavajadused piirduvad külakaubanduse varustamise ja planeeritud tarnetega mägiteedel.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gorga_(Italia)"
+    ]
+  },
+  "cave": {
+    "profile": "Cave asub Monti Prenestini ja Sacco oru vahel ning seda läbib Roomat ja Frosinonet ühendav SS155 di Fiuggi; provintsimaantee ühendab seda kiirtee A1 sõlme ja Valmontone raudteejaamaga, Cotrali liinid aga Rooma Anagnina ja Ponte Mammologa ning Palestrina ja Colleferro koolikeskustega. Iseloomulik põllumajandustoode on marrone di Cave, mis kuulub Lazio traditsiooniliste põllumajandus- ja toiduainete hulka. Kohalik majandus koosneb põllumajandusest, kaubandusest ja elamupiirkonna teenustest. Logistikavajadused puudutavad kastanite sügisest korjet ja jaotust Prenestina asulatesse.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cave_(Italia)"
+    ]
+  },
+  "genazzano": {
+    "profile": "Genazzano asub tuffkivineemikul, mis laskub Monti Prenestinist Sacco oru suunas Rooma suurlinna ja Frosinone provintsi piiril, ning on maanteega SR155 di Fiuggi ühendatud Cave, Palestrina ja Fiuggiga. Madonna del Buon Consiglio pühamu toob palverändureid aasta ringi ning ajaloolises keskuses on säilinud Colonna loss. Allikaid kohaliku tootmisstruktuuri kohta on vähe: domineerivad oruala põllumajandus, väikekaubandus, toitlustus ja usuturismi teenused. Logistikavajadused puudutavad majutuse ja toitlustuse varustamist ning ühendusi kiirtee A1 Valmontone sõlme ja Ciociaria suunas.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genazzano"
+    ]
+  },
+  "fiumicino": {
+    "profile": "Fiumicinos asub Leonardo da Vinci lennujaam, Itaalia suurim reisijate arvult ja TEN-T võrgu põhivõrgu sõlm, koos Cargo Cityga ning selle kõrval Rooma–Fiumicino logistikaplatvorm, mille raudteeterminal on kavandamisel. Lennujaama jaama ühendavad Roomaga Leonardo Express ja FL1; omavalitsust teenindavad kiirtee Rooma–Fiumicino ning FL5 liinil Maccarese-Fregene ja Torrimpietra-Palidoro jaamad. Sadam kuulub Kesk-Põhja-Türreeni mere sadamasüsteemi ametisse (AdSP) ning on suure kalaturuga kalanduskeskus. Logistikas on olulised lennukaubad, rahvusvaheline koondvedu, kalasaagi külmaahel ja lennujaama ettevõtete varustamine.",
+    "sectors": [
+      "ecommerce",
+      "agroalimentare",
+      "farmaceutico"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fiumicino",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "eur": {
+    "profile": "EUR on IX linnaosavalitsuse (Municipio IX) planeerimisala 12A Rooma ringtee (Grande Raccordo Anulare) sees mõlemal pool via Cristoforo Colombot; siit algab Latina suunduv SS148 Pontina ning metroo B-liin ühendab seda kesklinnaga peatustes EUR Magliana, EUR Palasport ja EUR Fermi. Linnaosa on Rooma lõunaosa peamine ärikeskus: siin asuvad suurte kontsernide nagu ENI ja Poste Italiane peakorterid, ministeeriumide ametiasutused, kongressikeskus La Nuvola ja muuseumid. Logistikanõudlus on bürookvartalile tüüpiline: arhiivid ja dokumendid, kontoritarbed, IT-seadmed, kongresside ja ürituste sisseseade ning ajavahemikuga tarned.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Eur_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/EUR"
+    ]
+  },
+  "laurentino": {
+    "profile": "Laurentino on IX linnaosavalitsuse planeerimisala 12D Rooma ringtee sees via Cristoforo Colombo ja via Laurentina vahel, millest see on saanud oma nime; sellesse kuulub Laurentino-Acqua Acetosa looduskaitseala. Ala on valdavalt elamupiirkond, mis kasvas alates 1970. aastatest suurte munitsipaalelamuehitusprojektidega, ning piirneb EUR-i ärikeskusega, kuhu pääseb ka metroo B-liini lõpp-peatusest Laurentina. Tootmisüksused puuduvad: majandus koosneb lähikaubandusest, isikuteenustest ja kontoritest. Logistikavajadused on linnasisese jaotuse omad: müügikohtade varustamine, internetiostude tarned ja teenused väikekauplustele.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Laurentino"
+    ]
+  },
+  "ostiense": {
+    "profile": "Ostiense on Rooma kümnes linnaosa (quartiere) Aurelianuse müüride ja Tiberi vahel. Alates 1907. aastast oli see linna esimene tööstuspiirkond jõesadama, gaasihoidla (Gazometro), Montemartini elektrijaama ja hiljem suletud hulgiturgudega (Mercati Generali). Tänapäeval on ala ümber kujundatud teenuste, kultuuri ja ülikooli jaoks: alates 1992. aastast asub siin Roma Tre ülikool ning Centrale Montemartini on muuseum. See on transpordisõlm Roma Ostiense jaama, metroo B-liini Piramide peatuse ja Rooma–Lido raudtee lõpp-peatusega, via Ostiense viib EUR-i ja ranniku suunas. Logistika teenindab toitlustust, kaubandust, ülikooli ja kontoreid sagedaste linnasiseste tarnetega.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostiense"
+    ]
+  },
+  "garbatella": {
+    "profile": "Garbatella on 1920. aastal lähedal asuva jõesadama ja Ostiense tööstuspiirkonna töötajatele rajatud aedlinnak; tänapäeval vastab see VIII linnaosavalitsuse (Municipio VIII) planeerimisalale 11C. Hoonestus on elamupiirkond siseõuedega kruntide ja kitsaste tänavatega ning via Cristoforo Colombo ääres asub Lazio regiooni hoone, regionaalvalitsuse asukoht. Piirkonda teenindab metroo B-liini Garbatella jaam ning see piirneb Roma Ostiense jaamaga. Majandus koosneb lähikaubandusest, toitlustusest, avalikest teenustest ja regiooni ametiasutustest. Tarned vajavad sisemisele tänavavõrgule sobivaid kergsõidukeid ning dokumenditeenuseid ametiasutustele.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Garbatella"
+    ]
+  },
+  "torrino": {
+    "profile": "Torrino on Agro Romano ala Z. XXVII Rooma ringtee vahetus läheduses ja sees, läänes via del Mare ning idas via Cristoforo Colombo ja Pontina vahel. Elurajoonide kõrval on Casal Grottoni ja viale dell'Oceano Pacifico piirkonda rajatud ärihooned: IBM-i peakorter, Eurosky Business Park ja Torre Europarco, maksuameti (Agenzia delle Entrate) kontorid ja kaubanduskoja operatiivkeskus. Siin asub ka kaubanduskeskus Euroma2. Kontorite, suurjaekaubanduse ja elamute kombinatsioon tekitab tarneid kauplustele, kontoritarvete tarneid ja suure pakimahu eraisikutele.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torrino"
+    ]
+  },
+  "spinaceto": {
+    "profile": "Spinaceto on IX linnaosavalitsuse planeerimisala 12G Rooma ringteest lõuna pool via di Mezzocammino ja Via Pontina vahel; kohanimi tähistab ka Roma Capitale asulat. Linnaosa on kavandatud 1960. ja 1970. aastate soodus- ja munitsipaalelamuehituse plaanide alusel, linnaosa teenuste ja kaubandusega. 1968. aasta üldplaneeringus ette nähtud ühendust metroo B-liiniga ei ole kunagi rajatud ning ühistransporti pakuvad bussid. Otsene juurdepääs Pontinale ühendab seda nii EUR-i kui ka Castel Romano ja Pomezia tootmiskeskustega. Logistikavajadused puudutavad peamiselt jaejaotust ja tarneid elanikele.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spinaceto"
+    ]
+  },
+  "trigoria": {
+    "profile": "Trigoria on Roma Capitale asula Castel di Decima piirkonnas, väljaspool Rooma ringteed (Grande Raccordo Anulare) ja Pontinast ida pool, Decima-Malafede looduskaitseala serval. See on tuntud spordikeskuse Fulvio Bernardini poolest, kus treenib AS Roma, ning ülikooli Università Campus Bio-Medico ja selle kliiniku poolest. Ülejäänud territooriumil vahelduvad hõreda asustusega elamupiirkonnad ja Agro Romano maastik. Ülikoolihaigla olemasolu toob kaasa spetsiifilise logistikanõudluse: ravimid, meditsiiniseadmed, laboritarvikud ja tervishoiutarbed, mida tuleb tarnida jälgitavalt, lisaks teenused spordirajatistele ja elanikele.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Trigoria"
+    ]
+  },
+  "castel-romano": {
+    "profile": "Castel Romano on IX linnaosavalitsuse (Municipio IX) planeerimisala 12M, mis paikneb Pontina ja via di Pratica di Mare vahel; konsortsiumi tööstusala asub Pontina 23. kilomeetril ja hõlmab 266 hektarit, millest 191 on tööstusmaa. 1952. aastal loodud Pontina tööstuspiirkonda rajati alates 1960. aastatest metallurgia uurimiskeskusi, telekommunikatsiooniettevõtteid, toiduainetööstuse konsortsium ja Dino De Laurentiise filmistuudiod, mis 2014. aastal muudeti teemapargiks Cinecittà World. Alates 2003. aastast tegutseb siin Castel Romano Designer Outlet. Logistikas on olulised outleti kaupluste pidev varustamine, tagastuste haldamine, pargi varustamine ja tööstusvood Pontina ääres.",
+    "sectors": [
+      "tessile-moda",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Romano",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "santa-palomba": {
+    "profile": "Santa Palomba on Rooma, Ardea ja Pomezia vahel jagatud ala; Rooma osa on IX linnaosavalitsuse planeerimisala 12N. Ardeatina 20. ja 23. kilomeetri vahel Pomezia-Santa Palomba jaama ümber on kasvanud tööstusala, kus asuvad Fiorucci, Angelini, ABB, Johnson & Johnson ja Procter & Gamble. Konsortsiumi tööstusala hõlmab 483 hektarit ja on Rooma–Latina piirkonna suurim; seal tegutsevad logistikaettevõtted nagu DHL Supply Chain, GLS ja STEF ning suurjaekaubanduse jaotuskeskused. SGT terminal on käideldavate intermodaalüksuste arvult Lazio suurim. Piirkonda koonduvad igapäevatarbekaupade, külmaahela ja farmaatsia vood.",
+    "sectors": [
+      "gdo-retail",
+      "farmaceutico",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santa_Palomba",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "tor-vergata": {
+    "profile": "Tor Vergata on Agro Romano mõis Tuscolana ja Casilina vahel, väljaspool Rooma ringteed, Torre Gaia piirkonnas; siin asub Università degli Studi di Roma Tor Vergata, pealinna teine riiklik ülikool, umbes viiesaja hektari suuruse ülikoolilinnakuga. Piirkonnas asub ka 1990. aastate lõpus avatud ülikoolihaigla Policlinico Tor Vergata. Teedevõrk ühendab ala kiirtee A1 ja Rooma Sud haruga. Kohalik logistika keskendub tervishoiule ja teadusele: ravimid, meditsiiniseadmed, reaktiivid ja laboriinstrumendid jälgitavusega, lisaks teenused üliõpilastele ja naaberlinnaosade elanikele.",
+    "sectors": [
+      "farmaceutico",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Gaia",
+      "https://it.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_di_Roma_Tor_Vergata"
+    ]
+  },
+  "romanina": {
+    "profile": "Romanina on VII linnaosavalitsuse (Municipio VII) planeerimisala 10G väljaspool Rooma ringteed ja selle vahetus läheduses, via Tuscolana ja kiirtee A1 vahel; kaubandusala teenindab ringtee mahasõit 20. Alates 1980. aastatest on siin toimunud ulatuslik elamu-, äri- ja eelkõige kaubandusarendus, mille tulemusel on piirkonnas üks linna suurimaid kaubanduskeskuste kontsentratsioone. 1982–2018 asusid siin Tor Vergata ülikooli üksused ning endised Officine Marconi on muudetud kultuurikeskuseks. Logistika jaoks on piirkond suurjaekaubanduse ja erikaupluste tarnepunkt, kiire juurdepääsuga ringteele ja kiirteele.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Romanina"
+    ]
+  },
+  "cinecitta": {
+    "profile": "Cinecittà on nimetus, millega tähistatakse Don Bosco linnaosa ala VII linnaosavalitsuses Casilina ja Tuscolana vahel, mida viale Palmiro Togliatti jagab kaheks. Linnaosa kasvas alates 1950. aastatest 1936. aastal asutatud Cinecittà filmistuudiote ümber ning seda teenindab Tuscolana all kulgev metroo A-liin. Majandus ühendab audiovisuaaltootmist, kaubandust ja tihedat elamupiirkonda, lõunaosas asuvad suured kaubanduskeskused. Logistikavajadusi on kahte liiki: dekoratsioonide, tehnikaseadmete ja kostüümide käitlemine filmitootmise jaoks ning linnasisene jaotus ühes linna kõige tihedamalt asustatud piirkonnas.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Don_Bosco_(Roma)"
+    ]
+  },
+  "anagnina": {
+    "profile": "Anagnina on saanud nime Roomast Castelli poole tõusva tee järgi: ala Osteria del Curato ja Rooma ringtee vahel, kus asuvad metroo A-liini lõpp-peatus ning Castelli Romani ja Lõuna-Lazio suunduvate Cotrali bussiliinide terminal. Alates 1960. aastatest on Anagnina äärde rajatud väikesi ja keskmise suurusega tootmisettevõtteid ning telekommunikatsioonitööstuse ajaloolisi tehaseid, mida soodustas Lõuna-Itaalia arengufond (Cassa per il Mezzogiorno). Väljaspool ringteed Torre di Mezzavias tegutseb alates 2004. aastast suur kaubanduskeskus. Sellest tulenevad kaubavood kauplustele ja käsitöölistele ning väljaminevad tarned Ciampino ja Castelli suunas.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Osteria_del_Curato_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/Via_Anagnina"
+    ]
+  },
+  "tuscolano": {
+    "profile": "Tuscolano on Rooma kaheksas linnaosa (quartiere) linna idaosas Aurelianuse müüride vahetus läheduses ning on saanud nime seda koos Appia Nuovaga läbiva via Tuscolana järgi. See on tihedalt asustatud linnaosa, mille plaan koostati juba 1911. aastal, intensiivse elamuehituse, linnaosaturgude ja kahe konsulaartee ääres paikneva pika kaupluste reaga; metroo A-liin kulgeb Tuscolana all. Tootmisüksusi ei ole, on vaid ümber kujundatud endised ühistranspordi depood. Logistika on siin lähijaotus: kaupluste ja toitlustusasutuste varustamine ummikus tänavatel, kojutarned ja tagastuste kogumine.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tuscolano"
+    ]
+  },
+  "appio-latino": {
+    "profile": "Appio-Latino on Rooma üheksas linnaosa kagusektoris Aurelianuse müüride vahetus läheduses ning on saanud nime via Appia Antica ja via Latina järgi. Appia Nuova äärse tiheda elamupiirkonna kõrval, kus asuvad Metronio linnaosaturg ja arvukad kauplused, hõlmab linnaosa ulatuslikke kaitstud haljasalasid, nagu Caffarella park, mis on seotud Appia Antica pargiga. Metroo C-liini ehitustööd puudutavad Amba Aradami piirkonda. Logistika peab arvestama arheoloogiliste ja maastikupiirangutega, elamutänavatega ning tarnetega kauplustele ja toitlustusele väikese kandevõimega sõidukitega ja kokkulepitud aegadel.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Appio-Latino"
+    ]
+  },
+  "ostia": {
+    "profile": "Ostia, ametlikult Lido di Ostia, on Rooma rannikuasula ja X linnaosavalitsuse (Municipio X) asukoht Türreeni mere ääres, mida piirab Tiberi jõgi, mis eraldab seda Fiumicino omavalitsusest. Kesklinnaga ühendavad seda Rooma–Lido raudtee, via del Mare ja via Cristoforo Colombo. Majandus sõltub kaubandusest, teenustest ja rannaturismist, ranna ääres asuvad rannaettevõtted, Rooma jahisadam ning Ostia Antica väljakaevamised. Alalisi elanikke on palju ning suvel suureneb Roomast saabuv päevakülastajate voog. Sellest tulenevad tugevalt hooajalised tarned rannaettevõtetele, toitlustusele ja kaubandusele ning pidev pakivoog elanikele.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostia_(Roma)"
+    ]
+  },
+  "acilia": {
+    "profile": "Acilia on Rooma ametlik eeslinnaasula (borgata) X linnaosavalitsuses via del Mare 18.–19. kilomeetril EUR-i ja Ostia vahel; Acilia Nord ulatub Tiberi ja via Ostiense vahel, Acilia Sud sealt via Cristoforo Colombo suunas, väljaspool Rooma ringteed. 1919. aastal maaparandusasulana rajatud Acilia kasvas suureks elamupiirkonnaks, mida teenindab Rooma–Lido raudtee. Via Ostiense ääres, mis Rooma ajal ühendas linna Ostia sadamatega, on koondunud kaubandus, käsitöö ja teenused. Logistikavajadused puudutavad jaejaotust, ehitusmaterjale ja tarneid elanikele.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Acilia"
+    ]
+  },
+  "infernetto": {
+    "profile": "Infernetto on Rooma asula X linnaosavalitsuses väljaspool Rooma ringteed via Cristoforo Colombo idaküljel Castel Fusano männiku ja presidendi Castelporziano mõisa vahel. See tekkis sõjajärgsel ajal, kui alates 1947. aastast jagas ühistu ulatusliku ala kruntideks, ning arenes hõreda asustusega väikeelamute ja aiaga madalate majade piirkonnaks. Majandustegevus piirdub peaaegu ainult lähikaubanduse ja teenustega. Hajusasustus ja pikk tänavavõrk muudavad tarned vähem tõhusaks kui tihedates linnaosades: vaja on planeeritud ringe pakkide, kojutoodavate toidukaupade ja väiksemate ehitustööde jaoks.",
+    "sectors": [
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Infernetto"
+    ]
+  },
+  "casal-palocco": {
+    "profile": "Casal Palocco on Rooma ala Z. XXXIV linna edelaosas väljaspool Rooma ringteed via del Mare ja via Cristoforo Colombo vahel, piirnedes Acilia ja Infernettoga. See on 1960. aastatel planeeritud elamukompleks, kus elu-, kaubandus- ja spordialad määrati kindlaks juba projektis: kaubanduskeskus Le Terrazze ja arvukad spordirajatised kuuluvad algsesse lahendusse. Hoonestus koosneb peamiselt rohelusse paigutatud väikeelamutest ja korterelamutest. Kohalik logistika puudutab pakkide ja mööbli tarneid elanikele, kaubanduskeskuste varustamist ning majade ja aedade hooldust.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Casal_Palocco"
+    ]
+  },
+  "magliana": {
+    "profile": "Magliana ulatub samanimelise tee ääres Tiberi paremal kaldal XI linnaosavalitsuses (Municipio XI) via Portuense ja jõe vahel, Rooma ringtee sees. Peamiselt 1970. aastatel ehitatud elamupiirkond asub Tiberi teise tammi tasemest madalamal ja seda kaitsevad pumbajaamad; põhjas laiub Tenuta dei Massimi looduskaitseala. Piirkond asub kiirtee Rooma–Fiumicino ja FL1 liini jaamade lähedal ning EUR-i jõuab üle jõe. Via della Magliana ääres vahelduvad kaubandus, käsitöö ja teenused. Logistikavajadused ühendavad linnasisest jaotust ja kiireid ühendusi Fiumicino lennujaama suunas.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Magliana"
+    ]
+  },
+  "ponte-galeria": {
+    "profile": "Ponte Galeria on XI linnaosavalitsuse ala Z. XLI väljaspool Rooma ringteed, lõunas Tiberi ja läänes kiirtee A12 Rooma–Civitavecchia vahel, mida läbivad kiirtee Rooma–Fiumicino ja FL1 raudtee. Siin asub Fiera di Roma üheksa paviljoni ja kongressikeskusega ning selle kõrval kaubandus- ja hulgimüügikeskused. Asukoht linna ja Fiumicino lennujaama vahel teeb sellest ekspediitorite ja kullerfirmade ladude ja teenuste piirkonna. Logistikanõudlus hõlmab messistendide ülesehitust tihedate paigaldustähtaegadega, Fiumicino Cargo Citysse suunduvaid kaupu ja jaotust Rooma lääneosas.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponte_Galeria",
+      "https://it.wikipedia.org/wiki/Fiera_di_Roma"
+    ]
+  },
+  "capannelle": {
+    "profile": "Capannelle on Agro Romano ala Z. XVIII kagusektoris Rooma ringtee vahetus läheduses ja sees via Tuscolana ja Appia Nuova vahel. Seda teenindab Rooma–Cassino–Napoli liini Capannelle jaam FL4 ja FL6 regionaalrongidega; kuni 1978. aastani ühendas seda Termini jaama piirkonnaga trammiliin. Territooriumi hulka kuuluvad Capannelle hipodroom, osa Acquedotti pargist ja elurajoonid nagu Lucrezia Romana Ciampino lennujaama lähedal. Logistikavajadused puudutavad üritusi ja spordirajatisi, jaotust linnaosades ning ühendusi lennujaama ja Appiaga.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Capannelle_(zona_di_Roma)"
+    ]
+  },
+  "morena": {
+    "profile": "Morena on VII linnaosavalitsuse planeerimisala 10L pealinnast ida pool, väljaspool Rooma ringteed, mõlemal pool via Anagninat. See on valdavalt elamupiirkond, mis ühendab Tor Vergatat, Ciampino lennujaama ja Castelli Romani ning on viimastel aastakümnetel kiiresti kasvanud. Anagnina ääres asuvad kauplused, käsitöölised ja väikesed laod, mis teenindavad ka naaberomavalitsust Ciampinot. Logistikavajadused on seotud tarbekaupade jaotuse, elamuehituse ehitusmaterjalide ja kojutarnetega tiheda liiklusega konsulaartee ääres.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Morena_(zona_di_Roma)"
+    ]
+  },
+  "falcognana": {
+    "profile": "Falcognana on Rooma asula Castel di Leva piirkonnas IX linnaosavalitsuses via Ardeatina 14. kilomeetril väljaspool Rooma ringteed, umbes kahe kilomeetri kaugusel Divino Amore pühamust. Osaliselt endiselt põllumajanduslik territoorium on elamuehituse detailplaneeringu objekt. Ardeatina äärsesse karjääri on rajatud prügila, mis valiti Malagrotta alternatiiviks, elanike ja naaberomavalitsuse Marino protestide saatel. Asukoht Ardeatinal ringtee ja Santa Palomba tootmisala vahel pakub huvi ehitusmaterjalide veole, jäätmekäitlusele ja jaotusele Castelli suunas.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Falcognana",
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "cecchignola": {
+    "profile": "Cecchignola Rooma lõunasektoris Laurentina ja Ardeatina vahel on tuntud eelkõige sõjaväelinnaku poolest: alates 1930. aastatest kavandas pioneeriväe inspektsioon siia kõrgemate juhtimisstruktuuride asula telje äärde, mida tänapäeval nimetatakse viale dell'Esercito ja kus alates 1955. aastast asub sõjaväe mootorsõidukite ajaloomuuseum. Kasarmute ja armee koolide kõrvale on kerkinud uued elurajoonid, nagu Tor Pagnotta omad. Ühendus Rooma ringteega on kiire. Logistikanõudlus puudutab sõjaväerajatiste varustamist, elamuehitusplatside materjale ja jaotust uutes linnaosades.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cecchignola",
+      "https://it.wikipedia.org/wiki/Castello_della_Cecchignola"
+    ]
+  },
+  "vitinia": {
+    "profile": "Vitinia asub Rooma edelaosas IX linnaosavalitsuse Mezzocammino piirkonnas väljaspool Rooma ringteed, põhjas via Ostiense ja lõunas via Cristoforo Colombo vahel, ning seda teenindab Rooma–Lido raudtee. Linnaosa tekkis sõjajärgsel ajal korrapärase kruntimise teel: väikeelamud ja korterelamud, mis harva ületavad kaks korrust, esimesed kauplused avati juba 1949. aastal. Territooriumil asub Mezzocammino sõjaväe kütuseladu. Majandus on elamu- ja kaubanduspõhine. Logistikavajadused puudutavad tarneid elanikele, Ostiense äärsete kaupluste varustamist ning ühendusi EUR-i ja Ostia suunas.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Vitinia"
+    ]
+  },
+  "mezzocammino": {
+    "profile": "Mezzocammino on Agro Romano ala Z. XXXI Tiberi orus väljaspool Rooma ringteed jõe ja via Cristoforo Colombo vahel. Nimi pärineb muistsest peatuspaigast praamidele, mis liikusid Tiberit mööda Ostia sadamast Rooma poole. Ringtee ületab jõe 1951. aastal avatud Mezzocammino sillal, mis on alates 2003. aastast riiklik mälestis. Viimastel aastatel on alale rajatud uusi elamuid ning Rooma–Lido raudteel ehitatakse Torrino-Mezzocammino jaama. Kohalik logistika puudutab ehitusplatse, jaotust uutes linnaosades ja tarneid elanikele piirkonnas, mida teenindab vähe teid.",
+    "sectors": [
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Mezzocammino"
+    ]
+  },
+  "castel-di-leva": {
+    "profile": "Castel di Leva on Agro Romano ala Z. XXIII lõunasektoris väljaspool Rooma ringteed ning piirneb Ciampino lennujaama ning Marino, Castel Gandolfo, Albano Laziale, Ardea ja Pomezia omavalitsustega. Via Ardeatina ääres asub palverännakute sihtkoht Madonna del Divino Amore pühamu ning territooriumi hulka kuuluvad ka Santa Palomba Rooma osa ja Falcognana asula. Säilinud on ulatuslikud Rooma maastiku põllumaad. Piirkond ühendab palverändurite voogusid, põllumajandust ja Santa Palomba tööstusala lähedust: sellest tulenevad tarned usuturismi majutusele, põllumajandustooted ja vedu lõunas asuvatesse tootmiskeskustesse.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "tor-bella-monaca": {
+    "profile": "Tor Bella Monaca on Rooma asula Torre Angela piirkonnas VI linnaosavalitsuses (Municipio VI) via Casilina põhjaküljel väljaspool Rooma ringteed, lainjal maastikul, mida läbib samanimeline kraav. Varem asusid siin Breda tehas ja Torrenova tollipunkt; 1962. aasta üldplaneeringuga kuulutati ala laienemisalaks ning 1980. aastatel ehitati siia suur munitsipaalelamute linnaosa. Uus teedevõrk ühendab seda Tor Vergata ülikooliga. Majandus on elamupõhine, linnaosa kaubandusega. Logistika puudutab tarbekaupade jaotust ja kojutarneid tihedalt asustatud hoonetesse.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Bella_Monaca"
+    ]
+  },
+  "torre-angela": {
+    "profile": "Torre Angela on Agro Romano ala Z. XIII ja VI linnaosavalitsuse planeerimisala 8F väljaspool Rooma ringteed via Casilina ääres, Torrenova piirkonnas on keisririigi aegseid hauakambreid. See tekkis maa-asulana ja muutus osaliselt isetekkelise linnastumisega tihedalt asustatud linnaosaks; seda teenindab Casilina ääres kulgev metroo C-liin. Kaubandus on koondunud konsulaartee äärde, kus asuvad kauplused, käsitöölised ja väikesed laod. Logistikavajadused puudutavad Casilina äärsete kaupluste varustamist, renoveerimistööde ehitusmaterjale ja suurt kojutarnete mahtu.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Angela"
+    ]
+  },
+  "tor-sapienza": {
+    "profile": "Tor Sapienza on Rooma ala Z. VIII ja V linnaosavalitsuse (Municipio V) planeerimisala 7C idasektoris Rooma ringtee sees via Prenestina ja kiirtee A24 linnalõigu vahel. Elurajoonide kõrval asuvad piirkonnas tootmisüksused: Birra Peroni Rooma tehas, sõjaväe telekommunikatsiooniseadmete hoolduskeskus ja endised tehased, millest ühes asub muuseum MAAM. Juurdepääs kiirteele A24 ja ringteele muudab ala sobivaks ladudele ja jaotusele. Logistikavajadused hõlmavad suuremahulisi jookide vedusid, tööstuskomponente ja jaotust linna idaosas.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Sapienza"
+    ]
+  },
+  "centocelle": {
+    "profile": "Centocelle on V linnaosavalitsuse planeerimisala 7A Rooma idasektoris ning on saanud nime endise sõjaväelennuvälja ala järgi, mis on tänapäeval arheoloogiapark. Alates 1920. aastatest tööliste, käsitööliste ja väikekaupmeeste madalate majadega arenenud linnaosa on tänapäeval üks linna tihedamalt asustatud piirkondi. 2014–2015 avatud metroo C-liin läbib seda kolme jaamaga ning Rooma–Giardinetti raudtee ühendab seda Casilinat mööda Termini piirkonnaga. Kaubandus on hajus, linnaosaturgude ja selliste peatänavatega nagu via dei Castani. Logistika on lähijaotus: kaupluste ja toitlustuse igapäevane varustamine ning kojutarned kitsastel tänavatel.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Centocelle"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 title: "Umowa logistyki kontraktowej: klauzule istotne dla MŚP"
-description: "Przedmiot, odpowiedzialność, inwentaryzacje, wskaźniki KPI, kary umowne i okres obowiązywania: jak skonstruować umowę logistyki kontraktowej między MŚP a operatorem."
+description: "Przedmiot, odpowiedzialność, inwentaryzacje, KPI, kary umowne i okres obowiązywania: jak skonstruować umowę logistyki kontraktowej między MŚP a operatorem."
 date: 2026-09-24
 url: "/pl/analizy/umowa-logistyki-kontraktowej-msp-kpi/"
 layout: "articolo"

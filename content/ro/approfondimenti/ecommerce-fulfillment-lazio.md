@@ -1,6 +1,6 @@
 ---
 title: "E-commerce fulfillment în Lazio: fluxuri, cut-off, retururi și curieri"
-description: "Procesarea comenzilor e-commerce pentru un comerciant din Lazio: de la recepție la expediere, ore-limită, retururi, curieri și distanțe rutiere față de Roma."
+description: "Comenzi e-commerce pentru un comerciant din Lazio: de la recepție la expediere, ore-limită, retururi, curieri și distanțe rutiere față de Roma."
 date: 2026-10-02
 url: "/ro/analize/ecommerce-fulfillment-lazio/"
 layout: "articolo"

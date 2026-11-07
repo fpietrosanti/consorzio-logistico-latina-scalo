@@ -2,46 +2,30 @@
 week: 14
 date: "2027-01-05"
 pillar: "Infrastrutture"
-title: "Sistemi WMS e gestione digitale: il magazzino che parla in tempo reale"
+title: "WMS e gestione digitale del magazzino: giacenze, ubicazioni e movimenti"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-Un magazzino senza un buon WMS e' come una biblioteca senza catalogo: la merce c'e', ma trovarla diventa un'avventura.
+Il magazzino del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), lavora con un sistema WMS (software di gestione del magazzino), su fibra ottica dedicata e Wi-Fi industriale.
 
-Al Consorzio Logistico Latina Scalo la gestione digitale del magazzino non e' un optional. E' il cuore operativo di ogni movimento: dall'ingresso merce alla spedizione, ogni collo e' tracciato, ogni posizione e' mappata, ogni operazione e' registrata.
+Che cosa registra il WMS:
+- la presa in carico della merce, dopo il controllo con il documento di trasporto;
+- l'ubicazione di ogni unità di carico, con codice articolo, quantità e, su richiesta, lotto;
+- i prelievi per la preparazione degli ordini;
+- le uscite e i documenti di trasporto emessi.
 
-Il nostro sistema WMS (Warehouse Management System):
+Le regole di allocazione e la logica di prelievo, per esempio per data di ingresso o per data di scadenza, si definiscono in fase di avvio con il committente. Le giacenze registrate sono confrontate con la conta fisica secondo il calendario concordato, con inventari a rotazione o con una conta completa a fine periodo. Le differenze sono segnalate con il dettaglio di articolo e ubicazione.
 
-🔹 Mappatura digitale di ogni ubicazione — scaffale, ripiano, cella, zona
-🔹 Tracciamento in tempo reale dello stock per articolo, lotto, data di scadenza
-🔹 Gestione multi-cliente — ogni consorziato vede solo la propria merce
-🔹 Logiche FIFO/FEFO automatizzate — rotazione ottimale del magazzino
-🔹 Integrazione con i sistemi gestionali dei clienti via API o file EDI
+La gestione documentale del Consorzio comprende DDT, bolle, tracciabilità delle spedizioni e l'integrazione con i gestionali del committente per lo scambio di ordini e conferme.
 
-Cosa significa per il cliente:
+Scheda della gestione documentale: https://consorziologistico.it/servizi/gestione-documentale/
 
-✅ Visibilita' 24/7 sul proprio inventario tramite portale web
-✅ Report automatici: giacenze, movimentazioni, indici di rotazione
-✅ Alert su soglie minime di stock — mai piu' rotture di scorta impreviste
-✅ Documentazione digitale: DDT, bolle di ingresso, packing list generati dal sistema
-✅ Storico completo di ogni movimento per audit e tracciabilita'
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-La tecnologia al servizio dell'operativita':
-
-📱 Terminali barcode per gli operatori di magazzino
-📱 Etichettatura automatica con codici a barre e QR
-📱 Dashboard di monitoraggio per la direzione logistica
-
-📍 Non serve essere un grande operatore per avere una gestione digitale del magazzino. La nostra struttura consortile a Latina Scalo rende accessibile la tecnologia WMS anche alle PMI che terziarizzano la logistica.
-
-Il magazzino intelligente non e' il futuro. E' il presente. Ed e' qui.
-
-👉 Scopri il nostro approccio digitale: consorziologistico.it o WhatsApp wa.me/390773316008
-
-#WMS #digitale #magazzino #logistica #gestionemagazzino #tracciabilita #tecnologia #latinascalo #lazio #B2B #industry40
+#WMS #magazzino #logistica #digitalizzazione #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un operatore con terminale barcode davanti a scaffalature ordinate, in atto di scansionare un'etichetta. In alternativa, schermata (mock-up) della dashboard WMS su tablet con grafici di giacenza. Sovrimpressione: "WMS | Magazzino Digitale in Tempo Reale". Toni tecnologici ma concreti, blu e bianco.
+Foto di repertorio `topics/inventario-barcode` (data/images.json): lettura di un codice a barre su un collo. Non è una foto del polo: non presentarla come tale.

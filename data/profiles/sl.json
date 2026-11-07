@@ -1,0 +1,1066 @@
+{
+  "aprilia": {
+    "profile": "Aprilia leži na severnem robu območja Agro Pontino, na križišču državnih cest SS148 Pontina in SS207 Nettunense, povezuje pa jo regionalna železniška proga FL8 Rim–Nettuno. Na območju občine je konzorcijska industrijska cona s 256 hektarji, ki si jo deli z občino Lanuvio, občina pa je s 167 hektarji vključena v ZLS regije Lacij (Zona logistica semplificata, poenostavljena logistična cona). Proizvodna osnova je predvsem farmacevtska, z obrati skupin, kot so Pfizer, Abbott, Angelini in Recordati; kmetijstvo obsega vinograde z oznako DOC Aprilia in vir mineralne vode. Iz tega izhajajo tokovi učinkovin, primarne embalaže in končnih izdelkov, ki zahtevajo sledljivost serij, skladiščenje pri nadzorovani temperaturi in namenske prevoze.",
+    "sectors": [
+      "farmaceutico",
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Aprilia_(Italia)",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "bassiano": {
+    "profile": "Bassiano je vas v gorovju Monti Lepini nad Pontinsko nižino, s spodnjim delom doline jo povezuje pokrajinska cesta Sermonetana proti krajema Sermoneta in Latina Scalo. Na območju občine izvira potok Brivolco, pritok reke Ufente. Gospodarstvo sestavljajo majhna agroživilska podjetja: kraj je znan po zorjenem pršutu, poleg tega pa proizvaja ekstra deviško oljčno olje in vino. Italijanski turistični klub Touring Club Italiano mu je podelil oranžno zastavo (Bandiera arancione), dnevni turizem pa je zgoščen ob koncih tedna. Logistične količine so majhne in razdrobljene: suhomesnati izdelki v zorenju, pošiljke tipičnih izdelkov v distribucijo in dostave po gorskih cestah z lahkimi vozili.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Bassiano"
+    ]
+  },
+  "campodimele": {
+    "profile": "Campodimele leži na kraškem griču, kjer se gorovje Monti Ausoni stika z gorovjem Monti Aurunci, v zaledju med krajema Fondi in Itri. Do vasi vodi ena sama vozna cesta, ki se odcepi od državne ceste SS82 della Valle del Liri, ki se od kraja Itri vzpenja v notranjost. Gospodarskih dejavnosti je malo in so majhne: med tradicionalnimi agroživilskimi izdelki, ki jih priznava italijansko ministrstvo, sta grahor (cicerchia) in domači kruh iz kraja Campodimele, vas pa ima oranžno zastavo Touring Cluba. Logistične potrebe se nanašajo predvsem na dostave majhnih serij, oskrbo trgovin in odpremo stročnic ter tipičnih izdelkov.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Campodimele"
+    ]
+  },
+  "castelforte": {
+    "profile": "Castelforte leži na vzhodni meji pokrajine Latina, na zadnjih obronkih gorovja Monti Aurunci; zgodovinsko središče in zaselek Suio gledata na dolino reke Garigliano ob meji z regijo Kampanija. V kraju Suio delujejo termalni obrati, nasledniki rimskih term Terme Vescine, ki skupaj s kmetijstvom v dolini in malimi obrtnimi podjetji predstavljajo pomemben del lokalnega gospodarstva. Občina je v ZLS regije Lacij (poenostavljena logistična cona) z 11,64 hektarja na območju, upravičenem do regionalne državne pomoči. Lokalna logistika oskrbuje nastanitvene in termalne objekte, trgovino na drobno in gradbišča, tokovi pa so usmerjeni tako proti kraju Formia kot proti kraju Cassino in avtocesti A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castelforte",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "cisterna-di-latina": {
+    "profile": "Cisterna di Latina leži na severnem vstopu v območje Agro Pontino, ob državni cesti SS7 Appia in železniški progi Rim–Neapelj prek kraja Formia; na njenem območju, v kraju Campoverde, so leta 2026 začeli graditi povezovalno cesto Cisterna–Valmontone proti avtocesti A1. Konzorcijska industrijska cona obsega 368 hektarjev, od tega 192 v ZLS (poenostavljena logistična cona). Tu delujejo valjarna aluminija v kraju Olmobello, obrat Findus skupine Nomad Foods za zamrznjeno hrano za italijanski trg ter farmacevtski podjetji Nuova Ompi in BSP Pharmaceuticals; v zaselku Borgo Flora so v sedemdesetih letih začeli gojiti kivi. Lokalne dobavne verige zahtevajo hladno verigo pri temperaturah pod ničlo, težke tovore kovinskih polizdelkov in sledene farmacevtske tokove.",
+    "sectors": [
+      "agroalimentare",
+      "farmaceutico",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cisterna_di_Latina",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "cori": {
+    "profile": "Cori je gričevnat kraj v severozahodnem delu gorovja Monti Lepini nad Pontinsko nižino, z zaselkom Giulianello proti kraju Velletri. Pokrajinske ceste ga povezujejo s krajem Cisterna in cesto Pontina, s krajem Latina Scalo prek kraja Doganella di Ninfa in s priključkom na avtocesto A1 v kraju Valmontone prek kraja Artena; najbolj uporabljana železniška postaja je v kraju Cisterna. Na območju pridelujejo vina z oznakama DOC Cori rdeče in belo ter olje iz oljk sorte itrana, s kletmi in oljarnami, poleg tega pa delujejo tovarne piškotov, podjetja za vložene izdelke v olju in tradicionalna izdelava lesenih stolov. Logistika sledi koledarju trgatve in obiranja oljk: steklo, paletizirane steklenice in distribucija v vinoteke in veliko trgovino na drobno.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cori"
+    ]
+  },
+  "fondi": {
+    "profile": "Fondi se razprostira na ravnini, ki jo zapirata gorovji Monti Ausoni in Monti Aurunci in se odpira proti Tirenskemu morju; prečka jo državna cesta SS7 Appia, s pokrajino Ciociaria pa jo povezuje regionalna cesta SR637 proti kraju Lenola; postaja Fondi-Sperlonga je na progi Rim–Neapelj prek kraja Formia. Gospodarstvo temelji na sadju in zelenjavi: nasade agrumov so zamenjali zelenjava, zgodnji pridelki iz rastlinjakov in sadje, v mestu pa je veletržnica Centro Agroalimentare all'Ingrosso (MOF), ki po navedbah upravljavca letno obdela skoraj 10 milijonov stotov blaga in nima železniškega priključka. Občina je v ZLS (poenostavljena logistična cona) s 69,70 hektarja. Iz tega izhajajo nočni tokovi pri nadzorovani temperaturi, sezonske konice in veliko povpraševanje po cestnem prevozu.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fondi",
+      "https://www.mof.it/index.php/mof"
+    ]
+  },
+  "formia": {
+    "profile": "Formia leži med obronki gorovja Monti Aurunci in zalivom Gaeta, ob državni cesti SS7 Appia, na priključku regionalne ceste SR213 Flacca proti krajema Sperlonga in Terracina ter regionalne ceste SR630 Ausonia proti kraju Cassino; postaja Formia-Gaeta je na progi Rim–Neapelj. Iz pristanišča plujejo trajekti in hidrogliserji na otoka Ponza in Ventotene, zato je mesto izhodišče za oskrbo otokov. Proizvodna območja Penitro, Ponzanello–Mamurrano in Castagneto, nastala v okviru nekdanjega konzorcija Consorzio Sud Pontino, so povezana s pristaniščem; občina je v ZLS (poenostavljena logistična cona) s 124 hektarji. Trgovina, storitve, gradbeništvo ter keramična in kovaška obrt ustvarjajo mestno distribucijo in konsolidacijo tovorov za vkrcanje.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Formia",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "gaeta": {
+    "profile": "Gaeta leži na polotoku, ki z zahoda zapira istoimenski zaliv, z državno cesto Appia in krajem Formia pa jo povezuje regionalna cesta SR213 Flacca. Tovorno pristanišče spada pod pristaniško upravo Autorità di Sistema Portuale del Mar Tirreno Centro-Settentrionale in je leta 2025 pretovorilo približno 1,8 milijona ton, skoraj izključno tekočega in suhega razsutega tovora; v ZLS regije Lacij (poenostavljena logistična cona) spada 142,61 hektarja občinskih površin in še 17,53 hektarja pristaniških površin, območje Monte Conca pa je konzorcijska proizvodna cona. V mestu je bazirana poveljniška ladja ameriške Šeste flote, kopališki turizem pa je dobro uveljavljen. Logistika združuje pristaniški razsuti tovor, oskrbo nastanitvenih objektov s poletnimi konicami in tipične izdelke, kot je oljka iz Gaete.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gaeta",
+      "https://www.shippingitaly.it/2026/02/17/nei-porti-del-lazio-oltre-131-mln-di-tonnellate-e-35-mln-di-crocieristi-nel-2025/"
+    ]
+  },
+  "itri": {
+    "profile": "Itri leži v dolini gorovja Monti Aurunci, ob državni cesti SS7 Appia med krajema Fondi in Formia, kjer se začne državna cesta SS82 della Valle del Liri; postaja je na progi Rim–Neapelj prek kraja Formia, ob obali pa poteka regionalna cesta SR213 Flacca. Glavna dejavnost je kmetijstvo: oljke iz kraja Itri vlagajo v slanico in stiskajo za olje, na gričih pa pridelujejo vino Abbuoto. Občina spada na območje industrijskega konzorcija Consorzio Industriale Sud Pontino in je v ZLS (poenostavljena logistična cona) s 3,70 hektarja, turistični tokovi iz Rima in Neaplja pa naraščajo. Logistične potrebe se nanašajo na pakirano olje in oljke, z jesenskim obiranjem in pošiljkami, razporejenimi čez vse leto.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Itri"
+    ]
+  },
+  "latina": {
+    "profile": "Latina je glavno mesto območja Agro Pontino: državna cesta SS148 Pontina jo povezuje z Rimom, državna cesta SS7 Appia prečka občinsko ozemlje, državna cesta SS156 dei Monti Lepini pa vodi proti kraju Frosinone in avtocesti A1; železniška postaja je v kraju Latina Scalo, na progi Rim–Neapelj prek kraja Formia. Industrijo vodi farmacija, sledijo ji kemija, agroživilstvo, mlekarstvo, metalurgija in precizna mehanika, zgoščene v konzorcijski coni Latina Scalo in na območjih, ki so z 280 hektarji vključena v ZLS (poenostavljena logistična cona). Kmetijstvo obsega rastlinjake, cvetličarstvo, zelenjavo in kivi z oznako Kiwi Latina IGP. Sliko dopolnjujejo javni uradi in storitveni sektor, s povpraševanjem po farmacevtski logistiki, hladni verigi in mestni distribuciji.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Latina",
+      "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Logistica.pdf"
+    ]
+  },
+  "lenola": {
+    "profile": "Lenola leži med vzpetinami gorovij Monti Ausoni in Monti Aurunci, na meji pokrajine Latina s pokrajino Frosinone, ob regionalni cesti SR637, ki se od kraja Fondi vzpenja proti pokrajini Ciociaria, v dolini pa se priključi na cesto Appia. Kraj je znan po romarskem svetišču Madonna del Colle, njegovo ozemlje pa spada v območje pridelave sira mozzarella di bufala campana DOP. Gospodarstvo sestavljajo majhna kmetijska, obrtna in trgovska podjetja, ki so vezana na veletržnico s sadjem in zelenjavo ter storitve v kraju Fondi. Logistika se nanaša predvsem na sveže mlečne izdelke, oskrbo lokalne trgovine in prevoze po gričevju vzdolž smeri Fondi–Frosinone.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lenola"
+    ]
+  },
+  "maenza": {
+    "profile": "Maenza je gričevnata občina v gorovju Monti Lepini na približno 360 metrih nadmorske višine, v zaledju kraja Priverno in blizu trase državne ceste SS156 dei Monti Lepini proti kraju Frosinone. Ozemlje, ki ga v veliki meri pokrivajo gozdovi in oljčni nasadi, ima gospodarstvo majhnega obsega, ki temelji na primarnem sektorju in turizmu. Tu redijo perutnino, kunce, bivole in konje ter gojijo češnje, oljke, vinsko trto, pšenico in koruzo, v manjšem obsegu pa tudi fige, kaki in kivi. Logistične potrebe so povezane s svežimi pokvarljivimi izdelki, krmo in kmetijskim materialom, z dostavami po gričevnatih pokrajinskih cestah.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Maenza"
+    ]
+  },
+  "minturno": {
+    "profile": "Minturno se razprostira od gričev gorovja Monti Aurunci do obale zaliva Gaeta, do ustja reke Garigliano in meje z regijo Kampanija. V zaselku Scauri se državna cesta SS7 Appia križa z državno cesto proti kraju Cassino, postaja Minturno-Scauri pa je na progi Rim–Neapelj. Proizvodni območji Penitro in Parchi izhajata iz nekdanjega konzorcija Consorzio Sud Pontino, občina pa je v ZLS (poenostavljena logistična cona) z 59,06 hektarja na območju, upravičenem do regionalne državne pomoči. Gospodarstvo združuje kopališki in arheološki turizem z najdiščem Minturnae, kmetijstvo na ravnini ob reki Garigliano in trgovino. Iz tega izhajajo sezonske dostave nastanitvenim objektom in tokovi proti Kampaniji in avtocesti A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Minturno",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "monte-san-biagio": {
+    "profile": "Monte San Biagio leži na obronku gorovja Monti Ausoni nad ravnino in jezerom Lago di Fondi, prečka pa ga državna cesta SS7 Appia. Postajo Monte San Biagio-Terracina Mare na progi Rim–Neapelj prek kraja Formia oskrbujejo regionalni vlaki, od leta 2024 pa tudi dva medkrajevna vlaka Intercity na dolge razdalje. Ozemlje spada v območje pridelave sira mozzarella di bufala campana DOP, olja Colline Pontine DOP in vina Moscato di Terracina DOC ter meji na sadjarsko-zelenjadarsko območje kraja Fondi. Občina je v ZLS (poenostavljena logistična cona) z 12,80 hektarja, zunaj območja, upravičenega do davčnega dobropisa. Lokalna logistika se nanaša na sveže mlečne izdelke, olje in vino.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_San_Biagio",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "norma": {
+    "profile": "Norma stoji na skalni steni gorovja Monti Lepini nad območjem Agro Pontino in vrtom Giardino di Ninfa; pokrajinska cesta Norbana se spušča proti ravnini, avtobusne linije Cotral pa jo povezujejo z Latino prek krajev Sermoneta in Latina Scalo. Gospodarstvo temelji na oljkarstvu, malem kmetijstvu in kulturnem turizmu: v kraju sta arheološki park antične Norbe in muzej čokolade, od leta 2023 pa je del združenja Città dell'olio. Lastnih industrijskih con nima, podjetja so usmerjena na ravnino pod njim. Logistične potrebe so omejene na olje, obrtne slaščičarske izdelke ter oskrbo trgovine in nastanitvenih objektov.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Norma_(Italia)"
+    ]
+  },
+  "pontinia": {
+    "profile": "Pontinia je novoustanovljeno mesto v območju Agro Pontino, nastalo med reko Sisto in državno cesto SS7 Appia, na robu narodnega parka Parco Nazionale del Circeo. Na njenem ozemlju sta dve konzorcijski industrijski coni: Mazzocchio s 445 hektarji na meji s krajema Priverno in Sonnino ter Pontinia s 126 hektarji, ki si jih deli z Latino in krajem Sabaudia; občina je v ZLS (poenostavljena logistična cona) s 78,17 hektarja, zunaj območja, upravičenega do davčnega dobropisa. V coni Mazzocchio delujejo cestni prevozniki ter proizvajalci pomivalnih korit in plastičnih komponent za kuhinje in kopalnice, ekoloških živil in embalaže; na podeželju prevladujeta kmetijstvo in mlekarska industrija, ki zahtevata hlajeni prevoz in konsolidacijo tovorov.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pontinia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ponza": {
+    "profile": "Ponza je glavni otok Pontinskega otočja; občina obsega tudi otoke Palmarola, Gavi in Zannone. Trajekti in hidrogliserji ga vse leto povezujejo s krajem Formia, z rednimi linijami tudi iz krajev Terracina in Neapelj; poleti so na voljo še povezave iz krajev Anzio, Ischia in San Felice Circeo ter z otokom Ventotene. Gospodarstvo je odvisno od poletnega turizma, predvsem iz regij Lacij in Kampanija, in od ribolova, z manjšo pridelavo leče in vina Fieno di Ponza IGT. Vsa oskrba prihaja po morju: logistika zahteva konsolidacijo tovorov v vkrcalnih pristaniščih, rezervacijo prostora na trajektih in zaloge, dimenzionirane za vrhunec kopalne sezone.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponza_(comune)",
+      "https://www.directferries.it/laziomar.htm"
+    ]
+  },
+  "priverno": {
+    "profile": "Priverno leži sredi doline reke Amaseno, ob državni cesti SS156 dei Monti Lepini, ki povezuje Pontinsko nižino s krajem Frosinone in avtocesto A1. Postaja Priverno-Fossanova na progi Rim–Neapelj prek kraja Formia je tudi razcepišče proge proti kraju Terracina. Gospodarstvo združuje dejavno kmetijstvo, industrijo, povezano z bližnjo cono Mazzocchio, keramično in terakotno obrt, obdelavo bakra ter turizem okoli cistercijanske opatije Fossanova. V zadnjih letih je bila gradbena dejavnost živahna. Lokalna logistika oskrbuje gradbišča in trgovino z gradbenim materialom, kmetijske pridelke ter tokove vzdolž prečne smeri med Latino in krajem Frosinone.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Priverno"
+    ]
+  },
+  "prossedi": {
+    "profile": "Prossedi je gričevnata vas v gorovju Monti Lepini, vidna z državne ceste SS156 na pol poti med krajema Priverno in Frosinone; prečkata jo reka Amaseno in njen pritok Monteacuto. Ozemlje je večinoma gričevnato in gorato; edino ravninsko območje je ob reki Amaseno, kjer so zgoščeni zelenjavni vrtovi, na pobočjih pa prevladujejo oljčni nasadi in vinogradi. Kraj ima oranžno zastavo Touring Cluba in gospodarstvo malih kmetij in trgovskih dejavnosti. Lega ob cesti SS156 ga umešča na smer med območjem Agro Pontino in dolino reke Sacco; logistične potrebe se nanašajo na svežo zelenjavo, olje in vino v majhnih serijah.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Prossedi"
+    ]
+  },
+  "rocca-massima": {
+    "profile": "Rocca Massima na gori Monte Massimo v gorovju Monti Lepini, na 735 metrih, je najvišje ležeča občina pokrajine Latina; velik del prebivalstva živi v zaselkih v dolini proti krajema Cori in Giulianello. Pokrajinske ceste vodijo do krajev Giulianello, Cori in Segni, avtobusi Cotral pa povezujejo vas s krajem Velletri. Gospodarstvo temelji na kmetijstvu in živinoreji, zlasti na gojenju oljk in proizvodnji olja, s poletnim turizmom v zgodovinskem središču. Pomembnejših proizvodnih območij ni. Logistika se nanaša na trženje olja in dostave po gorskih cestah, kjer so potrebna lahka vozila in načrtovane dostave.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Massima"
+    ]
+  },
+  "roccagorga": {
+    "profile": "Roccagorga leži v gorovju Monti Lepini, v dolini reke Amaseno nad krajem Priverno, povezana z državno cesto SS156 dei Monti Lepini in po njej s Pontinsko nižino in krajem Frosinone. Ozemlje je gričevnato in gorato, apnenčasto, brez stalnih vodotokov: kmetijstvo je zato gričevnato, z oljkami in manjšimi kulturami. Med tradicionalnimi dejavnostmi izstopa umetniška obdelava bakra. Kraj nima lastnih industrijskih con, delovno aktivno prebivalstvo pa je usmerjeno v Priverno in proizvodna območja na ravnini, kot je Mazzocchio. Logistične potrebe so povezane z manjšimi dostavami za trgovino in obrt ter z oskrbo gradbeništva.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccagorga"
+    ]
+  },
+  "roccasecca-dei-volsci": {
+    "profile": "Roccasecca dei Volsci je majhna gričevnata občina nad krajem Priverno in dolino reke Amaseno, z gozdovi, ki segajo do 700 metrov; državna cesta SS156 dei Monti Lepini nekoliko nižje jo povezuje s Pontinsko nižino in krajem Frosinone. Zaselek Lucerna v dolini na meji z občino Amaseno ima gospodarstvo, ki temelji na proizvodnji bivoljega mleka, ki ga oddajajo sirarnam na območju. Preostalo ozemlje živi od gričevnatega kmetijstva, pohodništva in lokalnih storitev. Za logistiko to pomeni vsakodnevni odvoz svežega mleka, dostave krme in živinorejskega materiala ter hlajeni prevoz na kratke razdalje.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccasecca_dei_Volsci"
+    ]
+  },
+  "sabaudia": {
+    "profile": "Sabaudia je novoustanovljeno mesto v območju Agro Pontino, z ravninskim ozemljem, ki obsega obalne sipine, obalna jezera in gozdove narodnega parka Parco Nazionale del Circeo; državna cesta SS148 Pontina jo povezuje z Latino in krajem Terracina. Skupaj s krajema Terracina in Fondi je v njej zgoščen velik del pridelave v rastlinjakih v pokrajini, z zelenjavo za svež trg in predelavo. Del konzorcijske industrijske cone Pontinia leži na njenem ozemlju. Poleti kopališki turizem večkratno poveča povpraševanje po storitvah. Logistika mora obvladovati stalni odvoz zelenjave pri nadzorovani temperaturi in vzporedno sezonsko oskrbo kopališč in nastanitvenih objektov.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sabaudia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "san-felice-circeo": {
+    "profile": "San Felice Circeo leži na rtu Circeo, na južnem koncu območja Agro Pontino; državna cesta SS148 Pontina poteka blizu severne meje občine, avtobusne linije Cotral pa jo povezujejo s kraji v pokrajini in z Rimom. Poleti redna pomorska linija povezuje pristanišče z otokom Ponza. V gospodarstvu prevladuje kopališki in navtični turizem, s počitniškimi hišami in nastanitvenimi objekti, ki povpraševanje zgostijo med junijem in septembrom; med tradicionalnimi obrtnimi dejavnostmi je izdelava stilnega pohištva. Za lokalno logistiko je značilna izrazita sezonskost: oskrba gostinstva in trgovine ter dostave pohištva.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Felice_Circeo"
+    ]
+  },
+  "santi-cosma-e-damiano": {
+    "profile": "Santi Cosma e Damiano se razprostira med pobočji gorovja Monti Aurunci in ravnino ob reki Garigliano, v jugovzhodnem delu pokrajine, na meji s pokrajino Frosinone in onkraj reke z regijo Kampanija. V šestdesetih letih je odprtje obrata za samolepilne izdelke, ki je bil pozneje zaprt, sprožilo industrializacijo; danes gospodarstvo obsega majhne obrtne ter kmetijsko-živinorejske dejavnosti, trgovino in distribucijo, gostinstvo in hipodrom Ippodromo del Garigliano, odprt leta 1997. Proizvodno območje Pantaniello in 10,24 hektarja v ZLS (poenostavljena logistična cona), upravičenih do regionalne državne pomoči, ponujajo prostor za nove obrate. Logistika oskrbuje trgovsko distribucijo, mlečne izdelke in tokove proti Kampaniji in avtocesti A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santi_Cosma_e_Damiano_(Italia)",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "sermoneta": {
+    "profile": "Sermoneta se razprostira od gorovja Monti Lepini do območja Agro Pontino: srednjeveška vas z gradom Castello Caetani se dviga nad ravnino, spodnji del ozemlja pa meji na kraj Latina Scalo in spada v konzorcijsko industrijsko cono Latina Scalo, ki obsega 448 hektarjev med Latino, krajema Sermoneta in Sezze. Občina je v ZLS (poenostavljena logistična cona) s 128 hektarji, zunaj območja, upravičenega do davčnega dobropisa. V kmetijstvu ozemlje spada v območja artičoke carciofo romanesco IGP, olja Colline Pontine DOP in sira mozzarella di bufala DOP. Kulturni turizem, povezan tudi z bližnjim vrtom Giardino di Ninfa, in industrija na ravnini ustvarjata različne logistične potrebe.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sermoneta",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sezze": {
+    "profile": "Sezze se razprostira med gorovjem Monti Lepini in območjem Agro Pontino, prečka ga reka Ufente; postaja Sezze Romano je na progi Rim–Neapelj prek kraja Formia. Gospodarstvo ostaja kmetijsko in sezonsko: artičoke, ki jih obirajo od konca januarja, brokoletki v januarju in februarju, paradižnik, višnje visciole dei Lepini in kivi sorte Hayward, ki ga obirajo od konca oktobra, poleg tega bivolje mleko in mozzarella. Obrati, odprti s sredstvi sklada Cassa per il Mezzogiorno, so večinoma opuščeni, vendar del konzorcijske cone Latina Scalo leži v občini, ki je v ZLS (poenostavljena logistična cona) s 35,25 hektarja. Logistika sledi koledarju žetve, s konicami svežega sadja in zelenjave.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sezze",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sonnino": {
+    "profile": "Sonnino leži na gričevnatem in goratem območju gorovja Monti Ausoni, v osrednje-južnem delu pokrajine Latina. Hitra cesta Frosinone–morje ga povezuje s priključkom Frosinone na avtocesti A1 in z obalo pri kraju Terracina, cesti Pontina in Appia pa vodita proti Latini in Rimu; postaje stare proge Velletri–Terracina so opuščene, najbližja delujoča je Priverno-Fossanova. Ozemlje spada v območje pridelave olja Colline Pontine DOP, sira mozzarella di bufala campana in vina Moscato di Terracina DOC ter meji na industrijsko cono Mazzocchio. Logistične potrebe se nanašajo na olje, mlečne izdelke in vino, s povezavami proti pokrajini Ciociaria in obali.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sonnino"
+    ]
+  },
+  "sperlonga": {
+    "profile": "Sperlonga stoji na ostrogi gore Monte San Magno nad zalivom Gaeta, med krajema Terracina in Gaeta, po vsej dolžini pa jo oskrbuje regionalna cesta SR213 Flacca; referenčna železniška postaja je Fondi-Sperlonga, s krajem povezana z avtobusi. Gospodarstvo je skoraj v celoti turistično: vas je članica združenja Borghi più belli d'Italia, poleg plaž pa je tu arheološki muzej Tiberijeve vile (Villa di Tiberio). Kmetijstvo ima manjšo vlogo, s paradižnikom sorte perino in belo zeleno Sedano bianco di Sperlonga IGP. Logistika je izrazito sezonska, z oskrbo hotelov, gostinstva in kopališč, zgoščeno v poletnih mesecih.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sperlonga"
+    ]
+  },
+  "spigno-saturnia": {
+    "profile": "Spigno Saturnia leži v gorovju Monti Aurunci, v zaledju kraja Minturno, na ozemlju, nad katerim se dviga gora Monte Petrella in ki ga prečka reka Ausente; spodnji del občine leži ob regionalni cesti SR630 Ausonia, ki povezuje kraj Formia s krajem Cassino in avtocesto A1. Tradicionalne dejavnosti obsegajo ročno izdelavo opeke in ploščic iz žgane gline, vezenje in klekljanje, kmetijstvo pa gojenje oljk sorte itrana. Večjih proizvodnih obratov ni, delovno aktivno prebivalstvo je usmerjeno na obalo zaliva Gaeta. Logistične potrebe se nanašajo na opečne izdelke in gradbeni material, olje in oljke ter dostave za lokalno trgovino.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spigno_Saturnia"
+    ]
+  },
+  "terracina": {
+    "profile": "Terracina z juga zapira območje Agro Pontino, ob ustju reke Amaseno: tu se konča državna cesta SS148 Pontina, ki ima po kraju Borgo Piave en vozni pas v vsako smer, poteka pa tudi državna cesta SS7 Appia in regionalna cesta SR213 Flacca proti krajema Sperlonga in Gaeta; železniški odcep jo povezuje s postajo Priverno-Fossanova. Turizem je glavna dejavnost, z največjim številom počitniških nastanitev v pokrajini, poleg ribolova, cvetličarstva, zelenjave iz rastlinjakov, reje bivolov in pridelkov, kot sta jagoda Favetta in vino Moscato di Terracina. Pristanišče ima sezonske povezave z otokom Ponza. Logistika združuje sadje in zelenjavo pri nadzorovani temperaturi, ulov rib in poletno oskrbo turizma.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Terracina",
+      "https://it.wikipedia.org/wiki/Strada_statale_148_Pontina"
+    ]
+  },
+  "ventotene": {
+    "profile": "Ventotene je skupaj z otočkom Santo Stefano po površini najmanjša občina regije Lacij in najjužnejša v regiji. Glavna povezava je s krajem Formia, ki jo vse leto opravlja družba Laziomar s trajektom, ki prevaža tudi vozila, in s hitrim plovilom; poleti so na voljo še povezave z otokom Ponza in iz Neaplja. Trajekti in tovorni promet pristajajo v novem pristanišču Cala Rossano, rimsko pristanišče pa sprejema ribiške ladje in manjša plovila; heliport je namenjen reševalnim službam. Gospodarstvo živi od poletnega turizma in malega kmetijstva, med tradicionalnimi pridelki je leča. Zaloge je treba načrtovati glede na odhode iz kraja Formia in poletni vrhunec.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ventotene_(comune)",
+      "https://www.directferries.it/formia_ventotene_traghetto.htm"
+    ]
+  },
+  "pomezia": {
+    "profile": "Pomezia se razprostira v območju Agro Romano med pobočji gričevja Colli Albani in obalo, oskrbujejo pa jo državna cesta SS148 Pontina, cesti Laurentina in Ardeatina ter obalna cesta Ostia–Anzio; postaja Pomezia-Santa Palomba je na progi Rim–Neapelj prek kraja Formia, ob intermodalnem terminalu SGT. Industrija, ki je zrasla s sredstvi sklada Cassa per il Mezzogiorno, obsega farmacijo in biotehnologijo (Menarini, Johnson & Johnson, IRBM), elektroniko in obrambno industrijo (Leonardo, Northrop Grumman Italia), predelavo papirja, plastiko in agroživilstvo, z mesnopredelovalnim obratom Fiorucci, prigrizki Crik Crok in sladarno. V coni Santa Palomba delujejo logistični izvajalci in platforme velike trgovine na drobno. Logistično povpraševanje je široko: zdravila, živila, blago široke porabe.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pomezia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ardea": {
+    "profile": "Ardea stoji na tufski vzpetini južno od kraja Pomezia, v območju Agro Romano, njeno ozemlje pa se spušča proti morju v obalnih zaselkih Tor San Lorenzo in Marina di Ardea; državna cesta SS148 Pontina prečka njen notranji del. Občina ohranja kmetijski značaj, s pridelavo na območju sira mozzarella di bufala campana ter vin Colli Albani in Roma DOC, od sedemdesetih let pa so se ob cesti Pontina razvili industrijski in obrtni obrati. Stanovanjska rast v zadnjih desetletjih, povezana s proizvodnimi in logističnimi središči v kraju Pomezia, je spodbudila gradbeništvo in trgovino. Iz tega izhajajo dostave gradbenega materiala, distribucija na drobno in poletni turistični tokovi.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ardea"
+    ]
+  },
+  "anzio": {
+    "profile": "Anzio leži na istoimenskem rtu na obali južno od Rima, oskrbujejo pa ga državna cesta SS207 Nettunense, obalna državna cesta SS601 Ostia–Anzio in postaje regionalne proge FL8 Rim–Nettuno. Gospodarstvo temelji na kopališkem turizmu in pristanišču, ki ima floto približno 60 ribiških ladij in več kot 800 ton ulova na leto ter iz katerega plujejo sezonske linije na otok Ponza. Na ozemlju je italijanski obrat družbe Colgate-Palmolive, zaledje pa spada v območje sira mozzarella di bufala campana. Za logistiko so pomembni dobavna veriga svežih rib, tokovi izdelkov za osebno nego in gospodinjstvo ter poletna oskrba trgovine in gostinstva.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Anzio"
+    ]
+  },
+  "nettuno": {
+    "profile": "Nettuno leži na obali med območjema Campagna romana in Agro Pontino; reka Astura označuje mejo z občino Latina. Je končna postaja regionalne proge Rim–Nettuno, z državno cesto SS148 Pontina pa je povezan prek izvozov Campo di Carne in Campoverde, z državno cesto SS207 Nettunense proti kraju Aprilia in območju Castelli Romani ter z obalno državno cesto SS601 proti kraju Anzio. Glavna dejavnost je turizem: kopališki, s turističnim pristaniščem Marina di Nettuno, ter zgodovinski in verski, s svetiščem Santa Maria Goretti in ameriškim vojaškim pokopališčem. Kmetijsko zaledje spada v območje sira mozzarella di bufala. Logistika se mora odzivati na poletne konice porabe in gostinstva.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nettuno_(Italia)"
+    ]
+  },
+  "ciampino": {
+    "profile": "Ciampino je povezovalni člen med Rimom in območjem Castelli Romani: prečkata ga državna cesta SS7 Appia in cesta Anagnina, tu se začne cesta Via dei Laghi proti kraju Velletri, rimska obvoznica Grande Raccordo Anulare pa poteka nekaj sto metrov od občinske meje, med izvozoma Gregna Sant'Andrea in Appia. Postaja Ciampino, stičišče prog FL4 in FL6, je po pomenu tretja v regiji Lacij za postajama Termini in Tiburtina. Po občini se imenuje letališče G. B. Pastine, ki ga upravljata družba Aeroporti di Roma in italijansko vojno letalstvo. Gospodarstvo je osredotočeno na storitve in trgovino na drobno, s povpraševanjem po mestni distribuciji in dostavah trgovinam in letališkim uporabnikom.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ciampino"
+    ]
+  },
+  "marino": {
+    "profile": "Marino zavzema severozahodni del gričevja Colli Albani, z ozemljem, ki sega do ravninskih zaselkov proti krajema Ciampino in Rim, kot so Santa Maria delle Mole, Cava dei Selci in Castelluccia; prečkata ga državna cesta SS7 Appia in regionalna cesta SR207 Nettunense. Vinogradništvo in vinarstvo sta bila dolgo vodilni panogi: oznaka DOC Marino je priznana od leta 1970, zadružna klet Gotto d'Oro, ustanovljena leta 1946, pa je glavni proizvajalec. Nekoč so delovali kamnolomi peperina in bazalta, danes pa ostaja gradbeništvo pomembna panoga, poleg kovaške obrti, tiskarstva in peke kruha. Logistika obsega ustekleničeno vino, gradbeni material in mestno distribucijo.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Marino_(Italia)"
+    ]
+  },
+  "castel-gandolfo": {
+    "profile": "Castel Gandolfo se razprostira od gričevja Colli Albani do območja Agro Romano, nad jezerom Lago Albano in v celoti znotraj regionalnega parka Parco regionale dei Castelli Romani. Ozemlje prečkata državni cesti SS7 Appia in SS140 del lago Albano, postaja pa je na železniški progi Rim–Albano. Papeška palača s papeškimi vilami in Domicijanova vila spodbujata stalen kulturni in verski turizem. Vinogradništvo upravljajo velike zadružne kleti iz sosednjih občin, občinski statut pa prepoveduje antene in stalne telekomunikacijske naprave. Bolnišnica in številne storitve so zunaj občine, zato se logistika nanaša predvsem na gostinstvo, trgovino in nastanitvene objekte.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Gandolfo"
+    ]
+  },
+  "albano-laziale": {
+    "profile": "Albano Laziale je ena največjih občin gričevja Colli Albani in poleg središča ob državni cesti SS7 Appia obsega ravninska zaselka Pavona in Cecchina, ki ju prečka regionalna cesta SR207 Nettunense; mesto oskrbuje regionalna železniška proga FL4. Leta 2018 je tu delovalo 2.863 lokalnih enot z 8.516 zaposlenimi, s proizvodno strukturo, osredotočeno na storitve, med njimi bolnišnico, urade in trgovino. Poleg vinarske tradicije z oznako Colli Albani DOC je v mestu veletržnica s sadjem in zelenjavo, zgodovinsko pomembna za zelenjavo in artičoke. Logistične potrebe se nanašajo na sveže sadje in zelenjavo, oskrbo distribucije ter dostave zdravstvenim ustanovam in uradom.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Albano_Laziale"
+    ]
+  },
+  "ariccia": {
+    "profile": "Ariccia je eden od krajev območja Castelli Romani, prečka jo državna cesta SS7 Appia, ki tu dolino premosti z mostom Ponte di Ariccia; v rimski dobi je bila Aricia prva postaja za počitek na cesti Via Appia ob izhodu iz Rima. Spomeniški kompleks palače Palazzo Chigi in Berninijevega trga spodbuja dnevni turizem iz Rima. Najbolj znan izdelek je porchetta (pečena svinjina), poleg nje pa belo vino Colli Albani DOC in mozzarella iz bivoljega mleka; številne tradicionalne točilnice (fraschette) povpraševanje zgostijo ob koncih tedna. Za logistiko to pomeni hlajeni prevoz mesnih izdelkov, pogosto oskrbo gostinstva in konice ob praznikih in prireditvah.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ariccia"
+    ]
+  },
+  "genzano-di-roma": {
+    "profile": "Genzano di Roma leži na gričevju Colli Albani ob državni cesti SS7 Appia, med krajema Ariccia in Velletri, nad jezerom Lago di Nemi; postaja San Gennaro je na železniški progi Rim–Velletri, regionalna linija FL4. V kmetijstvu prevladuje vinogradništvo: Genzano in Lanuvio sta v središču območja vin DOC Colli Lanuvini, poleg oljkarstva, cvetličarstva, sadja in zelenjave. Deluje približno 400 obrtnih podjetij v predelavi usnja, pletarstvu, steklu, keramiki in izdelavi stilnega pohištva, najpomembnejša panoga pa je peka kruha, s kruhom pane casareccio di Genzano z naravnim kvasom, pečenim na drva. Lokalna logistika zahteva vsakodnevno distribucijo pekovskih izdelkov in odpremo vina.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genzano_di_Roma"
+    ]
+  },
+  "lanuvio": {
+    "profile": "Lanuvio leži na južnem pobočju gričevja Colli Albani, obrnjen proti ravnini pri kraju Aprilia, s postajo na železniški progi Rim–Velletri. Glavna dejavnost je kmetijstvo, zlasti vinogradništvo z oznakama DOC Colli Lanuvini in Colli Albani, skupaj z oljkarstvom, cvetličarstvom, sadjarstvom in vrtnarstvom. Industrija in trgovina sta zgoščeni ob regionalni cesti SR207 Nettunense, ki povezuje Rim s kraji Aprilia, Anzio in Nettuno, del konzorcijske industrijske cone Aprilia, ki skupaj obsega 256 hektarjev, pa leži na občinskem ozemlju. Logistične potrebe združujejo sezonske kmetijske pridelke, vino in cvetje z industrijskimi tokovi proti proizvodnemu središču Aprilia in cesti Pontina.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lanuvio",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "velletri": {
+    "profile": "Velletri z juga zapira gričevje Colli Albani proti območju Agro Pontino: tu se srečata državna cesta SS7 Appia in cesta Via dei Laghi, cesta Via Ariana pa vodi do kraja Lariano in ceste Casilina; železniška proga Rim–Velletri, odprta leta 1863, danes obratuje kot regionalna linija FL4. Primarni sektor temelji na vinu, z oznakami DOC Velletri, Castelli Romani in Roma, ter na trgovini s kmetijskimi pridelki iz okolice. Industrijske in obrtne dejavnosti so razporejene ob cesti Appia Nuova proti pontinski industriji in v industrijski coni Contrada Lazzaria na meji s pokrajino Latina. Med tradicionalnimi dejavnostmi sta keramika in terakota.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Velletri"
+    ]
+  },
+  "lariano": {
+    "profile": "Lariano leži na vzpetinah Artemisio, na južnem robu gričevja Colli Albani, med krajem Velletri, katerega zaselek je bil do leta 1967, in krajem Artena; velik del ozemlja je v regionalnem parku Parco regionale dei Castelli Romani, med kostanjevimi gozdovi in griči, ki se spuščajo proti Pontinski nižini. Cesta Via Ariana ga povezuje s krajem Velletri in cesto Casilina, projekt povezovalne ceste Cisterna–Valmontone pa predvideva priključek v kraju Lariano. Kmetijstvo spada v območji vin Velletri DOC in Castelli Romani DOC, poleg oljk in gozdov. Gospodarstvo sestavljajo mala podjetja, trgovina in storitve, z logističnimi potrebami, povezanimi z vinom, tipičnimi izdelki in gradbenim materialom.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lariano",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "nemi": {
+    "profile": "Nemi leži nad kraterjem istoimenskega jezera v gričevju Colli Albani, dostopen po pokrajinski cesti SP Nemorense, ki se pri kraju Genzano odcepi od ceste Appia, in po cesti Via dei Laghi. Gospodarstvo je bilo dolgo kmetijsko: v dolini okoli jezera so gojili čebulo in jabolka, pobočja kraterja so terasirana in zasajena z oljkami, danes pa je značilen pridelek jagoda, v sezonskih in remontantnih sortah, ki ji je junija posvečen praznik. Muzej rimskih ladij in vas privabljata dnevni turizem iz Rima. Logistične potrebe se nanašajo na občutljivo sadje s kratkim ciklom, s hitrim hlajenim prevozom, in na oskrbo gostinstva in trgovine.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nemi"
+    ]
+  },
+  "rocca-di-papa": {
+    "profile": "Rocca di Papa se razprostira na osrednjih vzpetinah gričevja Colli Albani, prečkajo pa jo cesta Via Anagnina, ki sledi antični cesti Via Latina, državna cesta SS218, ki jo povezuje s krajema Grottaferrata in Ariccia, ter cesta Via dei Laghi. Delež zaposlenega prebivalstva v občini je nižji od povprečja območja Castelli Romani. Vinska trta raste v nižjem severozahodnem delu, ki meji na območji vin Frascati in Marino, na višjih legah pa prevladuje kostanj: gozdarstvo, z lesom, namenjenim predvsem gradbeništvu, je od nekdaj ena od osnov lokalnega gospodarstva. Logistika se nanaša na les in gradbeni material, vino in dostave po gričevnatih cestah.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_di_Papa"
+    ]
+  },
+  "grottaferrata": {
+    "profile": "Grottaferrata leži na pobočju gričevja Colli Albani, obrnjenem proti Rimu, med krajema Frascati, Marino in Rocca di Papa, prečkajo pa jo ceste Anagnina, Maremmana III, Via dei Laghi in Pedemontana dei Castelli, ki prečno povezuje ceste Tuscolana, Anagnina in Appia. Ozemlje spada v območje pridelave vin Frascati in Castelli Romani DOC, z manjšim oljkarstvom, vendar je v 20. stoletju vinogradništvo odstopilo prostor obrtnim, trgovskim in storitvenim dejavnostim. Grška opatija San Nilo privablja kulturni turizem. Lokalna logistika se nanaša na trgovsko distribucijo, dostave strokovnjakom in storitvenim podjetjem ter odpremo vina iz kleti na območju.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Grottaferrata"
+    ]
+  },
+  "frascati": {
+    "profile": "Frascati leži na gričevju Colli Albani ob cesti Via Tuscolana; železniška proga Rim–Frascati, prva v Papeški državi, povezuje mesto s postajo Termini, postaja Tor Vergata na progi Rim–Cassino pa je na meji z Rimom. Kmetijsko ozemlje je zasajeno z oljčnimi nasadi in vinogradi, grozdje pa je namenjeno vinu Frascati DOC. V mestu so raziskovalna središča mednarodnega pomena: nacionalni laboratoriji Laboratori Nazionali di Frascati inštituta INFN, center ESRIN Evropske vesoljske agencije in enote agencije ENEA. Storitveni sektor ima veliko težo. Iz tega izhajata dve ločeni logistični potrebi: na eni strani vino in kmetijski pridelki, na drugi oprema in tehnični material za raziskovalna središča.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Frascati"
+    ]
+  },
+  "monte-porzio-catone": {
+    "profile": "Monte Porzio Catone leži na vzhodnem delu gričevja Colli Albani, med krajema Frascati in Monte Compatri, blizu odcepa Roma Sud avtoceste A1. Glavna dejavnost je vinogradništvo na vulkanskih tleh označbe Frascati: občina ima eno največjih zgostitev vinskih kleti v območju Castelli Romani, med njimi Fontana Candida, Villa Simone in Poggio le Volpi, pomemben del vina pa se proda v Rimu ali izvozi. Na ozemlju je tudi enota nacionalnega astronomskega observatorija. Kraj od leta 1944 nima železnice in ga oskrbujejo avtobusne linije. Logistika je vezana na vinsko dobavno verigo: steklo na vhodu, palete steklenic na izhodu in pošiljke za izvoz.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Porzio_Catone"
+    ]
+  },
+  "monte-compatri": {
+    "profile": "Monte Compatri ima zgodovinsko središče na gričevju Colli Albani ob cesti Maremmana III ter ravninske zaselke ob cesti Tuscolana, kot je Molara, ob cesti Casilina, kot sta Pantano Borghese in Laghetto, in ob cesti Prenestina, kot je Osa. V kraju Pantano je končna postaja linije C rimske podzemne železnice, s parkiriščem P+R in avtobusnimi linijami. Na zemljiščih pod vasjo pridelujejo vina Montecompatri Colonna, Frascati superiore in Cannellino di Frascati, intenzivna je tudi proizvodnja ekstra deviškega oljčnega olja. Zaselki ob vzhodnih vpadnicah v Rim poleg tokov vina in olja ustvarjajo povpraševanje po trgovski distribuciji in dostavah proti vzhodnemu obrobju prestolnice.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "rocca-priora": {
+    "profile": "Rocca Priora je najvišje ležeča občina območja Castelli Romani: središče je na več kot 760 metrih, na vzhodni strani gričevja Colli Albani, in gleda proti dolini ceste Casilina in avtoceste A1. Velik del ozemlja je v regionalnem parku Parco regionale dei Castelli Romani. Omrežje sestavljajo pokrajinske ceste, med njimi Tuscolana proti Rimu in kraju Artena, Anagnina ter cesta proti krajema Colle di Fuori in San Cesareo. V preteklosti je kraj oskrboval Rim s snegom in ledom, shranjenim na višini. Danes prevladujejo stanovanja, trgovina in storitve, z gozdovi in malim kmetijstvom. Lokalna logistika se nanaša na dostave po gorskih cestah, stanovanjsko gradnjo in oskrbo trgovin.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Priora"
+    ]
+  },
+  "colonna": {
+    "profile": "Colonna leži na vulkanskem griču na severovzhodnem koncu območja Castelli Romani in je po površini najmanjša občina tega območja ter druga najmanjša v regiji Lacij za otokom Ventotene. Ozemlje prečka cesta Via Casilina, leži blizu vozlišča med avtocesto A1 in odcepom Roma Sud, oskrbuje pa ga postaja Colonna Galleria na liniji FL6, z vlakom približno vsako uro proti postaji Roma Termini. Vinogradi spadajo v označbo Montecompatri Colonna. Gospodarstvo je predvsem stanovanjsko in trgovsko, povezano z dnevno migracijo v Rim. Logistične potrebe se nanašajo na distribucijo na drobno, dostave za dejavnosti ob cesti Casilina in odpremo vina.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colonna_(Italia)",
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "san-cesareo": {
+    "profile": "San Cesareo leži ob cesti Via Casilina, na priključku odcepa Roma Sud na avtocesto A1, z avtocestnim priključkom na občinskem ozemlju; v rimski dobi so bila na tem območju gostišča in trgovske postaje ob cesti Via Labicana. Del ozemlja spada v območji vin Castelli Romani DOC in Roma DOC. Industrijska cona, nastala ob koncu osemdesetih let ob cesti Casilina tik ob avtocesti, ima hale za obrtne, proizvodne in logistične dejavnosti. Kombinacija avtocestnega dostopa in hal srednje velikosti dela iz občine točko tranzita in skladiščenja za distribucijo proti vzhodnemu Rimu in dolini reke Sacco.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Cesareo",
+      "https://www.immobiliare.it/en/annunci/101095913/"
+    ]
+  },
+  "zagarolo": {
+    "profile": "Zagarolo leži med gorovjem Monti Prenestini in dolino reke Sacco, povezujejo pa ga ceste Zagarolese, regionalna cesta SR155 di Fiuggi in Prenestina Nuova; postaja Zagarolo na progi Rim–Neapelj prek kraja Cassino oskrbuje tudi dnevne migrante iz kraja Palestrina, stari postaji Zagarolo Paese in Zagarolo Scalo pa sta zaprti. Ozemlje obsega tudi zaselek Valle Martella na meji z občino Monte Compatri. Med tradicionalnimi dejavnostmi izstopa izdelava stilnega pohištva. Občina je rasla kot stanovanjsko območje vzhodnega zaledja Rima. Lokalna logistika se nanaša na odpremo pohištva in opreme ter trgovsko distribucijo za nove soseske.",
+    "sectors": [
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Zagarolo"
+    ]
+  },
+  "gallicano-nel-lazio": {
+    "profile": "Gallicano nel Lazio stoji na tufskem griču ob vznožju gorovja Monti Prenestini, v vzhodnem delu rimskega metropolitanskega območja, obdan z dolinami, ki so jih izdolbli potoki, in gozdnatimi območji. Državne ceste ga ne prečkajo: omrežje pokrajinskih cest ga povezuje s krajema San Cesareo in Zagarolo, s krajema Palestrina in Poli ter proti kraju Tivoli po cesti Maremmana Inferiore. Podeželje, kjer so bili zgodovinsko vinogradi in oljčni nasadi, ohranja kmetijski del, vendar je gospodarstvo danes predvsem stanovanjsko, trgovsko in storitveno. Viri o proizvodni strukturi so skopi. Logistične potrebe se nanašajo na oskrbo trgovine, stanovanjsko gradnjo in majhno proizvodnjo olja in vina.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gallicano_nel_Lazio"
+    ]
+  },
+  "palestrina": {
+    "profile": "Palestrina leži na pobočjih gorovja Monti Prenestini; zaselki v dolini so ob državni cesti SS6 Casilina, regionalna cesta SR155 di Fiuggi povezuje središče s kraji Cave, Genazzano, Fiuggi in Frosinone, avtocesta A1 pa prečka ozemlje med krajema Carchitti in Valvarino. Postaja na progi Rim–Neapelj prek kraja Cassino je opuščena, dnevni migranti uporabljajo postajo Zagarolo. Svetišče Fortuna Primigenia in arheološki muzej spodbujata kulturni turizem. Med tradicionalnimi dejavnostmi sta umetniška obdelava bakra in vezenje, s šolo, ki je nastala v mestu. Občina je središče storitev in šol za bližnje kraje, s povpraševanjem po trgovski distribuciji in dostavah proti dolini.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Palestrina"
+    ]
+  },
+  "labico": {
+    "profile": "Labico, ki se je do leta 1872 imenoval Lugnano, leži ob cesti Casilina med krajema San Cesareo in Valmontone, na prehodnem območju med gričevjem Colli Albani in dolino reke Sacco. Postaja Labico je na progi Rim–Neapelj prek kraja Cassino, oskrbujejo jo regionalni vlaki FL6. Projekt povezovalne ceste Cisterna–Valmontone, katere gradnja se je začela leta 2026, predvideva priključek v kraju Labico, ki bo ozemlje povezal s cesto Pontina. Viri o lokalnem gospodarstvu so omejeni: prevladujejo stanovanja, trgovina ob cesti Casilina ter male obrtne in kmetijske dejavnosti. Lega med cesto Casilina, železnico in prihodnjo povezovalno cesto je zanimiva za distribucijska skladišča in prevoznike.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Labico",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "valmontone": {
+    "profile": "Valmontone stoji na tufski vzpetini ob cesti Casilina, v zgornji dolini reke Sacco, oskrbujeta pa ga priključek Valmontone na avtocesti A1 in postaja na progi Rim–Cassino–Neapelj; ozemlje prečka tudi hitra proga Rim–Neapelj. Povezovalna cesta Cisterna–Valmontone, ki se gradi od leta 2026, bo tu povezala cesto Pontina z avtocesto A1. Ob priključku sta zabaviščni park Rainbow MagicLand in outlet center Valmontone Fashion District, ki ustvarjata velike tokove obiskovalcev in blaga. Iz tega izhajajo stalna oskrba trgovin z oblačili in gostinstva, upravljanje vračil in povpraševanje po distribucijskih halah blizu avtoceste.",
+    "sectors": [
+      "gdo-retail",
+      "tessile-moda",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Valmontone",
+      "https://turismoroma.it/it/node/5117"
+    ]
+  },
+  "artena": {
+    "profile": "Artena je vas v severnem delu gorovja Monti Lepini nad dolino reke Sacco, oskrbujeta pa jo priključek Valmontone na avtocesti A1 in postaja Valmontone na liniji FL6; ceste Tuscolana, Via Ariana in pokrajinska cesta proti kraju Giulianello jo povezujejo z območjem Castelli Romani in krajem Cori. Gospodarstvo temelji na kmetijstvu in živinoreji, z vinogradi na območju označbe Castelli Romani DOC. Del površin nekdanjega industrijskega kompleksa BPD, ki jih danes upravlja družba skupine Avio, leži na njenem ozemlju skupaj s krajema Colleferro in Segni. Lokalna logistika se nanaša na kmetijske in živinorejske proizvode ter industrijske dobavitelje v dolini, z neposrednim dostopom do avtoceste A1.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Artena",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "colleferro": {
+    "profile": "Colleferro je nastal okoli podjetja Bombrini Parodi Delfino, ki se je tu naselilo leta 1912 za proizvodnjo eksploziva, pozneje pa je delovalo v kemiji, strojništvu in tekstilu; iz te zgodovine izhaja vesoljsko-letalsko središče družbe Avio. Skupina upravlja približno 910 hektarjev med krajema Colleferro, Segni in Artena, od tega 450 industrijskih, v mestu pa deluje cementarna Italcementi. Občina ima priključek na avtocesto A1, prečka jo cesta Casilina, iz kraja Colleferro Scalo pa vodi cesta Carpinetana proti kraju Priverno. Tu je SLIM, delno zgrajeni multimodalni logistični sistem, občina pa je v ZLS (poenostavljena logistična cona) zunaj območja, upravičenega do davčnega dobropisa. Potrebni so izredni prevozi, prevozi nevarnega blaga in razsutega tovora za gradbeništvo.",
+    "sectors": [
+      "manifatturiero",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colleferro",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "segni": {
+    "profile": "Segni leži v severnem delu gorovja Monti Lepini, nad dolino reke Sacco in krajem Colleferro. Na njegovem ozemlju kamnolom San Bruno pridobiva apnenec za proizvodnjo cementa, ki se v cementarno Italcementi v kraju Colleferro prevaža s sistemom šestih tekočih trakov v skupni dolžini 4,3 kilometra, kar odpravlja cestni prevoz. Del površin nekdanjega kompleksa BPD leži v občini. V kmetijstvu je značilen pridelek marrone segnino, sorta kostanja z jesenskim obiranjem. Logistične potrebe združujejo dobavitelje kamnolomske in industrijske dejavnosti v dolini s sezonskim trženjem kostanja in oskrbo vasi.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Segni_(Italia)",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "gavignano": {
+    "profile": "Gavignano leži na majhnem pomolu ob sotočju potoka Rio in reke Sacco, ob vznožju gore Monte Lupone, na severnem pobočju gorovja Monti Lepini; na ozemlju je izvir Fonte Meo, znan po diuretičnih lastnostih. V 20. stoletju je širitev podjetja BPD v kraju Colleferro številne kmete iz vasi spremenila v delavce, delovno aktivno prebivalstvo pa je še vedno usmerjeno v industrijsko središče v dolini. V občini ostajajo gričevnato kmetijstvo ter male obrtne in trgovske dejavnosti, z zgodovinsko dediščino, povezano z benediktinskim meništvom v dolini. Lokalna logistika oskrbuje predvsem industrijske dobavitelje v kraju Colleferro in lokalno trgovino.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gavignano_(Italia)"
+    ]
+  },
+  "montelanico": {
+    "profile": "Montelanico ima na jugu goratega ozemlja na severnem pobočju gorovja Monti Lepini, ki proti dolini reke Sacco postane gričevnato in nato ravninsko; na meji s krajema Segni in Cori se dviga gora Monte Lupone. Občino prečkata regionalna cesta SR609 Carpinetana, ki povezuje kraja Colleferro in Priverno, in pokrajinska cesta proti kraju Segni. Značilen pridelek je kostanj, ki mu je posvečen praznik, ki ga od leta 1963 prirejajo v tretjem tednu oktobra; gospodarstvo dopolnjujejo oljkarstvo, živinoreja in mala podjetja. Logistika sledi sezoni jesenskega obiranja in oskrbuje povezavo med industrijskim središčem Colleferro in kraji gorovja Monti Lepini.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Montelanico"
+    ]
+  },
+  "carpineto-romano": {
+    "profile": "Carpineto Romano leži v osrednjem delu gorovja Monti Lepini, na meji s pokrajinama Latina in Frosinone, na goratem ozemlju, ki doseže najvišjo točko s 1.536 metri na gori Monte Semprevisa. Je rojstni kraj papeža Leona XIII. Regionalna cesta SR609 Carpinetana ga na eni strani povezuje z dolino reke Sacco in krajem Colleferro, na drugi pa s krajema Maenza in Priverno. Tradicionalne dejavnosti obsegajo keramiko in terakoto, muzej La Reggia dei Volsci pa razstavlja predmete kmečke in pastirske tradicije. Gospodarstvo je majhnega obsega, z gozdovi, pašniki in turizmom, povezanim s prireditvami, kot je Palio della Carriera; dostave potekajo po gorskih cestah.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Carpineto_Romano"
+    ]
+  },
+  "gorga": {
+    "profile": "Gorga je majhna občina v gorovju Monti Lepini, nad katero se dviga gora Monte San Marino z več kot 1.380 metri. Gorsko območje, znano kot planota Gorga, ima obsežne kraške pojave, med njimi jamo Campo di Caccia, cilj speleoloških raziskav. Kraj je z dolino reke Sacco povezan po pokrajinskih cestah, ki se spuščajo proti cesti Carpinetana in kraju Colleferro. Viri o lokalnem gospodarstvu so skopi: prevladujeta kmetijstvo in pastirstvo, s pašniki, gozdovi in pohodniškim turizmom, povezanim s planoto. Logistične potrebe so omejene na oskrbo lokalne trgovine in načrtovane dostave po gorskih cestah.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gorga_(Italia)"
+    ]
+  },
+  "cave": {
+    "profile": "Cave leži med gorovjem Monti Prenestini in dolino reke Sacco, prečka pa ga državna cesta SS155 di Fiuggi, ki povezuje Rim in kraj Frosinone; pokrajinska cesta ga povezuje s priključkom na avtocesto A1 in železniško postajo Valmontone, linije Cotral pa z rimskima postajama Anagnina in Ponte Mammolo ter s šolskima središčema v krajih Palestrina in Colleferro. Značilen kmetijski pridelek je kostanj marrone di Cave, uvrščen med tradicionalne agroživilske izdelke regije Lacij. Lokalno gospodarstvo sestavljajo kmetijstvo, trgovina in storitve za stanovanjsko zaledje. Logistične potrebe se nanašajo na jesensko obiranje kostanja in distribucijo proti krajem ob cesti Prenestina.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cave_(Italia)"
+    ]
+  },
+  "genazzano": {
+    "profile": "Genazzano stoji na tufski ostrogi, ki se iz gorovja Monti Prenestini spušča proti dolini reke Sacco, na meji med metropolitanskim mestom Rim in pokrajino Frosinone, z regionalno cesto SR155 di Fiuggi pa je povezan s kraji Cave, Palestrina in Fiuggi. Svetišče Madonna del Buon Consiglio vse leto privablja romarje, zgodovinsko središče pa ohranja grad Castello Colonna. Viri o lokalni proizvodni strukturi so skopi: prevladujejo kmetijstvo v dolini, mala trgovina, gostinstvo in storitve za verski turizem. Logistične potrebe se nanašajo na oskrbo nastanitvenih objektov in gostinstva ter povezave proti priključku Valmontone na avtocesti A1 in pokrajini Ciociaria.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genazzano"
+    ]
+  },
+  "fiumicino": {
+    "profile": "V kraju Fiumicino je letališče Leonardo da Vinci, prvo italijansko letališče po številu potnikov in jedrno vozlišče omrežja TEN-T, s tovornim središčem Cargo City in ob njem logistično platformo Roma–Fiumicino, katere železniški terminal je v fazi proučevanja. Letališka postaja je z Rimom povezana z vlakom Leonardo Express in linijo FL1; občino oskrbujeta avtocesta Rim–Fiumicino in ob liniji FL5 postaji Maccarese-Fregene in Torrimpietra-Palidoro. Pristanišče spada v sistem pristaniške uprave AdSP del Mar Tirreno Centro-Settentrionale in je ribiško središče z veliko ribjo tržnico. Za logistiko so pomembni letalski tovor, mednarodni zbirni promet, hladna veriga za ribe in oskrba letaliških dejavnosti.",
+    "sectors": [
+      "ecommerce",
+      "agroalimentare",
+      "farmaceutico"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fiumicino",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "eur": {
+    "profile": "EUR je urbanistična cona 12A mestnega okraja Municipio IX, znotraj rimske obvoznice Grande Raccordo Anulare in na obeh straneh ulice Via Cristoforo Colombo; tu se začne državna cesta SS148 Pontina proti Latini, linija B podzemne železnice pa ga s postajami EUR Magliana, EUR Palasport in EUR Fermi povezuje s središčem. Četrt je glavno poslovno središče južnega dela Rima: tu so sedeži velikih skupin, kot sta ENI in Poste Italiane, ministrski uradi, kongresni center La Nuvola in muzeji. Logistično povpraševanje je značilno za poslovno četrt: arhivi in dokumenti, pisarniški material, računalniška oprema, postavitve za kongrese in prireditve ter dostave v časovnih oknih.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Eur_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/EUR"
+    ]
+  },
+  "laurentino": {
+    "profile": "Laurentino je urbanistična cona 12D mestnega okraja Municipio IX, znotraj rimske obvoznice Grande Raccordo Anulare, med ulico Via Cristoforo Colombo in cesto Via Laurentina, po kateri je dobila ime; obsega naravni rezervat Laurentino-Acqua Acetosa. Gre za pretežno stanovanjsko območje, ki je raslo od sedemdesetih let z velikimi projekti javne stanovanjske gradnje, in meji na poslovno središče EUR, dostopno tudi s končne postaje Laurentina podzemne linije B. Proizvodnih obratov ni: gospodarstvo sestavljajo soseska trgovina, osebne storitve in pisarne. Logistične potrebe so značilne za mestno distribucijo: oskrba prodajnih mest, dostave spletnih nakupov in storitve za male trgovine.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Laurentino"
+    ]
+  },
+  "ostiense": {
+    "profile": "Ostiense je deseta četrt Rima, med Avrelijanovim obzidjem in reko Tibero. Od leta 1907 je bila prva industrijska cona mesta, z rečnim pristaniščem, plinohramom Gazometro, elektrarno Centrale Montemartini in osrednjo tržnico Mercati Generali, ki je bila pozneje zaprta. Danes je območje preurejeno za storitve, kulturo in univerzo: od leta 1992 je tu sedež univerze Università Roma Tre, Centrale Montemartini pa je muzej. Je prometno vozlišče s postajo Roma Ostiense, postajo Piramide podzemne linije B in končno postajo železnice Rim–Lido, cesta Via Ostiense pa vodi proti četrti EUR in obali. Logistika oskrbuje gostinstvo, trgovino, univerzo in pisarne, s pogostimi mestnimi dostavami.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostiense"
+    ]
+  },
+  "garbatella": {
+    "profile": "Garbatella je naselje, ustanovljeno leta 1920 kot vrtno naselje za delavce bližnjega rečnega pristanišča in industrijske cone Ostiense; danes ustreza urbanistični coni 11C mestnega okraja Municipio VIII. Struktura je stanovanjska, z bloki okoli dvorišč in ozkimi ulicami, ob ulici Via Cristoforo Colombo pa stoji palača regije Lacij, sedež regionalne vlade. Območje oskrbuje postaja Garbatella podzemne linije B, meji pa na postajo Roma Ostiense. Gospodarstvo sestavljajo soseska trgovina, gostinstvo, javne storitve in regionalni uradi. Dostave zahtevajo lahka vozila, primerna za notranje ulično omrežje, in dokumentacijske storitve za urade.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Garbatella"
+    ]
+  },
+  "torrino": {
+    "profile": "Torrino je cona Z. XXVII območja Agro romano, tik ob in znotraj rimske obvoznice Grande Raccordo Anulare, med cesto Via del Mare na zahodu ter ulico Via Cristoforo Colombo in cesto Pontina na vzhodu. Poleg stanovanjskih sosesk so se na območju Casal Grottoni in ob ulici Viale dell'Oceano Pacifico razvile poslovne stavbe: sedež družbe IBM, poslovni park Eurosky Business Park in stolp Torre Europarco, uradi davčne uprave Agenzia delle Entrate in operativni sedež gospodarske zbornice. Tu je tudi nakupovalno središče Euroma2. Kombinacija pisarn, velike trgovine na drobno in stanovanj ustvarja dostave trgovinam, pisarniški material in veliko število paketov za zasebnike.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torrino"
+    ]
+  },
+  "spinaceto": {
+    "profile": "Spinaceto je urbanistična cona 12G mestnega okraja Municipio IX, južno od rimske obvoznice Grande Raccordo Anulare, med cesto Via di Mezzocammino in cesto Via Pontina; ime označuje tudi zaselek mesta Roma Capitale. Četrt je bila načrtovana v okviru programov socialne stanovanjske gradnje v šestdesetih in sedemdesetih letih, s storitvami in trgovino v soseski. Povezava s podzemno linijo B, predvidena v prostorskem načrtu iz leta 1968, ni bila nikoli zgrajena, javni prevoz pa zagotavljajo avtobusi. Neposreden dostop do ceste Pontina jo povezuje tako s četrtjo EUR kot s proizvodnima središčema Castel Romano in Pomezia. Logistične potrebe se nanašajo predvsem na distribucijo na drobno in dostave stanovanjem.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spinaceto"
+    ]
+  },
+  "trigoria": {
+    "profile": "Trigoria je zaselek mesta Roma Capitale na območju Castel di Decima, zunaj rimske obvoznice Grande Raccordo Anulare in vzhodno od ceste Pontina, na robu naravnega rezervata Decima-Malafede. Znana je po športnem središču Fulvio Bernardini, kjer trenira nogometni klub AS Roma, in po univerzi Università Campus Bio-Medico z univerzitetno bolnišnico. Preostalo ozemlje izmenjuje redko poselitev in podeželje območja Agro romano. Univerzitetna bolnišnica ustvarja posebno logistično povpraševanje: zdravila, medicinski pripomočki, laboratorijski material in zdravstveni material, ki jih je treba dostaviti s sledljivostjo, poleg storitev za športne objekte in stanovanjske uporabnike.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Trigoria"
+    ]
+  },
+  "castel-romano": {
+    "profile": "Castel Romano je urbanistična cona 12M mestnega okraja Municipio IX, vklinjena med cesto Pontina in cesto Via di Pratica di Mare; konzorcijska industrijska cona leži na 23. kilometru ceste Pontina in obsega 266 hektarjev, od tega 191 industrijskih. Industrijska cona Pontina, ustanovljena leta 1952, je od šestdesetih let sprejela metalurška raziskovalna središča, telekomunikacijska podjetja, živilski konzorcij in filmske studie Dina De Laurentiisa, ki so bili leta 2014 preurejeni v tematski park Cinecittà World. Od leta 2003 tu deluje outlet Castel Romano Designer Outlet. Za logistiko so pomembni stalna oskrba trgovin v outletu, upravljanje vračil, oskrba parka in industrijski tokovi ob cesti Pontina.",
+    "sectors": [
+      "tessile-moda",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Romano",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "santa-palomba": {
+    "profile": "Santa Palomba je območje, razdeljeno med Rim, kraja Ardea in Pomezia; rimski del je urbanistična cona 12N mestnega okraja Municipio IX. Med 20. in 23. kilometrom ceste Ardeatina, okoli postaje Pomezia-Santa Palomba, je zraslo industrijsko območje, kjer imajo sedež Fiorucci, Angelini, ABB, Johnson & Johnson in Procter & Gamble. Konzorcijska cona obsega 483 hektarjev in je največja na območju Rim–Latina; v njej delujejo logistični izvajalci, kot so DHL Supply Chain, GLS in STEF, ter platforme velike trgovine na drobno. Terminal SGT je prvi v regiji Lacij po številu pretovorjenih intermodalnih enot. Na območju so zgoščeni tokovi blaga široke porabe, hlajenega blaga in farmacevtskih izdelkov.",
+    "sectors": [
+      "gdo-retail",
+      "farmaceutico",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santa_Palomba",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "tor-vergata": {
+    "profile": "Tor Vergata je posestvo v območju Agro romano med cestama Tuscolana in Casilina, zunaj rimske obvoznice Grande Raccordo Anulare, na območju Torre Gaia; tu ima sedež univerza Università degli Studi di Roma Tor Vergata, druga državna univerza v prestolnici, s kampusom na približno petsto hektarjih. Na območju je tudi bolnišnica Policlinico Tor Vergata, univerzitetna bolnišnica, odprta ob koncu devetdesetih let. Cestni sistem povezuje območje z avtocesto A1 in odcepom Roma Sud. Lokalna logistika je osredotočena na zdravstvo in raziskave: zdravila, medicinski pripomočki, reagenti in laboratorijski instrumenti s sledljivostjo, poleg storitev za študente in prebivalce bližnjih sosesk.",
+    "sectors": [
+      "farmaceutico",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Gaia",
+      "https://it.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_di_Roma_Tor_Vergata"
+    ]
+  },
+  "romanina": {
+    "profile": "Romanina je urbanistična cona 10G mestnega okraja Municipio VII, zunaj in tik ob rimski obvoznici Grande Raccordo Anulare, med cesto Via Tuscolana in avtocesto A1; trgovsko območje oskrbuje izvoz 20 obvoznice GRA. Od osemdesetih let je doživela močno stanovanjsko, poslovno in predvsem trgovsko širitev, z eno največjih zgostitev nakupovalnih središč v mestu. Od leta 1982 do 2018 so bile tu enote univerze Tor Vergata, nekdanje delavnice Officine Marconi pa so preurejene v kulturni center. Za logistiko je območje dostavna točka za veliko trgovino na drobno in specializirane prodajalne, s hitrim dostopom do obvoznice GRA in avtoceste.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Romanina"
+    ]
+  },
+  "cinecitta": {
+    "profile": "Cinecittà je ime, s katerim se označuje območje četrti Don Bosco v mestnem okraju Municipio VII, med cestama Casilina in Tuscolana, ki ga na dva dela deli avenija Viale Palmiro Togliatti. Četrt je od petdesetih let rasla okoli filmskih studiev Cinecittà, ustanovljenih leta 1936, oskrbuje pa jo linija A podzemne železnice ob cesti Tuscolana. Gospodarstvo združuje avdiovizualno produkcijo, trgovino in gosto stanovanjsko pozidavo, z velikimi nakupovalnimi središči v južnem delu. Logistični potrebi sta dve: manipulacija scenografij, tehnične opreme in kostumov za produkcije ter mestna distribucija za eno najgosteje naseljenih območij mesta.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Don_Bosco_(Roma)"
+    ]
+  },
+  "anagnina": {
+    "profile": "Anagnina je dobila ime po cesti, ki se iz Rima vzpenja proti območju Castelli Romani: na območju med krajem Osteria del Curato in rimsko obvoznico Grande Raccordo Anulare sta končna postaja linije A podzemne železnice in avtobusni terminal linij Cotral proti območju Castelli Romani in južnemu Laciju. Od šestdesetih let so se ob cesti Anagnina naselila mala in srednja predelovalna podjetja, poleg zgodovinskih obratov telekomunikacijske industrije, ki jih je spodbujal sklad Cassa per il Mezzogiorno. Zunaj obvoznice GRA, v kraju Torre di Mezzavia, od leta 2004 deluje veliko nakupovalno središče. Iz tega izhajajo tokovi blaga za trgovine in obrtnike ter odhodne dostave proti kraju Ciampino in območju Castelli Romani.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Osteria_del_Curato_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/Via_Anagnina"
+    ]
+  },
+  "tuscolano": {
+    "profile": "Tuscolano je osma četrt Rima, v vzhodnem delu mesta, tik ob Avrelijanovem obzidju, ime pa je dobila po cesti Via Tuscolana, ki jo prečka skupaj s cesto Appia Nuova. Gre za gosto naseljeno četrt, zasnovano že leta 1911, z intenzivno stanovanjsko gradnjo, sosesko tržnicami in dolgim nizom trgovin ob obeh vpadnicah; linija A podzemne železnice poteka pod cesto Tuscolana. Proizvodnih obratov ni, so pa preurejena nekdanja skladišča javnega prometa. Logistika je tu mestna distribucija v soseski: oskrba trgovin in gostinskih lokalov na zgoščenih ulicah, dostave na dom in prevzem vračil.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tuscolano"
+    ]
+  },
+  "appio-latino": {
+    "profile": "Appio-Latino je deveta četrt Rima, v jugovzhodnem delu, tik ob Avrelijanovem obzidju, ime pa je dobila po cestah Via Appia Antica in Via Latina. Poleg strnjene stanovanjske pozidave ob cesti Appia Nuova, s soseska tržnico Metronio in številnimi trgovinami, obsega četrt obsežne zavarovane zelene površine, kot je park Caffarella, povezan s parkom Appia Antica. Gradbišča linije C podzemne železnice zadevajo območje Amba Aradam. Logistika mora upoštevati arheološke in krajinske omejitve, stanovanjske ulice ter dostave trgovinam in gostinstvu, z vozili majhne nosilnosti in dogovorjenimi urami.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Appio-Latino"
+    ]
+  },
+  "ostia": {
+    "profile": "Ostia, uradno Lido di Ostia, je obalni zaselek Rima in sedež mestnega okraja Municipio X, ob Tirenskem morju, omejuje pa ga reka Tibera, ki ga ločuje od občine Fiumicino. S središčem ga povezujejo železnica Rim–Lido, cesta Via del Mare in ulica Via Cristoforo Colombo. Gospodarstvo je odvisno od trgovine, storitev in kopališkega turizma, s kopališči ob obali, rimskim turističnim pristaniščem in privlačnostjo izkopavanj Ostia Antica. Stalno prebivalstvo je številno, poleti pa se poveča dnevni pritok iz Rima. Iz tega izhajajo izrazito sezonske dostave za kopališča, gostinstvo in trgovino ter stalen tok paketov za prebivalce.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostia_(Roma)"
+    ]
+  },
+  "acilia": {
+    "profile": "Acilia je uradno predmestno naselje Rima v mestnem okraju Municipio X, na 18. do 19. kilometru ceste Via del Mare med četrtjo EUR in Ostio; Acilia Nord se razprostira med reko Tibero in cesto Via Ostiense, Acilia Sud od te ceste proti ulici Via Cristoforo Colombo, zunaj rimske obvoznice Grande Raccordo Anulare. Nastala je leta 1919 kot naselje ob melioraciji, zrasla pa je v veliko stanovanjsko četrt, ki jo oskrbuje železnica Rim–Lido. Ob cesti Via Ostiense, ki je v rimski dobi povezovala mesto s pristanišči v Ostii, so zgoščeni trgovina, obrt in storitve. Logistične potrebe se nanašajo na distribucijo na drobno, gradbeni material in dostave stanovanjem.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Acilia"
+    ]
+  },
+  "infernetto": {
+    "profile": "Infernetto je zaselek Rima v mestnem okraju Municipio X, zunaj rimske obvoznice Grande Raccordo Anulare, na vzhodni strani ulice Via Cristoforo Colombo, med borovim gozdom Castel Fusano in predsedniškim posestvom Castelporziano. Nastal je po vojni, ko je od leta 1947 zadruga parcelirala obsežno območje, razvil pa se je kot redko pozidana četrt vil in nizkih hiš z vrtovi. Gospodarske dejavnosti so skoraj izključno soseska trgovina in storitve. Razpršenost naselja in dolžina cestnega omrežja delata dostave manj učinkovite kot v strnjenih četrtih: potrebne so načrtovane ture za pakete, dostavo živil na dom in manjša gradbena dela.",
+    "sectors": [
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Infernetto"
+    ]
+  },
+  "casal-palocco": {
+    "profile": "Casal Palocco je cona Z. XXXIV Rima, v jugozahodnem delu mesta, onkraj rimske obvoznice Grande Raccordo Anulare, med cesto Via del Mare in ulico Via Cristoforo Colombo, na meji z naseljema Acilia in Infernetto. Gre za stanovanjsko naselje, načrtovano v šestdesetih letih, v katerem so bile stanovanjske, trgovske in športne površine določene že v projektu: nakupovalno središče Le Terrazze in številni športni objekti so del prvotne zasnove. Pozidava so pretežno vile in stanovanjski kompleksi v zelenju. Lokalna logistika se nanaša na dostave paketov in pohištva stanovanjem, oskrbo nakupovalnih središč ter vzdrževanje hiš in vrtov.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Casal_Palocco"
+    ]
+  },
+  "magliana": {
+    "profile": "Magliana se razprostira ob istoimenski cesti, na desnem bregu reke Tibere, v mestnem okraju Municipio XI, med cesto Via Portuense in reko, znotraj rimske obvoznice Grande Raccordo Anulare. Stanovanjska četrt, večinoma zgrajena v sedemdesetih letih, leži pod višino drugega nasipa Tibere in jo varujejo črpališča; na severu se razprostira naravni rezervat Tenuta dei Massimi. Območje je blizu avtoceste Rim–Fiumicino in postaj linije FL1, četrt EUR pa je na drugem bregu reke. Ob cesti Via della Magliana se izmenjujejo trgovina, obrt in storitve. Logistične potrebe združujejo mestno distribucijo in hitre povezave proti letališču Fiumicino.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Magliana"
+    ]
+  },
+  "ponte-galeria": {
+    "profile": "Ponte Galeria je cona Z. XLI mestnega okraja Municipio XI, zunaj rimske obvoznice Grande Raccordo Anulare, med reko Tibero na jugu in avtocesto A12 Rim–Civitavecchia na zahodu, prečkata pa jo avtocesta Rim–Fiumicino in železnica FL1. Tu je rimski sejem Fiera di Roma z devetimi paviljoni in kongresnim centrom, ob njem pa trgovska in veleprodajna središča. Lega med mestom in letališčem Fiumicino jo dela za območje skladišč in storitev za špediterje in kurirje. Logistično povpraševanje obsega sejemske postavitve s kratkimi roki montaže, blago za tovorno središče Cargo City v kraju Fiumicino in distribucijo za zahodni del Rima.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponte_Galeria",
+      "https://it.wikipedia.org/wiki/Fiera_di_Roma"
+    ]
+  },
+  "capannelle": {
+    "profile": "Capannelle je cona Z. XVIII območja Agro romano, v jugovzhodnem delu, tik ob in znotraj rimske obvoznice Grande Raccordo Anulare, med cestama Via Tuscolana in Appia Nuova. Oskrbuje jo postaja Capannelle na progi Rim–Cassino–Neapelj, z regionalnimi vlaki FL4 in FL6; do leta 1978 jo je tramvajska proga povezovala z območjem postaje Termini. Ozemlje obsega hipodrom Ippodromo delle Capannelle, dele parka Parco degli Acquedotti in stanovanjske soseske, kot je Lucrezia Romana, blizu letališča Ciampino. Logistične potrebe se nanašajo na prireditve in športne objekte, distribucijo v soseskah ter povezave z letališčem in cesto Appia.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Capannelle_(zona_di_Roma)"
+    ]
+  },
+  "morena": {
+    "profile": "Morena je urbanistična cona 10L mestnega okraja Municipio VII, vzhodno od prestolnice, zunaj rimske obvoznice Grande Raccordo Anulare in na obeh straneh ceste Via Anagnina. Je pretežno stanovanjska četrt, ki povezuje območje Tor Vergata, letališče Ciampino in območje Castelli Romani, v zadnjih desetletjih pa je hitro rasla. Ob cesti Anagnina so trgovske dejavnosti, obrtniki in manjša skladišča, ki oskrbujejo tudi sosednjo občino Ciampino. Logistične potrebe so povezane z distribucijo blaga široke porabe, gradbenim materialom za stanovanjsko gradnjo in dostavami na dom na območju z gostim prometom ob vpadnici.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Morena_(zona_di_Roma)"
+    ]
+  },
+  "falcognana": {
+    "profile": "Falcognana je zaselek Rima na območju Castel di Leva, v mestnem okraju Municipio IX, na 14. kilometru ceste Via Ardeatina, zunaj rimske obvoznice Grande Raccordo Anulare, približno dva kilometra od svetišča Divino Amore. Ozemlje, deloma še kmetijsko, je predmet podrobnega načrta za stanovanjsko gradnjo. V kamnolomu ob cesti Ardeatina je bilo urejeno odlagališče, določeno kot nadomestna lokacija za odlagališče Malagrotta, kar je sprožilo proteste prebivalcev in sosednje občine Marino. Lega ob cesti Ardeatina, med obvoznico GRA in proizvodnim območjem Santa Palomba, je pomembna za prevoz gradbenega materiala, obdelavo odpadkov in distribucijo proti območju Castelli Romani.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Falcognana",
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "cecchignola": {
+    "profile": "Cecchignola v južnem delu Rima med cestama Laurentina in Ardeatina je znana predvsem po vojaškem mestu: od tridesetih let je inšpektorat inženirskih enot tu načrtoval naselje za vrhovna poveljstva ob osi, ki se danes imenuje Viale dell'Esercito, kjer ima od leta 1955 sedež zgodovinski muzej vojaške motorizacije. Poleg vojašnic in šol kopenske vojske so nastale nove stanovanjske soseske, kot so tiste v kraju Tor Pagnotta. Povezava z rimsko obvoznico Grande Raccordo Anulare je hitra. Logistično povpraševanje se nanaša na oskrbo vojaških objektov, material za stanovanjska gradbišča in distribucijo v novih soseskah.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cecchignola",
+      "https://it.wikipedia.org/wiki/Castello_della_Cecchignola"
+    ]
+  },
+  "vitinia": {
+    "profile": "Vitinia leži v jugozahodnem delu Rima, na območju Mezzocammino mestnega okraja Municipio IX, zunaj rimske obvoznice Grande Raccordo Anulare, med cesto Via Ostiense na severu in ulico Via Cristoforo Colombo na jugu, oskrbuje pa jo železnica Rim–Lido. Četrt je nastala po vojni z rednim parceliranjem: vile in manjši stanovanjski bloki, ki le redko presegajo dve nadstropji, s prvimi trgovinami že leta 1949. Na ozemlju je vojaško skladišče goriv Mezzocammino. Gospodarstvo je stanovanjsko in trgovsko. Logistične potrebe se nanašajo na dostave prebivalcem, oskrbo trgovin ob cesti Ostiense in povezave proti četrti EUR in Ostii.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Vitinia"
+    ]
+  },
+  "mezzocammino": {
+    "profile": "Mezzocammino je cona Z. XXXI območja Agro romano, v dolini reke Tibere, zunaj rimske obvoznice Grande Raccordo Anulare, med reko in ulico Via Cristoforo Colombo. Ime izhaja iz antične postaje za počitek tovornih čolnov, ki so plule po Tiberi od pristanišča v Ostii proti Rimu. Obvoznica GRA prečka reko po mostu Ponte di Mezzocammino, odprtem leta 1951, ki je od leta 2003 nacionalni spomenik. V zadnjih letih so na območju nastala nova stanovanjska naselja, na železnici Rim–Lido pa se gradi postaja Torrino-Mezzocammino. Lokalna logistika se nanaša na gradbišča, distribucijo za nove soseske in dostave prebivalcem na območju z malo cestami.",
+    "sectors": [
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Mezzocammino"
+    ]
+  },
+  "castel-di-leva": {
+    "profile": "Castel di Leva je cona Z. XXIII območja Agro romano, v južnem delu, zunaj rimske obvoznice Grande Raccordo Anulare, meji pa na letališče Ciampino in na občine Marino, Castel Gandolfo, Albano Laziale, Ardea in Pomezia. Ob cesti Via Ardeatina je romarsko svetišče Madonna del Divino Amore, ozemlje pa obsega tudi rimski del območja Santa Palomba in zaselek Falcognana. Ostajajo obsežne kmetijske površine rimskega podeželja. Območje združuje tokove romarjev, kmetijstvo in bližino industrijske cone Santa Palomba: iz tega izhajajo dostave za verske nastanitvene objekte, kmetijski pridelki in prevozi proti proizvodnim središčem na jugu.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "tor-bella-monaca": {
+    "profile": "Tor Bella Monaca je zaselek Rima na območju Torre Angela, v mestnem okraju Municipio VI, na severni strani ceste Via Casilina, zunaj rimske obvoznice Grande Raccordo Anulare, na valovitem terenu, ki ga prečka istoimenski jarek. V preteklosti sta bila na območju tovarna Breda in carinska postaja Torrenova; s prostorskim načrtom iz leta 1962 je bilo razglašeno za območje širitve, v osemdesetih letih pa je bila tu zgrajena velika četrt javnih stanovanj. Nove ceste jo povezujejo z univerzo Tor Vergata. Gospodarstvo je stanovanjsko, s trgovino v soseski. Logistika se nanaša na distribucijo blaga široke porabe in dostave na dom v gosto naseljenih stavbah.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Bella_Monaca"
+    ]
+  },
+  "torre-angela": {
+    "profile": "Torre Angela je cona Z. XIII območja Agro romano in urbanistična cona 8F mestnega okraja Municipio VI, zunaj rimske obvoznice Grande Raccordo Anulare, ob cesti Via Casilina, z grobnicami iz cesarske dobe na območju Torrenova. Nastala je kot podeželsko naselje in se preoblikovala v gosto naseljeno četrt z deloma nenačrtovano urbanizacijo; oskrbuje jo linija C podzemne železnice, ki poteka ob cesti Casilina. Trgovina je zgoščena ob vpadnici, s trgovinami, obrtniki in manjšimi skladišči. Logistične potrebe se nanašajo na oskrbo trgovin ob cesti Casilina, gradbeni material za prenove in veliko število dostav stanovanjem.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Angela"
+    ]
+  },
+  "tor-sapienza": {
+    "profile": "Tor Sapienza je cona Z. VIII Rima in urbanistična cona 7C mestnega okraja Municipio V, v vzhodnem delu, znotraj rimske obvoznice Grande Raccordo Anulare, med cesto Via Prenestina in mestnim odsekom avtoceste A24. Poleg stanovanjskih sosesk so na območju proizvodni obrati: rimska pivovarna Birra Peroni, vojaško središče za vzdrževanje telekomunikacijskih naprav in nekdanje tovarne, v eni od katerih je muzej MAAM. Dostop do avtoceste A24 in obvoznice GRA dela območje primerno za skladišča in distribucijo. Logistične potrebe obsegajo pijače v velikih količinah, industrijske komponente in distribucijo proti vzhodnemu delu mesta.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Sapienza"
+    ]
+  },
+  "centocelle": {
+    "profile": "Centocelle je urbanistična cona 7A mestnega okraja Municipio V, v vzhodnem delu Rima, ime pa je dobila po območju nekdanjega vojaškega letališča, danes arheološkega parka. Četrt, ki se je razvijala od dvajsetih let z nizkimi hišami za delavce, obrtnike in male trgovce, je danes ena najgosteje naseljenih v mestu. Linija C podzemne železnice, odprta v letih 2014–2015, jo prečka s tremi postajami, železnica Rim–Giardinetti pa jo ob cesti Casilina povezuje z območjem postaje Termini. Trgovina je razpršena, s soseskimi tržnicami in osmi, kot je ulica Via dei Castani. Logistika je soseska: vsakodnevna oskrba trgovin in gostinstva ter dostave na dom po ozkih ulicah.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Centocelle"
+    ]
+  }
+}

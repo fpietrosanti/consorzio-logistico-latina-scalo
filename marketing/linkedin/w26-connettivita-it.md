@@ -2,34 +2,31 @@
 week: 26
 date: "2027-03-30"
 pillar: "Infrastrutture"
-title: "Connettività e infrastruttura IT: il magazzino è digitale"
+title: "Fibra ottica dedicata, Wi-Fi industriale e WMS: l'infrastruttura digitale del polo"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-💻 Un magazzino senza connettività è un magazzino cieco. Oggi la logistica si gestisce in tempo reale — e serve un'infrastruttura IT che regga il ritmo.
+Il polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), dispone di fibra ottica dedicata e Wi-Fi industriale. Sulla rete lavora il sistema WMS (software di gestione del magazzino) che registra giacenze e movimenti.
 
-Al Consorzio Logistico Latina Scalo abbiamo investito nella digitalizzazione delle operazioni perché sappiamo che i nostri clienti hanno bisogno di dati, non di supposizioni:
+Le applicazioni operative:
+- registrazione della merce in ingresso, con codice articolo, quantità e, su richiesta, lotto;
+- ubicazione di ogni unità di carico e movimenti tra le aree;
+- prelievo per la preparazione degli ordini e conferma delle uscite;
+- emissione di DDT e bolle e tracciabilità delle spedizioni;
+- integrazione con i gestionali del committente.
 
-🔹 WMS (Warehouse Management System) per la gestione integrata delle giacenze
-🔹 Connettività a banda larga estesa a tutto il polo logistico
-🔹 Copertura Wi-Fi industriale nei capannoni per terminali mobili e scanner
-🔹 Integrazione con i sistemi gestionali dei clienti (ERP, e-commerce, marketplace)
-🔹 Reportistica in tempo reale su giacenze, movimenti e KPI operativi
+Formati di scambio, frequenza degli aggiornamenti e flussi di dati si definiscono in fase di avvio, sulla base del gestionale in uso presso il committente. Le stesse registrazioni valgono per la merce al coperto e per quella stoccata sui 25.000 metri quadrati di piazzale.
 
-Per un operatore e-commerce, questo significa vedere in tempo reale quanti pezzi ha a stock. Per un distributore GDO, significa ricevere l'avviso automatico quando un prodotto scende sotto la soglia di riordino. Per un'azienda manifatturiera, significa tracciare ogni pallet dal momento in cui entra nel nostro hub fino alla consegna.
+Il Consorzio dichiara un'operatività 24 ore su 24, 7 giorni su 7.
 
-L'infrastruttura IT non è un optional. È il sistema nervoso della logistica moderna.
+Scheda della gestione documentale: https://consorziologistico.it/servizi/gestione-documentale/
 
-E nella Zona Logistica Semplificata del Lazio, la digitalizzazione è anche uno degli assi strategici di sviluppo del territorio — un motivo in più per scegliere Latina Scalo come base operativa.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-La tecnologia c'è. L'infrastruttura c'è. I dati parlano chiaro.
-
-👉 Vuoi integrare la tua logistica con i nostri sistemi? consorziologistico.it oppure WhatsApp wa.me/390773316008
-
-#WMS #logisticadigitale #infrastruttura #IT #warehouse #ecommerce #ERP #latinascalo #lazio #3PL
+#WMS #logistica #digitalizzazione #magazzino #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un operatore in magazzino che utilizza un terminale palmare/scanner per la lettura barcode, con schermata WMS visibile su un monitor in secondo piano. Ambiente tecnologico e ordinato. Sovrimpressione: "Real-time | Il magazzino è digitale."
+Foto di repertorio `topics/inventario-barcode` (data/images.json): terminale con lettore di codici a barre. Non è una foto del polo: non presentarla come tale.

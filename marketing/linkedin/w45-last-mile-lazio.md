@@ -2,41 +2,31 @@
 week: 45
 date: "2027-08-10"
 pillar: "Servizi"
-title: "Last-mile delivery nel Lazio"
+title: "Ultimo miglio verso Roma sud da Latina Scalo: distanze e tempi su strada"
 languages: ["it"]
 ---
 
 ## Post LinkedIn — Italiano
 
-🚚 **Last-mile delivery nel Lazio: l'ultimo chilometro fa la differenza**
+Servire il quadrante sud di Roma da un magazzino esterno al Grande Raccordo Anulare significa aggiungere a ogni giro di consegna un trasferimento di andata e ritorno. Il dato di partenza è la distanza su strada.
 
-Il cliente ha ordinato. Il pacco e pronto. Ma e nell'**ultimo miglio** che si gioca la partita della soddisfazione — e della fidelizzazione.
+Dal polo del Consorzio Logistico Latina Scalo, in Via della Dinamica a Latina Scalo (LT), i valori calcolati per autovettura in traffico regolare sono:
+- Pomezia: circa 49,8 km, circa 50 minuti
+- Santa Palomba: circa 54,8 km
+- Castel Romano: circa 57,1 km
+- Roma EUR: circa 70,4 km, circa 70 minuti
+- Fiumicino: circa 89,5 km, circa 86 minuti
 
-Dal Consorzio Logistico Latina Scalo gestiamo consegne last-mile su tutto il territorio laziale, con un modello pensato per chi ha bisogno di **velocita, affidabilita e capillarita**.
+Per furgoni e autocarri, e nelle ore di punta, i tempi effettivi sono più lunghi. Le zone a ovest del quadrante si raggiungono dalla SS148 Pontina, che tra Roma e Borgo Piave ha due carreggiate separate a due corsie per senso di marcia; tra Pomezia e Latina nord il limite di velocità è stato abbassato da 110 a 80 km/h.
 
-🔹 **Copertura regionale completa** — Da Roma centro alle province di Latina, Frosinone, Rieti e Viterbo. Raggiungiamo centri urbani, zone industriali e aree rurali con la stessa efficienza.
+Il Consorzio esegue la distribuzione dell'ultimo miglio con una flotta dedicata, con giri di consegna pianificati per zona e per finestra oraria del destinatario. Per la provincia di Latina le distanze sono minori: Latina centro dista circa 8,4 km.
 
-🔹 **Consegne same-day e next-day** — Per i clienti B2C ed e-commerce, offriamo finestre di consegna ridotte con tracking in tempo reale e notifiche automatiche al destinatario.
+L'approfondimento, con le regole di accesso a Roma per i veicoli merci: https://consorziologistico.it/approfondimenti/ultimo-miglio-roma-da-latina/
 
-🔹 **Distribuzione B2B programmata** — Rifornimento periodico per punti vendita, farmacie, cantieri e stabilimenti. Giri di consegna ottimizzati per ridurre costi e impatto ambientale.
+Informazioni e preventivi: consorziologistico.it, WhatsApp +39 0773 316008.
 
-🔹 **Gestione resi e reverse logistics** — Il last-mile non e solo andata. Gestiamo ritiri, resi e ricondizionamento con la stessa cura della consegna diretta.
-
-🔹 **Hub di smistamento strategico** — I nostri 25.000 mq scoperti e le baie di carico permettono operazioni di smistamento rapido e partenze multiple giornaliere.
-
-**Il vantaggio della posizione:**
-
-📍 60 km da Roma — consegne nella Capitale in giornata
-📍 80 km da Fiumicino — raccordo con spedizioni aeree
-📍 40 km dal Porto di Gaeta — ultimo miglio per merci marittime
-📍 Dentro la ZLS del Lazio — agevolazioni per operatori logistici
-
-Che tu venda online, rifornisca la GDO o distribuisca prodotti farmaceutici, il tuo ultimo miglio parte da qui.
-
-👉 Scopri le nostre soluzioni di consegna: wa.me/390773316008
-
-#LastMile #UltimoMiglio #Delivery #Ecommerce #LogisticaLazio #SupplyChain #3PL #LatinaScalo #ConsegneRapide #B2B #B2C #ReverseLogistics #ConsorzioLogistico #GDO
+#ultimomiglio #lastmile #roma #distribuzione #latinascalo
 
 ## Suggerimento Immagine
 
-Foto di un furgone brandizzato in partenza dalle baie di carico del polo logistico, con un operatore che carica gli ultimi colli. Sullo sfondo il piazzale con altri mezzi pronti alla partenza. Mappa stilizzata del Lazio sovrapposta come elemento grafico, con pin sulle principali destinazioni. Luce del primo mattino.
+Foto di repertorio `topics/centro-distribuzione` (data/images.json): furgoni e mezzi in partenza. Non è una foto del polo né della flotta del Consorzio: non presentarla come tale.

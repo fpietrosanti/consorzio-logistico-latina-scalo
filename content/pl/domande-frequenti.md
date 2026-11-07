@@ -1,7 +1,7 @@
 ---
 linkTitle: "Najczęściej zadawane pytania"
 title: "Najczęściej zadawane pytania o centrum logistyczne w Latina Scalo"
-description: "Odpowiedzi dotyczące powierzchni, wyposażenia, usług, połączeń, ofert i strefy ZLS centrum Consorzio Logistico Latina Scalo przy Via della Dinamica, Latina (LT)."
+description: "Odpowiedzi dotyczące powierzchni, wyposażenia, usług, połączeń, ofert i ZLS centrum Consorzio Logistico Latina Scalo przy Via della Dinamica, Latina (LT)."
 url: "/pl/faq/"
 layout: "faq"
 faq:

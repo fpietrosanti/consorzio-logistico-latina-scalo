@@ -13,14 +13,14 @@ Lavoro autonomo fino alla fine.
 - Commit + push a ogni fase.
 
 ## Fasi
-- [ ] A1 Guida di stile dalle testate di settore → docs/STYLE-GUIDE.md (agente)
-- [ ] A2 Verifica fatti (ZLS/ZES, poli logistici) → docs/FACTS.md (agente)
-- [ ] A3 Dati comuni: elenco + coordinate + P18 immagine (Wikidata) → data/places.json
-- [ ] A4 Distanze/tempi/strade OSRM dall'hub → data/places.json
-- [ ] A5 Download immagini + attribuzioni → static/img/places/, data/images.json
-- [ ] B  Ristrutturazione Hugo multilingua (content/it, i18n, layout geo/blog, hreflang, schema.org, selettore lingua)
-- [ ] C  Contenuti IT: settori (8), blog (12+), hub geografici, FAQ, profili comuni
-- [ ] D  Generatore pagine comuni (tools/gen_places.py) per tutte le lingue
+- [x] A1 Guida di stile dalle testate di settore → docs/STYLE-GUIDE.md (agente)
+- [x] A2 Verifica fatti (ZLS/ZES, poli logistici) → docs/FACTS.md (agente)
+- [x] A3 Dati comuni: elenco + coordinate + P18 immagine (Wikidata) → data/places.json
+- [x] A4 Distanze/tempi/strade OSRM dall'hub → data/places.json
+- [x] A5 Download immagini + attribuzioni → static/img/places/, data/images.json
+- [x] B  Ristrutturazione Hugo multilingua (content/it, i18n, layout geo/blog, hreflang, schema.org, selettore lingua)
+- [x] C  Contenuti IT: settori (8), blog (12+), hub geografici, FAQ, profili comuni
+- [x] D  Generatore pagine comuni (tools/gen_places.py) per tutte le lingue
 - [ ] E  Traduzioni: 23 lingue UE + zh (un agente per lingua)
 - [ ] F  Build, verifica, commit, push, verifica live
 - [ ] G  LinkedIn: W1–W5 pubblicati il 2026-11-07; programmare W6+ con lo scheduler nativo
@@ -28,13 +28,17 @@ Lavoro autonomo fino alla fine.
 ## Traduzioni (fase E) — coda
 Brief: docs/TRANSLATION-BRIEF.md. Stato: `python tools/translation_status.py`. Gruppi per lingua: nucleo / settori-hub / articoli.
 Dopo ogni lingua completa: `python tools/gen_places.py <lang>` (stub comuni + crediti), build, commit.
-- Ondata 1 (avviata 2026-11-07): en, de, fr, es, zh, pt (3 gruppi), nl (nucleo, settori-hub).
-- In coda: nl articoli; pl (3); ro, el, cs, hu, sv, bg, hr, sk, sl, da, fi, lt, lv, et, ga, mt (3 ciascuna).
+- Complete (QA ok): en, de, fr, es, pt, zh. In corso: nl (articoli), pl, ro, el, cs, hu, sv, bg (nucleo).
+- In coda: bg (settori-hub, articoli); hr, sk, sl, da, fi, lt, lv, et, ga, mt (3 ciascuna).
+- QA: `python tools/qa_translations.py <lang>`; GEO: /llms.txt per lingua.
 - Limite: 20 sub-agenti concorrenti.
 
 ## Note per Fabio (da confermare con il Consorzio)
 - docs/DOTAZIONI.md "Da confermare": certificazioni, range celle, posti pallet, tariffe, inclusione del lotto in ZLS/ASI.
 - Post LinkedIn W1–W5 già pubblicati contenevano errori (Gaeta 40 km, "operiamo in ZLS", HACCP certificato): correggere.
+
+## LinkedIn
+- W1–W5 corretti (testi verificati) il 2026-11-07. Bozze W6–W52 in revisione (agente), poi programmazione con lo scheduler nativo (max ~3 mesi avanti).
 
 ## Log
 - 2026-11-07: LinkedIn W1–W5 pubblicati sulla Company Page.

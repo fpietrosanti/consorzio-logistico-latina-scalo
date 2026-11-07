@@ -1,7 +1,7 @@
 ---
 linkTitle: "Sectoare"
 title: "Sectoare deservite"
-description: "Logistică pentru terți la Latina Scalo pentru opt sectoare, de la agroalimentar la industria prelucrătoare: 19.000 m² acoperiți și 25.000 m² de spații descoperite."
+description: "Logistică pentru terți la Latina Scalo pentru opt sectoare, de la agroalimentar la industria prelucrătoare: 19.000 m² acoperiți și 25.000 m² descoperiți."
 url: "/ro/sectoare/"
 layout: "settori"
 ---

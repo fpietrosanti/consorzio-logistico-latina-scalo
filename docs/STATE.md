@@ -25,5 +25,16 @@ Lavoro autonomo fino alla fine.
 - [ ] F  Build, verifica, commit, push, verifica live
 - [ ] G  LinkedIn: W1–W5 pubblicati il 2026-11-07; programmare W6+ con lo scheduler nativo
 
+## Traduzioni (fase E) — coda
+Brief: docs/TRANSLATION-BRIEF.md. Stato: `python tools/translation_status.py`. Gruppi per lingua: nucleo / settori-hub / articoli.
+Dopo ogni lingua completa: `python tools/gen_places.py <lang>` (stub comuni + crediti), build, commit.
+- Ondata 1 (avviata 2026-11-07): en, de, fr, es, zh, pt (3 gruppi), nl (nucleo, settori-hub).
+- In coda: nl articoli; pl (3); ro, el, cs, hu, sv, bg, hr, sk, sl, da, fi, lt, lv, et, ga, mt (3 ciascuna).
+- Limite: 20 sub-agenti concorrenti.
+
+## Note per Fabio (da confermare con il Consorzio)
+- docs/DOTAZIONI.md "Da confermare": certificazioni, range celle, posti pallet, tariffe, inclusione del lotto in ZLS/ASI.
+- Post LinkedIn W1–W5 già pubblicati contenevano errori (Gaeta 40 km, "operiamo in ZLS", HACCP certificato): correggere.
+
 ## Log
 - 2026-11-07: LinkedIn W1–W5 pubblicati sulla Company Page.

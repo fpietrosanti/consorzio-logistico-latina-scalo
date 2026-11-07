@@ -1,0 +1,1066 @@
+{
+  "aprilia": {
+    "profile": "Aprilia leží na severním okraji Agro Pontino, na křižovatce silnic SS148 Pontina a SS207 Nettunense, a obsluhuje ji regionální železniční linka FL8 Řím–Nettuno. Na území obce se nachází konsorciální průmyslová zóna o rozloze 256 hektarů, sdílená s obcí Lanuvio, a obec je zahrnuta do ZLS Lazio (zjednodušená logistická zóna) v rozsahu 167 hektarů. Výrobní základnu tvoří především farmacie, se závody skupin jako Pfizer, Abbott, Angelini a Recordati; zemědělství zahrnuje vinice DOC Aprilia a pramen minerální vody. Z toho plynou toky účinných látek, primárních obalů a hotových výrobků, které vyžadují sledovatelnost šarží, skladování při řízené teplotě a vyhrazenou přepravu.",
+    "sectors": [
+      "farmaceutico",
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Aprilia_(Italia)",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "bassiano": {
+    "profile": "Bassiano je horská obec v pohoří Monti Lepini s výhledem na Pontinskou nížinu, s níž ji spojuje provinční silnice Sermonetana směrem na Sermoneta a Latina Scalo. Na území obce pramení potok Brivolco, přítok řeky Ufente. Hospodářství tvoří malé potravinářské firmy: obec je známá zrající šunkou, k níž se přidává extra panenský olivový olej a víno. Italský Touring Club jí udělil oranžovou vlajku (Bandiera arancione) a jednodenní turistika se soustřeďuje na víkendy. Pro logistiku jsou objemy malé a roztříštěné: zrající uzeniny, zásilky místních specialit do distribuce a rozvoz po horských silnicích lehkými vozidly.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Bassiano"
+    ]
+  },
+  "campodimele": {
+    "profile": "Campodimele leží na krasovém pahorku v místě, kde se pohoří Monti Ausoni napojuje na Aurunci, ve vnitrozemí mezi Fondi a Itri. Obec je dostupná jedinou sjízdnou silnicí, která odbočuje ze SS82 della Valle del Liri, státní silnice stoupající z Itri do vnitrozemí. Hospodářských činností je málo a jsou malého rozsahu: mezi tradiční potravinářské produkty uznané ministerstvem patří hrachor cicerchia a domácí chléb z Campodimele a obec má oranžovou vlajku Touring Clubu. Logistické potřeby se týkají především dodávek malých šarží, zásobování obchodů a expedice luštěnin a místních specialit.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Campodimele"
+    ]
+  },
+  "castelforte": {
+    "profile": "Castelforte se nachází na východní hranici provincie Latina, na posledních výběžcích pohoří Monti Aurunci; historické centrum a místní část Suio shlížejí do údolí řeky Garigliano na hranici s Kampánií. V Suio působí lázeňská zařízení navazující na antické lázně Terme Vescine z římské doby, která spolu se zemědělstvím v údolí a malými řemeslnými firmami tvoří významnou část místní ekonomiky. Obec je zahrnuta do ZLS Lazio s 11,64 hektary v oblasti způsobilé pro regionální podporu. Místní logistika obsluhuje ubytovací a lázeňská zařízení, maloobchod a stavby, s toky směřujícími jak k Formii, tak ke Cassinu a dálnici A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castelforte",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "cisterna-di-latina": {
+    "profile": "Cisterna di Latina leží u severního vstupu do Agro Pontino, na silnici SS7 Appia a na železniční trati Řím–Neapol přes Formii; z jejího území, z Campoverde, byla v roce 2026 zahájena stavba spojky Cisterna–Valmontone k dálnici A1. Konsorciální průmyslová zóna má rozlohu 368 hektarů, z toho 192 v ZLS. Působí zde válcovna hliníku v Olmobello, závod Findus skupiny Nomad Foods na mražené potraviny pro italský trh a farmaceutické firmy jako Nuova Ompi a BSP Pharmaceuticals; v místní části Borgo Flora začalo v sedmdesátých letech pěstování kiwi. Místní dodavatelské řetězce vyžadují mrazírenský řetězec, těžké náklady kovových polotovarů a sledované farmaceutické toky.",
+    "sectors": [
+      "agroalimentare",
+      "farmaceutico",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cisterna_di_Latina",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "cori": {
+    "profile": "Cori je pahorkatinné město v severozápadní části pohoří Monti Lepini nad Pontinskou nížinou, s místní částí Giulianello směrem k Velletri. Provinční silnice jej spojují s Cisternou a silnicí Pontina, s Latina Scalo přes Doganella di Ninfa a s nájezdem na A1 ve Valmontone přes Artenu; nejpoužívanější železniční stanicí je Cisterna. Území produkuje vína DOC Cori rosso a bianco a olej z oliv odrůdy itrana, s vinařstvími a lisovnami, k nimž se přidávají výrobny sušenek, firmy na konzervy v oleji a tradice výroby dřevěných židlí. Logistika se řídí kalendářem vinobraní a sklizně oliv: sklo, paletizované lahve a distribuce do vinoték a obchodních řetězců.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cori"
+    ]
+  },
+  "fondi": {
+    "profile": "Fondi se rozkládá na rovině uzavřené pohořími Monti Ausoni a Aurunci a otevřené k Tyrhénskému moři; prochází jí SS7 Appia a s oblastí Ciociaria ji spojuje SR637 přes Lenolu; stanice Fondi-Sperlonga leží na trati Řím–Neapol přes Formii. Hospodářství se točí kolem ovoce a zeleniny: citrusové sady ustoupily zelenině, raným skleníkovým plodinám a ovoci a ve městě sídlí velkoobchodní potravinářské centrum MOF, které podle provozovatele odbaví téměř 10 milionů metrických centů ročně a nemá železniční napojení. Obec je v ZLS s 69,70 hektary. Z toho plynou noční toky při řízené teplotě, sezonní špičky a vysoká poptávka po silniční přepravě.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fondi",
+      "https://www.mof.it/index.php/mof"
+    ]
+  },
+  "formia": {
+    "profile": "Formia leží mezi výběžky pohoří Monti Aurunci a Gaetským zálivem, na silnici SS7 Appia, v místě napojení SR213 Flacca směrem na Sperlongu a Terracinu a SR630 Ausonia směrem na Cassino; stanice Formia-Gaeta leží na trati Řím–Neapol. Z přístavu vyplouvají trajekty a křídlové čluny na Ponzu a Ventotene, a město tak slouží jako základna pro zásobování ostrovů. Výrobní zóny Penitro, Ponzanello–Mamurrano a Castagneto, vzniklé v rámci bývalého Consorzio Sud Pontino, jsou spjaty s přístavem; obec je v ZLS se 124 hektary. Obchod, služby, stavebnictví a keramické a kovářské řemeslo vytvářejí městskou distribuci a konsolidaci nákladů pro nalodění.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Formia",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "gaeta": {
+    "profile": "Gaeta zaujímá výběžek, který ze západu uzavírá stejnojmenný záliv; se silnicí Appia a s Formií ji spojuje SR213 Flacca. Obchodní přístav patří pod Autorità di Sistema Portuale del Mar Tirreno Centro-Settentrionale a v roce 2025 odbavil přibližně 1,8 milionu tun, téměř výhradně kapalných a sypkých hromadných substrátů; do ZLS Lazio spadá 142,61 hektaru obce a 17,53 hektaru přístavních ploch a oblast Monte Conca je konsorciální výrobní zónou. Ve městě kotví vlajková loď Šesté flotily USA a město má zavedený přímořský cestovní ruch. Logistika kombinuje hromadné přístavní substráty, zásobování ubytovacích zařízení s letními špičkami a místní produkty, jako je oliva z Gaety.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gaeta",
+      "https://www.shippingitaly.it/2026/02/17/nei-porti-del-lazio-oltre-131-mln-di-tonnellate-e-35-mln-di-crocieristi-nel-2025/"
+    ]
+  },
+  "itri": {
+    "profile": "Itri leží v údolí pohoří Monti Aurunci, na silnici SS7 Appia mezi Fondi a Formií, kde začíná SS82 della Valle del Liri; stanice leží na trati Řím–Neapol přes Formii a pobřeží lemuje SR213 Flacca. Hlavní činností je zemědělství: oliva z Itri se zpracovává v nálevu a lisuje na olej a na kopcích se vyrábí víno Abbuoto. Obec patří do oblasti Consorzio Industriale Sud Pontino a je v ZLS s 3,70 hektaru, přičemž turistické toky z Říma a Neapole rostou. Logistické potřeby se týkají baleného oleje a oliv, se sklizní na podzim a expedicí rozloženou do celého roku.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Itri"
+    ]
+  },
+  "latina": {
+    "profile": "Latina je správním centrem Agro Pontino: SS148 Pontina ji spojuje s Římem, SS7 Appia prochází územím obce a SS156 dei Monti Lepini vede k Frosinone a dálnici A1; železniční stanice leží v Latina Scalo na trati Řím–Neapol přes Formii. Průmysl vede farmacie, následovaná chemií, potravinářstvím, mlékárenstvím, metalurgií a přesným strojírenstvím, soustředěnými v konsorciální zóně Latina Scalo a v plochách zahrnutých do ZLS v rozsahu 280 hektarů. Zemědělství zahrnuje skleníky, květinářství, zeleninu a kiwi Kiwi Latina IGP. Doplňují je veřejné úřady a terciární sektor, s poptávkou po farmaceutické logistice, chladovém řetězci a městské distribuci.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Latina",
+      "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Logistica.pdf"
+    ]
+  },
+  "lenola": {
+    "profile": "Lenola leží mezi horami Ausoni a Aurunci, na hranici provincie Latina s provincií Frosinone, podél silnice SR637, která stoupá z Fondi do Ciociarie a v údolí se napojuje na Appii. Obec je známá poutním místem Madonna del Colle a území spadá do produkční oblasti sýra mozzarella di bufala campana DOP. Hospodářskou strukturu tvoří malé zemědělské, řemeslné a obchodní firmy, orientované na trh s ovocem a zeleninou a na služby ve Fondi. Logistika se týká především čerstvých mléčných výrobků, zásobování místního obchodu a přeprav v kopcovitém terénu na ose Fondi–Frosinone.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lenola"
+    ]
+  },
+  "maenza": {
+    "profile": "Maenza je pahorkatinná obec v pohoří Monti Lepini v nadmořské výšce přibližně 360 metrů, ve vnitrozemí za Privernem a nedaleko trasy SS156 dei Monti Lepini směrem k Frosinone. Území, z velké části pokryté lesy a olivovými háji, má drobnou ekonomiku založenou na prvovýrobě a cestovním ruchu. Provozuje se zde chov drůbeže a králíků, buvolů a koní, pěstování třešní, oliv, vinné révy, pšenice a kukuřice, s menší produkcí fíků, kaki a kiwi. Logistické potřeby souvisejí s čerstvými rychle se kazícími produkty, krmivy a zemědělskými dodávkami, s rozvozem po kopcovitých provinčních silnicích.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Maenza"
+    ]
+  },
+  "minturno": {
+    "profile": "Minturno se rozkládá od kopců pohoří Monti Aurunci po pobřeží Gaetského zálivu, až k ústí řeky Garigliano a hranici s Kampánií. V místní části Scauri se SS7 Appia kříží se státní silnicí na Cassino a stanice Minturno-Scauri leží na trati Řím–Neapol. Výrobní zóny Penitro a Parchi pocházejí z bývalého Consorzio Sud Pontino a obec je v ZLS s 59,06 hektary v oblasti způsobilé pro regionální podporu. Hospodářství spojuje přímořský a archeologický cestovní ruch, s lokalitou Minturnae, zemědělství na rovině Garigliana a obchod. Z toho plynou sezonní dodávky ubytovacím zařízením a toky směrem do Kampánie a k dálnici A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Minturno",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "monte-san-biagio": {
+    "profile": "Monte San Biagio se rozkládá na výběžku pohoří Monti Ausoni nad rovinou a jezerem Lago di Fondi; prochází jím SS7 Appia. Stanici Monte San Biagio-Terracina Mare na trati Řím–Neapol přes Formii obsluhují regionální vlaky a od roku 2024 také dva dálkové spoje Intercity. Území je produkční oblastí sýra mozzarella di bufala campana DOP, oleje Colline Pontine DOP a vína Moscato di Terracina DOC a sousedí s ovocnářsko-zelinářskou oblastí Fondi. Obec je v ZLS s 12,80 hektary, mimo oblast způsobilou pro daňový odpočet. Místní logistika se týká čerstvých mléčných výrobků, oleje a vína.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_San_Biagio",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "norma": {
+    "profile": "Norma stojí na skalní stěně pohoří Monti Lepini nad Agro Pontino a zahradou Giardino di Ninfa; provinční silnice Norbana sestupuje do nížiny a autobusové linky Cotral ji spojují s Latinou přes Sermonetu a Latina Scalo. Hospodářství je založeno na pěstování oliv, drobném zemědělství a kulturním cestovním ruchu: obec hostí archeologický park antické Norby a muzeum čokolády a od roku 2023 je členem sdružení Città dell'olio. Vlastní průmyslové zóny chybějí a firmy se orientují na nížinu pod obcí. Logistické potřeby se omezují na olej, řemeslné cukrářské výrobky a zásobování obchodu a ubytovacích zařízení.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Norma_(Italia)"
+    ]
+  },
+  "pontinia": {
+    "profile": "Pontinia je plánovaně založené město v Agro Pontino, vzniklé mezi řekou Sisto a silnicí SS7 Appia, na okraji národního parku Circeo. Na jejím území se nacházejí dvě konsorciální průmyslové zóny: Mazzocchio, 445 hektarů na hranici s obcemi Priverno a Sonnino, a Pontinia, 126 hektarů sdílených s Latinou a Sabaudií; obec je v ZLS se 78,17 hektary, mimo oblast způsobilou pro daňový odpočet. V Mazzocchiu působí autodopravci, výrobci dřezů a plastových komponent pro kuchyně a koupelny, biopotravin a obalů; ve venkovských oblastech převládá zemědělství a mlékárenský průmysl, které vyžadují chlazenou přepravu a konsolidaci nákladů.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pontinia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ponza": {
+    "profile": "Ponza je hlavním ostrovem Pontinského souostroví; obec zahrnuje také ostrovy Palmarola, Gavi a Zannone. Trajekty a křídlové čluny ji celoročně spojují s Formií, s pravidelnými spoji také z Terraciny a Neapole; v létě přibývají spoje z Anzia, Ischie a San Felice Circeo a spojení s Ventotene. Hospodářství závisí na letním cestovním ruchu, především z Lazia a Kampánie, a na rybolovu, s malou produkcí čočky a vína Fieno di Ponza IGT. Veškeré zásobování přichází po moři: logistika vyžaduje konsolidaci nákladů v přístavech nalodění, rezervaci kapacity na trajektech a zásoby dimenzované na špičku letní sezony.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponza_(comune)",
+      "https://www.directferries.it/laziomar.htm"
+    ]
+  },
+  "priverno": {
+    "profile": "Priverno leží uprostřed údolí řeky Amaseno, podél silnice SS156 dei Monti Lepini, která spojuje Pontinskou nížinu s Frosinone a dálnicí A1. Stanice Priverno-Fossanova na trati Řím–Neapol přes Formii je zároveň odbočným bodem trati do Terraciny. Hospodářství kombinuje aktivní zemědělství, průmyslovou přítomnost spjatou s nedalekou zónou Mazzocchio, řemeslnou výrobu keramiky, terakoty a mědi a cestovní ruch kolem cisterciáckého opatství Fossanova. V posledních letech byl stavební rozvoj výrazný. Místní logistika obsluhuje stavby a obchod se stavebninami, zemědělské produkty a toky na příčné ose mezi Latinou a Frosinone.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Priverno"
+    ]
+  },
+  "prossedi": {
+    "profile": "Prossedi je pahorkatinná obec v pohoří Monti Lepini, viditelná ze silnice SS156 v polovině cesty mezi Privernem a Frosinone; protéká jí řeka Amaseno a její přítok Monteacuto. Území je převážně kopcovité a hornaté; jedinou rovinatou plochou je okolí řeky Amaseno, kde se soustřeďují zelinářské zahrady, zatímco na svazích převládají olivové háje a vinice. Obec má oranžovou vlajku Touring Clubu a ekonomiku malých zemědělských podniků a obchodních činností. Poloha na SS156 ji řadí na osu mezi Agro Pontino a údolím Valle del Sacco; logistické potřeby se týkají čerstvé zeleniny, oleje a vína v malých šaržích.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Prossedi"
+    ]
+  },
+  "rocca-massima": {
+    "profile": "Rocca Massima na hoře Monte Massimo v pohoří Monti Lepini, ve výšce 735 metrů, je nejvýše položenou obcí provincie Latina; velká část obyvatel žije v osadách v údolí směrem k Cori a Giulianellu. Provinční silnice vedou do Giulianella, Cori a Segni a autobusy Cotral spojují obec s Velletri. Hospodářství je založeno na zemědělství a chovu zvířat, zejména na pěstování oliv a výrobě oleje, s letním cestovním ruchem v historickém centru. Významné výrobní zóny zde nejsou. Logistika se týká prodeje oleje a rozvozu po horských silnicích, kde jsou potřeba lehká vozidla a plánované dodávky.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Massima"
+    ]
+  },
+  "roccagorga": {
+    "profile": "Roccagorga leží v pohoří Monti Lepini, v údolí řeky Amaseno nad Privernem, napojená na SS156 dei Monti Lepini a jejím prostřednictvím na Pontinskou nížinu a Frosinone. Území je kopcovité a hornaté, vápencové, bez stálých vodních toků: zemědělství je proto horské, s olivami a drobnými plodinami. Mezi tradičními činnostmi vyniká umělecké zpracování mědi. Obec nemá vlastní průmyslové zóny a ekonomicky aktivní obyvatelstvo dojíždí do Priverna a do výrobních zón v nížině, jako je Mazzocchio. Logistické potřeby souvisejí s drobnými dodávkami pro obchod a řemesla a se zásobováním stavebnictví.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccagorga"
+    ]
+  },
+  "roccasecca-dei-volsci": {
+    "profile": "Roccasecca dei Volsci je malá pahorkatinná obec s výhledem na Priverno a údolí řeky Amaseno, s lesy stoupajícími až do 700 metrů; SS156 dei Monti Lepini, vedoucí kousek pod obcí, ji spojuje s Pontinskou nížinou a Frosinone. Místní část Lucerna v údolí na hranici s obcí Amaseno má hospodářství založené na produkci buvolího mléka, dodávaného do sýráren v okolí. Zbytek území žije z horského zemědělství, turistiky a místních služeb. Pro logistiku to znamená každodenní svoz čerstvého mléka, dodávky krmiv a potřeb pro živočišnou výrobu a chlazenou přepravu na krátké vzdálenosti.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccasecca_dei_Volsci"
+    ]
+  },
+  "sabaudia": {
+    "profile": "Sabaudia je plánovaně založené město v Agro Pontino s rovinatým územím, které zahrnuje pobřeží s dunami, pobřežní jezera a lesy národního parku Circeo; SS148 Pontina ji spojuje s Latinou a Terracinou. Spolu s Terracinou a Fondi soustřeďuje velkou část skleníkového pěstování v provincii, se zeleninou určenou k čerstvému prodeji i ke zpracování. Část konsorciální průmyslové zóny Pontinia leží na jejím území. V létě přímořský cestovní ruch znásobuje poptávku po službách. Logistika musí zvládat průběžný svoz zeleniny při řízené teplotě a souběžně sezonní zásobování plážových zařízení a ubytovacích kapacit.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sabaudia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "san-felice-circeo": {
+    "profile": "San Felice Circeo zaujímá výběžek Circeo na jižním konci Agro Pontino; SS148 Pontina vede poblíž severní hranice obce a linky Cotral ji spojují s obcemi provincie a s Římem. V létě spojuje přístav s ostrovem Ponza pravidelná námořní linka. Hospodářství ovládá přímořský a jachtařský cestovní ruch, s rekreačními domy a ubytovacími zařízeními, které soustřeďují poptávku mezi červnem a zářím; mezi tradičními řemesly je výroba stylového nábytku. Místní logistiku poznamenává výrazná sezonnost: zásobování gastronomie a obchodu a dodávky nábytku.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Felice_Circeo"
+    ]
+  },
+  "santi-cosma-e-damiano": {
+    "profile": "Santi Cosma e Damiano se rozkládá mezi svahy pohoří Monti Aurunci a rovinou řeky Garigliano, v jihovýchodním cípu provincie, na hranici s provincií Frosinone a za řekou s Kampánií. V šedesátých letech zahájilo industrializaci otevření závodu na samolepicí materiály, později uzavřeného; dnes hospodářství tvoří drobné řemeslné a zemědělsko-chovatelské činnosti, obchod a distribuce, gastronomie a dostihové závodiště Garigliano otevřené v roce 1997. Výrobní zóna Pantaniello a 10,24 hektaru v ZLS, způsobilých pro regionální podporu, nabízejí plochy pro investice. Logistika obsluhuje obchodní distribuci, mléčné výrobky a toky do Kampánie a k dálnici A1.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santi_Cosma_e_Damiano_(Italia)",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "sermoneta": {
+    "profile": "Sermoneta se rozkládá od pohoří Monti Lepini po Agro Pontino: středověké městečko s hradem Castello Caetani shlíží na nížinu, zatímco dolní část území sousedí s Latina Scalo a je součástí konsorciální průmyslové zóny Latina Scalo, která zaujímá 448 hektarů mezi Latinou, Sermonetou a Sezze. Obec je v ZLS se 128 hektary, mimo oblast způsobilou pro daňový odpočet. V zemědělství spadá území do produkčních oblastí artyčoku carciofo romanesco IGP, oleje Colline Pontine DOP a buvolí mozzarelly DOP. Kulturní cestovní ruch, spojený i s nedalekou zahradou Giardino di Ninfa, a průmysl v nížině vytvářejí různorodé logistické potřeby.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sermoneta",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sezze": {
+    "profile": "Sezze se rozkládá mezi pohořím Monti Lepini a Agro Pontino a protéká jím řeka Ufente; stanice Sezze Romano leží na trati Řím–Neapol přes Formii. Hospodářství zůstává zemědělské a sezonní: artyčok sklízený od konce ledna, brokolice broccoletti v lednu a únoru, rajčata, višně visciole dei Lepini a kiwi odrůdy Hayward sklízené od konce října, k tomu buvolí mléko a mozzarella. Závody otevřené s podporou fondu Cassa per il Mezzogiorno byly z velké části uzavřeny, ale část konsorciální zóny Latina Scalo leží na území obce, která je v ZLS s 35,25 hektary. Logistika se řídí kalendářem sklizní, se špičkami čerstvého ovoce a zeleniny.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sezze",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sonnino": {
+    "profile": "Sonnino zaujímá kopcovitou a hornatou oblast pohoří Monti Ausoni ve střední a jižní části provincie Latina. Rychlostní silnice Frosinone–mare jej spojuje s nájezdem Frosinone na dálnici A1 a s pobřežím u Terraciny, zatímco Pontina a Appia vedou k Latině a Římu; stanice staré trati Velletri–Terracina jsou zrušené a nejbližší provozovanou je Priverno-Fossanova. Území je produkční oblastí oleje Colline Pontine DOP, sýra mozzarella di bufala campana a vína Moscato di Terracina DOC a sousedí s průmyslovou zónou Mazzocchio. Logistické potřeby se týkají oleje, mléčných výrobků a vína, se spojením do Ciociarie a na pobřeží.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sonnino"
+    ]
+  },
+  "sperlonga": {
+    "profile": "Sperlonga stojí na ostrohu hory Monte San Magno nad Gaetským zálivem, mezi Terracinou a Gaetou, a v celé své délce ji obsluhuje SR213 Flacca; referenční železniční stanicí je Fondi-Sperlonga, s obcí spojená autobusy. Hospodářství je téměř výhradně turistické: obec patří do sdružení Borghi più belli d'Italia a k plážím se přidává archeologické muzeum Villa di Tiberio. Zemědělství hraje menší roli, s rajčaty odrůdy perino a bílým celerem Sedano bianco di Sperlonga IGP. Logistika je silně sezonní, se zásobováním hotelů, gastronomie a plážových zařízení soustředěným do léta.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sperlonga"
+    ]
+  },
+  "spigno-saturnia": {
+    "profile": "Spigno Saturnia leží v pohoří Monti Aurunci ve vnitrozemí za Minturnem, na území, kterému dominuje hora Monte Petrella a které protéká řeka Ausente; dolní část obce leží podél SR630 Ausonia, spojující Formii s Cassinem a dálnicí A1. K tradičním činnostem patří ruční výroba pálené hlíny, vyšívání a krajkářství, zemědělství zahrnuje pěstování oliv odrůdy itrana. Velké výrobní závody chybějí a ekonomicky aktivní obyvatelstvo dojíždí na pobřeží Gaetského zálivu. Logistické potřeby se týkají cihlářských a stavebních materiálů, oleje a oliv a dodávek pro místní obchod.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spigno_Saturnia"
+    ]
+  },
+  "terracina": {
+    "profile": "Terracina uzavírá Agro Pontino z jihu u ústí řeky Amaseno: zde končí SS148 Pontina, která je za Borgo Piave jednopruhová v každém směru, a procházejí tudy SS7 Appia a SR213 Flacca směrem na Sperlongu a Gaetu; odbočka železnice ji spojuje s Priverno-Fossanova. Hlavní činností je cestovní ruch, s nejvyšším počtem rekreačních ubytování v provincii, vedle rybolovu, květinářství, skleníkové zeleniny, chovu buvolů a produktů, jako jsou jahody Favetta a víno Moscato di Terracina. Přístav má sezonní spojení s Ponzou. Logistika kombinuje ovoce a zeleninu při řízené teplotě, úlovky ryb a letní zásobování pro cestovní ruch.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Terracina",
+      "https://it.wikipedia.org/wiki/Strada_statale_148_Pontina"
+    ]
+  },
+  "ventotene": {
+    "profile": "Ventotene s ostrůvkem Santo Stefano je rozlohou nejmenší obcí regionu Lazio a jeho nejjižnější obcí. Hlavní spojení je s Formií, kterou celoročně obsluhuje společnost Laziomar trajektem, jenž převáží i vozidla, a rychlým plavidlem; v létě přibývají spoje s Ponzou a z Neapole. Trajekty a obchodní doprava kotví v novém přístavu Cala Rossano, zatímco římský přístav přijímá rybářské lodě a malá plavidla; heliport slouží záchranné službě. Hospodářství žije z letního cestovního ruchu a drobného zemědělství, s čočkou mezi tradičními produkty. Zásoby je nutné plánovat podle odjezdů z Formie a podle letní špičky.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ventotene_(comune)",
+      "https://www.directferries.it/formia_ventotene_traghetto.htm"
+    ]
+  },
+  "pomezia": {
+    "profile": "Pomezia se rozkládá v Agro Romano mezi svahy pahorkatiny Colli Albani a pobřežím, obsluhují ji SS148 Pontina, Laurentina, Ardeatina a pobřežní silnice Ostia–Anzio; stanice Pomezia-Santa Palomba leží na trati Řím–Neapol přes Formii, vedle intermodálního terminálu SGT. Průmysl, který vyrostl s podporou fondu Cassa per il Mezzogiorno, zahrnuje farmacii a biotechnologie (Menarini, Johnson & Johnson, IRBM), elektroniku a obranu (Leonardo, Northrop Grumman Italia), papírenství, plasty a potravinářství, s uzenářstvím Fiorucci, snacky Crik Crok a sladovnou. Zóna Santa Palomba hostí logistické operátory a platformy obchodních řetězců. Logistická poptávka je široká: léčiva, potraviny, rychloobrátkové zboží.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pomezia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ardea": {
+    "profile": "Ardea stojí na tufovém ostrohu jižně od Pomezie v Agro Romano, s územím klesajícím k moři v pobřežních místních částech Tor San Lorenzo a Marina di Ardea; vnitrozemskou částí prochází SS148 Pontina. Obec si zachovává zemědělský charakter, s produkcí v oblasti sýra mozzarella di bufala campana a vín Colli Albani a Roma DOC, ale od sedmdesátých let rozvinula průmyslové a řemeslné provozy podél silnice Pontina. Růst bytové výstavby v posledních desetiletích, spojený s výrobními a logistickými centry Pomezie, podpořil stavebnictví a obchod. Z toho plynou dodávky stavebních materiálů, maloobchodní distribuce a letní turistické toky.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ardea"
+    ]
+  },
+  "anzio": {
+    "profile": "Anzio zaujímá stejnojmenný výběžek na pobřeží jižně od Říma, obsluhují jej SS207 Nettunense, pobřežní silnice SS601 Ostia–Anzio a stanice regionální linky FL8 Řím–Nettuno. Hospodářství stojí na přímořském cestovním ruchu a přístavu, který má flotilu přibližně 60 rybářských lodí a přes 800 tun úlovků ročně a z něhož vyplouvají sezonní spoje na Ponzu. Na území obce se nachází italský závod společnosti Colgate-Palmolive a vnitrozemí spadá do oblasti sýra mozzarella di bufala campana. Pro logistiku je důležitý řetězec čerstvých ryb, toky drogistického zboží a letní zásobování obchodu a gastronomie.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Anzio"
+    ]
+  },
+  "nettuno": {
+    "profile": "Nettuno leží na pobřeží mezi Římskou Kampanií a Agro Pontino; řeka Astura tvoří hranici s obcí Latina. Je konečnou stanicí regionální železnice Řím–Nettuno a se silnicí SS148 Pontina je spojeno výjezdy Campo di Carne a Campoverde, se SS207 Nettunense směrem na Aprilii a Castelli a s pobřežní silnicí SS601 směrem na Anzio. Hlavní činností je cestovní ruch: přímořský, s jachtařským přístavem Marina di Nettuno, historický a náboženský, se svatyní Santa Maria Goretti a americkým vojenským hřbitovem. Zemědělské vnitrozemí spadá do oblasti buvolí mozzarelly. Logistika musí reagovat na letní špičky spotřeby a gastronomie.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nettuno_(Italia)"
+    ]
+  },
+  "ciampino": {
+    "profile": "Ciampino tvoří spojnici mezi Římem a Castelli Romani: prochází jím SS7 Appia a Anagnina, začíná zde silnice Via dei Laghi směrem na Velletri a římský okruh Grande Raccordo Anulare vede několik set metrů od hranice obce, mezi výjezdy Gregna Sant'Andrea a Appia. Stanice Ciampino, místo setkání linek FL4 a FL6, je co do významu třetí v regionu Lazio po Termini a Tiburtině. Obec dala jméno letišti G. B. Pastine, které provozují Aeroporti di Roma a italské vojenské letectvo. Hospodářství je zaměřeno na služby a maloobchod, s poptávkou po městské distribuci a dodávkách do obchodů a letištních provozů.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ciampino"
+    ]
+  },
+  "marino": {
+    "profile": "Marino zaujímá severozápadní část pahorkatiny Colli Albani, s územím sahajícím až k nížinným místním částem směrem k Ciampinu a Římu, jako jsou Santa Maria delle Mole, Cava dei Selci a Castelluccia; procházejí jím SS7 Appia a SR207 Nettunense. Vinařství bylo dlouho hlavním odvětvím: DOC Marino je uznáno od roku 1970 a družstevní vinařství Gotto d'Oro, založené v roce 1946, je hlavním výrobcem. Dříve zde byly v provozu lomy na peperino a čedič a dnes zůstává významným odvětvím stavebnictví, vedle kovářského řemesla, tiskáren a pekařství. Logistika zajišťuje lahvové víno, stavební materiály a městskou distribuci.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Marino_(Italia)"
+    ]
+  },
+  "castel-gandolfo": {
+    "profile": "Castel Gandolfo se rozkládá od pahorkatiny Colli Albani po Agro Romano nad jezerem Lago Albano a celé leží v regionálním parku Castelli Romani. Územím procházejí SS7 Appia a SS140 del lago Albano a stanice leží na železnici Řím–Albano. Papežský palác s papežskými vilami a Domitianova vila přitahují stálý kulturní a náboženský cestovní ruch. Vinařství zajišťují velká družstevní vinařství sousedních obcí a obecní statut zakazuje antény a pevná telekomunikační zařízení. Nemocnice a řada služeb jsou mimo obec, takže logistika se týká především gastronomie, obchodu a ubytovacích zařízení.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Gandolfo"
+    ]
+  },
+  "albano-laziale": {
+    "profile": "Albano Laziale je jednou z rozlohou největších obcí pahorkatiny Colli Albani a kromě centra na SS7 Appia zahrnuje nížinné místní části Pavona a Cecchina, jimiž prochází SR207 Nettunense; město obsluhuje regionální železniční linka FL4. V roce 2018 zde působilo 2 863 místních provozoven s 8 516 zaměstnanci, s hospodářskou strukturou zaměřenou na služby, včetně nemocnice, úřadů a obchodu. Vedle vinařské tradice Colli Albani DOC hostí město velkoobchodní trh s ovocem a zeleninou, historicky významný pro zeleninu a artyčoky. Logistické potřeby se týkají čerstvého ovoce a zeleniny, zásobování distribuce a dodávek zdravotnickým zařízením a úřadům.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Albano_Laziale"
+    ]
+  },
+  "ariccia": {
+    "profile": "Ariccia je jedním z měst Castelli Romani, prochází jí SS7 Appia, která zde překonává údolí mostem Ponte di Ariccia; v římské době byla Aricia první zastávkou na Via Appia při cestě z Říma. Památkový komplex Palazzo Chigi a Berniniho náměstí podporuje jednodenní cestovní ruch z Říma. Nejznámějším produktem je porchetta, k níž se přidává bílé víno Colli Albani DOC a buvolí mozzarella; četné lidové vinárny fraschette soustřeďují poptávku na víkendy. Pro logistiku to znamená zpracované maso přepravované v chladu, časté zásobování gastronomie a špičky spojené s místními slavnostmi a akcemi.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ariccia"
+    ]
+  },
+  "genzano-di-roma": {
+    "profile": "Genzano di Roma leží v pahorkatině Colli Albani podél SS7 Appia mezi Aricciou a Velletri, nad jezerem Lago di Nemi; stanice San Gennaro leží na železnici Řím–Velletri, regionální linka FL4. V zemědělství převládá vinařství: Genzano a Lanuvio tvoří jádro oblasti vín DOC Colli Lanuvini, vedle pěstování oliv, květin, ovoce a zeleniny. Působí zde přibližně 400 řemeslných firem zaměřených na kůži, proutí, sklo, keramiku a stylový nábytek, nejvýznamnějším odvětvím je však pekařství, s chlebem pane casareccio di Genzano z přírodního kvasu pečeným na dřevě. Místní logistika vyžaduje každodenní distribuci pekařských výrobků a expedici vína.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genzano_di_Roma"
+    ]
+  },
+  "lanuvio": {
+    "profile": "Lanuvio leží na jižním svahu pahorkatiny Colli Albani s výhledem na rovinu u Aprilie, se stanicí na železnici Řím–Velletri. Hlavní činností je zemědělství, zejména vinařství v oblastech DOC Colli Lanuvini a Colli Albani, spolu s pěstováním oliv, květin, ovoce a zeleniny. Průmysl a obchod se soustřeďují podél SR207 Nettunense, která spojuje Řím s Aprilií, Anziem a Nettunem, a část konsorciální průmyslové zóny Aprilia, celkem 256 hektarů, leží na území obce. Logistické potřeby kombinují sezonní zemědělské produkty, víno a květiny s průmyslovými toky směrem k výrobnímu centru Aprilia a k silnici Pontina.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lanuvio",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "velletri": {
+    "profile": "Velletri uzavírá pahorkatinu Colli Albani z jihu směrem k Agro Pontino: setkávají se zde SS7 Appia a Via dei Laghi, zatímco Via Ariana vede do Lariana a k silnici Casilina; železnici Řím–Velletri, otevřenou v roce 1863, dnes obsluhuje regionální linka FL4. Prvovýroba je založena na víně, s označeními DOC Velletri, Castelli Romani a Roma, a na obchodu se zemědělskými produkty z okolí. Průmyslové a řemeslné činnosti jsou rozmístěny podél Appia Nuova směrem k pontinskému průmyslu a v průmyslové zóně Contrada Lazzaria na hranici s provincií Latina. K tradičním výrobám patří keramika a terakota.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Velletri"
+    ]
+  },
+  "lariano": {
+    "profile": "Lariano leží na vrších Artemisio na jižním okraji pahorkatiny Colli Albani, mezi Velletri, jehož místní částí bylo až do roku 1967, a Artenou; velká část území leží v regionálním parku Castelli Romani, mezi kaštanovými lesy a kopci klesajícími k Pontinské nížině. Via Ariana jej spojuje s Velletri a silnicí Casilina a projekt spojky Cisterna–Valmontone počítá s mimoúrovňovou křižovatkou v Larianu. Zemědělství spadá do oblastí vín Velletri DOC a Castelli Romani DOC, vedle olivových hájů a lesů. Hospodářství tvoří malé firmy, obchod a služby, s logistickými potřebami spojenými s vínem, místními specialitami a stavebními dodávkami.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lariano",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "nemi": {
+    "profile": "Nemi leží nad kráterem stejnojmenného jezera v pahorkatině Colli Albani a je dostupné po provinční silnici SP Nemorense, která odbočuje z Appie u Genzana, a po Via dei Laghi. Hospodářství bylo dlouho zemědělské: údolí kolem jezera se osazovalo cibulí a jabloněmi, svahy kráteru jsou terasované a osázené olivovníky a dnes je typickým produktem jahoda, v sezonních i stáleplodících odrůdách, oslavovaná červnovou slavností. Muzeum římských lodí a samotné městečko přitahují jednodenní turisty z Říma. Logistické potřeby se týkají choulostivého ovoce s krátkou trvanlivostí, s rychlou chlazenou přepravou, a zásobování gastronomie a obchodu.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nemi"
+    ]
+  },
+  "rocca-di-papa": {
+    "profile": "Rocca di Papa se rozkládá na centrálních vrších pahorkatiny Colli Albani a prochází jí Via Anagnina, kopírující antickou Via Latina, SS218, která ji spojuje s Grottaferratou a Aricciou, a Via dei Laghi. Podíl zaměstnaných obyvatel v obci je nižší než průměr Castelli. Vinná réva se pěstuje v nižší severozápadní části, sousedící s oblastmi Frascati a Marino, zatímco ve vyšších polohách převládá kaštanovník: lesní hospodářství, s dřevem určeným hlavně pro stavebnictví, je odjakživa jedním z pilířů místní ekonomiky. Logistika se týká dřeva a stavebních materiálů, vína a dodávek po kopcovitých silnicích.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_di_Papa"
+    ]
+  },
+  "grottaferrata": {
+    "profile": "Grottaferrata leží na svahu pahorkatiny Colli Albani obráceném k Římu, mezi Frascati, Marinem a Rocca di Papa; procházejí jí Anagnina, Maremmana III, Via dei Laghi a Pedemontana dei Castelli, která příčně spojuje Tuscolanu, Anagninu a Appii. Území je součástí produkční oblasti Frascati a Castelli Romani DOC, s menším pěstováním oliv, ve 20. století však vinařství ustoupilo řemeslným, obchodním a servisním činnostem. Řecké opatství San Nilo přitahuje kulturní cestovní ruch. Místní logistika se týká obchodní distribuce, dodávek pro profesní a servisní firmy a expedice vína z místních vinařství.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Grottaferrata"
+    ]
+  },
+  "frascati": {
+    "profile": "Frascati leží v pahorkatině Colli Albani podél Via Tuscolana; železnice Řím–Frascati, první v Papežském státě, spojuje město se stanicí Termini, zatímco stanice Tor Vergata na trati Řím–Cassino leží na hranici s Římem. Zemědělská půda je osázena olivovníky a vinicemi, s hrozny určenými pro víno Frascati DOC. Ve městě sídlí výzkumná centra mezinárodního významu: Laboratori Nazionali di Frascati institutu INFN, středisko ESRIN Evropské kosmické agentury a pracoviště agentury ENEA. Terciární sektor má velkou váhu. Z toho plynou dvě odlišné logistické poptávky: na jedné straně víno a zemědělské produkty, na druhé přístroje a technické dodávky pro výzkumná centra.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Frascati"
+    ]
+  },
+  "monte-porzio-catone": {
+    "profile": "Monte Porzio Catone leží ve východní části pahorkatiny Colli Albani mezi Frascati a Monte Compatri, v blízkosti dálniční odbočky Roma Sud z A1. Hlavní činností je vinařství na vulkanických půdách označení Frascati: obec má jednu z nejvyšších koncentrací vinařství v Castelli Romani, mezi nimi Fontana Candida, Villa Simone a Poggio le Volpi, a významná část vína se prodává v Římě nebo vyváží. Na území obce sídlí také pracoviště italské národní astronomické observatoře. Obec je od roku 1944 bez železnice a obsluhují ji autobusové linky. Logistika je spjata s vinařským řetězcem: sklo na vstupu, palety lahví na výstupu a exportní zásilky.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Porzio_Catone"
+    ]
+  },
+  "monte-compatri": {
+    "profile": "Monte Compatri má historické centrum v pahorkatině Colli Albani podél Maremmana III a nížinné místní části na Tuscolaně, jako Molara, na Casilině, jako Pantano Borghese a Laghetto, a na Prenestině, jako Osa. V Pantanu je konečná linky C římského metra s parkovištěm P+R a autobusovými linkami. Na půdách pod obcí se vyrábějí vína Montecompatri Colonna, Frascati superiore a Cannellino di Frascati a intenzivní je i produkce extra panenského olivového oleje. Přítomnost místních částí podél východních konzulárních silnic Říma přináší vedle toků vína a oleje i poptávku po obchodní distribuci a dodávkách na východní okraj metropole.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "rocca-priora": {
+    "profile": "Rocca Priora je nejvýše položenou obcí Castelli Romani: centrum leží přes 760 metrů nad mořem, na východní straně pahorkatiny Colli Albani, s výhledem do údolí Casiliny a dálnice A1. Velká část území leží v regionálním parku Castelli Romani. Síť tvoří provinční silnice, mezi nimi Tuscolana směrem na Řím a Artenu, Anagnina a silnice do Colle di Fuori a San Cesarea. V minulosti obec zásobovala Řím sněhem a ledem uchovávaným ve výšce. Dnes převažuje bydlení, obchod a služby, s lesy a drobným zemědělstvím. Místní logistika se týká dodávek po horských silnicích, bytové výstavby a zásobování obchodů.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Priora"
+    ]
+  },
+  "colonna": {
+    "profile": "Colonna leží na vulkanickém kopci na severovýchodním konci Castelli Romani a rozlohou je nejmenší obcí Castelli a druhou nejmenší v regionu Lazio po Ventotene. Územím prochází Via Casilina, leží blízko uzlu dálnice A1 s odbočkou Roma Sud a obsluhuje ho stanice Colonna Galleria na lince FL6, s vlakem do Roma Termini přibližně každou hodinu. Vinice spadají do označení Montecompatri Colonna. Hospodářství je převážně rezidenční a obchodní, spjaté s dojížďkou do Říma. Logistické potřeby se týkají maloobchodní distribuce, dodávek pro provozy podél Casiliny a expedice vína.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colonna_(Italia)",
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "san-cesareo": {
+    "profile": "San Cesareo leží na Via Casilina, v místě napojení odbočky Roma Sud na dálnici A1, s dálničním nájezdem na území obce; v římské době zde stály hostince a obchodní stanice podél Via Labicana. Část území spadá do oblastí vín Castelli Romani DOC a Roma DOC. Průmyslová zóna, vzniklá na konci osmdesátých let podél Casiliny v těsné blízkosti dálnice, hostí haly pro řemeslné, výrobní a logistické činnosti. Kombinace dálničního přístupu a hal střední velikosti dělá z obce tranzitní a skladovací bod pro distribuci do východního Říma a do údolí Valle del Sacco.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Cesareo",
+      "https://www.immobiliare.it/en/annunci/101095913/"
+    ]
+  },
+  "zagarolo": {
+    "profile": "Zagarolo leží mezi pohořím Monti Prenestini a údolím řeky Sacco, napojené silnicemi Zagarolese, SR155 di Fiuggi a Prenestina Nuova; stanice Zagarolo na trati Řím–Neapol přes Cassino slouží i dojíždějícím z Palestriny, zatímco staré stanice Zagarolo Paese a Zagarolo Scalo jsou zrušené. Území zahrnuje také místní část Valle Martella na hranici s Monte Compatri. Mezi tradičními činnostmi vyniká výroba stylového nábytku. Obec vyrostla jako rezidenční oblast východního zázemí Říma. Místní logistika se týká expedice nábytku a bytového vybavení a obchodní distribuce pro nové čtvrti.",
+    "sectors": [
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Zagarolo"
+    ]
+  },
+  "gallicano-nel-lazio": {
+    "profile": "Gallicano nel Lazio leží na tufovém kopci na úpatí pohoří Monti Prenestini, ve východní části římské metropolitní oblasti, obklopené údolími vyhloubenými potoky a zalesněnými plochami. Neprochází jím žádná státní silnice: síť provinčních silnic jej spojuje se San Cesareem a Zagarolem, s Palestrinou, s Poli a s Tivoli po silnici Maremmana Inferiore. Venkov, historicky osázený vinicemi a olivovými háji, si zachovává zemědělskou složku, ale hospodářství je dnes převážně rezidenční, obchodní a servisní. Zdroje o místní hospodářské struktuře jsou skromné. Logistické potřeby se týkají zásobování obchodu, bytové výstavby a drobné produkce oleje a vína.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gallicano_nel_Lazio"
+    ]
+  },
+  "palestrina": {
+    "profile": "Palestrina leží na svazích pohoří Monti Prenestini; místní části v údolí jsou na SS6 Casilina, zatímco SR155 di Fiuggi spojuje centrum s Cave, Genazzanem, Fiuggi a Frosinone a dálnice A1 prochází územím mezi Carchitti a Valvarinem. Stanice na trati Řím–Neapol přes Cassino je opuštěná a dojíždějící používají stanici Zagarolo. Svatyně Fortuna Primigenia a archeologické muzeum podporují kulturní cestovní ruch. K tradičním výrobám patří umělecké zpracování mědi a vyšívání, se školou založenou ve městě. Obec je centrem služeb a škol pro okolní obce, s poptávkou po obchodní distribuci a dodávkách do údolí.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Palestrina"
+    ]
+  },
+  "labico": {
+    "profile": "Labico, které se až do roku 1872 jmenovalo Lugnano, leží podél Casiliny mezi San Cesareem a Valmontonem, v přechodové oblasti mezi pahorkatinou Colli Albani a údolím řeky Sacco. Stanice Labico leží na trati Řím–Neapol přes Cassino a obsluhují ji regionální vlaky FL6. Projekt spojky Cisterna–Valmontone, jejíž stavba začala v roce 2026, počítá s mimoúrovňovou křižovatkou v Labicu, která území propojí se silnicí Pontina. Zdroje o místní ekonomice jsou omezené: převažuje bydlení, obchod podél Casiliny a drobné řemeslné a zemědělské činnosti. Poloha mezi Casilinou, železnicí a budoucí spojkou je zajímavá pro distribuční sklady a dopravce.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Labico",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "valmontone": {
+    "profile": "Valmontone leží na tufovém návrší podél Casiliny v horním údolí řeky Sacco; obsluhuje jej nájezd Valmontone na dálnici A1 a stanice na trati Řím–Cassino–Neapol, územím prochází také vysokorychlostní trať Řím–Neapol. Spojka Cisterna–Valmontone, budovaná od roku 2026, zde propojí silnici Pontina s dálnicí A1. Vedle nájezdu se nacházejí zábavní park Rainbow MagicLand a outletové centrum Valmontone Fashion District, které generují silné toky návštěvníků i zboží. Z toho plyne průběžné zásobování obchodů s oděvy a gastronomie, zpracování vratek a poptávka po distribučních halách v blízkosti dálnice.",
+    "sectors": [
+      "gdo-retail",
+      "tessile-moda",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Valmontone",
+      "https://turismoroma.it/it/node/5117"
+    ]
+  },
+  "artena": {
+    "profile": "Artena je městečko v severní části pohoří Monti Lepini nad údolím řeky Sacco, obsluhované nájezdem Valmontone na dálnici A1 a stanicí Valmontone na lince FL6; Tuscolana, Via Ariana a provinční silnice do Giulianella jej spojují s Castelli a s Cori. Hospodářství je založeno na zemědělství a chovu zvířat, s vinicemi v oblasti Castelli Romani DOC. Část ploch bývalého průmyslového komplexu BPD, dnes spravovaných společností skupiny Avio, leží na jejím území spolu s Colleferrem a Segni. Místní logistika se týká zemědělských a živočišných produktů a navazujících průmyslových činností v údolí, s přímým přístupem k dálnici A1.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Artena",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "colleferro": {
+    "profile": "Colleferro vzniklo kolem firmy Bombrini Parodi Delfino, usazené zde v roce 1912 k výrobě výbušnin a později činné v chemii, strojírenství a textilu; z této historie vychází letecko-kosmické centrum Avio. Skupina spravuje přibližně 910 hektarů mezi Colleferrem, Segni a Artenou, z toho 450 průmyslových, a ve městě působí cementárna Italcementi. Obec má nájezd na dálnici A1, prochází jí Casilina a z Colleferro Scalo vychází silnice Carpinetana směrem na Priverno. Nachází se zde SLIM, částečně realizovaný multimodální logistický systém, a obec je v ZLS mimo oblast způsobilou pro daňový odpočet. Potřebné jsou nadrozměrné přepravy, přeprava nebezpečných věcí a sypkých materiálů pro stavebnictví.",
+    "sectors": [
+      "manifatturiero",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colleferro",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "segni": {
+    "profile": "Segni leží v severní části pohoří Monti Lepini nad údolím řeky Sacco a Colleferrem. Na území obce těží lom San Bruno vápenec pro výrobu cementu, který se do cementárny Italcementi v Colleferru dopravuje soustavou šesti pásových dopravníků o celkové délce 4,3 kilometru, řešením, které nahrazuje silniční přepravu. Část ploch bývalého komplexu BPD leží na území obce. V zemědělství je typickým produktem marrone segnino, odrůda kaštanu se sklizní na podzim. Logistické potřeby kombinují navazující těžební a průmyslové činnosti v údolí se sezonním prodejem kaštanů a zásobováním obce.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Segni_(Italia)",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "gavignano": {
+    "profile": "Gavignano leží na malém výběžku na soutoku potoka Rio a řeky Sacco, na úpatí hory Monte Lupone, na severním svahu pohoří Monti Lepini; na území obce se nachází pramen Fonte Meo, známý svými močopudnými účinky. Ve 20. století proměnila expanze firmy BPD v Colleferru mnoho místních zemědělců v dělníky a ekonomicky aktivní obyvatelstvo dodnes dojíždí do průmyslového centra v údolí. V obci zůstává horské zemědělství a drobné řemeslné a obchodní činnosti, s historickým dědictvím spjatým s benediktinským mnišstvím v údolí. Místní logistika obsluhuje především navazující průmysl v Colleferru a zásobování místního obchodu.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gavignano_(Italia)"
+    ]
+  },
+  "montelanico": {
+    "profile": "Montelanico má na jihu hornaté území na severním svahu pohoří Monti Lepini, které směrem k údolí řeky Sacco přechází v pahorkatinu a poté v rovinu; na hranici se Segni a Cori se zvedá hora Monte Lupone. Obcí prochází SR609 Carpinetana, spojující Colleferro s Privernem, a provinční silnice do Segni. Typickým produktem je kaštan, oslavovaný slavností, která se od roku 1963 koná ve třetím říjnovém týdnu; hospodářství doplňuje pěstování oliv, chov zvířat a malé firmy. Logistika se řídí sezonou podzimní sklizně a zajišťuje spojení mezi průmyslovým centrem Colleferro a obcemi v pohoří Lepini.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Montelanico"
+    ]
+  },
+  "carpineto-romano": {
+    "profile": "Carpineto Romano leží ve střední části pohoří Monti Lepini na hranici s provinciemi Latina a Frosinone, na hornatém území, jehož vrcholem je hora Monte Semprevisa s výškou 1 536 metrů. Je rodištěm papeže Lva XIII. S údolím řeky Sacco a Colleferrem na jedné straně a s Maenzou a Privernem na druhé ji spojuje SR609 Carpinetana. K tradičním činnostem patří keramika a terakota a muzeum La Reggia dei Volsci vystavuje předměty zemědělské a pastevecké tradice. Hospodářství je drobné, s lesy, pastvinami a cestovním ruchem spojeným s akcemi, jako je Palio della Carriera; dodávky probíhají po horských silnicích.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Carpineto_Romano"
+    ]
+  },
+  "gorga": {
+    "profile": "Gorga je malá obec v pohoří Monti Lepini, které dominuje hora Monte San Marino s výškou přes 1 380 metrů. Horská oblast, známá jako náhorní plošina Gorga, vykazuje rozsáhlé krasové jevy, mezi nimi jeskyni Campo di Caccia, cíl speleologických průzkumů. Obec je s údolím řeky Sacco spojena provinčními silnicemi sestupujícími k silnici Carpinetana a do Colleferra. Zdroje o místní ekonomice jsou skromné: převažuje zemědělství a pastevectví, s pastvinami, lesy a turistikou spojenou s náhorní plošinou. Logistické potřeby se omezují na zásobování místního obchodu a plánované dodávky po horských silnicích.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gorga_(Italia)"
+    ]
+  },
+  "cave": {
+    "profile": "Cave leží mezi pohořím Monti Prenestini a údolím řeky Sacco a prochází jí SS155 di Fiuggi, spojující Řím a Frosinone; provinční silnice ji spojuje s nájezdem na A1 a železniční stanicí ve Valmontone, zatímco linky Cotral ji spojují se stanicemi Roma Anagnina a Ponte Mammolo a se školskými centry v Palestrině a Colleferru. Typickým zemědělským produktem je kaštan marrone di Cave, zařazený mezi tradiční potravinářské produkty regionu Lazio. Místní hospodářství tvoří zemědělství, obchod a služby pro rezidenční spádovou oblast. Logistické potřeby se týkají podzimní sklizně kaštanů a distribuce do obcí podél silnice Prenestina.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cave_(Italia)"
+    ]
+  },
+  "genazzano": {
+    "profile": "Genazzano leží na tufovém ostrohu, který z pohoří Monti Prenestini sestupuje do údolí řeky Sacco, na hranici mezi metropolitním městem Řím a provincií Frosinone, a SR155 di Fiuggi jej spojuje s Cave, Palestrinou a Fiuggi. Svatyně Madonna del Buon Consiglio přitahuje poutníky po celý rok a historické centrum uchovává hrad Colonna. Zdroje o místní hospodářské struktuře jsou skromné: převažuje zemědělství v údolí, drobný obchod, gastronomie a služby pro poutní cestovní ruch. Logistické potřeby se týkají zásobování ubytovacích zařízení a gastronomie a spojení s nájezdem Valmontone na dálnici A1 a s Ciociarií.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genazzano"
+    ]
+  },
+  "fiumicino": {
+    "profile": "Ve Fiumicinu se nachází letiště Leonardo da Vinci, první italské letiště podle počtu cestujících a hlavní uzel (Core) sítě TEN-T, s nákladovým areálem Cargo City a vedle něj logistickou platformou Řím–Fiumicino, jejíž železniční terminál se připravuje. Letištní stanici spojují s Římem Leonardo Express a linka FL1; obec obsluhuje dálnice Řím–Fiumicino a na lince FL5 stanice Maccarese-Fregene a Torrimpietra-Palidoro. Přístav patří do systému správy přístavů AdSP del Mar Tirreno Centro-Settentrionale a je rybářským centrem s velkým rybím trhem. Pro logistiku je důležité letecké zboží, mezinárodní sběrná služba, chladový řetězec pro ryby a zásobování letištních provozů.",
+    "sectors": [
+      "ecommerce",
+      "agroalimentare",
+      "farmaceutico"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fiumicino",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "eur": {
+    "profile": "EUR je urbanistická zóna 12A městské části Municipio IX, uvnitř okruhu Grande Raccordo Anulare, rozložená po obou stranách třídy via Cristoforo Colombo; odtud vychází SS148 Pontina směrem na Latinu a linka B metra jej spojuje s centrem stanicemi EUR Magliana, EUR Palasport a EUR Fermi. Čtvrť je hlavním administrativním centrem jižní části Říma: sídlí zde velké skupiny jako ENI a Poste Italiane, ministerské úřady, kongresové centrum La Nuvola a muzea. Logistická poptávka je typická pro kancelářskou čtvrť: archivy a dokumenty, kancelářské potřeby, výpočetní technika, vybavení pro kongresy a akce a dodávky v časových oknech.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Eur_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/EUR"
+    ]
+  },
+  "laurentino": {
+    "profile": "Laurentino je urbanistická zóna 12D městské části Municipio IX uvnitř okruhu Grande Raccordo Anulare, mezi via Cristoforo Colombo a via Laurentina, podle níž nese jméno; zahrnuje přírodní rezervaci Laurentino-Acqua Acetosa. Jde o převážně rezidenční oblast, která vyrostla od sedmdesátých let díky rozsáhlé veřejné bytové výstavbě, a sousedí s administrativním centrem EUR, dostupným také z konečné stanice Laurentina linky B metra. Výrobní provozy chybějí: ekonomiku tvoří místní obchod, služby pro obyvatele a kanceláře. Logistické potřeby odpovídají městské distribuci: zásobování prodejen, doručování online nákupů a služby pro malé provozovny.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Laurentino"
+    ]
+  },
+  "ostiense": {
+    "profile": "Ostiense je desátou čtvrtí Říma (quartiere), mezi Aureliánskými hradbami a Tiberou. Od roku 1907 byla první průmyslovou zónou města, s říčním přístavem, plynojemem Gazometro, elektrárnou Centrale Montemartini a velkotržnicí Mercati Generali, později uzavřenou. Dnes je oblast přeměněna na služby, kulturu a univerzitu: od roku 1992 zde sídlí Università Roma Tre a Centrale Montemartini je muzeem. Je dopravním uzlem se stanicí Roma Ostiense, stanicí Piramide linky B metra a konečnou železnice Řím–Lido a via Ostiense vede k EUR a na pobřeží. Logistika obsluhuje gastronomii, obchod, univerzitu a kanceláře, s častými městskými dodávkami.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostiense"
+    ]
+  },
+  "garbatella": {
+    "profile": "Garbatella je sídliště založené v roce 1920 jako zahradní čtvrť pro pracovníky nedalekého říčního přístavu a průmyslové zóny Ostiense; dnes odpovídá urbanistické zóně 11C městské části Municipio VIII. Zástavba je rezidenční, s dvorními bloky a úzkými ulicemi, a podél via Cristoforo Colombo stojí palác regionu Lazio, sídlo regionální vlády. Oblast obsluhuje stanice Garbatella linky B metra a sousedí se stanicí Roma Ostiense. Ekonomiku tvoří místní obchod, gastronomie, veřejné služby a regionální úřady. Dodávky vyžadují lehká vozidla vhodná pro vnitřní uliční síť a dokumentové služby pro úřady.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Garbatella"
+    ]
+  },
+  "torrino": {
+    "profile": "Torrino je zóna Z. XXVII oblasti Agro romano, těsně u okruhu Grande Raccordo Anulare i uvnitř něj, mezi via del Mare na západě a via Cristoforo Colombo a silnicí Pontina na východě. Vedle obytných čtvrtí vyrostly v oblasti Casal Grottoni a viale dell'Oceano Pacifico administrativní budovy: sídlo IBM, Eurosky Business Park a věž Torre Europarco, úřady finanční správy Agenzia delle Entrate a provozní sídlo obchodní komory. Nachází se zde také nákupní centrum Euroma2. Kombinace kanceláří, velkých obchodních řetězců a bydlení vytváří dodávky do obchodů, zásobování kanceláří a velký objem balíků pro soukromé osoby.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torrino"
+    ]
+  },
+  "spinaceto": {
+    "profile": "Spinaceto je urbanistická zóna 12G městské části Municipio IX jižně od okruhu Grande Raccordo Anulare, mezi via di Mezzocammino a silnicí Via Pontina; název označuje také místní část Roma Capitale. Jde o čtvrť navrženou v rámci plánů sociální bytové výstavby šedesátých a sedmdesátých let, se službami a obchody pro místní obyvatele. Napojení na linku B metra, předvídané územním plánem z roku 1968, nebylo nikdy realizováno a veřejnou dopravu zajišťují autobusy. Přímý přístup na silnici Pontina ji spojuje jak s EUR, tak s výrobními centry Castel Romano a Pomezia. Logistické potřeby se týkají především maloobchodní distribuce a dodávek do domácností.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spinaceto"
+    ]
+  },
+  "trigoria": {
+    "profile": "Trigoria je místní částí Roma Capitale v oblasti Castel di Decima, vně okruhu Grande Raccordo Anulare a východně od silnice Pontina, na okraji přírodní rezervace Decima-Malafede. Je známá sportovním centrem Fulvio Bernardini, tréninkovým zázemím klubu AS Roma, a univerzitou Università Campus Bio-Medico s její fakultní nemocnicí. Zbytek území střídá řídkou zástavbu s venkovskou krajinou Agro romano. Přítomnost fakultní nemocnice přináší specifickou logistickou poptávku: léčiva, zdravotnické prostředky, laboratorní materiál a zdravotnické dodávky doručované se sledovatelností, vedle služeb pro sportovní zařízení a domácnosti.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Trigoria"
+    ]
+  },
+  "castel-romano": {
+    "profile": "Castel Romano je urbanistická zóna 12M městské části Municipio IX, vklíněná mezi silnici Pontina a via di Pratica di Mare; konsorciální průmyslová zóna leží na 23. kilometru silnice Pontina a má rozlohu 266 hektarů, z toho 191 průmyslových. Průmyslová zóna Pontina, zřízená v roce 1952, přijala od šedesátých let centra metalurgického výzkumu, telekomunikační firmy, potravinářské konsorcium a filmová studia Dina De Laurentiise, přeměněná v roce 2014 na zábavní park Cinecittà World. Od roku 2003 zde funguje Castel Romano Designer Outlet. Pro logistiku je důležité průběžné zásobování obchodů outletu, zpracování vratek, dodávky pro park a průmyslové toky podél silnice Pontina.",
+    "sectors": [
+      "tessile-moda",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Romano",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "santa-palomba": {
+    "profile": "Santa Palomba je území rozdělené mezi Řím, Ardeu a Pomezii; římská část je urbanistickou zónou 12N městské části Municipio IX. Mezi 20. a 23. kilometrem silnice Ardeatina, kolem stanice Pomezia-Santa Palomba, vyrostla průmyslová oblast, kde sídlí Fiorucci, Angelini, ABB, Johnson & Johnson a Procter & Gamble. Konsorciální zóna má rozlohu 483 hektarů a je největší v oblasti Řím–Latina; hostí logistické operátory jako DHL Supply Chain, GLS a STEF a platformy obchodních řetězců. Terminál SGT je první v regionu Lazio podle počtu odbavených intermodálních jednotek. Zóna soustřeďuje toky rychloobrátkového zboží, chlazeného zboží a farmacie.",
+    "sectors": [
+      "gdo-retail",
+      "farmaceutico",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santa_Palomba",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "tor-vergata": {
+    "profile": "Tor Vergata je statek v oblasti Agro romano mezi Tuscolanou a Casilinou, vně okruhu Grande Raccordo Anulare, v zóně Torre Gaia; sídlí zde Università degli Studi di Roma Tor Vergata, druhá státní univerzita metropole, s kampusem o rozloze přibližně pěti set hektarů. V oblasti se nachází také fakultní nemocnice Policlinico Tor Vergata, otevřená na konci devadesátých let. Silniční síť spojuje zónu s dálnicí A1 a odbočkou Roma Sud. Místní logistika je zaměřena na zdravotnictví a výzkum: léčiva, zdravotnické prostředky, činidla a laboratorní přístroje se sledovatelností, vedle služeb pro studenty a obyvatele okolních čtvrtí.",
+    "sectors": [
+      "farmaceutico",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Gaia",
+      "https://it.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_di_Roma_Tor_Vergata"
+    ]
+  },
+  "romanina": {
+    "profile": "Romanina je urbanistická zóna 10G městské části Municipio VII, vně okruhu Grande Raccordo Anulare a v jeho těsné blízkosti, mezi via Tuscolana a dálnicí A1; obchodní oblast obsluhuje výjezd 20 okruhu GRA. Od osmdesátých let zažila silný rozvoj bytové, administrativní a především obchodní výstavby, s jednou z nejvyšších koncentrací nákupních center ve městě. V letech 1982 až 2018 zde sídlila pracoviště univerzity Tor Vergata a bývalé dílny Officine Marconi byly přeměněny na kulturní centrum. Pro logistiku je zóna místem dodávek pro velké obchodní řetězce a specializované prodejny, s rychlým přístupem na okruh GRA a dálnici.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Romanina"
+    ]
+  },
+  "cinecitta": {
+    "profile": "Cinecittà je název oblasti čtvrti Don Bosco v městské části Municipio VII, mezi Casilinou a Tuscolanou, kterou na dvě části dělí viale Palmiro Togliatti. Čtvrť vyrostla od padesátých let kolem filmových studií Cinecittà, založených v roce 1936, a obsluhuje ji linka A metra podél Tuscolany. Hospodářství spojuje audiovizuální produkci, obchod a hustou obytnou zástavbu s velkými nákupními centry v jižní části. Logistické potřeby jsou dvojí: přeprava kulis, technického vybavení a kostýmů pro produkce a městská distribuce pro jednu z nejlidnatějších oblastí města.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Don_Bosco_(Roma)"
+    ]
+  },
+  "anagnina": {
+    "profile": "Anagnina nese jméno podle silnice, která z Říma stoupá do Castelli: oblast mezi Osteria del Curato a okruhem Grande Raccordo Anulare hostí konečnou stanici linky A metra a terminál autobusových linek Cotral do Castelli Romani a jižního Lazia. Od šedesátých let se podél Anagniny usadily malé a střední výrobní firmy, vedle historických závodů telekomunikačního průmyslu podpořených fondem Cassa per il Mezzogiorno. Vně okruhu GRA, v Torre di Mezzavia, funguje od roku 2004 velké nákupní centrum. Z toho plynou toky zboží do obchodů a řemeslných dílen a odchozí dodávky směrem do Ciampina a Castelli.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Osteria_del_Curato_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/Via_Anagnina"
+    ]
+  },
+  "tuscolano": {
+    "profile": "Tuscolano je osmou čtvrtí Říma (quartiere), ve východní části města, v těsné blízkosti Aureliánských hradeb, a nese jméno podle via Tuscolana, která jím prochází spolu s Appia Nuova. Jde o čtvrť s vysokou hustotou zástavby, vytyčenou již v roce 1911, s intenzivní bytovou výstavbou, místními tržnicemi a dlouhou řadou obchodů podél obou konzulárních silnic; pod Tuscolanou vede linka A metra. Výrobní provozy zde nejsou, jen přestavěná bývalá depa veřejné dopravy. Logistika zde znamená místní městskou distribuci: zásobování obchodů a provozoven v přetížených ulicích, doručování do domácností a svoz vratek.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tuscolano"
+    ]
+  },
+  "appio-latino": {
+    "profile": "Appio-Latino je devátou čtvrtí Říma (quartiere), v jihovýchodní části města, v těsné blízkosti Aureliánských hradeb, a nese jméno podle silnic via Appia Antica a via Latina. Vedle kompaktní obytné zástavby podél Appia Nuova, s místní tržnicí Metronio a četnými obchody, zahrnuje čtvrť rozsáhlé chráněné zelené plochy, jako je park Caffarella, napojené na park Appia Antica. Stavba linky C metra zasahuje oblast Amba Aradam. Logistika se musí vyrovnávat s archeologickými a krajinářskými omezeními, obytnými ulicemi a dodávkami do obchodů a gastronomie, s vozidly malé nosnosti a v dohodnutých časech.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Appio-Latino"
+    ]
+  },
+  "ostia": {
+    "profile": "Ostia, oficiálně Lido di Ostia, je pobřežní místní částí Říma a sídlem městské části Municipio X, leží u Tyrhénského moře a ohraničuje ji Tibera, která ji odděluje od obce Fiumicino. S centrem ji spojují železnice Řím–Lido, via del Mare a via Cristoforo Colombo. Hospodářství závisí na obchodu, službách a přímořském cestovním ruchu, s plážovými zařízeními podél pobřeží, římským jachtařským přístavem a návštěvníky vykopávek Ostia Antica. Počet stálých obyvatel je vysoký a v létě roste denní příliv návštěvníků z Říma. Z toho plynou výrazně sezonní dodávky pro plážová zařízení, gastronomii a obchod a stálý tok balíků pro obyvatele.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostia_(Roma)"
+    ]
+  },
+  "acilia": {
+    "profile": "Acilia je oficiální předměstskou osadou (borgata) Říma v městské části Municipio X, na 18.–19. kilometru via del Mare mezi EUR a Ostií; Acilia Nord se rozkládá mezi Tiberou a via Ostiense, Acilia Sud od ní směrem k via Cristoforo Colombo, vně okruhu Grande Raccordo Anulare. Vznikla v roce 1919 jako osada v rámci meliorací a vyrostla ve velkou obytnou čtvrť obsluhovanou železnicí Řím–Lido. Podél via Ostiense, která v římské době spojovala město s přístavy v Ostii, se soustřeďuje obchod, řemesla a služby. Logistické potřeby se týkají maloobchodní distribuce, stavebních materiálů a dodávek do domácností.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Acilia"
+    ]
+  },
+  "infernetto": {
+    "profile": "Infernetto je místní částí Říma v městské části Municipio X, vně okruhu Grande Raccordo Anulare, na východní straně via Cristoforo Colombo, mezi borovým lesem Castel Fusano a prezidentským panstvím Castelporziano. Vzniklo po válce, kdy od roku 1947 družstvo rozparcelovalo rozsáhlé území, a rozvinulo se jako čtvrť vilek a nízkých domů se zahradou s nízkou hustotou zástavby. Hospodářské činnosti tvoří téměř výhradně místní obchod a služby. Rozptýlenost zástavby a délka uliční sítě činí dodávky méně efektivními než v kompaktních čtvrtích: jsou potřeba plánované okruhy pro balíky, nákupy s doručením domů a drobné stavební práce.",
+    "sectors": [
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Infernetto"
+    ]
+  },
+  "casal-palocco": {
+    "profile": "Casal Palocco je zóna Z. XXXIV Říma v jihozápadní části města, za okruhem Grande Raccordo Anulare, mezi via del Mare a via Cristoforo Colombo, sousedící s Acilií a Infernettem. Jde o obytný soubor plánovaný v šedesátých letech, v němž byly obytné, obchodní a sportovní plochy vymezeny již v projektu: nákupní centrum Le Terrazze a četná sportoviště jsou součástí původního řešení. Zástavbu tvoří převážně vilky a rezidence v zeleni. Místní logistika se týká doručování balíků a nábytku do domácností, zásobování nákupních center a údržby domů a zahrad.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Casal_Palocco"
+    ]
+  },
+  "magliana": {
+    "profile": "Magliana se rozkládá podél stejnojmenné ulice na pravém břehu Tibery v městské části Municipio XI, mezi via Portuense a řekou, uvnitř okruhu Grande Raccordo Anulare. Obytná čtvrť, postavená z velké části v sedmdesátých letech, leží pod úrovní druhé hráze Tibery a chrání ji čerpací stanice; na severu se rozkládá přírodní rezervace Tenuta dei Massimi. Oblast leží blízko dálnice Řím–Fiumicino a stanic linky FL1 a EUR je dostupné na druhém břehu řeky. Podél via della Magliana se střídá obchod, řemesla a služby. Logistické potřeby kombinují městskou distribuci s rychlým spojením na letiště Fiumicino.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Magliana"
+    ]
+  },
+  "ponte-galeria": {
+    "profile": "Ponte Galeria je zóna Z. XLI městské části Municipio XI, vně okruhu Grande Raccordo Anulare, mezi Tiberou na jihu a dálnicí A12 Řím–Civitavecchia na západě; prochází jí dálnice Řím–Fiumicino a železnice FL1. Nachází se zde výstaviště Fiera di Roma s devíti pavilony a kongresovým centrem, vedle obchodních a velkoobchodních center. Poloha mezi městem a letištěm Fiumicino z ní činí zónu skladů a služeb pro speditéry a kurýrní firmy. Logistická poptávka zahrnuje výstavbu veletržních expozic s krátkými lhůtami montáže, zboží směřující do Cargo City ve Fiumicinu a distribuci pro západní část Říma.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponte_Galeria",
+      "https://it.wikipedia.org/wiki/Fiera_di_Roma"
+    ]
+  },
+  "capannelle": {
+    "profile": "Capannelle je zóna Z. XVIII oblasti Agro romano v jihovýchodní části, těsně u okruhu Grande Raccordo Anulare i uvnitř něj, mezi via Tuscolana a Appia Nuova. Obsluhuje ji stanice Capannelle na trati Řím–Cassino–Neapol s regionálními vlaky FL4 a FL6; až do roku 1978 ji tramvajová trať spojovala s oblastí nádraží Termini. Území zahrnuje dostihové závodiště Capannelle, části parku Parco degli Acquedotti a obytné čtvrti, jako je Lucrezia Romana, blízko letiště Ciampino. Logistické potřeby se týkají akcí a sportovních zařízení, distribuce ve čtvrtích a spojení s letištěm a silnicí Appia.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Capannelle_(zona_di_Roma)"
+    ]
+  },
+  "morena": {
+    "profile": "Morena je urbanistická zóna 10L městské části Municipio VII na východě metropole, vně okruhu Grande Raccordo Anulare, po obou stranách via Anagnina. Jde o převážně obytnou čtvrť, která propojuje Tor Vergatu, letiště Ciampino a Castelli Romani a v posledních desetiletích rychle vyrostla. Podél Anagniny se nacházejí obchody, řemeslníci a malé sklady, které obsluhují i sousední obec Ciampino. Logistické potřeby souvisejí s distribucí spotřebního zboží, stavebními materiály pro bytovou výstavbu a doručováním do domácností v oblasti s hustým provozem podél konzulární silnice.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Morena_(zona_di_Roma)"
+    ]
+  },
+  "falcognana": {
+    "profile": "Falcognana je místní částí Říma v oblasti Castel di Leva v městské části Municipio IX, na 14. kilometru via Ardeatina, vně okruhu Grande Raccordo Anulare, přibližně dva kilometry od svatyně Divino Amore. Území, dosud zčásti zemědělské, je předmětem podrobného plánu pro bytovou výstavbu. V lomu podél Ardeatiny byla zřízena skládka, určená jako náhradní lokalita za Malagrottu, za protestů obyvatel a sousední obce Marino. Poloha na Ardeatině, mezi okruhem GRA a výrobní oblastí Santa Palomba, je zajímavá pro přepravu stavebních materiálů, zpracování odpadů a distribuci do Castelli.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Falcognana",
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "cecchignola": {
+    "profile": "Cecchignola v jižní části Říma mezi Laurentinou a Ardeatinou je známá především vojenským městem: od třicátých let zde inspektorát ženijního vojska plánoval areál pro vrchní velitelství podél osy dnes nazývané viale dell'Esercito, kde od roku 1955 sídlí Historické muzeum vojenské motorizace. Vedle kasáren a vojenských škol vyrostly nové obytné čtvrti, například v Tor Pagnotta. Napojení na okruh Grande Raccordo Anulare je rychlé. Logistická poptávka se týká dodávek pro vojenská zařízení, materiálů pro stavby bytů a distribuce v nových čtvrtích.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cecchignola",
+      "https://it.wikipedia.org/wiki/Castello_della_Cecchignola"
+    ]
+  },
+  "vitinia": {
+    "profile": "Vitinia leží v jihozápadní části Říma, v oblasti Mezzocammino městské části Municipio IX, vně okruhu Grande Raccordo Anulare, mezi via Ostiense na severu a via Cristoforo Colombo na jihu, a obsluhuje ji železnice Řím–Lido. Čtvrť vznikla po válce pravidelnou parcelací: vilky a menší bytové domy, které zřídka přesahují dvě podlaží, s prvními obchody již v roce 1949. Na jejím území se nachází vojenský sklad pohonných hmot Mezzocammino. Hospodářství je rezidenční a obchodní. Logistické potřeby se týkají dodávek obyvatelům, zásobování obchodů podél Ostiense a spojení s EUR a Ostií.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Vitinia"
+    ]
+  },
+  "mezzocammino": {
+    "profile": "Mezzocammino je zóna Z. XXXI oblasti Agro romano v údolí Tibery, vně okruhu Grande Raccordo Anulare, mezi řekou a via Cristoforo Colombo. Název pochází z antické zastávky pro čluny, které pluly proti proudu Tibery z přístavu v Ostii do Říma. Okruh GRA překonává řeku mostem Ponte di Mezzocammino, otevřeným v roce 1951 a od roku 2003 národní památkou. V posledních letech zde přibyla nová bytová výstavba a na železnici Řím–Lido se staví stanice Torrino-Mezzocammino. Místní logistika se týká staveb, distribuce pro nové čtvrti a dodávek obyvatelům v oblasti obsluhované malým počtem silnic.",
+    "sectors": [
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Mezzocammino"
+    ]
+  },
+  "castel-di-leva": {
+    "profile": "Castel di Leva je zóna Z. XXIII oblasti Agro romano v jižní části, vně okruhu Grande Raccordo Anulare, a sousedí s letištěm Ciampino a s obcemi Marino, Castel Gandolfo, Albano Laziale, Ardea a Pomezia. Podél via Ardeatina se nachází svatyně Madonna del Divino Amore, cíl poutí, a území zahrnuje také římskou část Santa Palomby a místní část Falcognana. Zůstávají zde rozsáhlé zemědělské plochy římské Kampanie. Zóna kombinuje toky poutníků, zemědělství a blízkost průmyslové oblasti Santa Palomba: z toho plynou dodávky pro poutní ubytování, zemědělské produkty a přeprava do výrobních center na jihu.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "tor-bella-monaca": {
+    "profile": "Tor Bella Monaca je místní částí Říma v oblasti Torre Angela v městské části Municipio VI, na severní straně via Casilina, vně okruhu Grande Raccordo Anulare, na zvlněném terénu, který protíná stejnojmenný příkop. V minulosti zde stála továrna Breda a celní stanice Torrenova; územním plánem z roku 1962 byla oblast určena k rozvoji a v osmdesátých letech zde byla postavena velká čtvrť veřejné bytové výstavby. Nová komunikace ji spojuje s univerzitou Tor Vergata. Hospodářství je rezidenční, s místním obchodem. Logistika se týká distribuce spotřebního zboží a doručování do domácností v budovách s vysokou hustotou obyvatel.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Bella_Monaca"
+    ]
+  },
+  "torre-angela": {
+    "profile": "Torre Angela je zóna Z. XIII oblasti Agro romano a urbanistická zóna 8F městské části Municipio VI, vně okruhu Grande Raccordo Anulare, podél via Casilina, s hrobkami z doby císařské v oblasti Torrenova. Vznikla jako venkovská osada a proměnila se v čtvrť s vysokou hustotou zástavby, zčásti živelně urbanizovanou; obsluhuje ji linka C metra vedoucí podél Casiliny. Obchod se soustřeďuje na konzulární silnici, s obchody, řemeslníky a malými sklady. Logistické potřeby se týkají zásobování obchodů podél Casiliny, stavebních materiálů pro rekonstrukce a vysokého objemu dodávek do domácností.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Angela"
+    ]
+  },
+  "tor-sapienza": {
+    "profile": "Tor Sapienza je zóna Z. VIII Říma a urbanistická zóna 7C městské části Municipio V ve východní části města, uvnitř okruhu Grande Raccordo Anulare, mezi via Prenestina a městským úsekem dálnice A24. Vedle obytných čtvrtí hostí zóna výrobní provozy: římský pivovar Birra Peroni, vojenské centrum pro údržbu telekomunikačních zařízení a bývalé továrny, z nichž jedna hostí muzeum MAAM. Přístup na dálnici A24 a okruh GRA činí oblast vhodnou pro sklady a distribuci. Logistické potřeby zahrnují nápoje ve velkých objemech, průmyslové komponenty a distribuci do východní části města.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Sapienza"
+    ]
+  },
+  "centocelle": {
+    "profile": "Centocelle je urbanistická zóna 7A městské části Municipio V ve východní části Říma a nese jméno podle areálu bývalého vojenského letiště, dnes archeologického parku. Čtvrť, rozvíjená od dvacátých let s nízkými domy pro dělníky, řemeslníky a drobné obchodníky, patří dnes k nejhustěji obydleným ve městě. Linka C metra, otevřená v letech 2014–2015, jí prochází se třemi stanicemi a železnice Řím–Giardinetti ji podél Casiliny spojuje s oblastí nádraží Termini. Obchod je rozptýlený, s místními tržnicemi a osami, jako je via dei Castani. Logistika je místní: každodenní zásobování obchodů a gastronomie a doručování do domácností v úzkých ulicích.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Centocelle"
+    ]
+  }
+}

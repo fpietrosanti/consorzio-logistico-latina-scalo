@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="section visible page-credits">
+  <div class="container">
+    {{ partial "breadcrumbs.html" (slice (dict "name" .LinkTitle)) }}
+    <header class="page-header">
+      <h1>{{ .Title }}</h1>
+      <p class="lead">{{ i18n "photo_credits_intro" }}</p>
+    </header>
+    <div class="table-wrap">
+    <table class="data-table credits-table">
+      <thead><tr><th scope="col">{{ i18n "credits_col_image" }}</th><th scope="col">{{ i18n "credits_col_author" }}</th><th scope="col">{{ i18n "credits_col_license" }}</th><th scope="col">{{ i18n "credits_col_source" }}</th></tr></thead>
+      <tbody>
+      {{ range $k, $i := hugo.Data.images }}
+      <tr>
+        <td><img src="{{ printf "img/%s.webp" $k | relURL }}" alt="" width="120" height="75" loading="lazy"> {{ $i.file }}</td>
+        <td>{{ $i.author }}</td>
+        <td>{{ with $i.license_url }}<a href="{{ . }}" rel="license noopener" target="_blank">{{ $i.license }}</a>{{ else }}{{ $i.license }}{{ end }}</td>
+        <td><a href="{{ $i.page }}" rel="noopener" target="_blank">Wikimedia Commons</a></td>
+      </tr>
+      {{ end }}
+      </tbody>
+    </table>
+    </div>
+  </div>
+</article>
+{{ end }}

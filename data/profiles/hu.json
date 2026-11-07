@@ -1,0 +1,1066 @@
+{
+  "aprilia": {
+    "profile": "Aprilia az Agro Pontino északi szélén fekszik, az SS148 Pontina és az SS207 Nettunense főút kereszteződésében, és az FL8 Róma–Nettuno regionális vasútvonal szolgálja ki. A területen egy 256 hektáros, Lanuvióval közös konzorciumi ipari agglomeráció működik, a település 167 hektárral a Lazio régió ZLS-ébe (egyszerűsített logisztikai övezet) tartozik. A termelési bázis elsősorban gyógyszeripari, olyan csoportok üzemeivel, mint a Pfizer, az Abbott, az Angelini és a Recordati; a mezőgazdaságot az Aprilia DOC szőlőültetvényei és egy ásványvízforrás egészítik ki. Ebből hatóanyagok, elsődleges csomagolóanyagok és késztermékek áruáramai adódnak, amelyek tételkövetést, hőmérséklet-szabályozott tárolást és dedikált szállítást igényelnek.",
+    "sectors": [
+      "farmaceutico",
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Aprilia_(Italia)",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "bassiano": {
+    "profile": "Bassiano a Monti Lepini egyik kisvárosa a Pontinói-síkság felett; a völgybe a Sermonetana megyei út köti össze Sermoneta és Latina Scalo felé. A területén ered a Brivolco patak, az Ufente mellékvize. A gazdaságot kis agrár-élelmiszeripari vállalkozások alkotják: a település az érlelt sonkájáról ismert, emellett extra szűz olívaolajat és bort is előállítanak. A Touring Club Italiano Bandiera arancione minősítéssel tüntette ki, a napi turizmus a hétvégékre összpontosul. Logisztikai szempontból a volumenek kicsik és szétaprózottak: érlelés alatt álló húskészítmények, helyi termékek szállítása a kereskedelem felé és kiszállítás hegyi utakon könnyű járművekkel.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Bassiano"
+    ]
+  },
+  "campodimele": {
+    "profile": "Campodimele egy karsztos dombon fekszik, ahol a Monti Ausoni az Aurunci-hegységhez kapcsolódik, a Fondi és Itri közötti belső területen. A település egyetlen gépkocsival járható úton érhető el, amely az SS82 Valle del Liri főútból ágazik ki, abból az országos főútból, amely Itritől a belső területek felé halad. A gazdasági tevékenységek száma kevés és kis méretű: a minisztérium által elismert hagyományos agrár-élelmiszeripari termékek között szerepel a szegletes lednek (cicerchia) és a Campodimele-i házikenyér, a település a Touring Club Bandiera arancione minősítésével is rendelkezik. A logisztikai igények elsősorban kis tételek kiszállítására, a kiskereskedelmi egységek ellátására, valamint hüvelyesek és helyi termékek szállítására vonatkoznak.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Campodimele"
+    ]
+  },
+  "castelforte": {
+    "profile": "Castelforte Latina megye keleti határán fekszik, a Monti Aurunci utolsó nyúlványain; történelmi központja és Suio településrésze a Garigliano völgyére néz, Campania határán. Suióban gyógyfürdők működnek, a római kori Terme Vescine örökösei, amelyek a völgyi mezőgazdasággal és a kis kézműves vállalkozásokkal együtt a helyi gazdaság jelentős részét adják. A település a Lazio régió ZLS-ében 11,64 hektárral szerepel, regionális célú támogatásra jogosult területen. A helyi logisztika szálláshelyeket és fürdőlétesítményeket, kiskereskedelmet és építkezéseket szolgál ki, Formia, illetve Cassino és az A1-es autópálya felé irányuló áruáramokkal.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castelforte",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "cisterna-di-latina": {
+    "profile": "Cisterna di Latina az Agro Pontino északi bejáratánál fekszik, az SS7 Appia főúton és a Formián át vezető Róma–Nápoly vasútvonalon; területén, Campoverdében 2026-ban kezdődött meg az A1-es autópálya felé vezető Cisterna–Valmontone összekötő út építése. A konzorciumi ipari agglomeráció 368 hektárt fed le, ebből 192 hektár tartozik a ZLS-be. Itt működik az olmobellói alumíniumhengermű, a Nomad Foods Findus üzeme az olasz piacra szánt mélyhűtött termékek számára, valamint olyan gyógyszeripari vállalatok, mint a Nuova Ompi és a BSP Pharmaceuticals; Borgo Flora településrészen az 1970-es években kezdődött a kivitermesztés. A helyi ellátási láncok mélyhűtött hűtőláncot, félkész fémtermékek nehéz rakományait és nyomon követett gyógyszeripari áruáramokat igényelnek.",
+    "sectors": [
+      "agroalimentare",
+      "farmaceutico",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cisterna_di_Latina",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "cori": {
+    "profile": "Cori a Monti Lepini északnyugati részén fekvő dombvidéki település a Pontinói-síkság felett, Giulianello településrésszel Velletri irányában. Megyei utak kötik össze Cisternával és a Pontinával, Doganella di Ninfán át Latina Scalóval, valamint Artenán keresztül az A1-es autópálya valmontonei csomópontjával; a leggyakrabban használt vasútállomás a cisternai. A terület a Cori rosso és bianco DOC borait és itranai olajbogyóból készült olívaolajat állít elő, pincészetekkel és olajütőkkel, emellett kekszgyárak, olajban eltett konzerveket gyártó vállalatok és fa székek készítésének hagyománya is jellemzi. A logisztika a szüret és az olívabetakarítás naptárát követi: üveg, raklapra rakott palackok és kiszállítás borkereskedések és nagykereskedelmi láncok (GDO) felé.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cori"
+    ]
+  },
+  "fondi": {
+    "profile": "Fondi a Monti Ausoni és Aurunci által közrezárt, a Tirrén-tenger felé nyitott síkságon terül el; átszeli az SS7 Appia, a Ciociaria térséggel pedig a Lenola felé vezető SR637 köti össze; a Fondi-Sperlonga állomás a Formián át vezető Róma–Nápoly vonalon van. A gazdaság a zöldség-gyümölcs ágazat körül forog: a citrusültetvények helyét zöldségek, üvegházi korai termények és gyümölcsök vették át, a városban működik a nagykereskedelmi agrár-élelmiszeripari központ (MOF), amely az üzemeltető szerint évente közel 10 millió mázsa árut forgalmaz, és nincs vasúti kapcsolata. A település 69,70 hektárral tartozik a ZLS-be. Ebből éjszakai, hőmérséklet-szabályozott áruáramok, szezonális csúcsok és a közúti szállítás iránti erős kereslet adódik.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fondi",
+      "https://www.mof.it/index.php/mof"
+    ]
+  },
+  "formia": {
+    "profile": "Formia a Monti Aurunci nyúlványai és a Gaetai-öböl között fekszik, az SS7 Appia főúton, a Sperlonga és Terracina felé vezető SR213 Flacca és a Cassino felé vezető SR630 Ausonia csatlakozásánál; a Formia-Gaeta állomás a Róma–Nápoly vonalon van. A kikötőből kompok és szárnyashajók indulnak Ponzára és Ventotenére, így a város a szigetek ellátásának bázisa. A Penitro, Ponzanello–Mamurrano és Castagneto ipari területek, amelyek az egykori Consorzio Sud Pontino keretében jöttek létre, a kikötői tevékenységhez kapcsolódnak; a település 124 hektárral tartozik a ZLS-be. A kereskedelem, a szolgáltatások, az építőipar, valamint a kerámia- és vasművesség városi disztribúciót és a rakományok behajózás előtti konszolidációját igényli.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Formia",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "gaeta": {
+    "profile": "Gaeta az azonos nevű öblöt nyugatról lezáró hegyfokon fekszik, az Appiával és Formiával az SR213 Flacca köti össze. A kereskedelmi kikötő a Közép-Északi Tirrén-tengeri Kikötői Rendszer Hatóságához tartozik, és 2025-ben mintegy 1,8 millió tonna árut forgalmazott, szinte kizárólag folyékony és szilárd ömlesztett árut; a Lazio régió ZLS-ébe a település 142,61 hektárja, valamint 17,53 hektár kikötői terület tartozik, Monte Conca térsége pedig konzorciumi ipari terület. A városban állomásozik az Egyesült Államok Hatodik Flottájának zászlóshajója, és kialakult tengerparti turizmussal rendelkezik. A logisztika a kikötői ömlesztett árukat, a szálláshelyek nyári csúcsokkal járó ellátását és olyan helyi termékeket kapcsol össze, mint a gaetai olajbogyó.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gaeta",
+      "https://www.shippingitaly.it/2026/02/17/nei-porti-del-lazio-oltre-131-mln-di-tonnellate-e-35-mln-di-crocieristi-nel-2025/"
+    ]
+  },
+  "itri": {
+    "profile": "Itri a Monti Aurunci egyik völgyében fekszik, az SS7 Appia mentén Fondi és Formia között, ahol az SS82 Valle del Liri főút kezdődik; az állomás a Formián át vezető Róma–Nápoly vonalon van, a partot az SR213 Flacca érinti. A fő tevékenység a mezőgazdaság: az itri olajbogyót sós lében tartósítják és olajnak sajtolják, a dombokon Abbuoto bort termelnek. A település a Consorzio Industriale Sud Pontino területéhez tartozik és 3,70 hektárral szerepel a ZLS-ben, miközben a Rómából és Nápolyból érkező turistaforgalom növekszik. A logisztikai igények csomagolt olajra és olajbogyóra vonatkoznak, őszi betakarítással és az év során elosztott szállításokkal.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Itri"
+    ]
+  },
+  "latina": {
+    "profile": "Latina az Agro Pontino megyeszékhelye: az SS148 Pontina köti össze Rómával, az SS7 Appia átszeli a község területét, az SS156 dei Monti Lepini pedig Frosinone és az A1-es autópálya felé vezet; a vasútállomás Latina Scalóban, a Formián át vezető Róma–Nápoly vonalon található. Az ipart a gyógyszergyártás vezeti, ezt követi a vegyipar, az agrár-élelmiszeripar, a tejipar, a kohászat és a precíziós gépgyártás, amelyek a Latina Scalo-i konzorciumi agglomerációban és a ZLS-be 280 hektárral bevont területeken összpontosulnak. A mezőgazdaságot üvegházak, virágtermesztés, zöldségek és a Kiwi Latina OFJ (IGP) alkotják. A képet közintézmények és a szolgáltatási szektor egészítik ki, gyógyszeripari logisztika, hűtőlánc és városi disztribúció iránti kereslettel.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Latina",
+      "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Logistica.pdf"
+    ]
+  },
+  "lenola": {
+    "profile": "Lenola az Ausoni és az Aurunci hegyei között fekszik, Latina megye Frosinone megye felőli határán, az SR637 mentén, amely Fonditól a Ciociaria felé emelkedik, és a völgyben az Appiába torkollik. A település a Madonna del Colle zarándokhelyről ismert, területe a mozzarella di bufala campana OEM (DOP) termőterületéhez tartozik. A gazdasági szerkezetet kis mezőgazdasági, kézműves és kereskedelmi vállalkozások alkotják, amelyek Fondi zöldség-gyümölcs piacához és szolgáltatásaihoz kötődnek. A logisztika elsősorban friss tejtermékekre, a helyi kereskedelem ellátására és a Fondi–Frosinone tengely menti dombvidéki szállításra vonatkozik.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lenola"
+    ]
+  },
+  "maenza": {
+    "profile": "Maenza a Monti Lepini dombvidéki települése mintegy 360 méteres tengerszint feletti magasságban, Priverno háttérterületén, a Frosinone felé vezető SS156 dei Monti Lepini nyomvonala közelében. A nagyrészt erdőkkel és olívaligetekkel borított területen kis léptékű, az elsődleges szektorra és a turizmusra épülő gazdaság működik. Baromfi- és nyúltenyésztés, bivaly- és lótenyésztés, valamint cseresznye, olajfa, szőlő, búza és kukorica termesztése folyik, kisebb mennyiségben füge, datolyaszilva és kivi is terem. A logisztikai igények romlandó friss termékekhez, takarmányokhoz és mezőgazdasági beszerzésekhez kapcsolódnak, dombvidéki megyei utakon történő kiszállítással.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Maenza"
+    ]
+  },
+  "minturno": {
+    "profile": "Minturno a Monti Aurunci dombjaitól a Gaetai-öböl partjáig terjed, egészen a Garigliano torkolatáig és Campania határáig. Scauri településrészen az SS7 Appia keresztezi a Cassino felé vezető országos főutat, a Minturno-Scauri állomás a Róma–Nápoly vonalon van. A Penitro és Parchi ipari területek az egykori Consorzio Sud Pontinóból származnak, a település 59,06 hektárral szerepel a ZLS-ben, regionális célú támogatásra jogosult területen. A gazdaság a tengerparti és régészeti turizmust (Minturnae régészeti területe), a Garigliano-síkság mezőgazdaságát és a kereskedelmet ötvözi. Ebből a szálláshelyek szezonális ellátása, valamint Campania és az A1 felé irányuló áruáramok adódnak.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Minturno",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "monte-san-biagio": {
+    "profile": "Monte San Biagio a Monti Ausoni egyik nyúlványán terül el, a Fondi-síkságra és a Fondi-tóra néző fekvésben, átszeli az SS7 Appia. A Formián át vezető Róma–Nápoly vonalon fekvő Monte San Biagio-Terracina Mare állomást regionális vonatok, 2024 óta pedig két távolsági Intercity is kiszolgálja. A terület a mozzarella di bufala campana OEM (DOP), a Colline Pontine OEM olívaolaj és a Moscato di Terracina DOC termőterülete, és Fondi zöldség-gyümölcs termelő körzetével határos. A település 12,80 hektárral tartozik a ZLS-be, az adójóváírásra jogosult területen kívül. A helyi logisztika friss tejtermékeket, olajat és bort érint.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_San_Biagio",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "norma": {
+    "profile": "Norma a Monti Lepini egyik sziklafalán fekszik, amely az Agro Pontino és a Ninfa-kert felett magasodik; a Norbana megyei út a síkság felé ereszkedik, a Cotral buszjáratai Sermonetán és Latina Scalón át kötik össze Latinával. A gazdaság olívatermesztésre, kis léptékű mezőgazdaságra és kulturális turizmusra épül: a településen található az ókori Norba régészeti parkja és egy csokoládémúzeum, 2023 óta pedig az Olajvárosok (Città dell'olio) hálózatának tagja. Saját ipari területei nincsenek, a vállalkozások az alatta fekvő síksághoz kötődnek. A logisztikai igények olajra, kézműves édesipari termékekre, valamint a kereskedelem és a szálláshelyek ellátására korlátozódnak.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Norma_(Italia)"
+    ]
+  },
+  "pontinia": {
+    "profile": "Pontinia az Agro Pontino egyik alapított városa, a Sisto folyó és az SS7 Appia között jött létre, a Circeo Nemzeti Park szélén. Területén két konzorciumi ipari agglomeráció található: Mazzocchio, 445 hektár Priverno és Sonnino határán, valamint Pontinia, 126 hektár Latinával és Sabaudiával közösen; a település 78,17 hektárral tartozik a ZLS-be, az adójóváírásra jogosult területen kívül. Mazzocchióban közúti fuvarozó vállalkozások, mosogatókat és konyhai, fürdőszobai műanyag alkatrészeket gyártó cégek, bioélelmiszer- és csomagolóanyag-gyártók működnek; a vidéki részeken a mezőgazdaság és a tejipar dominál, amelyek hűtött szállítást és rakománykonszolidációt igényelnek.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pontinia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ponza": {
+    "profile": "Ponza a Pontinói-szigetek fő szigete; a községhez Palmarola, Gavi és Zannone is tartozik. Kompok és szárnyashajók egész évben Formiával kötik össze, rendszeres járatok Terracinából és Nápolyból is indulnak; nyáron ezekhez Anzióból, Ischiáról és San Felice Circeóból induló, valamint Ventotenével összekötő járatok társulnak. A gazdaság a főként Laziából és Campaniából érkező nyári turizmustól és a halászattól függ, kis mennyiségű lencsetermeléssel és Fieno di Ponza IGT borral. Minden ellátmány tengeren érkezik: a logisztika a rakományok behajózási kikötőkben történő konszolidációját, a kompokon a hely lefoglalását és a fürdőszezon csúcsára méretezett készleteket igényli.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponza_(comune)",
+      "https://www.directferries.it/laziomar.htm"
+    ]
+  },
+  "priverno": {
+    "profile": "Priverno az Amaseno-völgy közepén fekszik, az SS156 dei Monti Lepini mentén, amely a Pontinói-síkságot Frosinonéval és az A1-es autópályával köti össze. A Formián át vezető Róma–Nápoly vonalon fekvő Priverno-Fossanova állomás egyben a Terracina felé vezető szárnyvonal elágazási pontja. A gazdaság aktív mezőgazdaságot, a közeli mazzocchiói agglomerációhoz kötődő ipari jelenlétet, kerámia-, terrakotta- és rézművességet, valamint a fossanovai ciszterci apátság körüli turizmust ötvöz. Az elmúlt években az építőipari fejlődés élénk volt. A helyi logisztika építkezéseket és építőanyag-kereskedelmet, mezőgazdasági termékeket és a Latina–Frosinone harántirányú tengely menti áruáramokat szolgál ki.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Priverno"
+    ]
+  },
+  "prossedi": {
+    "profile": "Prossedi a Monti Lepini dombvidéki kisvárosa, amely az SS156-ról látható, félúton Priverno és Frosinone között; átfolyik rajta az Amaseno folyó és mellékvize, a Monteacuto. A terület nagyrészt dombos és hegyes; az egyetlen sík rész az Amaseno mentén húzódik, ahol a kertek összpontosulnak, a lejtőkön pedig olívaligetek és szőlők dominálnak. A település a Touring Club Bandiera arancione minősítésével rendelkezik, gazdasága kis mezőgazdasági üzemekből és kereskedelmi tevékenységekből áll. Az SS156 menti fekvése az Agro Pontino és a Sacco-völgy közötti tengelyre helyezi; a logisztikai igények friss zöldségekre, valamint kis tételekben olajra és borra vonatkoznak.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Prossedi"
+    ]
+  },
+  "rocca-massima": {
+    "profile": "Rocca Massima a Monti Lepini Monte Massimo nevű csúcsán, 735 méteres magasságban fekszik, Latina megye legmagasabban fekvő községe; a lakosság jelentős része a völgybeli településrészekben él, Cori és Giulianello felé. Megyei utak vezetnek Giulianellóba, Coriba és Segnibe, a Cotral autóbuszai Velletrivel kötik össze. A gazdaság mezőgazdaságra és állattenyésztésre épül, különösen az olívatermesztésre és az olajgyártásra, a történelmi központban nyári turizmussal. Jelentős ipari terület nincs. A logisztika az olaj forgalmazására és a hegyi utakon történő kiszállításra vonatkozik, ahol könnyű járművekre és ütemezett kiszállításra van szükség.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Massima"
+    ]
+  },
+  "roccagorga": {
+    "profile": "Roccagorga a Monti Lepiniben, az Amaseno-völgyben, Priverno felett fekszik; az SS156 dei Monti Lepini főúthoz kapcsolódik, amelyen keresztül a Pontinói-síkság és Frosinone felé is elérhető. A terület dombos és hegyes, mészkő alapú, állandó vízfolyások nélkül, ezért a mezőgazdaság dombvidéki jellegű, olívafákkal és kisebb kultúrákkal. A hagyományos tevékenységek közül kiemelkedik a rézművesség. A településnek nincs saját ipari területe, az aktív népesség Privernóhoz és a síkság termelési telephelyeihez, például Mazzocchióhoz kötődik. A logisztikai igények a kereskedelem és a kézművesség kisebb kiszállításaihoz és az építőipar ellátásához kapcsolódnak.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccagorga"
+    ]
+  },
+  "roccasecca-dei-volsci": {
+    "profile": "Roccasecca dei Volsci kis dombvidéki község Priverno és az Amaseno-völgy felett, 700 méterig felnyúló erdőkkel; a valamivel lejjebb húzódó SS156 dei Monti Lepini köti össze a Pontinói-síksággal és Frosinonéval. Lucerna településrész, egy Amasenóval határos völgyben, bivalytej-termelésre épülő gazdasággal rendelkezik, a tejet a környék sajtüzemei veszik át. A terület többi része dombvidéki mezőgazdaságból, természetjáró turizmusból és helyi szolgáltatásokból él. Logisztikai szempontból ez a friss tej napi begyűjtését, takarmányok és állattenyésztési anyagok kiszállítását, valamint rövid távú hűtött szállítást jelent.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Roccasecca_dei_Volsci"
+    ]
+  },
+  "sabaudia": {
+    "profile": "Sabaudia az Agro Pontino egyik alapított városa; sík területén a dűnés partszakasz, a parti tavak és a Circeo Nemzeti Park erdői találhatók; az SS148 Pontina köti össze Latinával és Terracinával. Terracinával és Fondival együtt itt összpontosul a megye üvegházi termelésének jelentős része, friss fogyasztásra és feldolgozásra szánt zöldségekkel. A pontiniai konzorciumi ipari agglomeráció egy része a területére esik. Nyáron a tengerparti turizmus megsokszorozza a szolgáltatások iránti keresletet. A logisztikának a zöldségek folyamatos, hőmérséklet-szabályozott begyűjtését és ezzel párhuzamosan a strandok és szálláshelyek szezonális ellátását kell kezelnie.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sabaudia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "san-felice-circeo": {
+    "profile": "San Felice Circeo a Circeo-hegyfokon, az Agro Pontino déli végén fekszik; az SS148 Pontina a község északi határa közelében halad el, a Cotral járatai a megye településeivel és Rómával kötik össze. Nyáron menetrend szerinti hajójárat köti össze a kikötőt Ponza szigetével. A gazdaságot a tengerparti és vízi turizmus uralja, a második otthonok és szálláshelyek júniustól szeptemberig koncentrálják a keresletet; a hagyományos kézműves tevékenységek között szerepel a stílbútorgyártás. A helyi logisztikát erős szezonalitás jellemzi: a vendéglátás és a kereskedelem ellátása, valamint bútorok kiszállítása.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Felice_Circeo"
+    ]
+  },
+  "santi-cosma-e-damiano": {
+    "profile": "Santi Cosma e Damiano a Monti Aurunci lejtői és a Garigliano-síkság között terül el, a megye délkeleti csücskében, Frosinone megye, a folyón túl pedig Campania határán. Az 1960-as években egy később bezárt öntapadó termékeket gyártó üzem megnyitása indította el az iparosodást; ma a gazdaságot kis kézműves, mezőgazdasági és állattenyésztő tevékenységek, kereskedelem és disztribúció, vendéglátás, valamint az 1997-ben megnyílt Garigliano-lóversenypálya alkotja. A Pantaniello ipari terület és 10,24 hektár, regionális célú támogatásra jogosult ZLS-terület kínál helyet betelepülésre. A logisztika a kereskedelmi disztribúciót, a tejtermékeket és a Campania, illetve az A1 felé irányuló áruáramokat szolgálja ki.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santi_Cosma_e_Damiano_(Italia)",
+      "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+    ]
+  },
+  "sermoneta": {
+    "profile": "Sermoneta a Monti Lepinitől az Agro Pontinóig terjed: a Caetani-várral rendelkező középkori kisváros uralja a síkságot, a terület alsó része pedig Latina Scalóval határos, és a Latina Scalo-i konzorciumi ipari agglomerációhoz tartozik, amely Latina, Sermoneta és Sezze között 448 hektárt fed le. A település 128 hektárral tartozik a ZLS-be, az adójóváírásra jogosult területen kívül. Mezőgazdasági szempontból a terület a carciofo romanesco OFJ (IGP) articsóka, a Colline Pontine OEM (DOP) olívaolaj és a bivalymozzarella OEM termőterületéhez tartozik. A kulturális turizmus, amely a közeli Ninfa-kerthez is kötődik, és a síkság ipara eltérő logisztikai igényeket támaszt.",
+    "sectors": [
+      "farmaceutico",
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sermoneta",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sezze": {
+    "profile": "Sezze a Monti Lepini és az Agro Pontino között terül el, átfolyik rajta az Ufente folyó; a Sezze Romano állomás a Formián át vezető Róma–Nápoly vonalon van. A gazdaság továbbra is mezőgazdasági és szezonális: január végétől betakarított articsóka, január–februári brokkoli, paradicsom, a Lepini-hegység meggye (visciole) és október végétől szüretelt Hayward kivi, valamint bivalytej és bivalymozzarella. A Cassa per il Mezzogiorno támogatásával létesült üzemek nagy részét bezárták, de a Latina Scalo-i konzorciumi agglomeráció egy része a település területére esik, amely 35,25 hektárral tartozik a ZLS-be. A logisztika a betakarítási naptárt követi, friss zöldség-gyümölcs csúcsokkal.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sezze",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "sonnino": {
+    "profile": "Sonnino a Monti Ausoni dombos és hegyes területén fekszik, Latina megye közép-déli részén. A Frosinone–tenger gyorsforgalmi út köti össze az A1-es autópálya frosinonei csomópontjával és Terracina partjával, a Pontina és az Appia pedig Latina és Róma felé vezet; a régi Velletri–Terracina vonal állomásait megszüntették, a legközelebbi működő állomás Priverno-Fossanova. A terület a Colline Pontine OEM (DOP) olívaolaj, a mozzarella di bufala campana és a Moscato di Terracina DOC termőterülete, és a mazzocchiói ipari agglomerációval határos. A logisztikai igények olajra, tejtermékekre és borra vonatkoznak, a Ciociaria és a tengerpart felé irányuló kapcsolatokkal.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sonnino"
+    ]
+  },
+  "sperlonga": {
+    "profile": "Sperlonga a Monte San Magno egyik sziklanyúlványán fekszik, a Gaetai-öbölre nézve, Terracina és Gaeta között; teljes hosszában az SR213 Flacca szolgálja ki; a referencia-vasútállomás Fondi-Sperlonga, amelyet autóbusz köt össze a településsel. A gazdaság szinte teljes egészében a turizmusra épül: a település a Borghi più belli d'Italia (Olaszország legszebb kisvárosai) egyesület tagja, a strandok mellett a Tiberius-villa régészeti múzeuma is vonzerő. A mezőgazdaság kisebb szerepet játszik, perino paradicsommal és a Sperlonga-i fehér zeller OFJ (IGP) termékkel. A logisztika erősen szezonális, a szállodák, a vendéglátás és a strandok nyárra koncentrálódó ellátásával.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Sperlonga"
+    ]
+  },
+  "spigno-saturnia": {
+    "profile": "Spigno Saturnia a Monti Aurunciban, Minturno háttérterületén fekszik, a Monte Petrella uralta, az Ausente folyó által átszelt területen; a község alsó része az SR630 Ausonia mentén húzódik, amely Formiát Cassinóval és az A1-es autópályával köti össze. A hagyományos tevékenységek közé tartozik a kézzel készített terrakotta, a hímzés és a csipkeverés, a mezőgazdaságban az itranai olajbogyó termesztése szerepel. Nagy termelési telephelyek nincsenek, az aktív népesség a Gaetai-öböl partvidékéhez kötődik. A logisztikai igények téglára és építőanyagokra, olajra és olajbogyóra, valamint a helyi kereskedelem kiszállításaira vonatkoznak.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spigno_Saturnia"
+    ]
+  },
+  "terracina": {
+    "profile": "Terracina délről zárja le az Agro Pontinót, az Amaseno torkolatánál: itt ér véget az SS148 Pontina, amely Borgo Piave után irányonként egysávos, és itt halad át az SS7 Appia, valamint a Sperlonga és Gaeta felé vezető SR213 Flacca; egy vasúti szárnyvonal köti össze Priverno-Fossanovával. Az első számú tevékenység a turizmus, a megyében itt van a legtöbb üdülési szálláshely, emellett halászat, virágtermesztés, üvegházi zöldségtermesztés, bivalytenyésztés és olyan termékek jellemzik, mint a Favetta eper és a Moscato di Terracina. A kikötőből szezonális járatok indulnak Ponzára. A logisztika a hőmérséklet-szabályozott zöldség-gyümölcsöt, a halfogást és a nyári turisztikai ellátást kapcsolja össze.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Terracina",
+      "https://it.wikipedia.org/wiki/Strada_statale_148_Pontina"
+    ]
+  },
+  "ventotene": {
+    "profile": "Ventotene a Santo Stefano szigetecskével együtt területét tekintve Lazio legkisebb és a régió legdélebbi községe. A fő összeköttetés Formiával van, amelyet a Laziomar egész évben járműveket is szállító komppal és gyorshajóval szolgál ki; nyáron ezekhez Ponzával és Nápolyból induló járatok társulnak. A kompok és a kereskedelmi szállítás Cala Rossano új kikötőjében kötnek ki, a római kori kikötő halászhajókat és kisebb vízi járműveket fogad; egy helikopter-leszállóhely a mentést szolgálja. A gazdaság a nyári turizmusból és kis léptékű mezőgazdaságból él, a hagyományos termékek között szerepel a lencse. A készleteket a formiai indulásokhoz és a nyári csúcshoz kell ütemezni.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ventotene_(comune)",
+      "https://www.directferries.it/formia_ventotene_traghetto.htm"
+    ]
+  },
+  "pomezia": {
+    "profile": "Pomezia az Agro Romanóban terül el az Alban-dombok lejtői és a tengerpart között; kiszolgálja az SS148 Pontina, a Laurentina, az Ardeatina és az Ostia–Anzio parti út; a Pomezia-Santa Palomba állomás a Formián át vezető Róma–Nápoly vonalon van, az SGT intermodális terminál mellett. A Cassa per il Mezzogiorno támogatásával fejlődött ipar magában foglalja a gyógyszeripart és a biotechnológiát (Menarini, Johnson & Johnson, IRBM), az elektronikát és a védelmi ipart (Leonardo, Northrop Grumman Italia), a papíripart, a műanyagipart és az agrár-élelmiszeripart, a Fiorucci húskészítmény-gyárral, a Crik Crok snackgyárral és egy malátagyárral. A Santa Palomba-i agglomerációban logisztikai szolgáltatók és nagykereskedelmi láncok (GDO) platformjai működnek. A logisztikai kereslet széles: gyógyszerek, élelmiszerek, napi fogyasztási cikkek.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Pomezia",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "ardea": {
+    "profile": "Ardea egy tufasziklán fekszik Pomeziától délre, az Agro Romanóban; területe Tor San Lorenzo és Marina di Ardea parti településrészeknél ereszkedik a tengerig; belső részét az SS148 Pontina szeli át. A település megőrizte mezőgazdasági jellegét, a mozzarella di bufala campana, valamint a Colli Albani és Roma DOC borok termőterületén, de az 1970-es évektől ipari és kézműves telephelyek alakultak ki a Pontina mentén. Az elmúlt évtizedek Pomezia termelési és logisztikai központjaihoz kötődő lakóépület-fejlesztése az építőipart és a kereskedelmet élénkítette. Ebből építőanyag-kiszállítások, kiskereskedelmi disztribúció és nyári turisztikai áramok adódnak.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ardea"
+    ]
+  },
+  "anzio": {
+    "profile": "Anzio az azonos nevű hegyfokon fekszik a Rómától délre húzódó parton; kiszolgálja az SS207 Nettunense, az SS601 Ostia–Anzio parti út és az FL8 Róma–Nettuno regionális vonal állomásai. A gazdaság a tengerparti turizmusra és a kikötőre épül, amely mintegy 60 halászhajóból álló flottával és évi több mint 800 tonna halfogással rendelkezik, és ahonnan szezonális járatok indulnak Ponzára. A területen található a Colgate-Palmolive olaszországi üzeme, a háttérterület a mozzarella di bufala campana termőterületéhez tartozik. A logisztika szempontjából a friss hal ellátási lánca, a testápolási és háztartási termékek áruáramai, valamint a kereskedelem és a vendéglátás nyári ellátása meghatározó.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Anzio"
+    ]
+  },
+  "nettuno": {
+    "profile": "Nettuno a Campagna Romana és az Agro Pontino közötti parton fekszik; az Astura folyó jelöli a határt Latina községgel. A Róma–Nettuno regionális vasútvonal végállomása; a Campo di Carne és Campoverde csomópontokon keresztül az SS148 Pontinához, az SS207 Nettunense révén Aprilia és a Castelli felé, az SS601 parti úton pedig Anzio felé kapcsolódik. A fő tevékenység a turizmus: tengerparti, a Marina di Nettuno jachtkikötővel, valamint történelmi és vallási, a Santa Maria Goretti-szentéllyel és az amerikai katonai temetővel. A mezőgazdasági háttérterület a bivalymozzarella termőterületéhez tartozik. A logisztikának a fogyasztás és a vendéglátás nyári csúcsaira kell reagálnia.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nettuno_(Italia)"
+    ]
+  },
+  "ciampino": {
+    "profile": "Ciampino összekötő szerepet tölt be Róma és a Castelli Romani között: átszeli az SS7 Appia és az Anagnina, itt kezdődik a Velletri felé vezető Via dei Laghi, a Grande Raccordo Anulare (GRA, római körgyűrű) pedig néhány száz méterre halad a község határától, a Gregna Sant'Andrea és az Appia csomópontok között. Az FL4 és FL6 vonalak találkozási pontján fekvő ciampinói állomás jelentőségét tekintve Lazio harmadik állomása a Termini és a Tiburtina után. A községről kapta nevét a G. B. Pastine repülőtér, amelyet az Aeroporti di Roma és a Légierő üzemeltet. A gazdaság a szolgáltatásokra és a kiskereskedelemre összpontosul, városi disztribúció, valamint üzletek és repülőtéri felhasználók kiszolgálása iránti kereslettel.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ciampino"
+    ]
+  },
+  "marino": {
+    "profile": "Marino az Alban-dombok északnyugati részén fekszik, területe a Ciampino és Róma felé eső síksági településrészekig terjed, mint Santa Maria delle Mole, Cava dei Selci és Castelluccia; átszeli az SS7 Appia és az SR207 Nettunense. Hosszú ideig a szőlő- és bortermelés volt a húzóágazat: a Marino DOC 1970 óta elismert, a fő termelő az 1946-ban alapított Gotto d'Oro szövetkezeti pincészet. Egykor peperino- és bazaltbányák működtek, ma az építőipar jelentős ágazat maradt, a vasművesség, a nyomdaipar és a sütőipar mellett. A logisztika palackozott bort, építőanyagokat és városi disztribúciót kezel.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Marino_(Italia)"
+    ]
+  },
+  "castel-gandolfo": {
+    "profile": "Castel Gandolfo az Alban-dombokról az Agro Romanóig terjed, az Albano-tóra néz, és teljes egészében a Castelli Romani regionális park része. Területét az SS7 Appia és az SS140 del lago Albano szeli át, az állomás a Róma–Albano vasútvonalon van. A pápai palota a pápai villákkal és Domitianus villája állandó kulturális és vallási turizmust táplál. A szőlőtermesztést a szomszédos községek nagy szövetkezeti pincészetei kezelik, a községi alapszabály tiltja az antennákat és a telepített távközlési berendezéseket. A kórház és számos szolgáltatás a községen kívül található, így a logisztika elsősorban a vendéglátást, a kereskedelmet és a szálláshelyeket érinti.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Gandolfo"
+    ]
+  },
+  "albano-laziale": {
+    "profile": "Albano Laziale az Alban-dombok egyik legnagyobb kiterjedésű községe; az SS7 Appián fekvő központ mellett Pavona és Cecchina síksági településrészeit is magában foglalja, amelyeket az SR207 Nettunense szel át; a várost az FL4 regionális vasútvonal szolgálja ki. 2018-ban 2863 helyi egység működött itt 8516 foglalkoztatottal, a szolgáltatásokra összpontosuló termelési szerkezettel, beleértve a kórházat, az irodákat és a kereskedelmet. A Colli Albani DOC bortermelési hagyománya mellett a városban zöldség-gyümölcs nagybani piac működik, amely történelmileg a zöldségek és az articsóka szempontjából jelentős. A logisztikai igények friss zöldség-gyümölcsre, a kereskedelem ellátására, valamint egészségügyi intézmények és irodák kiszolgálására vonatkoznak.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Albano_Laziale"
+    ]
+  },
+  "ariccia": {
+    "profile": "Ariccia a Castelli Romani egyik települése; átszeli az SS7 Appia, amely itt az ariccai híddal ível át a völgyön; a római korban Aricia volt az első pihenőállomás a Via Appián Rómából kifelé haladva. A Palazzo Chigi és a Bernini-tér műemlék-együttese Rómából érkező napi turizmust tart fenn. A legismertebb termék a porchetta, emellett a Colli Albani DOC fehérbor és a bivalymozzarella; a számos fraschetta (hagyományos borozó) a hétvégékre koncentrálja a keresletet. Logisztikai szempontból ez hűtve szállítandó húskészítményeket, a vendéglátás gyakori ellátását, valamint vásárokhoz és rendezvényekhez kötődő csúcsokat jelent.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ariccia"
+    ]
+  },
+  "genzano-di-roma": {
+    "profile": "Genzano di Roma az Alban-dombokon fekszik az SS7 Appia mentén, Ariccia és Velletri között, a Nemi-tóra nézve; a San Gennaro állomás a Róma–Velletri vasútvonalon, az FL4 regionális vonalon van. A mezőgazdaságban a szőlőtermesztés dominál: Genzano és Lanuvio a Colli Lanuvini DOC borvidék központja, emellett olívatermesztés, virágtermesztés, gyümölcs és zöldség is jellemző. Mintegy 400 kézműves vállalkozás működik bőr-, fonott-, üveg-, kerámia- és stílbútor-készítésben, de a legfontosabb ágazat a sütőipar, a természetes kovásszal készülő, fatüzelésű kemencében sütött Genzano-i házikenyérrel. A helyi logisztika pékáruk napi disztribúcióját és borszállítmányokat igényel.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genzano_di_Roma"
+    ]
+  },
+  "lanuvio": {
+    "profile": "Lanuvio az Alban-dombok déli lejtőjén fekszik, Aprilia síksága felé nézve, állomása a Róma–Velletri vasútvonalon van. A fő tevékenység a mezőgazdaság, különösen a Colli Lanuvini és Colli Albani DOC szőlőtermesztés, valamint az olíva-, virág-, gyümölcs- és zöldségtermesztés. Az ipar és a kereskedelem az SR207 Nettunense mentén összpontosul, amely Rómát Apriliával, Anzióval és Nettunóval köti össze, és az összesen 256 hektáros apriliai konzorciumi ipari agglomeráció egy része a község területére esik. A logisztikai igények a szezonális mezőgazdasági termékeket, a bort és a virágokat az apriliai termelési központ és a Pontina felé irányuló ipari áruáramokkal kapcsolják össze.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lanuvio",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "velletri": {
+    "profile": "Velletri délről zárja le az Alban-dombokat az Agro Pontino felé: itt találkozik az SS7 Appia és a Via dei Laghi, a Via Ariana pedig Lariano és a Casilina felé vezet; az 1863-ban megnyitott Róma–Velletri vasútvonalat ma az FL4 regionális vonal szolgálja ki. Az elsődleges szektor a borra épül, a Velletri, Castelli Romani és Roma DOC eredetvédett borokkal, valamint a környék mezőgazdasági termékeinek kereskedelmére. Az ipari és kézműves tevékenységek az Appia Nuova mentén, a pontinói ipar irányában, valamint a Contrada Lazzaria ipari övezetben oszlanak el, Latina megye határán. A hagyományos mesterségek között szerepel a kerámia és a terrakotta.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Velletri"
+    ]
+  },
+  "lariano": {
+    "profile": "Lariano az Artemisio magaslatain fekszik, az Alban-dombok déli peremén, Velletri – amelynek 1967-ig településrésze volt – és Artena között; területének nagy része a Castelli Romani regionális park része, gesztenyeerdők és a Pontinói-síkság felé ereszkedő dombok között. A Via Ariana köti össze Velletrivel és a Casilinával, a Cisterna–Valmontone összekötő út terve larianói csomópontot is tartalmaz. A mezőgazdaság a Velletri DOC és Castelli Romani DOC borvidékhez tartozik, olívafák és erdők mellett. A gazdaságot kisvállalkozások, kereskedelem és szolgáltatások alkotják, a bortól, a helyi termékektől és az építőipari beszerzésektől függő logisztikai igényekkel.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Lariano",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "nemi": {
+    "profile": "Nemi az azonos nevű tó kráterére néz az Alban-dombokon; a Genzanónál az Appiából kiágazó SP Nemorense megyei úton és a Via dei Laghin érhető el. A gazdaság sokáig mezőgazdasági volt: a tó körüli völgyben hagymát és almát termesztettek, a kráter lejtőit teraszosították és olívával ültették be, ma a jellegzetes termék a szamóca, szezonális és újratermő fajtákban, amelyet júniusi vásár ünnepel. A római hajók múzeuma és a kisváros Rómából érkező napi turizmust vonz. A logisztikai igények rövid életciklusú, sérülékeny gyümölcsre vonatkoznak, gyors hűtött szállítással, valamint a vendéglátás és a kereskedelem ellátására.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Nemi"
+    ]
+  },
+  "rocca-di-papa": {
+    "profile": "Rocca di Papa az Alban-dombok központi magaslatain terül el; átszeli a Via Anagnina, amely az ókori Via Latina nyomvonalát követi, az SS218, amely Grottaferratával és Ariccával köti össze, valamint a Via dei Laghi. A községben foglalkoztatott népesség aránya a Castelli átlaga alatt van. A szőlőt az alacsonyabban fekvő északnyugati részen termesztik, a Frascati és a Marino borvidékkel érintkezve, a magasabb részeken a gesztenye uralkodik: az elsősorban építőipari célú faanyagot adó erdőgazdálkodás mindig is a helyi gazdaság egyik alapja volt. A logisztika faanyagra és építőanyagokra, borra, valamint dombvidéki utakon történő kiszállításra vonatkozik.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_di_Papa"
+    ]
+  },
+  "grottaferrata": {
+    "profile": "Grottaferrata az Alban-dombok Róma felé néző lejtőjén fekszik, Frascati, Marino és Rocca di Papa között; átszeli az Anagnina, a Maremmana III, a Via dei Laghi és a Pedemontana dei Castelli, amely harántirányban köti össze a Tuscolanát, az Anagninát és az Appiát. A terület a Frascati és a Castelli Romani DOC termőterületéhez tartozik, kisebb olívatermesztéssel, de a 20. században a szőlőtermesztés átadta helyét a kézműves, kereskedelmi és szolgáltatási tevékenységeknek. A San Nilo görög apátság kulturális turizmust vonz. A helyi logisztika kereskedelmi disztribúcióra, szakemberek és szolgáltatók kiszolgálására, valamint a helyi pincészetek borszállítmányaira vonatkozik.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Grottaferrata"
+    ]
+  },
+  "frascati": {
+    "profile": "Frascati az Alban-dombokon fekszik a Via Tuscolana mentén; a Róma–Frascati vasútvonal, a Pápai Állam első vasútja, a várost a Termini pályaudvarral köti össze, a Róma–Cassino vonalon fekvő Tor Vergata állomás pedig a római határon van. A mezőgazdasági területen olívaligetek és szőlők vannak, a szőlő a Frascati DOC borhoz kerül. A városban nemzetközi szintű kutatóközpontok működnek: az INFN Laboratori Nazionali di Frascati, az Európai Űrügynökség ESRIN központja és az ENEA telephelyei. A szolgáltatási szektor súlya nagy. Ebből két eltérő logisztikai igény adódik: egyrészt bor és mezőgazdasági termékek, másrészt berendezések és műszaki anyagok a kutatóközpontok számára.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Frascati"
+    ]
+  },
+  "monte-porzio-catone": {
+    "profile": "Monte Porzio Catone az Alban-dombok keleti részén fekszik, Frascati és Monte Compatri között, az A1-es autópálya Roma Sud leágazásának közelében. A fő tevékenység a szőlőtermesztés a Frascati eredetmegjelölés vulkanikus talajain: a községben található a Castelli Romani egyik legnagyobb pincészeti sűrűsége, köztük a Fontana Candida, a Villa Simone és a Poggio le Volpi, és a bor jelentős részét Rómában értékesítik vagy exportálják. A területen az Országos Csillagászati Obszervatórium egyik telephelye is működik. 1944 óta vasút nélkül a települést autóbuszjáratok szolgálják ki. A logisztika a borágazathoz kötődik: beérkező üveg, kimenő palackraklapok és exportszállítmányok.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Porzio_Catone"
+    ]
+  },
+  "monte-compatri": {
+    "profile": "Monte Compatri történelmi központja az Alban-dombokon, a Maremmana III mentén fekszik, síksági településrészei a Tuscolanán (például Molara), a Casilinán (Pantano Borghese és Laghetto) és a Prenestinán (Osa) találhatók. Pantanóban van a római metró C vonalának végállomása, P+R parkolóval és autóbuszjáratokkal. A település alatti területeken a Montecompatri Colonna, a Frascati superiore és a Cannellino di Frascati borokat állítják elő, és jelentős az extra szűz olívaolaj termelése. A Róma keleti konzuli útjai mentén fekvő településrészek a bor- és olajáramok mellett kereskedelmi disztribúció és a főváros keleti peremkerülete felé irányuló kiszállítások iránti keresletet is jelentenek.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "rocca-priora": {
+    "profile": "Rocca Priora a Castelli Romani legmagasabban fekvő községe: központja 760 méter felett van az Alban-dombok keleti oldalán, és a Casilina és az A1 völgyére néz. Területének jó része a Castelli Romani regionális park része. Úthálózatát megyei utak alkotják, köztük a Róma és Artena felé vezető Tuscolana, az Anagnina és a Colle di Fuori és San Cesareo felé vezető út. Régen a település a magasban tárolt hóval és jéggel látta el Rómát. Ma a lakófunkció, a kereskedelem és a szolgáltatások dominálnak, erdőkkel és kis léptékű mezőgazdasággal. A helyi logisztika hegyi utakon történő kiszállításra, lakóépület-építésre és az üzletek ellátására vonatkozik.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Rocca_Priora"
+    ]
+  },
+  "colonna": {
+    "profile": "Colonna egy vulkanikus dombon fekszik a Castelli Romani északkeleti végén, területét tekintve a Castelli legkisebb és Lazio második legkisebb községe Ventotene után. Területét átszeli a Via Casilina, közel van az A1 és a Roma Sud leágazás csomópontjához, és az FL6 vonal Colonna Galleria állomása szolgálja ki, nagyjából óránként egy vonattal Roma Termini felé. A szőlőültetvények a Montecompatri Colonna eredetmegjelöléshez tartoznak. A gazdaság elsősorban lakó- és kereskedelmi jellegű, a Rómába ingázáshoz kötődik. A logisztikai igények a kiskereskedelmi disztribúcióra, a Casilina menti vállalkozások kiszolgálására és borszállítmányokra vonatkoznak.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colonna_(Italia)",
+      "https://it.wikipedia.org/wiki/Monte_Compatri"
+    ]
+  },
+  "san-cesareo": {
+    "profile": "San Cesareo a Via Casilinán fekszik, ahol a Roma Sud leágazás az A1-be torkollik, autópálya-csomóponttal a község területén; a római korban a Via Labicana mentén fogadók és kereskedelmi állomások működtek itt. A terület egy része a Castelli Romani DOC és Roma DOC borvidékhez tartozik. Az 1980-as évek végén a Casilina mentén, az autópálya közvetlen közelében kialakult ipari övezetben kézműves, termelő és logisztikai tevékenységet szolgáló csarnokok vannak. Az autópálya-kapcsolat és a közepes méretű csarnokok együttesen a községet Róma keleti része és a Sacco-völgy felé irányuló disztribúció tranzit- és raktározási pontjává teszik.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/San_Cesareo",
+      "https://www.immobiliare.it/en/annunci/101095913/"
+    ]
+  },
+  "zagarolo": {
+    "profile": "Zagarolo a Monti Prenestini és a Sacco-völgy között fekszik, a Zagarolese, az SR155 di Fiuggi és a Prenestina Nuova köti össze; a Cassinón át vezető Róma–Nápoly vonalon fekvő zagarolói állomás Palestrina ingázóit is kiszolgálja, a régi Zagarolo Paese és Zagarolo Scalo állomások zárva vannak. A területhez Valle Martella településrész is tartozik, Monte Compatri határán. A hagyományos tevékenységek közül kiemelkedik a stílbútorgyártás. A község Róma keleti agglomerációjának lakóövezeteként nőtt. A helyi logisztika szállítandó bútorokra és berendezési tárgyakra, valamint az új lakónegyedek kereskedelmi ellátására vonatkozik.",
+    "sectors": [
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Zagarolo"
+    ]
+  },
+  "gallicano-nel-lazio": {
+    "profile": "Gallicano nel Lazio egy tufadombon fekszik a Monti Prenestini lábánál, a római agglomeráció keleti részén, patakok vájta völgyekkel és erdős területekkel körülvéve. Országos főút nem halad át rajta: megyei utak hálózata köti össze San Cesareóval és Zagaróval, Palestrinával, Polival, a Maremmana Inferiore mentén pedig Tivoli felé. A történelmileg szőlőkkel és olívaligetekkel borított vidék megőrizte mezőgazdasági jellegét, de a gazdaság ma elsősorban lakó-, kereskedelmi és szolgáltatási jellegű. A termelési szerkezetről kevés forrás áll rendelkezésre. A logisztikai igények a kereskedelem ellátására, lakóépület-építésre, valamint kis mennyiségű olaj- és bortermelésre vonatkoznak.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gallicano_nel_Lazio"
+    ]
+  },
+  "palestrina": {
+    "profile": "Palestrina a Monti Prenestini lejtőin fekszik; völgybeli településrészei az SS6 Casilinán vannak, az SR155 di Fiuggi a központot Cavéval, Genazzanóval, Fiuggival és Frosinonéval köti össze, az A1 pedig Carchitti és Valvarino között szeli át a területet. A Cassinón át vezető Róma–Nápoly vonalon fekvő állomás elhagyatott, az ingázók a zagarolói állomást használják. A Fortuna Primigenia-szentély és a régészeti múzeum kulturális turizmust tart fenn. A hagyományos mesterségek között szerepel a díszrézművesség és a hímzés, utóbbinak a városban alakult iskolája. A község a környező települések szolgáltatási és oktatási központja, kereskedelmi disztribúció és a völgy felé irányuló kiszállítások iránti kereslettel.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Palestrina"
+    ]
+  },
+  "labico": {
+    "profile": "Labico, amelyet 1872-ig Lugnanónak hívtak, a Casilina mentén fekszik San Cesareo és Valmontone között, az Alban-dombok és a Sacco-völgy közötti átmeneti zónában. A labicói állomás a Cassinón át vezető Róma–Nápoly vonalon van, az FL6 regionális vonatok szolgálják ki. A 2026-ban elkezdett Cisterna–Valmontone összekötő út terve labicói csomópontot tartalmaz, amely a területet a Pontinához kapcsolja. A helyi gazdaságról kevés forrás áll rendelkezésre: a lakófunkció, a Casilina menti kereskedelem és a kis kézműves és mezőgazdasági tevékenységek dominálnak. A Casilina, a vasút és a jövőbeli összekötő út közötti fekvés disztribúciós raktárak és szállítási vállalkozások számára érdekes.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Labico",
+      "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+    ]
+  },
+  "valmontone": {
+    "profile": "Valmontone egy tufaemelkedésen fekszik a Casilina mentén, a Sacco-völgy felső részén; az A1 valmontonei csomópontja és a Róma–Cassino–Nápoly vonalon fekvő állomás szolgálja ki, a területet a Róma–Nápoly nagysebességű vonal is átszeli. A 2026 óta épülő Cisterna–Valmontone összekötő út itt kapcsolja majd a Pontinát az A1-hez. A csomópont mellett található a Rainbow MagicLand vidámpark és a Valmontone Fashion District outletközpont, amelyek erős látogató- és áruáramokat generálnak. Ebből a ruházati üzletek és a vendéglátás folyamatos ellátása, a visszárukezelés és az autópálya közeli disztribúciós csarnokok iránti kereslet adódik.",
+    "sectors": [
+      "gdo-retail",
+      "tessile-moda",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Valmontone",
+      "https://turismoroma.it/it/node/5117"
+    ]
+  },
+  "artena": {
+    "profile": "Artena a Monti Lepini északi részének kisvárosa a Sacco-völgy felett; az A1 valmontonei csomópontja és az FL6 vonal valmontonei állomása szolgálja ki; a Tuscolana, a Via Ariana és a Giulianello felé vezető megyei út köti össze a Castellivel és Corival. A gazdaság mezőgazdaságra és állattenyésztésre épül, a Castelli Romani DOC borvidékhez tartozó szőlőkkel. Az egykori BPD ipari komplexum – ma az Avio csoport egyik társasága által kezelt – területeinek egy része Colleferróval és Segnivel együtt a község területére esik. A helyi logisztika mezőgazdasági és állattenyésztési termékekre, valamint a völgy ipari beszállítói körére vonatkozik, közvetlen A1-es kapcsolattal.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Artena",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "colleferro": {
+    "profile": "Colleferro a Bombrini Parodi Delfino körül jött létre, amely 1912-ben robbanóanyag-gyártásra települt, majd a vegyiparban, a gépiparban és a textiliparban működött; ebből a történetből ered az Avio űripari központja. A csoport mintegy 910 hektárt kezel Colleferro, Segni és Artena között, ebből 450 hektár ipari, a városban pedig egy Italcementi cementgyár működik. A községnek A1-es csomópontja van, átszeli a Casilina, Colleferro Scalóból pedig a Carpinetana indul Priverno felé. Itt található a részben megvalósult SLIM multimodális logisztikai rendszer, és a település a ZLS-be tartozik, az adójóváírásra jogosult területen kívül. Túlméretes szállítmányokra, veszélyes árukra és építőipari ömlesztett árukra van igény.",
+    "sectors": [
+      "manifatturiero",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Colleferro",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "segni": {
+    "profile": "Segni a Monti Lepini északi részén fekszik, a Sacco-völgy és Colleferro felett. Területén a San Bruno kőfejtő cementgyártáshoz bányász mészkövet, amelyet hat, összesen 4,3 kilométer hosszú szállítószalagból álló rendszer juttat el a colleferrói Italcementi cementgyárba, így elkerülhető a közúti szállítás. Az egykori BPD komplexum területeinek egy része a községre esik. A mezőgazdaság jellegzetes terméke a marrone segnino, egy ősszel betakarított szelídgesztenye-fajta. A logisztikai igények a völgy bányászati és ipari beszállítói körét a gesztenye szezonális értékesítésével és a település ellátásával kapcsolják össze.",
+    "sectors": [
+      "edilizia",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Segni_(Italia)",
+      "https://it.wikipedia.org/wiki/Colleferro"
+    ]
+  },
+  "gavignano": {
+    "profile": "Gavignano egy kis hegyfokon fekszik a Rio és a Sacco folyó összefolyásánál, a Monte Lupone lábánál, a Monti Lepini északi lejtőjén; területén található a Fonte Meo, a vízhajtó hatásáról ismert forrás. A 20. században a BPD colleferrói terjeszkedése a település sok földművesét ipari munkássá tette, és az aktív népesség ma is a völgy ipari központjához kötődik. A községben dombvidéki mezőgazdaság, kis kézműves és kereskedelmi tevékenységek maradtak, a völgy bencés szerzetességéhez kötődő történelmi örökséggel. A helyi logisztika elsősorban Colleferro ipari beszállítói körét és a helyi kereskedelem ellátását szolgálja.",
+    "sectors": [
+      "manifatturiero",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gavignano_(Italia)"
+    ]
+  },
+  "montelanico": {
+    "profile": "Montelanico területe délen hegyes, a Monti Lepini északi lejtőjén, a Sacco-völgy felé dombossá, majd síkká válik; Segni és Cori határán emelkedik a Monte Lupone. A községet átszeli a Colleferrót Privernóval összekötő SR609 Carpinetana és egy Segni felé vezető megyei út. A jellegzetes termék a gesztenye, amelyet 1963 óta október harmadik hetében tartott vásár ünnepel; a gazdaságot olívatermesztés, állattenyésztés és kisvállalkozások egészítik ki. A logisztika az őszi betakarítás szezonját követi, és a colleferrói ipari központ és a Lepini-hegység települései közötti kapcsolatot szolgálja.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Montelanico"
+    ]
+  },
+  "carpineto-romano": {
+    "profile": "Carpineto Romano a Monti Lepini központi részén fekszik, Latina és Frosinone megye határán, a Monte Semprevisa 1536 méteres csúcsában tetőző hegyvidéki területen. XIII. Leó pápa szülőhelye. Az SR609 Carpinetana köti össze egyrészt a Sacco-völggyel és Colleferróval, másrészt Maenzával és Privernóval. A hagyományos tevékenységek között szerepel a kerámia és a terrakotta, a La Reggia dei Volsci múzeum a földműves és pásztorhagyomány tárgyait mutatja be. A gazdaság kis léptékű, erdőkkel, legelőkkel és olyan rendezvényekhez kötődő turizmussal, mint a Palio della Carriera; a kiszállítás hegyi utakon történik.",
+    "sectors": [
+      "agroalimentare",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Carpineto_Romano"
+    ]
+  },
+  "gorga": {
+    "profile": "Gorga a Monti Lepini kis községe, amely felett az 1380 métert meghaladó Monte San Marino magasodik. A Gorgai-fennsíkként ismert hegyvidéki területen kiterjedt karsztjelenségek vannak, köztük a Campo di Caccia-barlang, amely barlangkutató expedíciók célpontja. A települést a Carpinetana és Colleferro felé ereszkedő megyei utak kötik össze a Sacco-völggyel. A helyi gazdaságról kevés forrás áll rendelkezésre: a meghatározó tevékenység a mezőgazdaság és a pásztorkodás, legelőkkel, erdőkkel és a fennsíkhoz kötődő természetjáró turizmussal. A logisztikai igények a helyi kereskedelem ellátására és hegyi utakon történő ütemezett kiszállításra korlátozódnak.",
+    "sectors": [
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Gorga_(Italia)"
+    ]
+  },
+  "cave": {
+    "profile": "Cave a Monti Prenestini és a Sacco-völgy között fekszik, átszeli a Rómát és Frosinonét összekötő SS155 di Fiuggi; egy megyei út az A1 csomópontjához és a valmontonei vasútállomáshoz köti, a Cotral járatai pedig Roma Anagninával, Ponte Mammolóval, valamint Palestrina és Colleferro iskolaközpontjaival. A jellegzetes mezőgazdasági termék a marrone di Cave szelídgesztenye, amely Lazio hagyományos agrár-élelmiszeripari termékei között szerepel. A helyi gazdaságot mezőgazdaság, kereskedelem és egy lakóövezeti vonzáskörzetet kiszolgáló szolgáltatások alkotják. A logisztikai igények a gesztenye őszi betakarítására és a Prenestina menti települések felé irányuló disztribúcióra vonatkoznak.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cave_(Italia)"
+    ]
+  },
+  "genazzano": {
+    "profile": "Genazzano egy tufanyúlványon fekszik, amely a Monti Prenestinitől a Sacco-völgy felé ereszkedik, Róma nagyvárosi terület és Frosinone megye határán; az SR155 di Fiuggi köti össze Cavéval, Palestrinával és Fiuggival. A Madonna del Buon Consiglio-szentély egész évben zarándokokat vonz, a történelmi központban áll a Colonna-vár. A helyi termelési szerkezetről kevés forrás áll rendelkezésre: a völgyi mezőgazdaság, a kiskereskedelem, a vendéglátás és a vallási turizmust kiszolgáló szolgáltatások dominálnak. A logisztikai igények a szálláshelyek és a vendéglátás ellátására, valamint az A1 valmontonei csomópontja és a Ciociaria felé irányuló kapcsolatokra vonatkoznak.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Genazzano"
+    ]
+  },
+  "fiumicino": {
+    "profile": "Fiumicinóban található a Leonardo da Vinci repülőtér, Olaszország első számú utasforgalmi repülőtere és a TEN-T hálózat törzshálózati (Core) csomópontja, a Cargo Cityvel és mellette a Roma–Fiumicino logisztikai platformmal, amelynek vasúti terminálja tervezés alatt áll. A repülőtéri állomást a Leonardo Express és az FL1 köti össze Rómával; a községet a Róma–Fiumicino autópálya, valamint az FL5 mentén a Maccarese-Fregene és a Torrimpietra-Palidoro állomás szolgálja ki. A kikötő a Közép-Északi Tirrén-tengeri Kikötői Rendszer Hatóságához (AdSP) tartozik, és nagy halpiaccal rendelkező halászati központ. A logisztika szempontjából a légi áruszállítás, a nemzetközi gyűjtőforgalom, a halfogás hűtőlánca és a repülőtéri tevékenységek ellátása meghatározó.",
+    "sectors": [
+      "ecommerce",
+      "agroalimentare",
+      "farmaceutico"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Fiumicino",
+      "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+    ]
+  },
+  "eur": {
+    "profile": "Az EUR a IX. kerület (Municipio IX) 12A városrendezési zónája, a Grande Raccordo Anulare (GRA, római körgyűrű) belsejében, a via Cristoforo Colombo két oldalán; innen indul a Latina felé vezető SS148 Pontina, a B metróvonal pedig az EUR Magliana, EUR Palasport és EUR Fermi megállókkal köti össze a belvárossal. A negyed Róma déli részének fő irodai központja: itt működik többek között az ENI és a Poste Italiane székháza, minisztériumi hivatalok, a La Nuvola kongresszusi központ és múzeumok. A logisztikai kereslet egy irodanegyedre jellemző: archívumok és dokumentumok, irodaszerek, informatikai berendezések, kongresszusi és rendezvény-installációk, valamint időablakhoz kötött kiszállítások.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Eur_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/EUR"
+    ]
+  },
+  "laurentino": {
+    "profile": "A Laurentino a IX. kerület 12D városrendezési zónája a Grande Raccordo Anulare belsejében, a via Cristoforo Colombo és a nevét adó via Laurentina között; ide tartozik a Laurentino-Acqua Acetosa természetvédelmi terület. Túlnyomórészt lakóövezet, amely az 1970-es évektől nagy állami lakásépítési programokkal nőtt, és az EUR irodai központjával határos, amely a B metró Laurentina végállomásáról is elérhető. Termelési telephelyek nincsenek: a gazdaságot a helyi kiskereskedelem, a személyi szolgáltatások és az irodák alkotják. A logisztikai igények a városi disztribúcióéi: az üzletek ellátása, online vásárlások kiszállítása és kisebb üzletek kiszolgálása.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Laurentino"
+    ]
+  },
+  "ostiense": {
+    "profile": "Ostiense Róma tizedik negyede (quartiere) az Aurelianus-féle városfal és a Tevere között. 1907-től a város első ipari övezete volt a folyami kikötővel, a gáztartállyal (Gazometro), a Centrale Montemartinivel és a később bezárt nagybani piaccal (Mercati Generali). Ma a területet szolgáltatási, kulturális és egyetemi célra alakították át: 1992 óta itt működik a Roma Tre Egyetem, a Centrale Montemartini pedig múzeum. Közlekedési csomópont a Roma Ostiense állomással, a B metró Piramide megállójával és a Róma–Lido vasútvonal végállomásával, a via Ostiense pedig az EUR és a tengerpart felé vezet. A logisztika a vendéglátást, a kereskedelmet, az egyetemet és az irodákat szolgálja ki, gyakori városi kiszállításokkal.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostiense"
+    ]
+  },
+  "garbatella": {
+    "profile": "A Garbatella az 1920-ban alapított kertvárosi lakótelep, amely a közeli folyami kikötő és az Ostiense ipari övezet dolgozói számára épült; ma a VIII. kerület 11C városrendezési zónájának felel meg. Az épületállomány lakóövezeti, udvaros telkekkel és szűk utcákkal, a via Cristoforo Colombo mentén pedig a Lazio régió palotája, a regionális kormány székhelye áll. A területet a B metró Garbatella állomása szolgálja ki, és a Roma Ostiense állomással határos. A gazdaságot a helyi kiskereskedelem, a vendéglátás, a közszolgáltatások és a regionális hivatalok alkotják. A kiszállításhoz a belső úthálózatnak megfelelő könnyű járművekre és a hivatalok felé irányuló dokumentumszolgáltatásokra van szükség.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Garbatella"
+    ]
+  },
+  "torrino": {
+    "profile": "A Torrino az Agro Romano Z. XXVII zónája, a Grande Raccordo Anulare mentén és belsejében, nyugaton a via del Mare, keleten a via Cristoforo Colombo és a Pontina között. A lakónegyedek mellett Casal Grottoni és a viale dell'Oceano Pacifico térségében irodaépületek alakultak ki: az IBM székháza, az Eurosky Business Park és a Torre Europarco, az Agenzia delle Entrate (adóhatóság) irodái és a Kereskedelmi Kamara operatív székhelye. Itt található az Euroma2 bevásárlóközpont is. Az irodák, a kiskereskedelmi láncok és a lakófunkció együttese üzletek kiszolgálását, irodai beszerzéseket és magánszemélyeknek szóló nagy csomagforgalmat generál.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torrino"
+    ]
+  },
+  "spinaceto": {
+    "profile": "Spinaceto a IX. kerület 12G városrendezési zónája a Grande Raccordo Anularétól délre, a via di Mezzocammino és a Via Pontina között; a helynév Roma Capitale egyik településrészét is jelöli. A negyedet az 1960-as és 1970-es évek szociális lakásépítési tervei alapján tervezték, negyedszintű szolgáltatásokkal és kereskedelemmel. Az 1968-as rendezési tervben előirányzott B metrós kapcsolat soha nem valósult meg, a tömegközlekedést autóbuszok biztosítják. A Pontinához való közvetlen csatlakozás az EUR-ral és Castel Romano, valamint Pomezia termelési központjaival is összeköti. A logisztikai igények elsősorban a kiskereskedelmi disztribúcióra és a lakossági kiszállításokra vonatkoznak.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Spinaceto"
+    ]
+  },
+  "trigoria": {
+    "profile": "Trigoria Roma Capitale településrésze Castel di Decima zónában, a Grande Raccordo Anularén kívül és a Pontinától keletre, a Decima-Malafede természetvédelmi terület szélén. Ismert a Fulvio Bernardini sportközpontról, az AS Roma edzőközpontjáról, valamint a Campus Bio-Medico Egyetemről és annak klinikájáról. A terület többi részén ritkán beépített lakóövezet és az Agro Romano mezőgazdasági vidéke váltakozik. Az egyetemi kórház jelenléte sajátos logisztikai keresletet jelent: gyógyszerek, orvostechnikai eszközök, laboratóriumi anyagok és egészségügyi beszerzések nyomon követhető kiszállítása, a sportlétesítmények és a lakossági felhasználók kiszolgálása mellett.",
+    "sectors": [
+      "farmaceutico",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Trigoria"
+    ]
+  },
+  "castel-romano": {
+    "profile": "Castel Romano a IX. kerület 12M városrendezési zónája a Pontina és a via di Pratica di Mare között; a konzorciumi ipari agglomeráció a Pontina 23. kilométerénél található, és 266 hektárt fed le, ebből 191 hektár ipari. Az 1952-ben létrehozott Pontina ipari övezet az 1960-as évektől kohászati kutatóközpontokat, távközlési vállalatokat, egy élelmiszeripari konzorciumot és Dino De Laurentiis filmstúdióit fogadta, amelyeket 2014-ben Cinecittà World témaparkká alakítottak. 2003 óta itt működik a Castel Romano Designer Outlet. A logisztika szempontjából az outlet üzleteinek folyamatos ellátása, a visszárukezelés, a park beszerzései és a Pontina menti ipari áruáramok meghatározók.",
+    "sectors": [
+      "tessile-moda",
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_Romano",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "santa-palomba": {
+    "profile": "Santa Palomba Róma, Ardea és Pomezia között megosztott terület; a római rész a IX. kerület 12N városrendezési zónája. Az Ardeatina 20. és 23. kilométere között, a Pomezia-Santa Palomba állomás körül ipari terület alakult ki, ahol a Fiorucci, az Angelini, az ABB, a Johnson & Johnson és a Procter & Gamble telephelyei működnek. A konzorciumi agglomeráció 483 hektárt fed le, és a Róma–Latina térség legnagyobb kiterjedésű agglomerációja; olyan logisztikai szolgáltatók működnek itt, mint a DHL Supply Chain, a GLS és a STEF, valamint kiskereskedelmi láncok platformjai. Az SGT terminál a kezelt intermodális egységek számát tekintve Lazio első terminálja. A térségben napi fogyasztási cikkek, hűtött és gyógyszeripari áruáramok összpontosulnak.",
+    "sectors": [
+      "gdo-retail",
+      "farmaceutico",
+      "agroalimentare"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Santa_Palomba",
+      "https://www.consorzioasi.com/agglomerati-industriali/"
+    ]
+  },
+  "tor-vergata": {
+    "profile": "Tor Vergata az Agro Romano birtoka a Tuscolana és a Casilina között, a Grande Raccordo Anularén kívül, Torre Gaia zónában; itt működik a Roma Tor Vergata Egyetem, a főváros második állami egyeteme, mintegy ötszáz hektáros kampusszal. A területen található a Policlinico Tor Vergata is, az 1990-es évek végén megnyílt egyetemi kórház. Az úthálózat a térséget az A1-gyel és a Roma Sud leágazással köti össze. A helyi logisztika az egészségügyre és a kutatásra összpontosul: gyógyszerek, orvostechnikai eszközök, reagensek és laboratóriumi műszerek nyomon követéssel, a szomszédos negyedek hallgatóinak és lakóinak kiszolgálása mellett.",
+    "sectors": [
+      "farmaceutico",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Gaia",
+      "https://it.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_di_Roma_Tor_Vergata"
+    ]
+  },
+  "romanina": {
+    "profile": "A Romanina a VII. kerület 10G városrendezési zónája, a Grande Raccordo Anularén kívül, közvetlenül mellette, a via Tuscolana és az A1 között; a kereskedelmi területet a GRA 20-as kijárata szolgálja ki. Az 1980-as évektől erőteljes lakó-, irodai és mindenekelőtt kereskedelmi terjeszkedés jellemezte, a város egyik legnagyobb bevásárlóközpont-sűrűségével. 1982 és 2018 között a Tor Vergata Egyetem egyes egységei működtek itt, az egykori Officine Marconit kulturális központtá alakították. Logisztikai szempontból a terület a kiskereskedelmi láncok és a szaküzletek kiszolgálási pontja, gyors GRA- és autópálya-kapcsolattal.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Romanina"
+    ]
+  },
+  "cinecitta": {
+    "profile": "Cinecittà a VII. kerületben fekvő Don Bosco negyed területének elnevezése a Casilina és a Tuscolana között, amelyet a viale Palmiro Togliatti oszt ketté. A negyed az 1950-es évektől az 1936-ban alapított Cinecittà filmstúdiók körül nőtt, és a Tuscolana mentén az A metróvonal szolgálja ki. A gazdaság az audiovizuális gyártást, a kereskedelmet és a sűrűn lakott lakóövezetet ötvözi, a déli részen nagy bevásárlóközpontokkal. A logisztikai igények kettősek: díszletek, műszaki felszerelések és jelmezek mozgatása a produkciók számára, valamint városi disztribúció a város egyik legnépesebb területén.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Don_Bosco_(Roma)"
+    ]
+  },
+  "anagnina": {
+    "profile": "Az Anagnina nevét a Rómából a Castelli felé emelkedő útról kapta: az Osteria del Curato és a Grande Raccordo Anulare közötti területen található az A metróvonal végállomása és a Castelli Romani, valamint Dél-Lazio felé induló Cotral autóbuszjáratok terminálja. Az 1960-as évektől az Anagnina mentén kis- és középvállalkozások telepedtek meg a feldolgozóiparban, a távközlési ipar Cassa per il Mezzogiorno által támogatott régi üzemei mellett. A GRA-n kívül, Torre di Mezzaviában 2004 óta nagy bevásárlóközpont működik. Ebből üzletek és kézművesek felé irányuló áruáramok, valamint Ciampino és a Castelli felé induló kiszállítások adódnak.",
+    "sectors": [
+      "gdo-retail",
+      "manifatturiero"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Osteria_del_Curato_(zona_di_Roma)",
+      "https://it.wikipedia.org/wiki/Via_Anagnina"
+    ]
+  },
+  "tuscolano": {
+    "profile": "A Tuscolano Róma nyolcadik negyede a város keleti részén, az Aurelianus-féle városfal közvetlen közelében; nevét az Appia Nuovával együtt áthaladó via Tuscolanáról kapta. Sűrűn beépített negyed, amelyet már 1911-ben kijelöltek, intenzív lakóépület-állománnyal, negyedpiacokkal és a két konzuli út mentén húzódó hosszú üzletsorral; az A metróvonal a Tuscolana alatt halad. Termelési telephelyek nincsenek, csak átalakított egykori tömegközlekedési telephelyek. A logisztika itt helyi városi disztribúció: üzletek és vendéglátóhelyek ellátása zsúfolt utcákon, házhozszállítás és visszáruk begyűjtése.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tuscolano"
+    ]
+  },
+  "appio-latino": {
+    "profile": "Az Appio-Latino Róma kilencedik negyede a délkeleti részen, az Aurelianus-féle városfal közvetlen közelében; nevét a via Appia Anticáról és a via Latináról kapta. Az Appia Nuova menti tömör lakóövezet mellett – a Metronio negyedpiaccal és számos üzlettel – a negyed nagy kiterjedésű védett zöldterületeket is magában foglal, például a Caffarella parkot, amely az Appia Antica parkhoz kapcsolódik. A C metróvonal építkezései az Amba Aradam térséget érintik. A logisztikának régészeti és tájvédelmi korlátozásokkal, lakóutcákkal, valamint üzletek és vendéglátóhelyek kiszolgálásával kell számolnia, kis teherbírású járművekkel és egyeztetett időpontokban.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Appio-Latino"
+    ]
+  },
+  "ostia": {
+    "profile": "Ostia, hivatalosan Lido di Ostia, Róma tengerparti településrésze és a X. kerület székhelye; a Tirrén-tengerre néz, és a Tevere határolja, amely elválasztja Fiumicino községtől. A belvárossal a Róma–Lido vasútvonal, a via del Mare és a via Cristoforo Colombo köti össze. A gazdaság a kereskedelemtől, a szolgáltatásoktól és a tengerparti turizmustól függ, a part menti strandokkal, Róma jachtkikötőjével és Ostia Antica ásatásainak vonzerejével. A lakónépesség nagy, nyáron pedig megnő a Rómából érkező napi forgalom. Ebből erősen szezonális kiszállítások adódnak strandok, vendéglátóhelyek és a kereskedelem számára, valamint állandó csomagforgalom a lakosok felé.",
+    "sectors": [
+      "gdo-retail",
+      "agroalimentare",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ostia_(Roma)"
+    ]
+  },
+  "acilia": {
+    "profile": "Acilia Róma hivatalos külső településrésze (borgata) a X. kerületben, a via del Mare 18–19. kilométerénél, az EUR és Ostia között; Acilia Nord a Tevere és a via Ostiense között, Acilia Sud innen a via Cristoforo Colombo felé terül el, a Grande Raccordo Anularén kívül. 1919-ben lecsapolási településként jött létre, és nagy lakónegyeddé nőtt, amelyet a Róma–Lido vasútvonal szolgál ki. A via Ostiense mentén, amely a római korban a várost Ostia kikötőivel kötötte össze, kereskedelem, kézművesség és szolgáltatások összpontosulnak. A logisztikai igények kiskereskedelmi disztribúcióra, építőanyagokra és lakossági kiszállításokra vonatkoznak.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Acilia"
+    ]
+  },
+  "infernetto": {
+    "profile": "Az Infernetto Róma településrésze a X. kerületben, a Grande Raccordo Anularén kívül, a via Cristoforo Colombo keleti oldalán, a Castel Fusano-i fenyves és a castelporzianói elnöki birtok között. A második világháború után jött létre, amikor 1947-től egy szövetkezet nagy területet parcellázott fel, és ritkán beépített, kertes villák és alacsony házak negyedévé fejlődött. A gazdasági tevékenységek szinte kizárólag helyi kiskereskedelemből és szolgáltatásokból állnak. A szétszórt beépítés és az úthálózat hossza miatt a kiszállítás kevésbé hatékony, mint a tömör negyedekben: csomagok, házhoz szállított élelmiszer és kisebb építési munkák esetén ütemezett járatokra van szükség.",
+    "sectors": [
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Infernetto"
+    ]
+  },
+  "casal-palocco": {
+    "profile": "Casal Palocco Róma Z. XXXIV zónája a város délnyugati részén, a Grande Raccordo Anularén túl, a via del Mare és a via Cristoforo Colombo között, Aciliával és Infernettóval határos. Az 1960-as években tervezett lakóterület, ahol a lakó-, kereskedelmi és sportcélú területeket már a tervezéskor kijelölték: a Le Terrazze bevásárlóközpont és számos sportlétesítmény az eredeti terv része. Az épületállomány túlnyomórészt zöldbe ágyazott villákból és lakóparkokból áll. A helyi logisztika csomagok és bútorok lakossági kiszállítására, a bevásárlóközpontok ellátására, valamint házak és kertek karbantartására vonatkozik.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Casal_Palocco"
+    ]
+  },
+  "magliana": {
+    "profile": "A Magliana az azonos nevű út mentén terül el a Tevere jobb partján, a XI. kerületben, a via Portuense és a folyó között, a Grande Raccordo Anulare belsejében. A nagyrészt az 1970-es években épült lakónegyed a Tevere második gátjának szintje alatt fekszik, és szivattyútelepek védik; északon a Tenuta dei Massimi természetvédelmi terület húzódik. A terület közel van a Róma–Fiumicino autópályához és az FL1 vonal állomásaihoz, az EUR a folyó túlpartján érhető el. A via della Magliana mentén kereskedelem, kézművesség és szolgáltatások váltakoznak. A logisztikai igények a városi disztribúciót és a fiumicinói repülőtér felé irányuló gyors kapcsolatokat ötvözik.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Magliana"
+    ]
+  },
+  "ponte-galeria": {
+    "profile": "Ponte Galeria a XI. kerület Z. XLI zónája a Grande Raccordo Anularén kívül, délen a Tevere, nyugaton az A12 Róma–Civitavecchia autópálya között; átszeli a Róma–Fiumicino autópálya és az FL1 vasútvonal. Itt található a Fiera di Roma kilenc csarnokkal és kongresszusi központtal, kereskedelmi és nagykereskedelmi központok mellett. A város és a fiumicinói repülőtér közötti fekvése miatt szállítmányozók és futárszolgálatok raktárainak és szolgáltatásainak övezete. A logisztikai kereslet magában foglalja a szoros szerelési határidejű vásári installációkat, a fiumicinói Cargo Citybe irányuló árukat és Róma nyugati részének disztribúcióját.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Ponte_Galeria",
+      "https://it.wikipedia.org/wiki/Fiera_di_Roma"
+    ]
+  },
+  "capannelle": {
+    "profile": "Capannelle az Agro Romano Z. XVIII zónája a délkeleti részen, a Grande Raccordo Anulare mentén és belsejében, a via Tuscolana és az Appia Nuova között. A Róma–Cassino–Nápoly vonalon fekvő Capannelle állomás szolgálja ki, FL4 és FL6 regionális vonatokkal; 1978-ig villamosvonal kötötte össze a Termini pályaudvar környékével. A területhez tartozik a Capannelle-lóversenypálya, az Acquedotti park egyes részei és olyan lakónegyedek, mint a ciampinói repülőtér közelében fekvő Lucrezia Romana. A logisztikai igények rendezvényekre és sportlétesítményekre, a negyedek disztribúciójára, valamint a repülőtér és az Appia felé irányuló kapcsolatokra vonatkoznak.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Capannelle_(zona_di_Roma)"
+    ]
+  },
+  "morena": {
+    "profile": "Morena a VII. kerület 10L városrendezési zónája a fővárostól keletre, a Grande Raccordo Anularén kívül, a via Anagnina két oldalán. Túlnyomórészt lakónegyed, amely Tor Vergata, a ciampinói repülőtér és a Castelli Romani között teremt kapcsolatot, és az elmúlt évtizedekben gyorsan nőtt. Az Anagnina mentén kereskedelmi egységek, kézművesek és kisebb raktárak működnek, amelyek a szomszédos Ciampino községet is kiszolgálják. A logisztikai igények fogyasztási cikkek disztribúciójához, lakóépület-építéshez szükséges építőanyagokhoz és a konzuli út menti, erős forgalmú területen történő házhozszállításhoz kapcsolódnak.",
+    "sectors": [
+      "gdo-retail",
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Morena_(zona_di_Roma)"
+    ]
+  },
+  "falcognana": {
+    "profile": "Falcognana Róma településrésze Castel di Leva zónában, a IX. kerületben, a via Ardeatina 14. kilométerénél, a Grande Raccordo Anularén kívül, mintegy két kilométerre a Divino Amore-szentélytől. A részben ma is mezőgazdasági terület lakóépület-fejlesztési részletes terv tárgya. Az Ardeatina menti egyik kőfejtőben hulladéklerakót alakítottak ki, amelyet Malagrotta alternatívájaként jelöltek ki, a lakók és a szomszédos Marino község tiltakozása mellett. Az Ardeatinán, a GRA és a Santa Palomba-i ipari terület közötti fekvés az építőanyag-szállítás, a hulladékkezelés és a Castelli felé irányuló disztribúció szempontjából érdekes.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Falcognana",
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "cecchignola": {
+    "profile": "A Cecchignola Róma déli részén, a Laurentina és az Ardeatina között fekszik, és elsősorban katonavárosáról ismert: az 1930-as évektől a Műszaki Felügyelőség (Ispettorato del Genio) itt tervezett telephelyet a legfelső parancsnokságok számára, a ma viale dell'Esercito nevű tengely mentén, ahol 1955 óta a Katonai Gépjárművek Történeti Múzeuma működik. A laktanyák és a hadsereg iskolái mellett új lakónegyedek épültek, például Tor Pagnotta térségében. A Grande Raccordo Anulare gyorsan elérhető. A logisztikai kereslet a katonai létesítmények ellátására, a lakóépület-építkezések anyagaira és az új negyedek disztribúciójára vonatkozik.",
+    "sectors": [
+      "edilizia",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Cecchignola",
+      "https://it.wikipedia.org/wiki/Castello_della_Cecchignola"
+    ]
+  },
+  "vitinia": {
+    "profile": "Vitinia Róma délnyugati részén, a IX. kerület Mezzocammino zónájában fekszik, a Grande Raccordo Anularén kívül, északon a via Ostiense, délen a via Cristoforo Colombo között, és a Róma–Lido vasútvonal szolgálja ki. A negyed a második világháború után szabályos parcellázással jött létre: ritkán két emeletnél magasabb villák és társasházak, az első üzletekkel már 1949-ben. A területen található a mezzocamminói katonai üzemanyagraktár. A gazdaság lakó- és kereskedelmi jellegű. A logisztikai igények a lakossági kiszállításokra, az Ostiense menti üzletek ellátására, valamint az EUR és Ostia felé irányuló kapcsolatokra vonatkoznak.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Vitinia"
+    ]
+  },
+  "mezzocammino": {
+    "profile": "Mezzocammino az Agro Romano Z. XXXI zónája a Tevere völgyében, a Grande Raccordo Anularén kívül, a folyó és a via Cristoforo Colombo között. Neve az egykori pihenőállomásról ered, ahol az Ostia kikötőjéből Róma felé a Teverén felfelé haladó uszályok megálltak. A GRA az 1951-ben megnyitott, 2003 óta nemzeti műemlék Mezzocammino-hídon keresztezi a folyót. Az elmúlt években új lakótelepek épültek a területen, a Róma–Lido vasútvonalon pedig épül a Torrino-Mezzocammino állomás. A helyi logisztika építkezésekre, az új negyedek disztribúciójára és a kevés úttal kiszolgált terület lakóinak kiszállításaira vonatkozik.",
+    "sectors": [
+      "edilizia",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Mezzocammino"
+    ]
+  },
+  "castel-di-leva": {
+    "profile": "Castel di Leva az Agro Romano Z. XXIII zónája a déli részen, a Grande Raccordo Anularén kívül, és a ciampinói repülőtérrel, valamint Marino, Castel Gandolfo, Albano Laziale, Ardea és Pomezia községgel határos. A via Ardeatina mentén található a Madonna del Divino Amore-szentély, zarándokhely, a területhez Santa Palomba római része és Falcognana településrész is tartozik. A római vidék nagy mezőgazdasági területei megmaradtak. A zóna a zarándokforgalmat, a mezőgazdaságot és a Santa Palomba-i ipari terület közelségét ötvözi: ebből vallási szálláshelyek kiszolgálása, mezőgazdasági termékek és a déli termelési központok felé irányuló szállítás adódik.",
+    "sectors": [
+      "agroalimentare",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Castel_di_Leva"
+    ]
+  },
+  "tor-bella-monaca": {
+    "profile": "Tor Bella Monaca Róma településrésze Torre Angela zónában, a VI. kerületben, a via Casilina északi oldalán, a Grande Raccordo Anularén kívül, az azonos nevű árok által barázdált hullámos terepen. Régen egy Breda-gyár és a torrenovai vámállomás működött a területen; az 1962-es rendezési terv bővítési övezetté nyilvánította, és az 1980-as években nagy állami lakótelep épült itt. Új úthálózat köti össze a Tor Vergata Egyetemmel. A gazdaság lakóövezeti, negyedszintű kereskedelemmel. A logisztika fogyasztási cikkek disztribúciójára és sűrűn lakott épületekbe történő házhozszállításra vonatkozik.",
+    "sectors": [
+      "ecommerce",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Bella_Monaca"
+    ]
+  },
+  "torre-angela": {
+    "profile": "Torre Angela az Agro Romano Z. XIII zónája és a VI. kerület 8F városrendezési zónája a Grande Raccordo Anularén kívül, a via Casilina mentén, Torrenova térségében császárkori sírokkal. Vidéki településként jött létre, és részben spontán urbanizációval sűrűn lakott negyeddé alakult; a Casilina mentén haladó C metróvonal szolgálja ki. A kereskedelem a konzuli úton összpontosul, üzletekkel, kézművesekkel és kisebb raktárakkal. A logisztikai igények a Casilina menti üzletek ellátására, felújítási építőanyagokra és nagy volumenű lakossági kiszállításokra vonatkoznak.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce",
+      "edilizia"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Torre_Angela"
+    ]
+  },
+  "tor-sapienza": {
+    "profile": "Tor Sapienza Róma Z. VIII zónája és az V. kerület 7C városrendezési zónája a keleti részen, a Grande Raccordo Anulare belsejében, a via Prenestina és az A24-es autópálya városi szakasza között. A lakónegyedek mellett termelési telephelyek is vannak: a Birra Peroni római üzeme, a távközlési berendezések karbantartását végző katonai központ és egykori gyárak, amelyek egyikében a MAAM múzeum működik. Az A24-hez és a GRA-hoz való hozzáférés a területet raktározásra és disztribúcióra alkalmassá teszi. A logisztikai igények nagy volumenű italokat, ipari alkatrészeket és a város keleti része felé irányuló disztribúciót foglalnak magukban.",
+    "sectors": [
+      "agroalimentare",
+      "manifatturiero",
+      "gdo-retail"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Tor_Sapienza"
+    ]
+  },
+  "centocelle": {
+    "profile": "Centocelle az V. kerület 7A városrendezési zónája Róma keleti részén; nevét az egykori katonai repülőtér területéről kapta, amely ma régészeti park. Az 1920-as évektől munkások, kézművesek és kiskereskedők alacsony házaival fejlődött negyed ma a város egyik legsűrűbben lakott része. A 2014–2015-ben megnyitott C metróvonal három állomással szeli át, a Róma–Giardinetti vasútvonal pedig a Casilina mentén a Termini környékével köti össze. A kereskedelem szétszórt, negyedpiacokkal és olyan tengelyekkel, mint a via dei Castani. A logisztika helyi jellegű: üzletek és vendéglátóhelyek napi ellátása és házhozszállítás szűk utcákban.",
+    "sectors": [
+      "gdo-retail",
+      "ecommerce"
+    ],
+    "sources": [
+      "https://it.wikipedia.org/wiki/Centocelle"
+    ]
+  }
+}

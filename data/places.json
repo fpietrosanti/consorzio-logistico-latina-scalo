@@ -1,0 +1,3663 @@
+[
+ {
+  "name": "Aprilia",
+  "wikidata": "Q128052",
+  "istat": "059001",
+  "lat": 41.583333333,
+  "lon": 12.65,
+  "population": 74126,
+  "elevation": 80,
+  "image": "Aprilia (Lt).JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Aprilia_(Italia)",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "aprilia",
+  "road_km": 33.5,
+  "drive_min": 36,
+  "air_km": 26.3,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "ardea",
+   "lanuvio",
+   "nettuno",
+   "genzano-di-roma",
+   "velletri",
+   "ariccia"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Bassiano",
+  "wikidata": "Q128057",
+  "istat": "059002",
+  "lat": 41.55,
+  "lon": 13.033333333,
+  "population": 1440,
+  "elevation": 562,
+  "image": "Bassiano01.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Bassiano",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "bassiano",
+  "road_km": 16.4,
+  "drive_min": 23,
+  "air_km": 8.2,
+  "roads": [
+   "SP17",
+   "SP35A",
+   "SP12"
+  ],
+  "road_names": [
+   "Strada Provinciale Sermonetana"
+  ],
+  "nearby": [
+   "sermoneta",
+   "sezze",
+   "norma",
+   "carpineto-romano",
+   "roccagorga",
+   "montelanico"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Campodimele",
+  "wikidata": "Q128060",
+  "istat": "059003",
+  "lat": 41.383333333,
+  "lon": 13.533333333,
+  "population": 560,
+  "elevation": 647,
+  "image": "CampodimelePanorama.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Campodimele",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "campodimele",
+  "road_km": 71.5,
+  "drive_min": 95,
+  "air_km": 50.6,
+  "roads": [
+   "SS7",
+   "SP154",
+   "SP99",
+   "SP103"
+  ],
+  "road_names": [
+   "Via Querce"
+  ],
+  "nearby": [
+   "lenola",
+   "fondi",
+   "itri",
+   "formia",
+   "sperlonga",
+   "monte-san-biagio"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Castelforte",
+  "wikidata": "Q128062",
+  "istat": "059004",
+  "lat": 41.3,
+  "lon": 13.833333333,
+  "population": 4025,
+  "elevation": 130,
+  "image": "Castelforte(LT).JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Castelforte",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "castelforte",
+  "road_km": 129.3,
+  "drive_min": 118,
+  "air_km": 77.2,
+  "roads": [
+   "A1",
+   "SS156",
+   "SR430",
+   "SP159"
+  ],
+  "road_names": [],
+  "nearby": [
+   "santi-cosma-e-damiano",
+   "minturno",
+   "spigno-saturnia",
+   "formia",
+   "gaeta",
+   "itri"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Cisterna di Latina",
+  "wikidata": "Q128065",
+  "istat": "059005",
+  "lat": 41.588888888,
+  "lon": 12.830555555,
+  "population": 36266,
+  "elevation": 77,
+  "image": "Fontanabiondi.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Cisterna_di_Latina",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "cisterna-di-latina",
+  "road_km": 14.8,
+  "drive_min": 21,
+  "air_km": 13.3,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [],
+  "nearby": [
+   "velletri",
+   "cori",
+   "norma",
+   "rocca-massima",
+   "sermoneta",
+   "latina"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Cori",
+  "wikidata": "Q128081",
+  "istat": "059006",
+  "lat": 41.65,
+  "lon": 12.916666666,
+  "population": 10366,
+  "elevation": 384,
+  "image": "Looking Up At Cori.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Cori",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "cori",
+  "road_km": 21.8,
+  "drive_min": 33,
+  "air_km": 15.8,
+  "roads": [
+   "SP12",
+   "SP35A"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine",
+   "Via Casalotto"
+  ],
+  "nearby": [
+   "rocca-massima",
+   "norma",
+   "segni",
+   "artena",
+   "cisterna-di-latina",
+   "montelanico"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Fondi",
+  "wikidata": "Q128084",
+  "istat": "059007",
+  "lat": 41.35,
+  "lon": 13.416666666,
+  "population": 39550,
+  "elevation": 8,
+  "image": "CastelloFondi.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Fondi",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "fondi",
+  "road_km": 56.3,
+  "drive_min": 72,
+  "air_km": 42.7,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [],
+  "nearby": [
+   "monte-san-biagio",
+   "lenola",
+   "sperlonga",
+   "campodimele",
+   "itri",
+   "terracina"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Formia",
+  "wikidata": "Q128086",
+  "istat": "059008",
+  "lat": 41.256388888,
+  "lon": 13.606944444,
+  "population": 37136,
+  "elevation": 19,
+  "image": "Vendicio spiaggia - panoramio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Formia",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "formia",
+  "road_km": 73.8,
+  "drive_min": 97,
+  "air_km": 61.6,
+  "roads": [
+   "SS7",
+   "SR213"
+  ],
+  "road_names": [
+   "Via Sant'Agostino",
+   "Via Flacca"
+  ],
+  "nearby": [
+   "gaeta",
+   "itri",
+   "spigno-saturnia",
+   "minturno",
+   "sperlonga",
+   "campodimele"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Gaeta",
+  "wikidata": "Q128089",
+  "istat": "059009",
+  "lat": 41.216666666,
+  "lon": 13.566666666,
+  "population": 19423,
+  "elevation": 2,
+  "image": "Gaeta - Comune di Gaeta - 2023-09-27 14-39-34 001.jpeg",
+  "itwiki": "https://it.wikipedia.org/wiki/Gaeta",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "gaeta",
+  "road_km": 70.1,
+  "drive_min": 91,
+  "air_km": 60.9,
+  "roads": [
+   "SS7",
+   "SR213"
+  ],
+  "road_names": [
+   "Via Flacca"
+  ],
+  "nearby": [
+   "formia",
+   "itri",
+   "sperlonga",
+   "minturno",
+   "spigno-saturnia",
+   "campodimele"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Itri",
+  "wikidata": "Q128092",
+  "istat": "059010",
+  "lat": 41.283333333,
+  "lon": 13.533333333,
+  "population": 10357,
+  "elevation": 170,
+  "image": "ItriCittàAlta.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Itri",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "itri",
+  "road_km": 69.2,
+  "drive_min": 89,
+  "air_km": 54.7,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [],
+  "nearby": [
+   "formia",
+   "gaeta",
+   "sperlonga",
+   "campodimele",
+   "fondi",
+   "lenola"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Latina",
+  "wikidata": "Q13410",
+  "istat": "059011",
+  "lat": 41.467222222,
+  "lon": 12.903611111,
+  "population": 127564,
+  "elevation": 21,
+  "image": "Vista panoramica latina.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Latina",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "latina",
+  "road_km": 8.4,
+  "drive_min": 13,
+  "air_km": 6.2,
+  "roads": [],
+  "road_names": [
+   "Via Epitaffio"
+  ],
+  "nearby": [
+   "sermoneta",
+   "pontinia",
+   "norma",
+   "sezze",
+   "bassiano",
+   "cisterna-di-latina"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Lenola",
+  "wikidata": "Q128101",
+  "istat": "059012",
+  "lat": 41.409166666,
+  "lon": 13.4625,
+  "population": 4055,
+  "elevation": 425,
+  "image": "Lenola 2 7 2011.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Lenola",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "lenola",
+  "road_km": 66.8,
+  "drive_min": 87,
+  "air_km": 44.1,
+  "roads": [
+   "SS7",
+   "SR637"
+  ],
+  "road_names": [],
+  "nearby": [
+   "campodimele",
+   "fondi",
+   "monte-san-biagio",
+   "itri",
+   "sperlonga",
+   "sonnino"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Maenza",
+  "wikidata": "Q128103",
+  "istat": "059013",
+  "lat": 41.516666666,
+  "lon": 13.183333333,
+  "population": 2952,
+  "elevation": 358,
+  "image": "Panorama di Maenza da Roccagorga - panoramio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Maenza",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "maenza",
+  "road_km": 26.9,
+  "drive_min": 37,
+  "air_km": 19.4,
+  "roads": [
+   "SS156",
+   "SP159",
+   "SP33",
+   "SP609"
+  ],
+  "road_names": [],
+  "nearby": [
+   "roccagorga",
+   "roccasecca-dei-volsci",
+   "priverno",
+   "prossedi",
+   "sezze",
+   "sonnino"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Minturno",
+  "wikidata": "Q128105",
+  "istat": "059014",
+  "lat": 41.266666666,
+  "lon": 13.75,
+  "population": 20268,
+  "elevation": 141,
+  "image": "Scauri.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Minturno",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "minturno",
+  "road_km": 120.4,
+  "drive_min": 113,
+  "air_km": 72.0,
+  "roads": [
+   "A1",
+   "SS156",
+   "SR630",
+   "SP159"
+  ],
+  "road_names": [
+   "Via Luigi Cadorna"
+  ],
+  "nearby": [
+   "spigno-saturnia",
+   "santi-cosma-e-damiano",
+   "castelforte",
+   "formia",
+   "gaeta",
+   "itri"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Monte San Biagio",
+  "wikidata": "Q128107",
+  "istat": "059015",
+  "lat": 41.35,
+  "lon": 13.35,
+  "population": 6044,
+  "elevation": 133,
+  "image": "MonteSanBiagio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Monte_San_Biagio",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "monte-san-biagio",
+  "road_km": 49.1,
+  "drive_min": 63,
+  "air_km": 37.7,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [],
+  "nearby": [
+   "fondi",
+   "terracina",
+   "lenola",
+   "sonnino",
+   "sperlonga",
+   "campodimele"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Norma",
+  "wikidata": "Q128119",
+  "istat": "059016",
+  "lat": 41.583333333,
+  "lon": 12.966666666,
+  "population": 3623,
+  "elevation": 410,
+  "image": "Norma, lazio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Norma_(Italia)",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "norma",
+  "road_km": 10.9,
+  "drive_min": 17,
+  "air_km": 8.3,
+  "roads": [
+   "SP20",
+   "SP35A",
+   "SP12"
+  ],
+  "road_names": [
+   "Strada Provinciale Sermonetana"
+  ],
+  "nearby": [
+   "sermoneta",
+   "bassiano",
+   "cori",
+   "montelanico",
+   "carpineto-romano",
+   "rocca-massima"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Pontinia",
+  "wikidata": "Q128130",
+  "istat": "059017",
+  "lat": 41.4083,
+  "lon": 13.04434,
+  "population": 15046,
+  "elevation": 4,
+  "image": "Pontinia 1939.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Pontinia",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "pontinia",
+  "road_km": 17.1,
+  "drive_min": 24,
+  "air_km": 13.7,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [
+   "Via Migliara 47"
+  ],
+  "nearby": [
+   "sezze",
+   "sabaudia",
+   "priverno",
+   "latina",
+   "bassiano",
+   "sonnino"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Ponza",
+  "wikidata": "Q128134",
+  "istat": "059018",
+  "lat": 40.9,
+  "lon": 12.966666666,
+  "population": 3289,
+  "elevation": 10,
+  "image": "Ponza01.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Ponza_(comune)",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "ponza",
+  "road_km": 90.8,
+  "drive_min": 662,
+  "air_km": 67.8,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [
+   "Terracina - Ponza"
+  ],
+  "nearby": [
+   "san-felice-circeo",
+   "ventotene",
+   "sabaudia",
+   "terracina",
+   "sperlonga",
+   "pontinia"
+  ],
+  "subarea": "isole-ponziane",
+  "island": true
+ },
+ {
+  "name": "Priverno",
+  "wikidata": "Q128139",
+  "istat": "059019",
+  "lat": 41.466666666,
+  "lon": 13.183333333,
+  "population": 13735,
+  "elevation": 151,
+  "image": "Tiburio di fossanova.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Priverno",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "priverno",
+  "road_km": 24.4,
+  "drive_min": 34,
+  "air_km": 20.0,
+  "roads": [
+   "SS156",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [
+   "Via Madonna delle Grazie"
+  ],
+  "nearby": [
+   "roccasecca-dei-volsci",
+   "maenza",
+   "sonnino",
+   "roccagorga",
+   "prossedi",
+   "sezze"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Prossedi",
+  "wikidata": "Q128143",
+  "istat": "059020",
+  "lat": 41.516666666,
+  "lon": 13.266666666,
+  "population": 1137,
+  "elevation": 206,
+  "image": "PanoramaProssedi.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Prossedi",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "prossedi",
+  "road_km": 31.8,
+  "drive_min": 37,
+  "air_km": 26.3,
+  "roads": [
+   "SS156",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [],
+  "nearby": [
+   "roccasecca-dei-volsci",
+   "maenza",
+   "priverno",
+   "roccagorga",
+   "sonnino",
+   "sezze"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Rocca Massima",
+  "wikidata": "Q128157",
+  "istat": "059022",
+  "lat": 41.67833,
+  "lon": 12.92063,
+  "population": 1064,
+  "elevation": 735,
+  "image": "Rocca Massima - Porta Doria.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Rocca_Massima",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "rocca-massima",
+  "road_km": 26.9,
+  "drive_min": 41,
+  "air_km": 18.9,
+  "roads": [
+   "SP12",
+   "SP198",
+   "SP35A"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine",
+   "Via Casalotto"
+  ],
+  "nearby": [
+   "cori",
+   "artena",
+   "segni",
+   "colleferro",
+   "lariano",
+   "montelanico"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Roccagorga",
+  "wikidata": "Q128161",
+  "istat": "059021",
+  "lat": 41.533333333,
+  "lon": 13.15,
+  "population": 4169,
+  "elevation": 287,
+  "image": "Roccagorga Panorama - panoramio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Roccagorga",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "roccagorga",
+  "road_km": 28.2,
+  "drive_min": 41,
+  "air_km": 16.8,
+  "roads": [
+   "SS156",
+   "SP45",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [],
+  "nearby": [
+   "maenza",
+   "roccasecca-dei-volsci",
+   "sezze",
+   "priverno",
+   "carpineto-romano",
+   "bassiano"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Roccasecca dei Volsci",
+  "wikidata": "Q128163",
+  "istat": "059023",
+  "lat": 41.483333333,
+  "lon": 13.216666666,
+  "population": 1043,
+  "elevation": 376,
+  "image": "Roccasecca dei Volsci - Palazzo Massimo.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Roccasecca_dei_Volsci",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "roccasecca-dei-volsci",
+  "road_km": 27.9,
+  "drive_min": 33,
+  "air_km": 22.3,
+  "roads": [
+   "SS156",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [],
+  "nearby": [
+   "priverno",
+   "maenza",
+   "prossedi",
+   "roccagorga",
+   "sonnino",
+   "sezze"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Sabaudia",
+  "wikidata": "Q128165",
+  "istat": "059024",
+  "lat": 41.29985,
+  "lon": 13.02477,
+  "population": 19434,
+  "elevation": 17,
+  "image": "Sabaudia torre civica.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Sabaudia",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "sabaudia",
+  "road_km": 33.7,
+  "drive_min": 41,
+  "air_km": 24.2,
+  "roads": [
+   "SS148",
+   "SP35A",
+   "SP77",
+   "SP35"
+  ],
+  "road_names": [],
+  "nearby": [
+   "san-felice-circeo",
+   "pontinia",
+   "terracina",
+   "latina",
+   "sonnino",
+   "sezze"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "San Felice Circeo",
+  "wikidata": "Q128170",
+  "istat": "059025",
+  "lat": 41.235277777,
+  "lon": 13.095555555,
+  "population": 10137,
+  "elevation": 98,
+  "image": "San felice circeo.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/San_Felice_Circeo",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "san-felice-circeo",
+  "road_km": 39.8,
+  "drive_min": 50,
+  "air_km": 32.9,
+  "roads": [
+   "SS148",
+   "SP35A",
+   "SP35"
+  ],
+  "road_names": [
+   "Via Monte Circeo",
+   "Via Montenero"
+  ],
+  "nearby": [
+   "sabaudia",
+   "terracina",
+   "pontinia",
+   "sonnino",
+   "monte-san-biagio",
+   "priverno"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Santi Cosma e Damiano",
+  "wikidata": "Q128185",
+  "istat": "059026",
+  "lat": 41.3,
+  "lon": 13.816666666,
+  "population": 6885,
+  "elevation": 181,
+  "image": "Ss Cosma e Damiano (LT) e Ventosa.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Santi_Cosma_e_Damiano_(Italia)",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "santi-cosma-e-damiano",
+  "road_km": 118.7,
+  "drive_min": 114,
+  "air_km": 75.9,
+  "roads": [
+   "A1",
+   "SS156",
+   "SR630",
+   "SP159"
+  ],
+  "road_names": [
+   "Via Aurito"
+  ],
+  "nearby": [
+   "castelforte",
+   "minturno",
+   "spigno-saturnia",
+   "formia",
+   "gaeta",
+   "itri"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Sermoneta",
+  "wikidata": "Q128202",
+  "istat": "059027",
+  "lat": 41.55,
+  "lon": 12.983333333,
+  "population": 10037,
+  "elevation": 236,
+  "image": "04013 Sermoneta, Province of Latina, Italy - panoramio (1).jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Sermoneta",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "sermoneta",
+  "road_km": 10.6,
+  "drive_min": 19,
+  "air_km": 5.2,
+  "roads": [
+   "SP24"
+  ],
+  "road_names": [],
+  "nearby": [
+   "norma",
+   "bassiano",
+   "sezze",
+   "carpineto-romano",
+   "latina",
+   "montelanico"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Sezze",
+  "wikidata": "Q128206",
+  "istat": "059028",
+  "lat": 41.5,
+  "lon": 13.066666666,
+  "population": 23697,
+  "elevation": 319,
+  "image": "04018 Sezze LT, Italy - panoramio (3).jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Sezze",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "sezze",
+  "road_km": 16.1,
+  "drive_min": 25,
+  "air_km": 9.7,
+  "roads": [
+   "SP17",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [],
+  "nearby": [
+   "bassiano",
+   "roccagorga",
+   "sermoneta",
+   "maenza",
+   "pontinia",
+   "priverno"
+  ],
+  "subarea": "pianura-pontina",
+  "island": false
+ },
+ {
+  "name": "Sonnino",
+  "wikidata": "Q128211",
+  "istat": "059029",
+  "lat": 41.414458333,
+  "lon": 13.241397222,
+  "population": 7352,
+  "elevation": 401,
+  "image": "Sonnino dall'alto - particolare del centro storico.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Sonnino",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "sonnino",
+  "road_km": 38.7,
+  "drive_min": 46,
+  "air_km": 26.4,
+  "roads": [
+   "SS156",
+   "SS699",
+   "SP72",
+   "SP159"
+  ],
+  "road_names": [],
+  "nearby": [
+   "priverno",
+   "roccasecca-dei-volsci",
+   "monte-san-biagio",
+   "prossedi",
+   "maenza",
+   "terracina"
+  ],
+  "subarea": "lepini-ausoni",
+  "island": false
+ },
+ {
+  "name": "Sperlonga",
+  "wikidata": "Q128217",
+  "istat": "059030",
+  "lat": 41.266666666,
+  "lon": 13.433333333,
+  "population": 3050,
+  "elevation": 52,
+  "image": "SperlongaMunicipio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Sperlonga",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "sperlonga",
+  "road_km": 54.5,
+  "drive_min": 70,
+  "air_km": 48.5,
+  "roads": [
+   "SS7",
+   "SR213"
+  ],
+  "road_names": [
+   "Via Flacca"
+  ],
+  "nearby": [
+   "itri",
+   "fondi",
+   "monte-san-biagio",
+   "gaeta",
+   "formia",
+   "campodimele"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Spigno Saturnia",
+  "wikidata": "Q128222",
+  "istat": "059031",
+  "lat": 41.3,
+  "lon": 13.733333333,
+  "population": 2852,
+  "elevation": 51,
+  "image": "Patriae milites.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Spigno_Saturnia",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "spigno-saturnia",
+  "road_km": 114.7,
+  "drive_min": 103,
+  "air_km": 69.3,
+  "roads": [
+   "A1",
+   "SS156",
+   "SR630",
+   "SP159"
+  ],
+  "road_names": [],
+  "nearby": [
+   "minturno",
+   "santi-cosma-e-damiano",
+   "castelforte",
+   "formia",
+   "gaeta",
+   "itri"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Terracina",
+  "wikidata": "Q128226",
+  "istat": "059032",
+  "lat": 41.283333333,
+  "lon": 13.25,
+  "population": 44720,
+  "elevation": 22,
+  "image": "TerracinaDuomo.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Terracina",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "terracina",
+  "road_km": 38.2,
+  "drive_min": 49,
+  "air_km": 35.5,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [],
+  "nearby": [
+   "monte-san-biagio",
+   "san-felice-circeo",
+   "sonnino",
+   "sperlonga",
+   "fondi",
+   "sabaudia"
+  ],
+  "subarea": "sud-pontino",
+  "island": false
+ },
+ {
+  "name": "Ventotene",
+  "wikidata": "Q128230",
+  "istat": "059033",
+  "lat": 40.8,
+  "lon": 13.433333333,
+  "population": 704,
+  "elevation": 18,
+  "image": "Ventotene, insenatura del porto antico 03.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Ventotene_(comune)",
+  "kind": "comune",
+  "area": "latina",
+  "province": "LT",
+  "slug": "ventotene",
+  "road_km": 94.6,
+  "drive_min": 724,
+  "air_km": 88.7,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [
+   "Terracina - Ventotene"
+  ],
+  "nearby": [
+   "ponza",
+   "gaeta",
+   "sperlonga",
+   "formia",
+   "itri",
+   "terracina"
+  ],
+  "subarea": "isole-ponziane",
+  "island": true
+ },
+ {
+  "name": "Pomezia",
+  "wikidata": "Q243172",
+  "istat": "058079",
+  "lat": 41.669305555,
+  "lon": 12.502083333,
+  "population": 64119,
+  "elevation": 108,
+  "image": "Pomezia panorama dai Castelli Romani.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Pomezia",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "pomezia",
+  "road_km": 49.8,
+  "drive_min": 50,
+  "air_km": 41.3,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "ardea",
+   "castel-romano",
+   "santa-palomba",
+   "trigoria",
+   "falcognana",
+   "castel-di-leva"
+  ],
+  "subarea": "litorale-romano",
+  "island": false
+ },
+ {
+  "name": "Ardea",
+  "wikidata": "Q241733",
+  "istat": "058117",
+  "lat": 41.616666666,
+  "lon": 12.55,
+  "population": 49057,
+  "elevation": 37,
+  "image": "Ardea10.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Ardea",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "ardea",
+  "road_km": 44.1,
+  "drive_min": 50,
+  "air_km": 35.4,
+  "roads": [
+   "SS148",
+   "SP1"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "pomezia",
+   "aprilia",
+   "santa-palomba",
+   "castel-romano",
+   "lanuvio",
+   "ariccia"
+  ],
+  "subarea": "litorale-romano",
+  "island": false
+ },
+ {
+  "name": "Anzio",
+  "wikidata": "Q241717",
+  "istat": "058007",
+  "lat": 41.44722222,
+  "lon": 12.62833333,
+  "population": 58949,
+  "elevation": 3,
+  "image": "Anzio (8299681631).jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Anzio",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "anzio",
+  "road_km": 34.4,
+  "drive_min": 40,
+  "air_km": 27.8,
+  "roads": [
+   "SP38",
+   "SP106b"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "nettuno",
+   "aprilia",
+   "ardea",
+   "latina",
+   "cisterna-di-latina",
+   "pomezia"
+  ],
+  "subarea": "litorale-romano",
+  "island": false
+ },
+ {
+  "name": "Nettuno",
+  "wikidata": "Q243116",
+  "istat": "058072",
+  "lat": 41.466667,
+  "lon": 12.666667,
+  "population": 48033,
+  "elevation": 11,
+  "image": "Costa di Nettuno Levante.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Nettuno_(Italia)",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "nettuno",
+  "road_km": 32.4,
+  "drive_min": 38,
+  "air_km": 24.2,
+  "roads": [
+   "SP38",
+   "SP106b"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "anzio",
+   "aprilia",
+   "cisterna-di-latina",
+   "ardea",
+   "latina",
+   "lanuvio"
+  ],
+  "subarea": "litorale-romano",
+  "island": false
+ },
+ {
+  "name": "Ciampino",
+  "wikidata": "Q242513",
+  "istat": "058118",
+  "lat": 41.8,
+  "lon": 12.6,
+  "population": 38595,
+  "elevation": 124,
+  "image": "Rom 2007 -Ciampino Airport- by-RaBoe 001.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Ciampino",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "ciampino",
+  "road_km": 51.1,
+  "drive_min": 67,
+  "air_km": 43.5,
+  "roads": [
+   "SS7",
+   "SP217"
+  ],
+  "road_names": [
+   "Via Mura dei Francesi"
+  ],
+  "nearby": [
+   "morena",
+   "capannelle",
+   "romanina",
+   "anagnina",
+   "falcognana",
+   "grottaferrata"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Marino",
+  "wikidata": "Q242926",
+  "istat": "058057",
+  "lat": 41.766666666,
+  "lon": 12.666666666,
+  "population": 46347,
+  "elevation": 39,
+  "image": "Marino (Rm).jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Marino_(Italia)",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "marino",
+  "road_km": 43.6,
+  "drive_min": 58,
+  "air_km": 37.0,
+  "roads": [
+   "SS7",
+   "SP217"
+  ],
+  "road_names": [],
+  "nearby": [
+   "castel-gandolfo",
+   "rocca-di-papa",
+   "albano-laziale",
+   "grottaferrata",
+   "ariccia",
+   "frascati"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Castel Gandolfo",
+  "wikidata": "Q242105",
+  "istat": "058022",
+  "lat": 41.746944444,
+  "lon": 12.651944444,
+  "population": 8564,
+  "elevation": 426,
+  "image": "Sudika Castel Gandolfo.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Castel_Gandolfo",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "castel-gandolfo",
+  "road_km": 45.7,
+  "drive_min": 61,
+  "air_km": 36.2,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SR218",
+   "SS218"
+  ],
+  "road_names": [],
+  "nearby": [
+   "albano-laziale",
+   "marino",
+   "ariccia",
+   "rocca-di-papa",
+   "genzano-di-roma",
+   "grottaferrata"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Albano Laziale",
+  "wikidata": "Q191115",
+  "istat": "058003",
+  "lat": 41.733333333,
+  "lon": 12.666666666,
+  "population": 39718,
+  "elevation": 400,
+  "image": "Albano L. Panorama.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Albano_Laziale",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "albano-laziale",
+  "road_km": 42.8,
+  "drive_min": 56,
+  "air_km": 34.3,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SR218",
+   "SS218"
+  ],
+  "road_names": [],
+  "nearby": [
+   "ariccia",
+   "castel-gandolfo",
+   "marino",
+   "genzano-di-roma",
+   "nemi",
+   "rocca-di-papa"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Ariccia",
+  "wikidata": "Q241744",
+  "istat": "058009",
+  "lat": 41.716666666,
+  "lon": 12.666666666,
+  "population": 17987,
+  "elevation": 412,
+  "image": "Ariccia e Vallericcia.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Ariccia",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "ariccia",
+  "road_km": 43.0,
+  "drive_min": 57,
+  "air_km": 32.9,
+  "roads": [
+   "SS7",
+   "SP94a",
+   "SP95a"
+  ],
+  "road_names": [
+   "Via di Vallericcia"
+  ],
+  "nearby": [
+   "albano-laziale",
+   "genzano-di-roma",
+   "castel-gandolfo",
+   "nemi",
+   "lanuvio",
+   "marino"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Genzano di Roma",
+  "wikidata": "Q242683",
+  "istat": "058043",
+  "lat": 41.702222222,
+  "lon": 12.6925,
+  "population": 22865,
+  "elevation": 435,
+  "image": "Genzano Vecchio Panorama 070714.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Genzano_di_Roma",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "genzano-di-roma",
+  "road_km": 36.8,
+  "drive_min": 48,
+  "air_km": 30.3,
+  "roads": [
+   "SS7",
+   "SP95a"
+  ],
+  "road_names": [],
+  "nearby": [
+   "lanuvio",
+   "ariccia",
+   "nemi",
+   "albano-laziale",
+   "castel-gandolfo",
+   "rocca-di-papa"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Lanuvio",
+  "wikidata": "Q242793",
+  "istat": "058050",
+  "lat": 41.683333333,
+  "lon": 12.7,
+  "population": 12858,
+  "elevation": 324,
+  "image": "Lanuvio Panorama 4th April 2010.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Lanuvio",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "lanuvio",
+  "road_km": 33.9,
+  "drive_min": 46,
+  "air_km": 28.4,
+  "roads": [
+   "SS7",
+   "SP95a"
+  ],
+  "road_names": [],
+  "nearby": [
+   "genzano-di-roma",
+   "nemi",
+   "ariccia",
+   "albano-laziale",
+   "velletri",
+   "castel-gandolfo"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Velletri",
+  "wikidata": "Q189236",
+  "istat": "058111",
+  "lat": 41.666666666,
+  "lon": 12.783333333,
+  "population": 52528,
+  "elevation": 332,
+  "image": "Velletri.JPG (cropped).jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Velletri",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "velletri",
+  "road_km": 25.1,
+  "drive_min": 35,
+  "air_km": 22.3,
+  "roads": [
+   "SS7"
+  ],
+  "road_names": [],
+  "nearby": [
+   "lanuvio",
+   "nemi",
+   "lariano",
+   "genzano-di-roma",
+   "cisterna-di-latina",
+   "ariccia"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Lariano",
+  "wikidata": "Q242807",
+  "istat": "058115",
+  "lat": 41.733333333,
+  "lon": 12.833333333,
+  "population": 13212,
+  "elevation": 350,
+  "image": "Ariano 2020 1.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Lariano",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "lariano",
+  "road_km": 33.6,
+  "drive_min": 49,
+  "air_km": 26.7,
+  "roads": [
+   "SP12",
+   "SP8",
+   "SP3",
+   "SP35A"
+  ],
+  "road_names": [
+   "Via Velletri - Anzio",
+   "Strada Provinciale Le Pastine",
+   "Via Giuseppe Garibaldi"
+  ],
+  "nearby": [
+   "artena",
+   "labico",
+   "rocca-priora",
+   "velletri",
+   "valmontone",
+   "rocca-massima"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Nemi",
+  "wikidata": "Q243101",
+  "istat": "058070",
+  "lat": 41.72185,
+  "lon": 12.71809,
+  "population": 1877,
+  "elevation": 521,
+  "image": "Nemi Panorama.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Nemi",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "nemi",
+  "road_km": 37.1,
+  "drive_min": 49,
+  "air_km": 30.5,
+  "roads": [
+   "SS7",
+   "SP217"
+  ],
+  "road_names": [],
+  "nearby": [
+   "genzano-di-roma",
+   "ariccia",
+   "albano-laziale",
+   "lanuvio",
+   "rocca-di-papa",
+   "castel-gandolfo"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Rocca di Papa",
+  "wikidata": "Q243228",
+  "istat": "058086",
+  "lat": 41.761970334,
+  "lon": 12.706866965,
+  "population": 17512,
+  "elevation": 680,
+  "image": "Rocca margherita.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Rocca_di_Papa",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "rocca-di-papa",
+  "road_km": 42.0,
+  "drive_min": 55,
+  "air_km": 34.6,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SR218"
+  ],
+  "road_names": [],
+  "nearby": [
+   "marino",
+   "nemi",
+   "albano-laziale",
+   "castel-gandolfo",
+   "grottaferrata",
+   "rocca-priora"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Grottaferrata",
+  "wikidata": "Q242703",
+  "istat": "058046",
+  "lat": 41.8,
+  "lon": 12.666666666,
+  "population": 20494,
+  "elevation": 331,
+  "image": "Grottaferrata centro.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Grottaferrata",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "grottaferrata",
+  "road_km": 48.7,
+  "drive_min": 65,
+  "air_km": 40.0,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SP83b",
+   "SR218"
+  ],
+  "road_names": [],
+  "nearby": [
+   "frascati",
+   "marino",
+   "monte-porzio-catone",
+   "morena",
+   "rocca-di-papa",
+   "ciampino"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Frascati",
+  "wikidata": "Q190963",
+  "istat": "058039",
+  "lat": 41.816666666,
+  "lon": 12.683333333,
+  "population": 22794,
+  "elevation": 320,
+  "image": "Frascati 1 BW.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Frascati",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "frascati",
+  "road_km": 50.3,
+  "drive_min": 69,
+  "air_km": 40.7,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SR218",
+   "SP83b"
+  ],
+  "road_names": [],
+  "nearby": [
+   "grottaferrata",
+   "monte-porzio-catone",
+   "monte-compatri",
+   "marino",
+   "colonna",
+   "morena"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Monte Porzio Catone",
+  "wikidata": "Q242965",
+  "istat": "058064",
+  "lat": 41.816666666,
+  "lon": 12.716666666,
+  "population": 8581,
+  "elevation": 451,
+  "image": "Monte Porzio Catone.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Monte_Porzio_Catone",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "monte-porzio-catone",
+  "road_km": 59.8,
+  "drive_min": 67,
+  "air_km": 39.2,
+  "roads": [
+   "A1dir",
+   "SP12",
+   "A1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "monte-compatri",
+   "frascati",
+   "colonna",
+   "grottaferrata",
+   "rocca-priora",
+   "rocca-di-papa"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Monte Compatri",
+  "wikidata": "Q242954",
+  "istat": "058060",
+  "lat": 41.808055555,
+  "lon": 12.737222222,
+  "population": 11852,
+  "elevation": 576,
+  "image": "Large view of Montecompatri - panoramio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Monte_Compatri",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "monte-compatri",
+  "road_km": 51.2,
+  "drive_min": 65,
+  "air_km": 37.6,
+  "roads": [
+   "SS7",
+   "SP18c",
+   "SP217",
+   "SP72a"
+  ],
+  "road_names": [
+   "Strada del Vivaro",
+   "Via Arenatura",
+   "Via Oberdan"
+  ],
+  "nearby": [
+   "monte-porzio-catone",
+   "colonna",
+   "rocca-priora",
+   "frascati",
+   "san-cesareo",
+   "rocca-di-papa"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Rocca Priora",
+  "wikidata": "Q243210",
+  "istat": "058088",
+  "lat": 41.783333333,
+  "lon": 12.766666666,
+  "population": 12040,
+  "elevation": 768,
+  "image": "Rocca Priora Img 071.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Rocca_Priora",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "rocca-priora",
+  "road_km": 45.9,
+  "drive_min": 57,
+  "air_km": 34.0,
+  "roads": [
+   "SS7",
+   "SP18c",
+   "SP217",
+   "SP215"
+  ],
+  "road_names": [
+   "Strada del Vivaro"
+  ],
+  "nearby": [
+   "monte-compatri",
+   "san-cesareo",
+   "rocca-di-papa",
+   "monte-porzio-catone",
+   "colonna",
+   "zagarolo"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "Colonna",
+  "wikidata": "Q242558",
+  "istat": "058035",
+  "lat": 41.833333,
+  "lon": 12.75,
+  "population": 4240,
+  "elevation": 393,
+  "image": "Colonna - Panorama 2.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Colonna_(Italia)",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "colonna",
+  "road_km": 56.3,
+  "drive_min": 70,
+  "air_km": 39.6,
+  "roads": [
+   "SP12",
+   "A1",
+   "SP81a",
+   "A1dir"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine",
+   "Via Dei Mattei"
+  ],
+  "nearby": [
+   "monte-compatri",
+   "monte-porzio-catone",
+   "san-cesareo",
+   "rocca-priora",
+   "frascati",
+   "gallicano-nel-lazio"
+  ],
+  "subarea": "castelli-romani",
+  "island": false
+ },
+ {
+  "name": "San Cesareo",
+  "wikidata": "Q243346",
+  "istat": "058119",
+  "lat": 41.816666666,
+  "lon": 12.8,
+  "population": 15988,
+  "elevation": 312,
+  "image": null,
+  "itwiki": "https://it.wikipedia.org/wiki/San_Cesareo",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "san-cesareo",
+  "road_km": 51.5,
+  "drive_min": 66,
+  "air_km": 36.3,
+  "roads": [
+   "SS7",
+   "SP18c",
+   "SP217",
+   "SP26b"
+  ],
+  "road_names": [
+   "Via San Cesareo",
+   "Strada del Vivaro"
+  ],
+  "nearby": [
+   "zagarolo",
+   "colonna",
+   "rocca-priora",
+   "monte-compatri",
+   "gallicano-nel-lazio",
+   "monte-porzio-catone"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Zagarolo",
+  "wikidata": "Q140255",
+  "istat": "058114",
+  "lat": 41.833333333,
+  "lon": 12.833333333,
+  "population": 18483,
+  "elevation": 303,
+  "image": "Touro university rome-Sede.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Zagarolo",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "zagarolo",
+  "road_km": 50.7,
+  "drive_min": 70,
+  "air_km": 37.2,
+  "roads": [
+   "SP12",
+   "SR6",
+   "SP81a",
+   "SP8"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "san-cesareo",
+   "gallicano-nel-lazio",
+   "palestrina",
+   "colonna",
+   "labico",
+   "rocca-priora"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Gallicano nel Lazio",
+  "wikidata": "Q242661",
+  "istat": "058040",
+  "lat": 41.866666666,
+  "lon": 12.816666666,
+  "population": 6522,
+  "elevation": 241,
+  "image": "Gallicano nel Lazio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Gallicano_nel_Lazio",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "gallicano-nel-lazio",
+  "road_km": 53.8,
+  "drive_min": 75,
+  "air_km": 41.2,
+  "roads": [
+   "SP12",
+   "SP55a",
+   "SP55a1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "zagarolo",
+   "san-cesareo",
+   "colonna",
+   "palestrina",
+   "monte-compatri",
+   "monte-porzio-catone"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Palestrina",
+  "wikidata": "Q243133",
+  "istat": "058074",
+  "lat": 41.833333333,
+  "lon": 12.9,
+  "population": 22120,
+  "elevation": 450,
+  "image": "2012-09-07 Palestrina panorama.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Palestrina",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "palestrina",
+  "road_km": 46.0,
+  "drive_min": 63,
+  "air_km": 36.2,
+  "roads": [
+   "SP12",
+   "SP55a1",
+   "SP81a",
+   "SP8"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "cave",
+   "zagarolo",
+   "valmontone",
+   "labico",
+   "genazzano",
+   "gallicano-nel-lazio"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Labico",
+  "wikidata": "Q242779",
+  "istat": "058049",
+  "lat": 41.783333333,
+  "lon": 12.883333333,
+  "population": 6465,
+  "elevation": 319,
+  "image": "Piazza della Libertà 2.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Labico",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "labico",
+  "road_km": 42.0,
+  "drive_min": 59,
+  "air_km": 30.9,
+  "roads": [
+   "SP12",
+   "SP81a",
+   "SP8",
+   "SR6"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "valmontone",
+   "cave",
+   "palestrina",
+   "artena",
+   "zagarolo",
+   "lariano"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Valmontone",
+  "wikidata": "Q243514",
+  "istat": "058110",
+  "lat": 41.783333333,
+  "lon": 12.916666666,
+  "population": 15661,
+  "elevation": 303,
+  "image": "Valmontone by night.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Valmontone",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "valmontone",
+  "road_km": 39.9,
+  "drive_min": 57,
+  "air_km": 30.5,
+  "roads": [
+   "SP12",
+   "SP81a",
+   "SP8",
+   "SP3"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "labico",
+   "cave",
+   "artena",
+   "palestrina",
+   "genazzano",
+   "zagarolo"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Artena",
+  "wikidata": "Q241770",
+  "istat": "058011",
+  "lat": 41.733333333,
+  "lon": 12.916666666,
+  "population": 13616,
+  "elevation": 420,
+  "image": "Artena - Chiesa parrocchiale di Santa Croce - 2023-09-18 21-04-15 001.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Artena",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "artena",
+  "road_km": 35.2,
+  "drive_min": 50,
+  "air_km": 25.0,
+  "roads": [
+   "SP12",
+   "SP81a",
+   "SP8",
+   "SP3"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "valmontone",
+   "rocca-massima",
+   "labico",
+   "lariano",
+   "colleferro",
+   "cori"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Colleferro",
+  "wikidata": "Q242553",
+  "istat": "058034",
+  "lat": 41.72868,
+  "lon": 13.00314,
+  "population": 20536,
+  "elevation": 218,
+  "image": "Colleferro (RM) - piazza Italia e municipio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Colleferro",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "colleferro",
+  "road_km": 42.4,
+  "drive_min": 56,
+  "air_km": 24.7,
+  "roads": [
+   "SP12",
+   "SP81a",
+   "SP8",
+   "SP3"
+  ],
+  "road_names": [
+   "Via Latina",
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "gavignano",
+   "segni",
+   "artena",
+   "rocca-massima",
+   "montelanico",
+   "valmontone"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Segni",
+  "wikidata": "Q243458",
+  "istat": "058102",
+  "lat": 41.683333333,
+  "lon": 13.016666666,
+  "population": 8959,
+  "elevation": 668,
+  "image": "001 Segni.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Segni_(Italia)",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "segni",
+  "road_km": 37.9,
+  "drive_min": 57,
+  "air_km": 20.0,
+  "roads": [
+   "SP12",
+   "SP198",
+   "SP35A"
+  ],
+  "road_names": [
+   "Strada Provinciale Traiana Segni-Rocca Massima",
+   "Strada Provinciale Le Pastine",
+   "Via Casalotto"
+  ],
+  "nearby": [
+   "gavignano",
+   "montelanico",
+   "colleferro",
+   "rocca-massima",
+   "cori",
+   "gorga"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Gavignano",
+  "wikidata": "Q242668",
+  "istat": "058041",
+  "lat": 41.7,
+  "lon": 13.05,
+  "population": 1891,
+  "elevation": 404,
+  "image": "Gavignano.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Gavignano_(Italia)",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "gavignano",
+  "road_km": 49.0,
+  "drive_min": 66,
+  "air_km": 22.7,
+  "roads": [
+   "SP12",
+   "SP81a",
+   "SP8",
+   "SP3"
+  ],
+  "road_names": [
+   "Via Latina",
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "segni",
+   "colleferro",
+   "montelanico",
+   "gorga",
+   "rocca-massima",
+   "carpineto-romano"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Montelanico",
+  "wikidata": "Q242980",
+  "istat": "058062",
+  "lat": 41.65,
+  "lon": 13.039722222,
+  "population": 2053,
+  "elevation": 297,
+  "image": "Montelanico - piazza Vittorio Emanuele II.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Montelanico",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "montelanico",
+  "road_km": 52.1,
+  "drive_min": 61,
+  "air_km": 17.2,
+  "roads": [
+   "SP609",
+   "SS156",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [],
+  "nearby": [
+   "segni",
+   "gavignano",
+   "gorga",
+   "carpineto-romano",
+   "colleferro",
+   "norma"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Carpineto Romano",
+  "wikidata": "Q242000",
+  "istat": "058020",
+  "lat": 41.6,
+  "lon": 13.083333333,
+  "population": 4025,
+  "elevation": 550,
+  "image": "Carpineto romano.JPG",
+  "itwiki": "https://it.wikipedia.org/wiki/Carpineto_Romano",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "carpineto-romano",
+  "road_km": 45.6,
+  "drive_min": 55,
+  "air_km": 14.9,
+  "roads": [
+   "SP609",
+   "SS156",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [],
+  "nearby": [
+   "gorga",
+   "montelanico",
+   "bassiano",
+   "roccagorga",
+   "norma",
+   "sermoneta"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Gorga",
+  "wikidata": "Q242698",
+  "istat": "058045",
+  "lat": 41.65,
+  "lon": 13.116667,
+  "population": 665,
+  "elevation": 766,
+  "image": "Vista su Gorga - panoramio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Gorga_(Italia)",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "gorga",
+  "road_km": 68.3,
+  "drive_min": 85,
+  "air_km": 20.8,
+  "roads": [
+   "SP609",
+   "SS156",
+   "SP159",
+   "SP33"
+  ],
+  "road_names": [
+   "Via Filippo Turati",
+   "Via Borgata San Marino"
+  ],
+  "nearby": [
+   "carpineto-romano",
+   "montelanico",
+   "gavignano",
+   "segni",
+   "colleferro",
+   "bassiano"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Cave",
+  "wikidata": "Q177726",
+  "istat": "058026",
+  "lat": 41.816666666,
+  "lon": 12.933333333,
+  "population": 10777,
+  "elevation": 399,
+  "image": "Cave(rm) - panoramio.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Cave_(Italia)",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "cave",
+  "road_km": 45.7,
+  "drive_min": 64,
+  "air_km": 34.1,
+  "roads": [
+   "SP12",
+   "SP81a",
+   "SP8",
+   "SP3"
+  ],
+  "road_names": [
+   "Via Speciano",
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "palestrina",
+   "genazzano",
+   "valmontone",
+   "labico",
+   "zagarolo",
+   "artena"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Genazzano",
+  "wikidata": "Q242675",
+  "istat": "058042",
+  "lat": 41.833317969,
+  "lon": 12.972838355,
+  "population": 5614,
+  "elevation": 375,
+  "image": "Castello Colonna, Genazzano, gennaio 2012.jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Genazzano",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "genazzano",
+  "road_km": 51.7,
+  "drive_min": 72,
+  "air_km": 36.0,
+  "roads": [
+   "SP12",
+   "SP81a",
+   "SP8",
+   "SR155"
+  ],
+  "road_names": [
+   "Via Speciano",
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "cave",
+   "palestrina",
+   "valmontone",
+   "labico",
+   "zagarolo",
+   "colleferro"
+  ],
+  "subarea": "valle-sacco-prenestina",
+  "island": false
+ },
+ {
+  "name": "Fiumicino",
+  "wikidata": "Q19326",
+  "istat": "058120",
+  "lat": 41.766666666,
+  "lon": 12.233333333,
+  "population": 81426,
+  "elevation": 2,
+  "image": "Fiumicino 00 (RaBoe).jpg",
+  "itwiki": "https://it.wikipedia.org/wiki/Fiumicino",
+  "kind": "comune",
+  "area": "roma-sud",
+  "province": "RM",
+  "slug": "fiumicino",
+  "road_km": 89.5,
+  "drive_min": 86,
+  "air_km": 66.1,
+  "roads": [
+   "SS148",
+   "A91",
+   "A90"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "ostia",
+   "casal-palocco",
+   "ponte-galeria",
+   "acilia",
+   "infernetto",
+   "vitinia"
+  ],
+  "subarea": "litorale-romano",
+  "island": false
+ },
+ {
+  "name": "EUR",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8337745,
+  "lon": 12.4709498,
+  "osm": "relation/5460399",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "eur",
+  "road_km": 70.4,
+  "drive_min": 70,
+  "air_km": 53.7,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "magliana",
+   "laurentino",
+   "ostiense",
+   "torrino",
+   "garbatella",
+   "cecchignola"
+  ],
+  "wikidata": "Q3734793",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Laurentino",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8270962,
+  "lon": 12.4807693,
+  "osm": "node/248683058",
+  "osm_type": "subway_entrance",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "laurentino",
+  "road_km": 71.1,
+  "drive_min": 72,
+  "air_km": 52.6,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave",
+   "Viale dell'Oceano Atlantico"
+  ],
+  "nearby": [
+   "eur",
+   "magliana",
+   "torrino",
+   "ostiense",
+   "cecchignola",
+   "garbatella"
+  ],
+  "wikidata": "Q3936473",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Ostiense",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8572827,
+  "lon": 12.4778813,
+  "osm": "relation/5460386",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "ostiense",
+  "road_km": 73.6,
+  "drive_min": 76,
+  "air_km": 55.1,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "garbatella",
+   "magliana",
+   "eur",
+   "laurentino",
+   "appio-latino",
+   "tuscolano"
+  ],
+  "wikidata": "Q1114050",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Garbatella",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8663385,
+  "lon": 12.4830624,
+  "osm": "node/12343185884",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "garbatella",
+  "road_km": 75.3,
+  "drive_min": 79,
+  "air_km": 55.5,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "ostiense",
+   "appio-latino",
+   "magliana",
+   "eur",
+   "laurentino",
+   "tuscolano"
+  ],
+  "wikidata": "Q1227420",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Torrino",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8158208,
+  "lon": 12.4463605,
+  "osm": "relation/5326795",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "torrino",
+  "road_km": 68.8,
+  "drive_min": 68,
+  "air_km": 54.0,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "eur",
+   "magliana",
+   "laurentino",
+   "spinaceto",
+   "mezzocammino",
+   "vitinia"
+  ],
+  "wikidata": "Q3532498",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Spinaceto",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7876705,
+  "lon": 12.446635,
+  "osm": "node/322364168",
+  "osm_type": "village",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "spinaceto",
+  "road_km": 65.2,
+  "drive_min": 65,
+  "air_km": 52.0,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "mezzocammino",
+   "torrino",
+   "vitinia",
+   "trigoria",
+   "laurentino",
+   "eur"
+  ],
+  "wikidata": "Q3493502",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Trigoria",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7648867,
+  "lon": 12.4770551,
+  "osm": "node/4322351296",
+  "osm_type": "neighbourhood",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "trigoria",
+  "road_km": 63.4,
+  "drive_min": 66,
+  "air_km": 48.5,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via di Trigoria",
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "spinaceto",
+   "castel-di-leva",
+   "castel-romano",
+   "mezzocammino",
+   "torrino",
+   "cecchignola"
+  ],
+  "wikidata": "Q3998778",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Castel Romano",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7188,
+  "lon": 12.4441,
+  "osm": "node/5351256122",
+  "osm_type": "bus_stop",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "castel-romano",
+  "road_km": 57.1,
+  "drive_min": 56,
+  "air_km": 48.1,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "trigoria",
+   "infernetto",
+   "pomezia",
+   "spinaceto",
+   "casal-palocco",
+   "vitinia"
+  ],
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Santa Palomba",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7063363,
+  "lon": 12.5769364,
+  "osm": "node/2406922731",
+  "osm_type": "village",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "santa-palomba",
+  "road_km": 54.8,
+  "drive_min": 57,
+  "air_km": 38.0,
+  "roads": [
+   "SS148",
+   "SP39b",
+   "SP3e"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "falcognana",
+   "pomezia",
+   "ariccia",
+   "castel-gandolfo",
+   "albano-laziale",
+   "genzano-di-roma"
+  ],
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Tor Vergata",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8536,
+  "lon": 12.6037,
+  "osm": "node/13042023352",
+  "osm_type": "stop",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "tor-vergata",
+  "road_km": 67.1,
+  "drive_min": 75,
+  "air_km": 47.9,
+  "roads": [
+   "A1dir",
+   "SP12",
+   "A1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "romanina",
+   "anagnina",
+   "torre-angela",
+   "cinecitta",
+   "tor-bella-monaca",
+   "capannelle"
+  ],
+  "wikidata": "Q3971126",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Romanina",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8406386,
+  "lon": 12.5996071,
+  "osm": "node/4405999171",
+  "osm_type": "village",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "romanina",
+  "road_km": 68.2,
+  "drive_min": 76,
+  "air_km": 46.9,
+  "roads": [
+   "A1dir",
+   "SP12",
+   "A1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine",
+   "Viale Luigi Schiavonetti"
+  ],
+  "nearby": [
+   "anagnina",
+   "tor-vergata",
+   "cinecitta",
+   "capannelle",
+   "torre-angela",
+   "morena"
+  ],
+  "wikidata": "Q3940636",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Cinecittà",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.849274,
+  "lon": 12.5744078,
+  "osm": "node/13183722198",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "cinecitta",
+  "road_km": 60.5,
+  "drive_min": 78,
+  "air_km": 49.0,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SS215",
+   "A90"
+  ],
+  "road_names": [],
+  "nearby": [
+   "anagnina",
+   "capannelle",
+   "romanina",
+   "tor-vergata",
+   "centocelle",
+   "tuscolano"
+  ],
+  "wikidata": "Q2261488",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Anagnina",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8427897,
+  "lon": 12.5860901,
+  "osm": "node/13183724021",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "anagnina",
+  "road_km": 58.3,
+  "drive_min": 75,
+  "air_km": 47.8,
+  "roads": [
+   "SS7",
+   "SP217",
+   "A90"
+  ],
+  "road_names": [],
+  "nearby": [
+   "romanina",
+   "cinecitta",
+   "tor-vergata",
+   "capannelle",
+   "torre-angela",
+   "morena"
+  ],
+  "wikidata": "Q530323",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Tuscolano",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8699001,
+  "lon": 12.5395626,
+  "osm": "relation/5459756",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "tuscolano",
+  "road_km": 63.3,
+  "drive_min": 82,
+  "air_km": 52.6,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SS215",
+   "A90"
+  ],
+  "road_names": [],
+  "nearby": [
+   "appio-latino",
+   "centocelle",
+   "cinecitta",
+   "garbatella",
+   "anagnina",
+   "capannelle"
+  ],
+  "wikidata": "Q3542418",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Appio Latino",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8679078,
+  "lon": 12.5164165,
+  "osm": "relation/5459776",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "appio-latino",
+  "road_km": 79.0,
+  "drive_min": 85,
+  "air_km": 53.7,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "tuscolano",
+   "garbatella",
+   "ostiense",
+   "centocelle",
+   "cinecitta",
+   "eur"
+  ],
+  "wikidata": "Q2858722",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Ostia",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7536374,
+  "lon": 12.2857399,
+  "osm": "relation/15824763",
+  "osm_type": "protected_area",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "ostia",
+  "road_km": 84.4,
+  "drive_min": 94,
+  "air_km": 61.5,
+  "roads": [
+   "SS148",
+   "SP8",
+   "A90"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "fiumicino",
+   "casal-palocco",
+   "acilia",
+   "infernetto",
+   "ponte-galeria",
+   "vitinia"
+  ],
+  "wikidata": "Q1012797",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Acilia",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7827205,
+  "lon": 12.3653115,
+  "osm": "node/289686098",
+  "osm_type": "town",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "acilia",
+  "road_km": 76.9,
+  "drive_min": 78,
+  "air_km": 57.3,
+  "roads": [
+   "SS148",
+   "SP8",
+   "A90"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "vitinia",
+   "casal-palocco",
+   "infernetto",
+   "ponte-galeria",
+   "mezzocammino",
+   "spinaceto"
+  ],
+  "wikidata": "Q3604570",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Infernetto",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7451939,
+  "lon": 12.3746854,
+  "osm": "node/4405999162",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "infernetto",
+  "road_km": 73.8,
+  "drive_min": 78,
+  "air_km": 54.6,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Cristoforo Colombo",
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "casal-palocco",
+   "acilia",
+   "vitinia",
+   "castel-romano",
+   "mezzocammino",
+   "ostia"
+  ],
+  "wikidata": "Q5195543",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Casal Palocco",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7493514,
+  "lon": 12.354083,
+  "osm": "relation/5362385",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "casal-palocco",
+  "road_km": 74.5,
+  "drive_min": 79,
+  "air_km": 56.3,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Cristoforo Colombo",
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "infernetto",
+   "acilia",
+   "ostia",
+   "vitinia",
+   "mezzocammino",
+   "ponte-galeria"
+  ],
+  "wikidata": "Q2940794",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Magliana",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8395496,
+  "lon": 12.4632892,
+  "osm": "node/9267173281",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "magliana",
+  "road_km": 72.1,
+  "drive_min": 73,
+  "air_km": 54.6,
+  "roads": [
+   "SS148",
+   "SP8bis"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave",
+   "Via di Decima"
+  ],
+  "nearby": [
+   "eur",
+   "laurentino",
+   "ostiense",
+   "torrino",
+   "garbatella",
+   "appio-latino"
+  ],
+  "wikidata": "Q2261418",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Ponte Galeria",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8183404,
+  "lon": 12.3447724,
+  "osm": "node/1313285440",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "ponte-galeria",
+  "road_km": 77.4,
+  "drive_min": 77,
+  "air_km": 60.9,
+  "roads": [
+   "SS148",
+   "A90"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via della Magliana",
+   "Via Piave"
+  ],
+  "nearby": [
+   "acilia",
+   "vitinia",
+   "mezzocammino",
+   "casal-palocco",
+   "torrino",
+   "infernetto"
+  ],
+  "wikidata": "Q3970526",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Capannelle",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8307873,
+  "lon": 12.5687872,
+  "osm": "node/13519868218",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "capannelle",
+  "road_km": 56.9,
+  "drive_min": 74,
+  "air_km": 47.7,
+  "roads": [
+   "SS7",
+   "SP217"
+  ],
+  "road_names": [],
+  "nearby": [
+   "anagnina",
+   "cinecitta",
+   "romanina",
+   "tor-vergata",
+   "morena",
+   "ciampino"
+  ],
+  "wikidata": "Q3969212",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Morena",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8114556,
+  "lon": 12.6128091,
+  "osm": "node/262480321",
+  "osm_type": "village",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "morena",
+  "road_km": 53.3,
+  "drive_min": 70,
+  "air_km": 43.7,
+  "roads": [
+   "SS7",
+   "SP217",
+   "SP511",
+   "SP83b"
+  ],
+  "road_names": [],
+  "nearby": [
+   "ciampino",
+   "romanina",
+   "anagnina",
+   "capannelle",
+   "grottaferrata",
+   "tor-vergata"
+  ],
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Falcognana",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7633058,
+  "lon": 12.5564546,
+  "osm": "node/262165022",
+  "osm_type": "village",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "falcognana",
+  "road_km": 61.8,
+  "drive_min": 65,
+  "air_km": 43.2,
+  "roads": [
+   "SS148",
+   "SP3e",
+   "SP39b"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave"
+  ],
+  "nearby": [
+   "castel-di-leva",
+   "ciampino",
+   "cecchignola",
+   "santa-palomba",
+   "trigoria",
+   "morena"
+  ],
+  "wikidata": "Q3738587",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Cecchignola",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8106816,
+  "lon": 12.5237759,
+  "osm": "relation/5358741",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "cecchignola",
+  "road_km": 75.2,
+  "drive_min": 73,
+  "air_km": 48.7,
+  "roads": [
+   "SS148",
+   "A90"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave",
+   "Via Ardeatina"
+  ],
+  "nearby": [
+   "castel-di-leva",
+   "laurentino",
+   "capannelle",
+   "eur",
+   "falcognana",
+   "magliana"
+  ],
+  "wikidata": "Q1052261",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Vitinia",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7910805,
+  "lon": 12.4080482,
+  "osm": "node/291911158",
+  "osm_type": "village",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "vitinia",
+  "road_km": 67.8,
+  "drive_min": 70,
+  "air_km": 54.9,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave",
+   "Viale degli Eroi di Cefalonia"
+  ],
+  "nearby": [
+   "mezzocammino",
+   "spinaceto",
+   "acilia",
+   "torrino",
+   "infernetto",
+   "ponte-galeria"
+  ],
+  "wikidata": "Q4015042",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Mezzocammino",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.7956714,
+  "lon": 12.4165264,
+  "osm": "relation/5329169",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "mezzocammino",
+  "road_km": 67.1,
+  "drive_min": 68,
+  "air_km": 54.6,
+  "roads": [
+   "SS148"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave",
+   "Viale degli Eroi di Cefalonia"
+  ],
+  "nearby": [
+   "vitinia",
+   "spinaceto",
+   "torrino",
+   "acilia",
+   "trigoria",
+   "eur"
+  ],
+  "wikidata": "Q3307771",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Castel di Leva",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.786949,
+  "lon": 12.5192696,
+  "osm": "relation/5358657",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "castel-di-leva",
+  "road_km": 66.1,
+  "drive_min": 71,
+  "air_km": 47.3,
+  "roads": [
+   "SS148",
+   "SP3e",
+   "SP39b"
+  ],
+  "road_names": [
+   "Via Epitaffio",
+   "Via Piave",
+   "Via di Castel di Leva"
+  ],
+  "nearby": [
+   "cecchignola",
+   "falcognana",
+   "trigoria",
+   "laurentino",
+   "spinaceto",
+   "capannelle"
+  ],
+  "wikidata": "Q2941366",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Tor Bella Monaca",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.868496,
+  "lon": 12.6412461,
+  "osm": "node/311881513",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "tor-bella-monaca",
+  "road_km": 68.5,
+  "drive_min": 76,
+  "air_km": 47.4,
+  "roads": [
+   "A1dir",
+   "SP12",
+   "A1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "torre-angela",
+   "tor-vergata",
+   "romanina",
+   "anagnina",
+   "cinecitta",
+   "tor-sapienza"
+  ],
+  "wikidata": "Q3993548",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Torre Angela",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8643334,
+  "lon": 12.6255783,
+  "osm": "node/1719260039",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "torre-angela",
+  "road_km": 66.8,
+  "drive_min": 74,
+  "air_km": 47.8,
+  "roads": [
+   "A1dir",
+   "SP12",
+   "A1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "tor-bella-monaca",
+   "tor-vergata",
+   "romanina",
+   "anagnina",
+   "cinecitta",
+   "centocelle"
+  ],
+  "wikidata": "Q15642535",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Tor Sapienza",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.9059007,
+  "lon": 12.5879215,
+  "osm": "way/99488017",
+  "osm_type": "station",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "tor-sapienza",
+  "road_km": 75.1,
+  "drive_min": 82,
+  "air_km": 53.3,
+  "roads": [
+   "A1dir",
+   "SP12",
+   "A1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine",
+   "Viale Marisa Bellisario"
+  ],
+  "nearby": [
+   "centocelle",
+   "torre-angela",
+   "tuscolano",
+   "tor-vergata",
+   "tor-bella-monaca",
+   "cinecitta"
+  ],
+  "wikidata": "Q3971127",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ },
+ {
+  "name": "Centocelle",
+  "kind": "zona",
+  "area": "roma-citta",
+  "province": "RM",
+  "lat": 41.8817929,
+  "lon": 12.5668624,
+  "osm": "node/12676096271",
+  "osm_type": "suburb",
+  "population": null,
+  "elevation": null,
+  "image": null,
+  "itwiki": null,
+  "slug": "centocelle",
+  "road_km": 72.5,
+  "drive_min": 80,
+  "air_km": 52.2,
+  "roads": [
+   "A1dir",
+   "SP12",
+   "A1",
+   "SP81a"
+  ],
+  "road_names": [
+   "Strada Provinciale Le Pastine"
+  ],
+  "nearby": [
+   "tuscolano",
+   "tor-sapienza",
+   "cinecitta",
+   "tor-vergata",
+   "appio-latino",
+   "anagnina"
+  ],
+  "wikidata": "Q3664474",
+  "subarea": "roma-quadrante-sud",
+  "island": false
+ }
+]

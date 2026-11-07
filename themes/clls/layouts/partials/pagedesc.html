@@ -1,0 +1,1 @@
+{{- if .IsHome }}{{ i18n "home_description" }}{{ else }}{{ with .Description }}{{ . }}{{ else }}{{ with .Params.summary }}{{ . }}{{ else }}{{ i18n "home_description" }}{{ end }}{{ end }}{{ end -}}

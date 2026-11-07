@@ -1,42 +1,60 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="{{ site.Language.Locale }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ .Site.Title }}</title>
-  <meta name="description" content="{{ .Site.Params.description }}">
-  <!-- Favicon -->
+  {{- $title := partial "pagetitle.html" . | plainify | htmlUnescape }}
+  {{- $desc := partial "pagedesc.html" . | plainify | htmlUnescape }}
+  <title>{{ $title }}</title>
+  <meta name="description" content="{{ $desc }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{- range .AllTranslations }}
+  <link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}">
+  {{- end }}
+  {{- range .AllTranslations }}{{ if eq .Language.Lang "it" }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+  {{- end }}{{ end }}
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}">
   <link rel="icon" href="{{ "favicon.ico" | absURL }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | absURL }}">
-  <!-- Open Graph / Google Preview -->
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ .Site.Title }}">
-  <meta property="og:description" content="{{ .Site.Params.description }}">
-  <meta property="og:image" content="{{ "img/og-image.png" | absURL }}">
-  <meta property="og:url" content="{{ .Site.BaseURL }}">
-  <meta property="og:locale" content="it_IT">
-  <meta property="og:site_name" content="{{ .Site.Title }}">
-  <!-- Twitter Card -->
+  {{- $img := partial "imgurl.html" .Params.image | default ("img/og-image.png" | absURL) }}
+  <meta property="og:type" content="{{ if eq .Params.layout "articolo" }}article{{ else }}website{{ end }}">
+  <meta property="og:title" content="{{ $title }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:image" content="{{ $img }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:locale" content="{{ site.Params.og }}">
+  <meta property="og:site_name" content="Consorzio Logistico Latina Scalo">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ .Site.Title }}">
-  <meta name="twitter:description" content="{{ .Site.Params.description }}">
-  <meta name="twitter:image" content="{{ "img/og-image.png" | absURL }}">
+  <meta name="twitter:title" content="{{ $title }}">
+  <meta name="twitter:description" content="{{ $desc }}">
+  <meta name="twitter:image" content="{{ $img }}">
+  {{- with .Params.place }}{{ $p := index (where hugo.Data.places "slug" .) 0 }}
+  <meta name="geo.region" content="IT-{{ $p.province }}">
+  <meta name="geo.placename" content="{{ $p.name }}">
+  <meta name="geo.position" content="{{ $p.lat }};{{ $p.lon }}">
+  {{- end }}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/seo.css" | relURL }}">
+  {{- if in (slice "place" "area" "aree") .Params.layout }}
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  {{- end }}
+  {{ partial "jsonld.html" . }}
 </head>
-<body>
+<body class="{{ with .Params.layout }}layout-{{ . }}{{ end }}{{ if .IsHome }} is-home{{ end }}">
   {{ partial "header.html" . }}
-  <main>
+  <main id="main">
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
-  <!-- Floating WhatsApp Button -->
-  <a href="https://wa.me/390773316008?text=Ciao%2C%20vorrei%20informazioni%20sui%20vostri%20servizi%20logistici." target="_blank" rel="noopener" class="whatsapp-fab" aria-label="Contattaci su WhatsApp">
-    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z" fill="#fff"/><path d="M12 2C6.477 2 2 6.477 2 12c0 1.89.525 3.66 1.438 5.168L2 22l4.832-1.438A9.955 9.955 0 0012 22c5.523 0 10-4.477 10-10S17.523 2 12 2zm0 18a7.96 7.96 0 01-4.108-1.14l-.292-.175-3.04.8.8-3.04-.175-.292A7.96 7.96 0 014 12c0-4.411 3.589-8 8-8s8 3.589 8 8-3.589 8-8 8z" fill="#fff"/></svg>
-  </a>
+  <a href="https://wa.me/{{ site.Params.whatsapp }}?text={{ i18n "whatsapp_prefill" | urlquery }}" target="_blank" rel="noopener" class="whatsapp-fab" aria-label="{{ i18n "whatsapp_aria" }}">{{ partial "wa-icon.html" }}</a>
   <script src="{{ "js/main.js" | relURL }}"></script>
+  {{- if in (slice "place" "area" "aree") .Params.layout }}
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="{{ "js/map.js" | relURL }}"></script>
+  {{- end }}
 </body>
 </html>

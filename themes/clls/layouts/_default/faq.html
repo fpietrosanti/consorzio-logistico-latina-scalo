@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="section visible page-faq">
+  <div class="container">
+    {{ partial "breadcrumbs.html" (slice (dict "name" .LinkTitle)) }}
+    <header class="page-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+    </header>
+    <div class="prose">{{ .Content }}</div>
+    {{ $groups := slice }}{{ range .Params.faq }}{{ $groups = $groups | append (.group | default "") }}{{ end }}
+    {{ range uniq $groups }}
+    {{ $g := . }}
+    <section class="faq">
+      {{ with $g }}<h2>{{ . }}</h2>{{ end }}
+      {{ range $.Params.faq }}{{ if eq (.group | default "") $g }}
+      <details class="faq-item">
+        <summary>{{ .q }}</summary>
+        <div class="faq-answer">{{ .a | markdownify }}</div>
+      </details>
+      {{ end }}{{ end }}
+    </section>
+    {{ end }}
+    {{ partial "cta.html" . }}
+  </div>
+</article>
+{{ end }}

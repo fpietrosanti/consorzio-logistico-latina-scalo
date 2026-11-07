@@ -1,0 +1,7 @@
+{{- /* ctx: dict p (place). Returns dict of i18n variables for place templates. */ -}}
+{{- $p := .p -}}
+{{- $roads := slice -}}
+{{- range $p.roads }}{{ $roads = $roads | append (index hugo.Data.roads . | default .) }}{{ end -}}
+{{- $roadstr := delimit $roads ", " -}}
+{{- $area := i18n (printf "sub_%s" $p.subarea) -}}
+{{- return dict "Name" $p.name "Prov" $p.province "Km" (lang.FormatNumber 1 $p.road_km) "Min" $p.drive_min "Air" (lang.FormatNumber 1 $p.air_km) "Roads" $roadstr "Area" $area -}}

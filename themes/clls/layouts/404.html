@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="section visible page-404">
+  <div class="container">
+    <header class="page-header">
+      <h1>{{ i18n "not_found_title" }}</h1>
+      <p class="lead">{{ i18n "not_found_text" }}</p>
+    </header>
+    <ul class="card-list">
+      <li><a href="{{ "" | relLangURL }}"><strong>{{ i18n "nav_home" }}</strong></a></li>
+      <li><a href="{{ printf "%s/" site.Params.sec.servizi | relLangURL }}"><strong>{{ i18n "nav_services" }}</strong></a></li>
+      <li><a href="{{ printf "%s/" site.Params.sec.logistica | relLangURL }}"><strong>{{ i18n "nav_areas" }}</strong></a></li>
+    </ul>
+  </div>
+</article>
+{{ end }}

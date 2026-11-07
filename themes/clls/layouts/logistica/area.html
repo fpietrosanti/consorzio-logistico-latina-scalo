@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{- $places := slice -}}
+{{- with .Params.subarea }}{{ $places = where hugo.Data.places "subarea" . }}{{ else }}{{ $places = where hugo.Data.places "area" $.Params.area }}{{ end -}}
+<article class="section visible page-area">
+  <div class="container">
+    {{ partial "breadcrumbs.html" (slice (dict "name" (i18n "nav_areas") "url" (printf "%s/" site.Params.sec.logistica | relLangURL)) (dict "name" (partial "areaname.html" .))) }}
+    <header class="page-header">
+      <span class="section-label">{{ i18n "nav_areas" }}</span>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+    </header>
+    {{ partial "figure.html" (dict "key" .Params.image "alt" .Params.imageAlt "eager" true "class" "photo-wide") }}
+    <div class="prose">{{ .Content }}</div>
+
+    {{ if .Params.area }}
+    {{ $subs := slice }}{{ range $places }}{{ $subs = $subs | append .subarea }}{{ end }}
+    <ul class="tag-list subarea-links">
+      {{ range uniq $subs }}{{ $s := . }}{{ with site.GetPage "/logistica" }}{{ range .Pages }}{{ if eq .Params.subarea $s }}<li><a href="{{ .RelPermalink }}">{{ i18n (printf "sub_%s" $s) }}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}
+    </ul>
+    {{ end }}
+
+    <section class="area-places">
+      <h2>{{ i18n "area_count" (dict "Count" (len $places)) }}</h2>
+      {{ partial "placemap.html" $places }}
+      {{ partial "placetable.html" $places }}
+      <p class="data-note">{{ i18n "place_data_note" }}</p>
+    </section>
+
+    {{ partial "faq.html" .Params.faq }}
+    {{ partial "cta.html" . }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article class="section visible page-areas">
+  <div class="container">
+    {{ partial "breadcrumbs.html" (slice (dict "name" (i18n "nav_areas"))) }}
+    <header class="page-header">
+      <span class="section-label">{{ i18n "nav_areas" }}</span>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+    </header>
+    {{ partial "placemap.html" hugo.Data.places }}
+    <div class="prose">{{ .Content }}</div>
+    {{ $hubs := where .Pages "Params.layout" "area" }}
+    {{ range slice "latina" "roma-sud" "roma-citta" }}
+    {{ $area := . }}
+    {{ $places := where hugo.Data.places "area" $area }}
+    <section class="area-block">
+      <h2>{{ range $hubs }}{{ if eq .Params.area $area }}<a href="{{ .RelPermalink }}">{{ i18n (printf "area_%s" $area) }}</a>{{ end }}{{ end }}</h2>
+      {{ $subs := slice }}{{ range $places }}{{ $subs = $subs | append .subarea }}{{ end }}
+      {{ range uniq $subs }}
+      {{ $s := . }}
+      <h3>{{ range $hubs }}{{ if eq .Params.subarea $s }}<a href="{{ .RelPermalink }}">{{ i18n (printf "sub_%s" $s) }}</a>{{ end }}{{ end }}</h3>
+      <ul class="nearby-list">
+        {{ range sort (where $places "subarea" $s) "road_km" }}{{ $o := . }}{{ with site.GetPage (printf "/logistica/%s" .slug) }}
+        <li><a href="{{ .RelPermalink }}"><strong>{{ $o.name }}</strong> <span>{{ if $o.island }}{{ i18n "place_data_ferry_value" }}{{ else }}{{ lang.FormatNumber 1 $o.road_km }} {{ i18n "km" }} · {{ $o.drive_min }} {{ i18n "min" }}{{ end }}</span></a></li>
+        {{ end }}{{ end }}
+      </ul>
+      {{ end }}
+    </section>
+    {{ end }}
+    {{ partial "cta.html" . }}
+  </div>
+</article>
+{{ end }}

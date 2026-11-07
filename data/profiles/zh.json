@@ -1,0 +1,1066 @@
+{
+ "aprilia": {
+  "profile": "Aprilia 位于 Agro Pontino 的最北端，地处 SS148 Pontina 国道与 SS207 Nettunense 国道交汇处，并有罗马—Nettuno 区域铁路 FL8 线经过。境内设有面积 256 公顷的联合体工业集聚区，与 Lanuvio 共用；该市另有 167 公顷土地纳入拉齐奥大区 ZLS（简化物流区）。当地产业以医药为主，Pfizer、Abbott、Angelini 和 Recordati 等集团在此设有工厂；农业方面有 DOC Aprilia 葡萄园及一处矿泉水水源。由此产生原料药、初级包装及成品的货物流，需要批次追溯、温控仓储和专线运输。",
+  "sectors": [
+   "farmaceutico",
+   "manifatturiero",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Aprilia_(Italia)",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "bassiano": {
+  "profile": "Bassiano 是 Monti Lepini 山区面向蓬蒂内平原的一座小镇，经 Sermonetana 省道下山通往 Sermoneta 和 Latina Scalo。Ufente 河的支流 Brivolco 溪发源于此。当地经济由小型农产食品企业构成：该镇以风干火腿闻名，另产特级初榨橄榄油和葡萄酒。意大利旅游俱乐部（Touring Club Italiano）授予其“橙旗”称号，一日游游客主要集中在周末。物流需求量小且分散：处于风干期的腌制肉品、发往分销渠道的特色产品，以及以轻型车辆在山区道路上完成的配送。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Bassiano"
+  ]
+ },
+ "campodimele": {
+  "profile": "Campodimele 坐落于 Monti Ausoni 与 Aurunci 山脉相接处的一座喀斯特山丘上，位于 Fondi 与 Itri 之间的内陆地区。小镇仅有一条可通行车辆的道路，由 SS82 Valle del Liri 国道分出，该国道自 Itri 向内陆延伸。当地经济活动少且规模小：经意大利农业部认定的传统农产食品包括 Campodimele 的山黧豆（cicerchia）和家常面包，该镇亦获意大利旅游俱乐部“橙旗”称号。物流需求主要为小批量配送、本地商户补货以及豆类和特色产品的发运。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Campodimele"
+  ]
+ },
+ "castelforte": {
+  "profile": "Castelforte 位于 Latina 省东部边界、Monti Aurunci 山脉的末端，历史城区和 Suio 村俯临 Garigliano 河谷，与 Campania 大区接壤。Suio 设有温泉疗养设施，承袭古罗马时期的 Vescine 温泉，与河谷农业和小型手工企业共同构成当地经济的重要部分。该市纳入拉齐奥大区 ZLS 的面积为 11.64 公顷，位于可享受区域性援助的地区。本地物流服务于住宿及温泉设施、零售商业和施工工地，货流既通往 Formia，也通往 Cassino 及 A1 高速公路。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Castelforte",
+   "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+  ]
+ },
+ "cisterna-di-latina": {
+  "profile": "Cisterna di Latina 位于 Agro Pontino 的北部入口，地处 SS7 Appia 国道及经 Formia 的罗马—那不勒斯铁路线上；2026 年，通往 A1 高速公路的 Cisterna—Valmontone 连接线在其辖区 Campoverde 开工。联合体工业集聚区面积 368 公顷，其中 192 公顷位于 ZLS（简化物流区）。区内有 Olmobello 铝材轧制厂、Nomad Foods 旗下供应意大利市场的 Findus 速冻食品工厂，以及 Nuova Ompi 和 BSP Pharmaceuticals 等医药企业；Borgo Flora 村于二十世纪七十年代开始种植猕猴桃。当地产业链需要冷冻冷链、金属半成品重载运输及可追溯的医药物流。",
+  "sectors": [
+   "agroalimentare",
+   "farmaceutico",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Cisterna_di_Latina",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "cori": {
+  "profile": "Cori 是 Monti Lepini 山区西北部的一座丘陵城镇，俯瞰蓬蒂内平原，下辖朝向 Velletri 的 Giulianello 村。省道将其与 Cisterna 和 Pontina 国道相连，经 Doganella di Ninfa 通往 Latina Scalo，经 Artena 通往 A1 高速公路 Valmontone 收费站；最常用的火车站为 Cisterna 站。当地出产 DOC Cori 红、白葡萄酒及 itrana 品种橄榄油，设有酒庄和榨油厂，另有饼干厂、油浸罐头企业及木椅制作传统。物流节奏随葡萄采收和橄榄采摘季节变化：玻璃制品、码托瓶装货物，以及面向葡萄酒专卖店和大型零售（GDO）的配送。",
+  "sectors": [
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Cori"
+  ]
+ },
+ "fondi": {
+  "profile": "Fondi 位于 Monti Ausoni 与 Aurunci 山脉环抱、面向 Tirreno 海的平原上，SS7 Appia 国道穿境而过，经 SR637 大区道路通往 Lenola 并与 Ciociaria 地区相连；Fondi-Sperlonga 火车站位于经 Formia 的罗马—那不勒斯铁路线上。当地经济以果蔬为中心：柑橘园已逐步让位于蔬菜、温室早熟蔬菜和水果；城内设有农产食品批发中心（MOF），据运营方数据，年交易量近 1,000 万公担（quintale），但未通铁路。该市纳入 ZLS 的面积为 69.70 公顷。由此产生夜间温控货流、季节性高峰以及对公路运输的大量需求。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Fondi",
+   "https://www.mof.it/index.php/mof"
+  ]
+ },
+ "formia": {
+  "profile": "Formia 位于 Monti Aurunci 山麓与 Gaeta 湾之间，地处 SS7 Appia 国道，并与通往 Sperlonga 和 Terracina 的 SR213 Flacca 大区道路及通往 Cassino 的 SR630 Ausonia 大区道路相接；Formia-Gaeta 火车站位于罗马—那不勒斯铁路线上。港口有渡轮和水翼船开往 Ponza 和 Ventotene，因此该市是海岛补给的基地。Penitro、Ponzanello–Mamurrano 和 Castagneto 产业区由原 Sud Pontino 联合体设立，与港口业务密切相关；该市纳入 ZLS 的面积为 124 公顷。商贸、服务、建筑以及陶瓷和铁艺手工业形成城市配送需求，以及装船前的集货需求。",
+  "sectors": [
+   "gdo-retail",
+   "edilizia",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Formia",
+   "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+  ]
+ },
+ "gaeta": {
+  "profile": "Gaeta 位于封闭同名海湾西侧的岬角上，经 SR213 Flacca 大区道路与 Appia 国道及 Formia 相连。商港隶属于第勒尼安海中北部港口系统管理局（Autorità di Sistema Portuale del Mar Tirreno Centro-Settentrionale），2025 年吞吐量约 180 万吨，几乎全部为液体和固体散货；该市有 142.61 公顷土地及 17.53 公顷港区纳入拉齐奥大区 ZLS，Monte Conca 地区为联合体产业区。美国第六舰队旗舰驻泊于此，滨海旅游业发展成熟。当地物流涵盖港口散货、夏季高峰期的住宿设施补给，以及 Gaeta 橄榄等特色产品。",
+  "sectors": [
+   "edilizia",
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Gaeta",
+   "https://www.shippingitaly.it/2026/02/17/nei-porti-del-lazio-oltre-131-mln-di-tonnellate-e-35-mln-di-crocieristi-nel-2025/"
+  ]
+ },
+ "itri": {
+  "profile": "Itri 位于 Monti Aurunci 山脉的一处谷地，沿 SS7 Appia 国道地处 Fondi 与 Formia 之间，SS82 Valle del Liri 国道起于此地；火车站位于经 Formia 的罗马—那不勒斯铁路线上，海岸有 SR213 Flacca 大区道路经过。农业是主要产业：Itri 橄榄用于盐水腌制和榨油，丘陵地带出产 Abbuoto 葡萄酒。该市属于 Sud Pontino 工业联合体区域，纳入 ZLS 的面积为 3.70 公顷，来自罗马和那不勒斯的游客量持续增长。物流需求主要为包装橄榄油和橄榄，秋季集中采收，全年分批发运。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Itri"
+  ]
+ },
+ "latina": {
+  "profile": "Latina 是 Agro Pontino 的首府：SS148 Pontina 国道连接罗马，SS7 Appia 国道穿越市域，SS156 dei Monti Lepini 国道通往 Frosinone 及 A1 高速公路；火车站位于 Latina Scalo，处于经 Formia 的罗马—那不勒斯铁路线上。工业以医药为主导，其次为化工、农产食品、乳制品、冶金和精密机械，集中于 Latina Scalo 联合体集聚区及纳入 ZLS 的 280 公顷区域。农业包括温室种植、花卉、蔬菜及 Kiwi Latina IGP（地理标志猕猴桃）。公共机构和第三产业构成其余部分，形成医药物流、冷链及城市配送需求。",
+  "sectors": [
+   "farmaceutico",
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Latina",
+   "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Logistica.pdf"
+  ]
+ },
+ "lenola": {
+  "profile": "Lenola 位于 Ausoni 与 Aurunci 山地之间，处于 Latina 省与 Frosinone 省交界处，沿 SR637 大区道路分布，该道路自 Fondi 上行通往 Ciociaria 地区，并在山下与 Appia 国道相接。该镇以朝圣地 Madonna del Colle 圣所闻名，境内属于 Campania 水牛马苏里拉奶酪 DOP 产区。经济由小型农业、手工及商业企业构成，依托 Fondi 的果蔬市场和服务。物流需求主要为新鲜乳制品、本地商业补货以及沿 Fondi—Frosinone 方向的丘陵地区运输。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Lenola"
+  ]
+ },
+ "maenza": {
+  "profile": "Maenza 是 Monti Lepini 山区的一座丘陵市镇，海拔约 360 米，位于 Priverno 内陆，靠近通往 Frosinone 的 SS156 dei Monti Lepini 国道。境内大部分为森林和橄榄园，经济规模较小，以第一产业和旅游业为基础。当地从事家禽和家兔养殖、水牛和马匹饲养，种植樱桃、橄榄、葡萄、小麦和玉米，另有少量无花果、柿子和猕猴桃。物流需求与易腐鲜货、饲料和农资供应相关，配送需经由丘陵省道。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Maenza"
+  ]
+ },
+ "minturno": {
+  "profile": "Minturno 从 Monti Aurunci 丘陵一直延伸至 Gaeta 湾沿岸，直抵 Garigliano 河口及 Campania 大区边界。在 Scauri 村，SS7 Appia 国道与通往 Cassino 的国道交汇，Minturno-Scauri 火车站位于罗马—那不勒斯铁路线上。Penitro 和 Parchi 产业区源自原 Sud Pontino 联合体，该市纳入 ZLS 的面积为 59.06 公顷，位于可享受区域性援助的地区。经济结合滨海旅游、Minturnae 考古区旅游、Garigliano 平原农业和商贸。由此产生面向住宿设施的季节性配送，以及通往 Campania 大区和 A1 高速公路的货流。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Minturno",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "monte-san-biagio": {
+  "profile": "Monte San Biagio 位于 Monti Ausoni 山脉伸向 Fondi 平原和 Fondi 湖的山麓地带，SS7 Appia 国道穿境而过。Monte San Biagio-Terracina Mare 火车站位于经 Formia 的罗马—那不勒斯铁路线上，有区域列车停靠，自 2024 年起另有两班长途 Intercity 列车停靠。境内为 Campania 水牛马苏里拉奶酪 DOP、Colline Pontine DOP 橄榄油及 Moscato di Terracina DOC 葡萄酒的产区，并毗邻 Fondi 果蔬产区。该市纳入 ZLS 的面积为 12.80 公顷，不在可享受税收抵免的区域内。本地物流涉及新鲜乳制品、橄榄油和葡萄酒。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Monte_San_Biagio",
+   "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+  ]
+ },
+ "norma": {
+  "profile": "Norma 坐落于 Monti Lepini 山区的一面岩壁上，俯瞰 Agro Pontino 和 Ninfa 花园（Giardino di Ninfa）；Norbana 省道下行通往平原，Cotral 公交线路经 Sermoneta 和 Latina Scalo 连接 Latina。经济以橄榄种植、小规模农业和文化旅游为基础：镇内有古城 Norba 考古公园和一座巧克力博物馆，自 2023 年起加入“橄榄油城市”（Città dell'olio）协会。镇内没有自有工业区，企业依托山下平原。物流需求仅限于橄榄油、手工糕点产品以及商业和住宿设施补给。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Norma_(Italia)"
+  ]
+ },
+ "pontinia": {
+  "profile": "Pontinia 是 Agro Pontino 的一座新建城市，建于 Sisto 河与 SS7 Appia 国道之间，紧邻 Circeo 国家公园。境内有两处联合体工业集聚区：Mazzocchio，面积 445 公顷，与 Priverno 和 Sonnino 接壤；Pontinia，面积 126 公顷，与 Latina 和 Sabaudia 共用。该市纳入 ZLS 的面积为 78.17 公顷，不在可享受税收抵免的区域内。Mazzocchio 有公路货运企业、厨卫水槽及塑料部件生产企业、有机食品企业和包装企业；农村地区以农业和乳制品工业为主，需要冷藏运输和集货。",
+  "sectors": [
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Pontinia",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "ponza": {
+  "profile": "Ponza 是蓬廷群岛的主岛；该市还包括 Palmarola、Gavi 和 Zannone 诸岛。渡轮和水翼船全年往返于 Ponza 与 Formia 之间，Terracina 和那不勒斯亦有定期航班；夏季另增开自 Anzio、Ischia 和 San Felice Circeo 出发的航线以及往返 Ventotene 的航线。经济依赖夏季旅游（游客主要来自拉齐奥大区和 Campania 大区）和渔业，另有少量小扁豆及 Fieno di Ponza IGT 葡萄酒生产。所有补给均经海运抵达：物流需要在装船港口集货、预订渡轮舱位，并按海滨旅游旺季的高峰需求确定库存规模。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ponza_(comune)",
+   "https://www.directferries.it/laziomar.htm"
+  ]
+ },
+ "priverno": {
+  "profile": "Priverno 位于 Amaseno 河谷中部，沿 SS156 dei Monti Lepini 国道分布，该国道连接蓬蒂内平原与 Frosinone 及 A1 高速公路。Priverno-Fossanova 火车站位于经 Formia 的罗马—那不勒斯铁路线上，也是通往 Terracina 支线的分岔点。经济涵盖活跃的农业、依托邻近 Mazzocchio 集聚区的工业、陶瓷、赤陶和铜器手工业，以及围绕 Fossanova 熙笃会修道院的旅游业。近年来建筑业发展较快。本地物流服务于施工工地和建材贸易、农产品，以及 Latina 与 Frosinone 之间横向通道上的货流。",
+  "sectors": [
+   "edilizia",
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Priverno"
+  ]
+ },
+ "prossedi": {
+  "profile": "Prossedi 是 Monti Lepini 山区的一座丘陵小镇，位于 Priverno 与 Frosinone 之间的中途，从 SS156 国道上即可望见，Amaseno 河及其支流 Monteacuto 河流经此地。境内大部分为丘陵和山地，唯一的平坦地带沿 Amaseno 河分布，菜园集中于此，山坡上则以橄榄园和葡萄园为主。该镇获意大利旅游俱乐部“橙旗”称号，经济由小型农场和商业活动构成。凭借 SS156 国道沿线的位置，该镇处于 Agro Pontino 与 Valle del Sacco 之间的通道上；物流需求主要为小批量的新鲜蔬菜、橄榄油和葡萄酒。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Prossedi"
+  ]
+ },
+ "rocca-massima": {
+  "profile": "Rocca Massima 位于 Monti Lepini 山区的 Monte Massimo 山上，海拔 735 米，是 Latina 省海拔最高的市镇；大部分居民生活在山下朝向 Cori 和 Giulianello 的村落中。省道通往 Giulianello、Cori 和 Segni，Cotral 公交连接该镇与 Velletri。经济以农业和畜牧业为基础，尤其是橄榄种植和橄榄油生产，夏季历史城区有一定旅游活动。境内没有重要的产业区。物流需求涉及橄榄油销售及山区道路配送，需要轻型车辆和计划配送。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Rocca_Massima"
+  ]
+ },
+ "roccagorga": {
+  "profile": "Roccagorga 位于 Monti Lepini 山区、Priverno 上方的 Amaseno 河谷，与 SS156 dei Monti Lepini 国道相连，并经该国道通往蓬蒂内平原和 Frosinone。境内为石灰岩质丘陵和山地，没有常年河流，因此以丘陵农业为主，种植橄榄和小规模作物。传统产业中以铜器艺术加工最为突出。镇内没有自有工业区，就业人口依托 Priverno 及 Mazzocchio 等平原产业区。物流需求涉及面向商业和手工业的小批量配送，以及建筑业的物资供应。",
+  "sectors": [
+   "agroalimentare",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Roccagorga"
+  ]
+ },
+ "roccasecca-dei-volsci": {
+  "profile": "Roccasecca dei Volsci 是一座俯瞰 Priverno 和 Amaseno 河谷的小型丘陵市镇，森林延伸至海拔 700 米；山下不远处的 SS156 dei Monti Lepini 国道将其与蓬蒂内平原及 Frosinone 相连。Lucerna 村位于与 Amaseno 交界的谷地，经济以水牛奶生产为主，产品交售当地奶酪厂。其余地区以丘陵农业、徒步旅游和社区服务为生。对物流而言，这意味着每日收集鲜奶、配送饲料和畜牧物资，以及短途冷藏运输。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Roccasecca_dei_Volsci"
+  ]
+ },
+ "sabaudia": {
+  "profile": "Sabaudia 是 Agro Pontino 的一座新建城市，地势平坦，境内有沙丘海岸、沿海湖泊及 Circeo 国家公园的森林；SS148 Pontina 国道连接 Latina 和 Terracina。该市与 Terracina、Fondi 共同集中了全省大部分温室种植，蔬菜供应鲜销和加工。Pontinia 联合体工业集聚区的一部分位于其境内。夏季滨海旅游使服务需求成倍增长。物流需同时应对持续的温控蔬菜收集，以及海滨浴场和住宿设施的季节性补给。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Sabaudia",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "san-felice-circeo": {
+  "profile": "San Felice Circeo 位于 Agro Pontino 最南端的 Circeo 岬角；SS148 Pontina 国道经过该市北部边界附近，Cotral 公交线路连接省内各城镇及罗马。夏季有定期海上航线连接港口与 Ponza 岛。经济以滨海和游艇旅游为主，第二居所和住宿设施使需求集中在 6 月至 9 月；传统手工业包括仿古家具制作。本地物流季节性很强：餐饮和商业补给以及家具配送。",
+  "sectors": [
+   "gdo-retail",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/San_Felice_Circeo"
+  ]
+ },
+ "santi-cosma-e-damiano": {
+  "profile": "Santi Cosma e Damiano 位于 Latina 省东南角，介于 Monti Aurunci 山坡与 Garigliano 平原之间，与 Frosinone 省接壤，河对岸为 Campania 大区。二十世纪六十年代，一家不干胶材料工厂（后已关闭）的设立开启了当地的工业化进程；如今经济包括小型手工业和农牧业、商业与分销、餐饮以及 1997 年开业的 Garigliano 赛马场。Pantaniello 产业区及纳入 ZLS、可享受区域性援助的 10.24 公顷土地可供企业入驻。物流服务于商业分销、乳制品，以及通往 Campania 大区和 A1 高速公路的货流。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Santi_Cosma_e_Damiano_(Italia)",
+   "https://regione.lazio.it/zona-logistica-semplificata-ZLS"
+  ]
+ },
+ "sermoneta": {
+  "profile": "Sermoneta 从 Monti Lepini 山区一直延伸至 Agro Pontino：建有 Caetani 城堡的中世纪古镇俯瞰平原，市域低处与 Latina Scalo 相邻，属于 Latina Scalo 联合体工业集聚区，该集聚区面积 448 公顷，横跨 Latina、Sermoneta 和 Sezze。该市纳入 ZLS 的面积为 128 公顷，不在可享受税收抵免的区域内。农业方面，境内属于 carciofo romanesco IGP（罗马洋蓟）、Colline Pontine DOP 橄榄油及水牛马苏里拉奶酪 DOP 的产区。文化旅游（亦与邻近的 Ninfa 花园相关）和平原工业带来不同类型的物流需求。",
+  "sectors": [
+   "farmaceutico",
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Sermoneta",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "sezze": {
+  "profile": "Sezze 位于 Monti Lepini 山区与 Agro Pontino 之间，Ufente 河流经境内；Sezze Romano 火车站位于经 Formia 的罗马—那不勒斯铁路线上。经济仍以季节性农业为主：1 月底开始采收的洋蓟、1 至 2 月的西兰花苗、番茄、Lepini 酸樱桃及 10 月底开始采收的 Hayward 猕猴桃，另有水牛奶和水牛马苏里拉奶酪。依托南方发展基金（Cassa per il Mezzogiorno）设立的工厂大多已关闭，但 Latina Scalo 联合体集聚区的一部分位于该市境内，该市纳入 ZLS 的面积为 35.25 公顷。物流跟随采收日程，新鲜果蔬存在高峰期。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Sezze",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "sonnino": {
+  "profile": "Sonnino 位于 Latina 省中南部 Monti Ausoni 山脉的丘陵和山地。Frosinone—mare 快速路连接 A1 高速公路 Frosinone 收费站及 Terracina 海岸，Pontina 国道和 Appia 国道则通往 Latina 和罗马；原 Velletri—Terracina 铁路线的车站已停用，最近的运营车站为 Priverno-Fossanova 站。境内为 Colline Pontine DOP 橄榄油、Campania 水牛马苏里拉奶酪及 Moscato di Terracina DOC 葡萄酒的产区，并与 Mazzocchio 工业集聚区相邻。物流需求涉及橄榄油、乳制品和葡萄酒，连接 Ciociaria 地区和沿海地带。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Sonnino"
+  ]
+ },
+ "sperlonga": {
+  "profile": "Sperlonga 坐落于 Monte San Magno 伸向 Gaeta 湾的山脊上，位于 Terracina 与 Gaeta 之间，SR213 Flacca 大区道路贯穿全境；对应的火车站为 Fondi-Sperlonga 站，有公交车连接镇区。经济几乎完全依赖旅游业：该镇入选“意大利最美小镇”（Borghi più belli d'Italia），除海滩外还有 Tiberio 别墅考古博物馆。农业作用较小，产品包括 perino 番茄和 Sperlonga 白芹菜 IGP。物流季节性很强，酒店、餐饮和海滨浴场的补给集中在夏季。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Sperlonga"
+  ]
+ },
+ "spigno-saturnia": {
+  "profile": "Spigno Saturnia 位于 Monti Aurunci 山区、Minturno 内陆，境内以 Monte Petrella 山为主，Ausente 河流经此地；市域低处沿 SR630 Ausonia 大区道路分布，该道路连接 Formia 与 Cassino 及 A1 高速公路。传统产业包括手工赤陶砖、刺绣和花边，农业包括 itrana 橄榄种植。境内没有大型生产企业，就业人口依托 Gaeta 湾沿岸。物流需求涉及砖瓦和建筑材料、橄榄油和橄榄以及本地商业配送。",
+  "sectors": [
+   "edilizia",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Spigno_Saturnia"
+  ]
+ },
+ "terracina": {
+  "profile": "Terracina 位于 Agro Pontino 南端、Amaseno 河口附近：SS148 Pontina 国道在此终止（过 Borgo Piave 后为双向单车道），SS7 Appia 国道及通往 Sperlonga 和 Gaeta 的 SR213 Flacca 大区道路经过此地；一条铁路支线连接 Priverno-Fossanova。旅游业是首要产业，度假住宿数量居全省之首，此外还有渔业、花卉种植、温室蔬菜、水牛饲养以及 Favetta 草莓和 Moscato di Terracina 葡萄酒等产品。港口有往返 Ponza 的季节性航线。物流涵盖温控果蔬、渔获及夏季旅游补给。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Terracina",
+   "https://it.wikipedia.org/wiki/Strada_statale_148_Pontina"
+  ]
+ },
+ "ventotene": {
+  "profile": "Ventotene 连同 Santo Stefano 小岛，是拉齐奥大区面积最小、位置最南的市镇。主要交通线路为往返 Formia 的航线，由 Laziomar 全年运营，有可载车辆的渡轮和高速船；夏季另增开往返 Ponza 及自那不勒斯出发的航班。渡轮和商业运输停靠 Cala Rossano 新港，古罗马港口则供渔船和小型船只使用；另有一处直升机停机坪用于救援。经济依靠夏季旅游和小规模农业，小扁豆为传统产品之一。库存需按 Formia 的发船班次和夏季高峰进行规划。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ventotene_(comune)",
+   "https://www.directferries.it/formia_ventotene_traghetto.htm"
+  ]
+ },
+ "pomezia": {
+  "profile": "Pomezia 位于 Agro Romano，介于 Colli Albani 山坡与海岸之间，有 SS148 Pontina 国道、Laurentina 公路、Ardeatina 公路及 Ostia—Anzio 沿海公路经过；Pomezia-Santa Palomba 火车站位于经 Formia 的罗马—那不勒斯铁路线上，毗邻 SGT 多式联运场站。依托南方发展基金（Cassa per il Mezzogiorno）发展起来的工业包括医药与生物技术（Menarini、Johnson & Johnson、IRBM）、电子与国防（Leonardo、Northrop Grumman Italia）、纸制品、塑料和农产食品，其中有 Fiorucci 肉制品厂、Crik Crok 零食和一家麦芽厂。Santa Palomba 集聚区有物流运营商和大型零售（GDO）配送平台入驻。物流需求广泛：药品、食品和快速消费品。",
+  "sectors": [
+   "farmaceutico",
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Pomezia",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "ardea": {
+  "profile": "Ardea 坐落于 Pomezia 以南 Agro Romano 的一座凝灰岩高地上，市域向海延伸至沿海的 Tor San Lorenzo 和 Marina di Ardea 两村；SS148 Pontina 国道穿越其内陆部分。该市保持农业特色，属于 Campania 水牛马苏里拉奶酪以及 Colli Albani 和 Roma DOC 葡萄酒产区，但自二十世纪七十年代起沿 Pontina 国道发展了工业和手工业区。近几十年来，与 Pomezia 生产和物流集群相关的住宅增长带动了建筑和商业。由此产生建筑材料配送、零售分销以及夏季旅游货流。",
+  "sectors": [
+   "edilizia",
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ardea"
+  ]
+ },
+ "anzio": {
+  "profile": "Anzio 位于罗马以南海岸的同名岬角上，有 SS207 Nettunense 国道、SS601 Ostia—Anzio 沿海国道以及罗马—Nettuno 区域铁路 FL8 线各站服务。经济依靠滨海旅游和港口；港口拥有约 60 艘渔船，年渔获量逾 800 吨，并有前往 Ponza 的季节性航线。境内设有 Colgate-Palmolive 的意大利工厂，内陆地区属于 Campania 水牛马苏里拉奶酪产区。对物流而言，重点在于鲜活渔获供应链、个人护理及家居用品货流，以及夏季商业和餐饮补给。",
+  "sectors": [
+   "manifatturiero",
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Anzio"
+  ]
+ },
+ "nettuno": {
+  "profile": "Nettuno 位于罗马乡村（Campagna romana）与 Agro Pontino 之间的海岸上；Astura 河为其与 Latina 市的分界。该市是罗马—Nettuno 区域铁路的终点站，经 Campo di Carne 和 Campoverde 出口连接 SS148 Pontina 国道，经 SS207 Nettunense 国道通往 Aprilia 和 Castelli 地区，经 SS601 沿海国道通往 Anzio。旅游业是主要产业：既有依托 Marina di Nettuno 游艇港的滨海旅游，也有以 Santa Maria Goretti 圣所和美军公墓为代表的历史及宗教旅游。内陆农业区属于水牛马苏里拉奶酪产区。物流需应对夏季消费和餐饮的高峰。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Nettuno_(Italia)"
+  ]
+ },
+ "ciampino": {
+  "profile": "Ciampino 是罗马与 Castelli Romani 之间的衔接地带：SS7 Appia 国道和 Anagnina 公路穿境而过，通往 Velletri 的 Via dei Laghi 公路起于此地，罗马环城高速公路（Grande Raccordo Anulare，GRA）在 Gregna Sant'Andrea 与 Appia 出口之间距市界仅数百米。Ciampino 火车站为 FL4 和 FL6 线交汇站，重要性在拉齐奥大区仅次于 Termini 站和 Tiburtina 站，位列第三。G. B. Pastine 机场以该市命名，由罗马机场公司（Aeroporti di Roma）和意大利空军共同管理。经济以服务业和零售业为中心，需要城市配送以及面向商店和机场用户的送货服务。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ciampino"
+  ]
+ },
+ "marino": {
+  "profile": "Marino 位于 Colli Albani 西北部，市域延伸至朝向 Ciampino 和罗马的平原村落，如 Santa Maria delle Mole、Cava dei Selci 和 Castelluccia；SS7 Appia 国道和 SR207 Nettunense 大区道路穿境而过。葡萄种植与酿酒长期以来是主导产业：DOC Marino 自 1970 年获得认证，成立于 1946 年的 Gotto d'Oro 合作酒庄是主要生产商。当地过去曾开采 peperino 凝灰岩和玄武岩，如今建筑业仍是重要行业，另有铁艺、印刷和烘焙等行业。物流涉及瓶装葡萄酒、建筑材料和城市配送。",
+  "sectors": [
+   "agroalimentare",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Marino_(Italia)"
+  ]
+ },
+ "castel-gandolfo": {
+  "profile": "Castel Gandolfo 从 Colli Albani 延伸至 Agro Romano，濒临 Albano 湖，全境位于 Castelli Romani 大区公园内。SS7 Appia 国道和 SS140 del lago Albano 国道穿境而过，火车站位于罗马—Albano 铁路线上。教宗宫（Palazzo Pontificio）、教宗别墅群（Ville Pontificie）及 Domiziano 别墅带来稳定的文化和宗教旅游客流。葡萄种植由邻近市镇的大型合作酒庄经营；该市《市镇章程》禁止架设天线和固定电信设施。医院和许多服务设施位于市外，因此物流主要涉及餐饮、商业和住宿。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Castel_Gandolfo"
+  ]
+ },
+ "albano-laziale": {
+  "profile": "Albano Laziale 是 Colli Albani 面积最大的市镇之一，除位于 SS7 Appia 国道上的中心城区外，还包括 SR207 Nettunense 大区道路经过的平原村落 Pavona 和 Cecchina；该市有区域铁路 FL4 线服务。2018 年当地共有 2,863 个经营单位、8,516 名从业人员，产业结构以服务业为中心，包括医院、办公机构和商业。除 Colli Albani DOC 葡萄酒传统外，该市还设有一处果蔬批发市场，历史上在蔬菜和洋蓟交易方面具有重要地位。物流需求涉及新鲜果蔬、分销渠道补货以及面向医疗机构和办公场所的配送。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Albano_Laziale"
+  ]
+ },
+ "ariccia": {
+  "profile": "Ariccia 是 Castelli Romani 城镇之一，SS7 Appia 国道穿城而过，并经 Ariccia 桥跨越山谷；古罗马时期，Aricia 是出罗马城后 Appia 古道上的第一个驿站。Chigi 宫及贝尔尼尼设计的广场构成的建筑群吸引了来自罗马的一日游客流。当地最著名的产品是烤乳猪（porchetta），另有 Colli Albani DOC 白葡萄酒和水牛马苏里拉奶酪；众多 fraschetta 小酒馆使需求集中在周末。对物流而言，这意味着需冷藏运输的加工肉制品、餐饮业的高频补货，以及与节庆和活动相关的高峰。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ariccia"
+  ]
+ },
+ "genzano-di-roma": {
+  "profile": "Genzano di Roma 位于 Colli Albani、SS7 Appia 国道沿线，介于 Ariccia 与 Velletri 之间，濒临 Nemi 湖；San Gennaro 火车站位于罗马—Velletri 铁路（区域铁路 FL4 线）上。农业以葡萄种植为主：Genzano 和 Lanuvio 是 DOC Colli Lanuvini 葡萄酒产区的中心，另有橄榄、花卉、水果和蔬菜种植。当地约有 400 家手工企业，涉及皮革、藤编、玻璃、陶瓷和仿古家具，但最重要的行业是烘焙，Genzano 家常面包采用天然发酵、柴火烘烤。本地物流需要烘焙产品的每日配送和葡萄酒发运。",
+  "sectors": [
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Genzano_di_Roma"
+  ]
+ },
+ "lanuvio": {
+  "profile": "Lanuvio 位于 Colli Albani 南坡，朝向 Aprilia 平原，火车站位于罗马—Velletri 铁路上。主要产业为农业，尤其是 DOC Colli Lanuvini 和 Colli Albani 葡萄种植，另有橄榄、花卉、水果和蔬菜种植。工业和商业集中在连接罗马与 Aprilia、Anzio 和 Nettuno 的 SR207 Nettunense 大区道路沿线，Aprilia 联合体工业集聚区（总面积 256 公顷）的一部分位于该市境内。物流需求兼有季节性农产品、葡萄酒和花卉，以及通往 Aprilia 产业集群和 Pontina 国道的工业货流。",
+  "sectors": [
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Lanuvio",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "velletri": {
+  "profile": "Velletri 位于 Colli Albani 南端、朝向 Agro Pontino：SS7 Appia 国道与 Via dei Laghi 公路在此交汇，Via Ariana 公路通往 Lariano 和 Casilina 公路；1863 年开通的罗马—Velletri 铁路如今由区域铁路 FL4 线运营。第一产业以葡萄酒为基础，有 DOC Velletri、Castelli Romani 和 Roma 等产区，并经营周边地区的农产品贸易。工业和手工业沿通往 Latina 省工业区的 Appia Nuova 公路分布，并集中于与 Latina 省交界的 Contrada Lazzaria 工业区。传统工艺包括陶瓷和赤陶。",
+  "sectors": [
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Velletri"
+  ]
+ },
+ "lariano": {
+  "profile": "Lariano 坐落于 Colli Albani 南缘的 Artemisio 山地，位于 Velletri（1967 年前为其下辖村）与 Artena 之间；大部分市域位于 Castelli Romani 大区公园内，栗树林和丘陵向蓬蒂内平原延伸。Via Ariana 公路连接 Velletri 和 Casilina 公路，Cisterna—Valmontone 连接线规划在 Lariano 设置互通立交。农业属于 Velletri DOC 和 Castelli Romani DOC 葡萄酒产区，另有橄榄和林地。经济由小型企业、商业和服务业构成，物流需求与葡萄酒、特色产品及建筑物资相关。",
+  "sectors": [
+   "agroalimentare",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Lariano",
+   "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+  ]
+ },
+ "nemi": {
+  "profile": "Nemi 位于 Colli Albani、濒临同名湖泊的火山口，可经由在 Genzano 附近自 Appia 国道分出的 SP Nemorense 省道及 Via dei Laghi 公路抵达。当地经济长期以农业为主：湖周谷地曾种植洋葱和苹果，火山口坡地修筑梯田种植橄榄；如今的特色产品是草莓，包括应季品种和多季开花品种，每年 6 月举办草莓节。罗马船只博物馆和古镇吸引来自罗马的一日游游客。物流需求涉及生长周期短的易损水果（需快速冷藏运输），以及餐饮和商业补货。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Nemi"
+  ]
+ },
+ "rocca-di-papa": {
+  "profile": "Rocca di Papa 位于 Colli Albani 中部山地，境内有沿古拉丁大道（via Latina）走向的 Via Anagnina 公路、连接 Grottaferrata 和 Ariccia 的 SS218 国道以及 Via dei Laghi 公路。该市就业人口比例低于 Castelli 地区平均水平。葡萄种植于海拔较低的西北部，与 Frascati 和 Marino 产区相邻；海拔较高处则以栗树为主：以建筑用材为主的林业一直是当地经济的基础之一。物流涉及木材和建筑材料、葡萄酒以及丘陵道路配送。",
+  "sectors": [
+   "edilizia",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Rocca_di_Papa"
+  ]
+ },
+ "grottaferrata": {
+  "profile": "Grottaferrata 位于 Colli Albani 朝向罗马的山坡上，介于 Frascati、Marino 与 Rocca di Papa 之间，有 Anagnina 公路、Maremmana III 公路、Via dei Laghi 公路以及横向连接 Tuscolana、Anagnina 和 Appia 公路的 Pedemontana dei Castelli 公路经过。境内属于 Frascati 和 Castelli Romani DOC 葡萄酒产区，另有少量橄榄种植，但在二十世纪，葡萄种植逐步让位于手工业、商业和服务业。San Nilo 希腊礼修道院吸引文化旅游。本地物流涉及商业分销、面向专业人士和服务业的配送以及当地酒庄的葡萄酒发运。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Grottaferrata"
+  ]
+ },
+ "frascati": {
+  "profile": "Frascati 位于 Colli Albani、Via Tuscolana 公路沿线；罗马—Frascati 铁路是教宗国修建的第一条铁路，连接该市与 Termini 站，而位于罗马—Cassino 铁路上的 Tor Vergata 站则在与罗马交界处。农业用地种植橄榄和葡萄，葡萄用于酿造 Frascati DOC 葡萄酒。该市设有多家国际级研究机构：INFN（意大利国家核物理研究院）Frascati 国家实验室、欧洲航天局 ESRIN 中心以及 ENEA（意大利国家新技术、能源与可持续经济发展局）的分支机构。第三产业占比很高。由此产生两类不同的物流需求：一是葡萄酒和农产品，二是研究机构所需的设备和技术物资。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Frascati"
+  ]
+ },
+ "monte-porzio-catone": {
+  "profile": "Monte Porzio Catone 位于 Colli Albani 东部，介于 Frascati 与 Monte Compatri 之间，靠近 A1 高速公路 Roma Sud 支线。主要产业是在 Frascati 产区火山土壤上的葡萄种植：该市是 Castelli Romani 地区酒庄最密集的市镇之一，包括 Fontana Candida、Villa Simone 和 Poggio le Volpi 等，相当一部分葡萄酒销往罗马或出口。境内还设有意大利国家天文台的一处分台。自 1944 年起该镇不再通铁路，由公交线路服务。物流与葡萄酒产业链相关：玻璃瓶入库、瓶装酒托盘出库以及出口发运。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Monte_Porzio_Catone"
+  ]
+ },
+ "monte-compatri": {
+  "profile": "Monte Compatri 的历史城区位于 Colli Albani、Maremmana III 公路沿线，平原村落则分布在 Tuscolana 公路（如 Molara）、Casilina 公路（如 Pantano Borghese 和 Laghetto）以及 Prenestina 公路（如 Osa）沿线。Pantano 是罗马地铁 C 线的终点站，设有换乘停车场和公交线路。镇下方的土地出产 Montecompatri Colonna、Frascati superiore 和 Cannellino di Frascati 葡萄酒，特级初榨橄榄油产量也很大。由于各村落分布在罗马东部的执政官大道沿线，除葡萄酒和橄榄油货流外，还有商业分销以及面向首都东郊的配送需求。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Monte_Compatri"
+  ]
+ },
+ "rocca-priora": {
+  "profile": "Rocca Priora 是 Castelli Romani 海拔最高的市镇：镇中心位于 Colli Albani 东侧，海拔超过 760 米，面向 Casilina 公路和 A1 高速公路所在的河谷。大部分市域位于 Castelli Romani 大区公园内。路网由省道构成，包括通往罗马和 Artena 的 Tuscolana 公路、Anagnina 公路以及通往 Colle di Fuori 和 San Cesareo 的道路。过去该镇曾向罗马供应储存在高处的雪和冰。如今以居住、商业和服务业为主，另有林地和小规模农业。本地物流涉及山区道路配送、住宅建筑和商店补货。",
+  "sectors": [
+   "edilizia",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Rocca_Priora"
+  ]
+ },
+ "colonna": {
+  "profile": "Colonna 坐落于 Castelli Romani 东北端的一座火山丘陵上，面积在 Castelli 各市镇中最小，在拉齐奥大区仅大于 Ventotene，位列倒数第二。Via Casilina 公路穿境而过，靠近 A1 高速公路与 Roma Sud 支线的交汇点，并有 FL6 线 Colonna Galleria 站服务，约每小时一班列车开往罗马 Termini 站。葡萄园属于 Montecompatri Colonna 产区。经济以居住和商业为主，与前往罗马的通勤相关。物流需求涉及零售分销、Casilina 公路沿线商户配送以及葡萄酒发运。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Colonna_(Italia)",
+   "https://it.wikipedia.org/wiki/Monte_Compatri"
+  ]
+ },
+ "san-cesareo": {
+  "profile": "San Cesareo 位于 Via Casilina 公路上，处于 Roma Sud 支线与 A1 高速公路的衔接处，市内设有高速公路收费站；古罗马时期，该地区沿 Labicana 古道设有客栈和商站。部分市域属于 Castelli Romani DOC 和 Roma DOC 葡萄酒产区。工业区建于二十世纪八十年代末，位于 Casilina 公路沿线、紧邻高速公路，区内有供手工业、生产和物流使用的库房。高速公路通达条件与中等规模库房相结合，使该市成为面向罗马东部和 Valle del Sacco 分销的中转和存储节点。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/San_Cesareo",
+   "https://www.immobiliare.it/en/annunci/101095913/"
+  ]
+ },
+ "zagarolo": {
+  "profile": "Zagarolo 位于 Monti Prenestini 山区与 Sacco 河谷之间，有 Zagarolese 公路、SR155 di Fiuggi 大区道路和 Prenestina Nuova 公路连接；位于经 Cassino 的罗马—那不勒斯铁路线上的 Zagarolo 站也服务于 Palestrina 的通勤者，原 Zagarolo Paese 站和 Zagarolo Scalo 站已关闭。市域还包括与 Monte Compatri 交界的 Valle Martella 村。传统产业中以仿古家具生产最为突出。该市已发展为罗马东部腹地的居住区。本地物流涉及家具和陈设品发运，以及面向新建住宅区的商业分销。",
+  "sectors": [
+   "manifatturiero",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Zagarolo"
+  ]
+ },
+ "gallicano-nel-lazio": {
+  "profile": "Gallicano nel Lazio 坐落于 Monti Prenestini 山脚的一座凝灰岩丘陵上，位于罗马都市区东部，周围是溪流冲刷形成的山谷和林地。境内没有国道经过：省道网将其与 San Cesareo、Zagarolo、Palestrina、Poli 相连，并沿 Maremmana Inferiore 公路通往 Tivoli。乡村地区历史上以葡萄园和橄榄园为主，至今仍保留一定的农业成分，但当前经济以居住、商业和服务业为主。有关当地产业结构的资料较少。物流需求涉及商业补货、住宅建筑以及小规模的橄榄油和葡萄酒生产。",
+  "sectors": [
+   "agroalimentare",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Gallicano_nel_Lazio"
+  ]
+ },
+ "palestrina": {
+  "profile": "Palestrina 位于 Monti Prenestini 山坡；山下村落位于 SS6 Casilina 国道沿线，SR155 di Fiuggi 大区道路连接中心城区与 Cave、Genazzano、Fiuggi 和 Frosinone，A1 高速公路在 Carchitti 与 Valvarino 之间穿过市域。经 Cassino 的罗马—那不勒斯铁路线上的车站已废弃，通勤者使用 Zagarolo 站。Fortuna Primigenia 圣所和考古博物馆支撑着文化旅游。传统工艺包括铜器艺术和刺绣，后者在本地设有专门学校。该市是周边城镇的服务和教育中心，存在商业分销及面向河谷地区的配送需求。",
+  "sectors": [
+   "gdo-retail",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Palestrina"
+  ]
+ },
+ "labico": {
+  "profile": "Labico（1872 年前名为 Lugnano）位于 Casilina 公路沿线、San Cesareo 与 Valmontone 之间，处于 Colli Albani 与 Sacco 河谷之间的过渡地带。Labico 站位于经 Cassino 的罗马—那不勒斯铁路线上，由 FL6 区域列车服务。Cisterna—Valmontone 连接线已于 2026 年开工，规划在 Labico 设置互通立交，届时将把当地与 Pontina 国道相连。有关当地经济的资料有限：以居住、Casilina 公路沿线商业以及小型手工业和农业为主。位于 Casilina 公路、铁路和未来连接线之间的区位，对分销仓库和运输运营商具有吸引力。",
+  "sectors": [
+   "gdo-retail",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Labico",
+   "https://www.giornaledellazio.it/partiti-i-lavori-della-cisterna-valmontone/"
+  ]
+ },
+ "valmontone": {
+  "profile": "Valmontone 坐落于 Sacco 河谷上游、Casilina 公路沿线的一处凝灰岩高地上，有 A1 高速公路 Valmontone 收费站及罗马—Cassino—那不勒斯铁路线上的车站服务；罗马—那不勒斯高速铁路亦穿越市域。2026 年开工建设的 Cisterna—Valmontone 连接线将在此连接 Pontina 国道与 A1 高速公路。收费站旁有 Rainbow MagicLand 主题乐园和 Valmontone Fashion District 奥特莱斯中心，带来大量游客和货物流。由此产生服装店和餐饮业的持续补货、退货处理，以及对高速公路附近分销库房的需求。",
+  "sectors": [
+   "gdo-retail",
+   "tessile-moda",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Valmontone",
+   "https://turismoroma.it/it/node/5117"
+  ]
+ },
+ "artena": {
+  "profile": "Artena 是 Monti Lepini 山区北部俯瞰 Sacco 河谷的一座小镇，有 A1 高速公路 Valmontone 收费站及 FL6 线 Valmontone 站服务；Tuscolana 公路、Via Ariana 公路和通往 Giulianello 的省道将其与 Castelli 地区及 Cori 相连。经济以农业和畜牧业为基础，葡萄园属于 Castelli Romani DOC 产区。原 BPD 工业园区的部分区域（现由 Avio 集团旗下一家公司管理）与 Colleferro、Segni 一同位于其境内。本地物流涉及农牧产品及河谷工业的配套产业，可直接进入 A1 高速公路。",
+  "sectors": [
+   "agroalimentare",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Artena",
+   "https://it.wikipedia.org/wiki/Colleferro"
+  ]
+ },
+ "colleferro": {
+  "profile": "Colleferro 因 Bombrini Parodi Delfino 公司而兴起，该公司于 1912 年在此设厂生产炸药，后涉足化工、机械和纺织；Avio 航天产业基地即源于这段历史。该集团在 Colleferro、Segni 和 Artena 三地管理约 910 公顷土地，其中工业用地 450 公顷；城内还有一家 Italcementi 水泥厂。该市设有 A1 高速公路收费站，Casilina 公路穿境而过，通往 Priverno 的 Carpinetana 公路起于 Colleferro Scalo。市内设有 SLIM 多式联运物流系统（已部分建成），并纳入 ZLS，但不在可享受税收抵免的区域内。当地需要超限运输、危险品运输和建筑用散货运输。",
+  "sectors": [
+   "manifatturiero",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Colleferro",
+   "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+  ]
+ },
+ "segni": {
+  "profile": "Segni 位于 Monti Lepini 山区北部，俯瞰 Sacco 河谷和 Colleferro。境内的 San Bruno 采石场开采用于生产水泥的石灰石，通过总长 4.3 公里的六条输送带运往 Colleferro 的 Italcementi 水泥厂，从而避免了公路运输。原 BPD 园区的部分区域位于该市境内。农业方面的特色产品是 marrone segnino，一种秋季采收的栗子品种。物流需求兼有河谷采掘业和工业的配套需求、栗子的季节性销售以及镇区补给。",
+  "sectors": [
+   "edilizia",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Segni_(Italia)",
+   "https://it.wikipedia.org/wiki/Colleferro"
+  ]
+ },
+ "gavignano": {
+  "profile": "Gavignano 坐落于 Rio 溪与 Sacco 河交汇处的一座小岬角上，位于 Monti Lepini 北坡 Monte Lupone 山脚下；境内有以利尿功效闻名的 Fonte Meo 泉。二十世纪，BPD 在 Colleferro 的扩张使镇上许多农民转为工人，就业人口至今仍依托河谷的工业基地。镇内保留丘陵农业以及小型手工业和商业，并拥有与河谷本笃会修道传统相关的历史遗产。本地物流主要服务于 Colleferro 工业配套产业及镇内商业补货。",
+  "sectors": [
+   "manifatturiero",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Gavignano_(Italia)"
+  ]
+ },
+ "montelanico": {
+  "profile": "Montelanico 位于 Monti Lepini 北坡，市域南部为山地，向 Sacco 河谷方向逐渐过渡为丘陵和平原；Monte Lupone 山耸立于其与 Segni 和 Cori 的交界处。SR609 Carpinetana 大区道路（连接 Colleferro 与 Priverno）及通往 Segni 的省道穿境而过。特色产品是栗子，自 1963 年起每年 10 月第三周举办栗子节；橄榄种植、畜牧业和小型企业构成经济的其余部分。物流跟随秋季采收季节，并服务于 Colleferro 工业基地与 Lepini 山区各镇之间的往来。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Montelanico"
+  ]
+ },
+ "carpineto-romano": {
+  "profile": "Carpineto Romano 位于 Monti Lepini 山区中部，与 Latina 省和 Frosinone 省接壤，境内为山地，最高点为海拔 1,536 米的 Monte Semprevisa 山。这里是教宗良十三世的出生地。SR609 Carpinetana 大区道路一端连接 Sacco 河谷和 Colleferro，另一端连接 Maenza 和 Priverno。传统产业包括陶瓷和赤陶，La Reggia dei Volsci 博物馆展出农牧传统器物。经济规模较小，以林地、牧场以及与 Palio della Carriera 等活动相关的旅游为主；配送需经由山区道路。",
+  "sectors": [
+   "agroalimentare",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Carpineto_Romano"
+  ]
+ },
+ "gorga": {
+  "profile": "Gorga 是 Monti Lepini 山区的一座小型市镇，以海拔超过 1,380 米的 Monte San Marino 山为主峰。山区被称为 Gorga 高原，喀斯特地貌广泛分布，其中 Campo di Caccia 洞穴是洞穴探险目的地。该镇经省道下行至 Carpinetana 公路和 Colleferro，与 Sacco 河谷相连。有关当地经济的资料较少：主要为农牧业，包括牧场、林地以及依托高原的徒步旅游。物流需求仅限于镇内商业补货和山区道路上的计划配送。",
+  "sectors": [
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Gorga_(Italia)"
+  ]
+ },
+ "cave": {
+  "profile": "Cave 位于 Monti Prenestini 山区与 Sacco 河谷之间，连接罗马与 Frosinone 的 SS155 di Fiuggi 国道穿境而过；一条省道通往 A1 高速公路收费站和 Valmontone 火车站，Cotral 公交线路连接罗马 Anagnina 和 Ponte Mammolo 站以及 Palestrina 和 Colleferro 的学校集中区。特色农产品为 marrone di Cave 栗子，已列入拉齐奥大区传统农产食品名录。当地经济由农业、商业和面向居住人口的服务业构成。物流需求涉及秋季栗子采收以及面向 Prenestina 公路沿线城镇的分销。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Cave_(Italia)"
+  ]
+ },
+ "genazzano": {
+  "profile": "Genazzano 坐落于自 Monti Prenestini 伸向 Sacco 河谷的一处凝灰岩山脊上，位于罗马广域市与 Frosinone 省交界处，经 SR155 di Fiuggi 大区道路与 Cave、Palestrina 和 Fiuggi 相连。Madonna del Buon Consiglio 圣所全年吸引朝圣者，历史城区保留有 Colonna 城堡。有关当地产业结构的资料较少：以河谷农业、小型商业、餐饮和宗教旅游服务为主。物流需求涉及住宿和餐饮补给，以及通往 A1 高速公路 Valmontone 收费站和 Ciociaria 地区的运输。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Genazzano"
+  ]
+ },
+ "fiumicino": {
+  "profile": "Fiumicino 设有 Leonardo da Vinci 机场，这是意大利旅客吞吐量最大的机场，也是 TEN-T（跨欧洲交通运输网）核心网络节点，设有 Cargo City 货运区，毗邻罗马—Fiumicino 物流平台，其铁路场站正在研究中。机场火车站经 Leonardo Express 和 FL1 线与罗马相连；该市有罗马—Fiumicino 高速公路服务，FL5 线沿线设有 Maccarese-Fregene 站和 Torrimpietra-Palidoro 站。港口隶属第勒尼安海中北部港口系统管理局（AdSP del Mar Tirreno Centro-Settentrionale），也是设有大型水产市场的渔业中心。物流方面的重点为航空货物、国际拼箱、渔获冷链以及机场业务补给。",
+  "sectors": [
+   "ecommerce",
+   "agroalimentare",
+   "farmaceutico"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Fiumicino",
+   "https://politichecoesione.governo.it/media/pixdvzjt/piano-di-sviluppo-stratetegico.pdf"
+  ]
+ },
+ "eur": {
+  "profile": "EUR 是罗马第九区（Municipio IX）的 12A 城市规划区，位于罗马环城高速公路（GRA）以内，横跨 via Cristoforo Colombo 大道；通往 Latina 的 SS148 Pontina 国道由此起始，地铁 B 线经 EUR Magliana、EUR Palasport 和 EUR Fermi 站连接市中心。该区是罗马南部片区的主要商务中心：ENI、Poste Italiane（意大利邮政）等大型集团总部、政府部委办公机构、La Nuvola 会议中心及多家博物馆均位于此。物流需求属于典型的办公区类型：档案和文件、办公用品、IT 设备、会议及活动布展以及按时间窗口配送。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Eur_(zona_di_Roma)",
+   "https://it.wikipedia.org/wiki/EUR"
+  ]
+ },
+ "laurentino": {
+  "profile": "Laurentino 是罗马第九区的 12D 城市规划区，位于 GRA 以内，介于 via Cristoforo Colombo 大道与 via Laurentina 公路之间并因后者得名；区内有 Laurentino-Acqua Acetosa 自然保护区。该区以居住为主，自二十世纪七十年代起通过大型公共住房项目发展起来，毗邻 EUR 商务区，亦可经地铁 B 线 Laurentina 终点站抵达。区内没有生产企业：经济由社区商业、生活服务和办公构成。物流需求属于城市配送类型：零售网点补货、网购商品配送以及面向小型商户的服务。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Laurentino"
+  ]
+ },
+ "ostiense": {
+  "profile": "Ostiense 是罗马第十个 quartiere（城区），位于奥勒良城墙与 Tevere 河之间。自 1907 年起，这里是罗马首个工业区，设有河港、储气罐（Gazometro）、Montemartini 发电厂和中央批发市场（Mercati Generali，后关闭）。如今该区已转型为服务、文化和大学区：罗马第三大学（Università Roma Tre）自 1992 年起设于此，Montemartini 发电厂已改为博物馆。该区是交通枢纽，有罗马 Ostiense 火车站、地铁 B 线 Piramide 站及罗马—Lido 铁路终点站，via Ostiense 公路通往 EUR 和沿海地区。物流服务于餐饮、商业、大学和办公机构，城市配送频次高。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ostiense"
+  ]
+ },
+ "garbatella": {
+  "profile": "Garbatella 建于 1920 年，最初是为附近河港和 Ostiense 工业区工人兴建的花园式住宅区；如今对应罗马第八区的 11C 城市规划区。区内以居住为主，多为围合式院落和狭窄街道，via Cristoforo Colombo 大道旁坐落着拉齐奥大区政府大楼，为大区政府所在地。该区有地铁 B 线 Garbatella 站服务，并与罗马 Ostiense 火车站相邻。经济由社区商业、餐饮、公共服务和大区政府办公机构构成。配送需使用适合区内路网的轻型车辆，并需面向办公机构的文件服务。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Garbatella"
+  ]
+ },
+ "torrino": {
+  "profile": "Torrino 是罗马乡村（Agro romano）的 Z. XXVII 区，紧邻并部分位于 GRA 以内，西接 via del Mare 公路，东接 via Cristoforo Colombo 大道和 Pontina 国道。除住宅区外，Casal Grottoni 和 viale dell'Oceano Pacifico 一带还发展了商务楼宇：IBM 办公楼、Eurosky Business Park 和 Europarco 大厦、意大利税务局（Agenzia delle Entrate）办公室以及商会的业务总部。区内还有 Euroma2 购物中心。办公、大型零售与居住相结合，形成商店配送、办公用品供应以及面向个人的大量包裹递送需求。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Torrino"
+  ]
+ },
+ "spinaceto": {
+  "profile": "Spinaceto 是罗马第九区的 12G 城市规划区，位于 GRA 以南，介于 via di Mezzocammino 与 Via Pontina 之间；该地名也指罗马首都市（Roma Capitale）下辖的一个村落。该区按二十世纪六七十年代的经济适用房和公共住房规划建设，配有社区服务和商业。1968 年城市总体规划中规划的地铁 B 线连接从未建成，公共交通依靠公交车。该区可直接进入 Pontina 国道，既通往 EUR，也通往 Castel Romano 和 Pomezia 的生产基地。物流需求主要为零售分销和住宅配送。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Spinaceto"
+  ]
+ },
+ "trigoria": {
+  "profile": "Trigoria 是罗马首都市下辖的村落，位于 Castel di Decima 一带，处于 GRA 以外、Pontina 国道以东，紧邻 Decima-Malafede 自然保护区。该地以 AS Roma 足球俱乐部训练基地 Fulvio Bernardini 体育中心以及 Campus Bio-Medico 大学及其附属综合医院而闻名。其余区域为低密度住宅与罗马乡村农田交错分布。大学附属医院带来特定的物流需求：需可追溯配送的药品、医疗器械、实验室耗材和医疗物资，以及面向体育设施和居民用户的服务。",
+  "sectors": [
+   "farmaceutico",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Trigoria"
+  ]
+ },
+ "castel-romano": {
+  "profile": "Castel Romano 是罗马第九区的 12M 城市规划区，楔入 Pontina 国道与 via di Pratica di Mare 公路之间；联合体工业集聚区位于 Pontina 国道 23 公里处，面积 266 公顷，其中工业用地 191 公顷。Pontina 工业区设立于 1952 年，自二十世纪六十年代起先后入驻冶金研究中心、电信企业、一家食品联合体以及 Dino De Laurentiis 电影制片厂，后者于 2014 年改建为 Cinecittà World 主题公园。Castel Romano Designer Outlet 自 2003 年起在此运营。物流方面的重点为奥特莱斯店铺的持续补货、退货处理、主题公园物资供应以及 Pontina 国道沿线的工业货流。",
+  "sectors": [
+   "tessile-moda",
+   "gdo-retail",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Castel_Romano",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "santa-palomba": {
+  "profile": "Santa Palomba 分属罗马、Ardea 和 Pomezia 三地；罗马部分为第九区的 12N 城市规划区。在 Ardeatina 公路 20 至 23 公里之间、Pomezia-Santa Palomba 火车站周边，形成了一片工业区，Fiorucci、Angelini、ABB、Johnson & Johnson 和 Procter & Gamble 均在此设点。联合体集聚区面积 483 公顷，是罗马—Latina 地区面积最大的集聚区；区内有 DHL Supply Chain、GLS 和 STEF 等物流运营商以及大型零售配送平台。SGT 场站的多式联运单元吞吐量居拉齐奥大区首位。该区集中了快速消费品、冷链和医药货流。",
+  "sectors": [
+   "gdo-retail",
+   "farmaceutico",
+   "agroalimentare"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Santa_Palomba",
+   "https://www.consorzioasi.com/agglomerati-industriali/"
+  ]
+ },
+ "tor-vergata": {
+  "profile": "Tor Vergata 是罗马乡村中介于 Tuscolana 与 Casilina 公路之间的一片庄园，位于 GRA 以外的 Torre Gaia 一带；罗马第二大学（Università degli Studi di Roma Tor Vergata）设于此，为首都第二所公立大学，校园面积约五百公顷。区内还有 Tor Vergata 综合医院，这是一所二十世纪九十年代末开业的大学附属医院。道路系统将该区与 A1 高速公路及 Roma Sud 支线相连。本地物流以医疗和科研为中心：需可追溯的药品、医疗器械、试剂和实验室仪器，以及面向学生和周边居民的服务。",
+  "sectors": [
+   "farmaceutico",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Torre_Gaia",
+   "https://it.wikipedia.org/wiki/Universit%C3%A0_degli_Studi_di_Roma_Tor_Vergata"
+  ]
+ },
+ "romanina": {
+  "profile": "Romanina 是罗马第七区（Municipio VII）的 10G 城市规划区，位于罗马环城高速公路（GRA）外侧并紧邻 GRA，介于 via Tuscolana 公路与 A1 高速公路之间；商业区有 GRA 第 20 号出口服务。自二十世纪八十年代起，该区在住宅、商务尤其是商业方面快速扩张，是罗马购物中心最密集的地区之一。1982 年至 2018 年间，Tor Vergata 大学曾在此设有校区，原 Officine Marconi 工厂已改建为文化中心。对物流而言，该区是大型零售和专业门店的配送目的地，可快速进入 GRA 和高速公路。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Romanina"
+  ]
+ },
+ "cinecitta": {
+  "profile": "Cinecittà 指罗马第七区 Don Bosco 城区所在的区域，位于 Casilina 与 Tuscolana 公路之间，被 viale Palmiro Togliatti 大道一分为二。该区自二十世纪五十年代起围绕 1936 年创建的 Cinecittà 电影制片厂发展起来，有沿 Tuscolana 公路运行的地铁 A 线服务。经济由影视制作、商业和高密度住宅构成，南部有大型购物中心。物流需求分为两类：影视制作所需布景、技术设备和服装的搬运，以及面向罗马人口最稠密地区之一的城市配送。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Don_Bosco_(Roma)"
+  ]
+ },
+ "anagnina": {
+  "profile": "Anagnina 得名于自罗马通往 Castelli 地区的同名公路：该区位于 Osteria del Curato 与 GRA 之间，设有地铁 A 线终点站以及通往 Castelli Romani 和拉齐奥大区南部的 Cotral 公交总站。自二十世纪六十年代起，Anagnina 公路沿线陆续入驻中小型制造企业，以及在南方发展基金（Cassa per il Mezzogiorno）扶持下设立的电信行业老牌工厂。GRA 外侧的 Torre di Mezzavia 自 2004 年起有一座大型购物中心运营。由此产生面向商店和手工业者的货流，以及发往 Ciampino 和 Castelli 地区的配送。",
+  "sectors": [
+   "gdo-retail",
+   "manifatturiero"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Osteria_del_Curato_(zona_di_Roma)",
+   "https://it.wikipedia.org/wiki/Via_Anagnina"
+  ]
+ },
+ "tuscolano": {
+  "profile": "Tuscolano 是罗马第八个 quartiere（城区），位于城市东部、紧邻奥勒良城墙，因穿越该区的 via Tuscolana 公路得名，Appia Nuova 公路亦从此经过。该区人口密度高，早在 1911 年即完成规划，以高密度住宅、街区市场以及两条执政官大道沿线连绵的商铺为特征；地铁 A 线在 Tuscolana 公路下方运行。区内没有生产企业，但有改造后的原公共交通车场。这里的物流属于近距离城市配送：在拥堵街道上为商店和餐饮场所补货、送货上门及退货收取。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Tuscolano"
+  ]
+ },
+ "appio-latino": {
+  "profile": "Appio-Latino 是罗马第九个 quartiere（城区），位于东南片区、紧邻奥勒良城墙，因 via Appia Antica 古道和 via Latina 古道得名。除 Appia Nuova 公路沿线密集的住宅区（设有 Metronio 街区市场及众多商铺）外，该区还包括大片受保护的绿地，如与 Appia Antica 公园相连的 Caffarella 公园。地铁 C 线的施工涉及 Amba Aradam 一带。物流需应对考古和景观保护限制、住宅区街道，以及面向商店和餐饮业的配送，需使用小载重车辆并按约定时间送达。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Appio-Latino"
+  ]
+ },
+ "ostia": {
+  "profile": "Ostia 正式名称为 Lido di Ostia，是罗马的滨海村落，罗马第十区（Municipio X）驻地，濒临 Tirreno 海，以 Tevere 河为界与 Fiumicino 市相隔。罗马—Lido 铁路、via del Mare 公路和 via Cristoforo Colombo 大道将其与市中心相连。经济依赖商业、服务业和滨海旅游，沿岸分布着海滨浴场，另有罗马游艇港和吸引游客的 Ostia Antica 考古遗址。常住人口众多，夏季来自罗马的日间客流增加。由此产生面向浴场、餐饮和商业的强季节性配送，以及面向居民的持续包裹流。",
+  "sectors": [
+   "gdo-retail",
+   "agroalimentare",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ostia_(Roma)"
+  ]
+ },
+ "acilia": {
+  "profile": "Acilia 是罗马第十区的一个正式 borgata（城郊居住区），位于 EUR 与 Ostia 之间 via del Mare 公路 18 至 19 公里处；Acilia Nord 位于 Tevere 河与 via Ostiense 公路之间，Acilia Sud 则自该公路延伸至 via Cristoforo Colombo 大道方向，处于 GRA 以外。该地 1919 年作为土地改良村落建立，后发展为大型住宅区，有罗马—Lido 铁路服务。via Ostiense 公路在古罗马时期连接罗马与 Ostia 诸港口，如今沿线集中了商业、手工业和服务业。物流需求涉及零售分销、建筑材料和住宅配送。",
+  "sectors": [
+   "gdo-retail",
+   "edilizia",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Acilia"
+  ]
+ },
+ "infernetto": {
+  "profile": "Infernetto 是罗马第十区的一个村落，位于 GRA 以外、via Cristoforo Colombo 大道东侧，介于 Castel Fusano 松林与 Castelporziano 总统庄园之间。该地形成于战后：1947 年起，一家合作社对大片土地进行分块开发，逐步发展为由带花园的小别墅和低层住宅构成的低密度住宅区。经济活动几乎仅限于社区商业和服务业。居住点分散、道路网络较长，使配送效率低于紧凑型城区：包裹、生鲜到家和小型建筑工程需要计划路线配送。",
+  "sectors": [
+   "ecommerce",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Infernetto"
+  ]
+ },
+ "casal-palocco": {
+  "profile": "Casal Palocco 是罗马的 Z. XXXIV 区，位于城市西南部、GRA 以外，介于 via del Mare 公路与 via Cristoforo Colombo 大道之间，与 Acilia 和 Infernetto 相邻。这是二十世纪六十年代规划建设的住宅社区，居住区、商业区和体育设施区在规划阶段即已确定：Le Terrazze 购物中心及众多体育设施均属于原始规划。建筑以掩映于绿地中的小别墅和公寓式住宅为主。本地物流涉及包裹和家具的住宅配送、购物中心补货以及住宅和花园维护。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Casal_Palocco"
+  ]
+ },
+ "magliana": {
+  "profile": "Magliana 沿同名道路分布，位于 Tevere 河右岸、罗马第十一区（Municipio XI），介于 via Portuense 公路与河流之间，处于 GRA 以内。该住宅区大部分建于二十世纪七十年代，地势低于 Tevere 河第二道堤岸，依靠排水泵站防护；北部为 Tenuta dei Massimi 自然保护区。该区靠近罗马—Fiumicino 高速公路和 FL1 线车站，过河即可抵达 EUR。via della Magliana 沿线商业、手工业和服务业交错分布。物流需求兼有城市配送和通往 Fiumicino 机场的快速运输。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Magliana"
+  ]
+ },
+ "ponte-galeria": {
+  "profile": "Ponte Galeria 是罗马第十一区的 Z. XLI 区，位于 GRA 以外，南临 Tevere 河，西接 A12 罗马—Civitavecchia 高速公路，罗马—Fiumicino 高速公路和 FL1 线铁路穿境而过。罗马会展中心（Fiera di Roma）位于此地，设有九个展馆和一个会议中心，周边有商业和批发集群。位于城市与 Fiumicino 机场之间的区位，使其成为货运代理和快递企业的仓库和服务区。物流需求包括布展周期紧凑的展会搭建、发往 Fiumicino Cargo City 的货物以及面向罗马西部片区的分销。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Ponte_Galeria",
+   "https://it.wikipedia.org/wiki/Fiera_di_Roma"
+  ]
+ },
+ "capannelle": {
+  "profile": "Capannelle 是罗马乡村（Agro romano）东南片区的 Z. XVIII 区，紧邻并部分位于 GRA 以内，介于 via Tuscolana 公路与 Appia Nuova 公路之间。该区有罗马—Cassino—那不勒斯铁路线上的 Capannelle 站服务，停靠 FL4 和 FL6 区域列车；1978 年前曾有有轨电车连接 Termini 火车站一带。区内有 Capannelle 赛马场、Acquedotti 公园的部分区域以及靠近 Ciampino 机场的 Lucrezia Romana 等住宅区。物流需求涉及活动和体育设施、社区配送以及与机场和 Appia 公路的连接。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Capannelle_(zona_di_Roma)"
+  ]
+ },
+ "morena": {
+  "profile": "Morena 是罗马第七区的 10L 城市规划区，位于首都东部、GRA 以外，横跨 via Anagnina 公路。该区以居住为主，连接 Tor Vergata、Ciampino 机场和 Castelli Romani，近几十年发展迅速。Anagnina 公路沿线分布着商业企业、手工业者和小型仓库，也服务于相邻的 Ciampino 市。物流需求涉及消费品分销、住宅建筑所需建材，以及执政官大道沿线交通繁忙地区的送货上门。",
+  "sectors": [
+   "gdo-retail",
+   "edilizia",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Morena_(zona_di_Roma)"
+  ]
+ },
+ "falcognana": {
+  "profile": "Falcognana 是罗马的一个村落，位于罗马第九区 Castel di Leva 一带、via Ardeatina 公路 14 公里处，处于 GRA 以外，距 Divino Amore 圣所约两公里。该地部分仍为农业用地，目前正在实施住宅建设详细规划。Ardeatina 公路沿线的一处采石场被改建为垃圾填埋场，并被选定为 Malagrotta 的替代场址，遭到居民和邻近 Marino 市的抗议。该地位于 Ardeatina 公路上、GRA 与 Santa Palomba 产业区之间，与建筑材料运输、废物处理以及通往 Castelli 地区的分销相关。",
+  "sectors": [
+   "edilizia",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Falcognana",
+   "https://it.wikipedia.org/wiki/Castel_di_Leva"
+  ]
+ },
+ "cecchignola": {
+  "profile": "Cecchignola 位于罗马南部片区、Laurentina 与 Ardeatina 公路之间，主要以军事城闻名：自二十世纪三十年代起，工兵监察部在此规划建设高级指挥机关驻地，沿今称 viale dell'Esercito 的轴线展开，军事机动化历史博物馆自 1955 年起设于此。陆军营房和学校旁陆续兴建了新的住宅区，如 Tor Pagnotta 一带。该区可快速连接 GRA。物流需求涉及军事设施物资供应、住宅工地材料以及新建城区的分销。",
+  "sectors": [
+   "edilizia",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Cecchignola",
+   "https://it.wikipedia.org/wiki/Castello_della_Cecchignola"
+  ]
+ },
+ "vitinia": {
+  "profile": "Vitinia 位于罗马西南部、罗马第九区 Mezzocammino 一带，处于 GRA 以外，北临 via Ostiense 公路，南接 via Cristoforo Colombo 大道，有罗马—Lido 铁路服务。该区形成于战后，按规整地块开发：小别墅和低层楼房很少超过两层，1949 年即已出现首批商铺。境内有 Mezzocammino 军用燃料库。经济以居住和商业为主。物流需求涉及面向居民的配送、Ostiense 公路沿线商店补货以及通往 EUR 和 Ostia 的运输。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Vitinia"
+  ]
+ },
+ "mezzocammino": {
+  "profile": "Mezzocammino 是罗马乡村 Tevere 河谷中的 Z. XXXI 区，位于 GRA 以外，介于河流与 via Cristoforo Colombo 大道之间。地名源自古时自 Ostia 港溯 Tevere 河而上前往罗马的驳船中途停靠站。GRA 经 Mezzocammino 桥跨越河流，该桥于 1951 年通车，2003 年被列为国家纪念建筑。近年来该地新建了住宅区，罗马—Lido 铁路上的 Torrino-Mezzocammino 站正在建设中。本地物流涉及建筑工地、新建城区的分销，以及在道路较少地区面向居民的配送。",
+  "sectors": [
+   "edilizia",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Mezzocammino"
+  ]
+ },
+ "castel-di-leva": {
+  "profile": "Castel di Leva 是罗马乡村南部片区的 Z. XXIII 区，位于 GRA 以外，与 Ciampino 机场以及 Marino、Castel Gandolfo、Albano Laziale、Ardea 和 Pomezia 各市接壤。via Ardeatina 公路沿线有朝圣地 Madonna del Divino Amore 圣所，境内还包括 Santa Palomba 的罗马部分及 Falcognana 村。区内仍保留大片罗马乡村农田。该区兼有朝圣客流、农业以及邻近 Santa Palomba 工业区的区位：由此产生面向宗教接待设施的配送、农产品运输以及发往南部生产基地的运输。",
+  "sectors": [
+   "agroalimentare",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Castel_di_Leva"
+  ]
+ },
+ "tor-bella-monaca": {
+  "profile": "Tor Bella Monaca 是罗马的一个村落，位于罗马第六区（Municipio VI）Torre Angela 一带、via Casilina 公路北侧，处于 GRA 以外，地势起伏，有同名沟渠流经。该地过去曾有一家 Breda 工厂和 Torrenova 关税站；1962 年城市总体规划将其划为扩展区，二十世纪八十年代在此建设了大型公共住房区。新建道路将其与 Tor Vergata 大学相连。经济以居住为主，配有社区商业。物流涉及消费品分销以及高密度楼宇的送货上门。",
+  "sectors": [
+   "ecommerce",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Tor_Bella_Monaca"
+  ]
+ },
+ "torre-angela": {
+  "profile": "Torre Angela 是罗马乡村的 Z. XIII 区，也是罗马第六区的 8F 城市规划区，位于 GRA 以外、via Casilina 公路沿线，Torrenova 一带有罗马帝国时期的墓葬遗址。该地最初是乡村居住点，后发展为高密度城区，部分为自发形成的城市化；有沿 Casilina 公路运行的地铁 C 线服务。商业集中在执政官大道沿线，有商店、手工业者和小型仓库。物流需求涉及 Casilina 公路沿线商店补货、装修用建筑材料以及大量住宅配送。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce",
+   "edilizia"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Torre_Angela"
+  ]
+ },
+ "tor-sapienza": {
+  "profile": "Tor Sapienza 是罗马的 Z. VIII 区，也是罗马第五区（Municipio V）的 7C 城市规划区，位于东部片区、GRA 以内，介于 via Prenestina 公路与 A24 高速公路城市段之间。除住宅区外，该区还有生产设施：Birra Peroni 啤酒的罗马工厂、一处军用电信设备维修基地以及多座旧厂房，其中一座设有 MAAM 博物馆。可进入 A24 高速公路和 GRA 的条件使该区适合设立仓库和开展分销。物流需求包括大批量饮料、工业零部件以及面向城市东部片区的分销。",
+  "sectors": [
+   "agroalimentare",
+   "manifatturiero",
+   "gdo-retail"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Tor_Sapienza"
+  ]
+ },
+ "centocelle": {
+  "profile": "Centocelle 是罗马第五区的 7A 城市规划区，位于罗马东部片区，因原军用机场所在区域得名，该区域现为考古公园。该区自二十世纪二十年代起以面向工人、手工业者和小商贩的低层住宅为基础发展起来，如今是罗马人口密度最高的城区之一。2014 至 2015 年开通的地铁 C 线在区内设有三站，罗马—Giardinetti 铁路沿 Casilina 公路将其与 Termini 一带相连。商业分布广泛，有街区市场及 via dei Castani 等商业街。物流属于近距离配送：商店和餐饮业的每日补货，以及狭窄街道上的送货上门。",
+  "sectors": [
+   "gdo-retail",
+   "ecommerce"
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Centocelle"
+  ]
+ }
+}

@@ -1,0 +1,7 @@
+{{- /* ctx: slice of places */ -}}
+{{- $pts := slice -}}
+{{- range . }}{{ $u := "" }}{{ with site.GetPage (printf "/logistica/%s" .slug) }}{{ $u = .RelPermalink }}{{ end }}{{ $pts = $pts | append (dict "n" .name "c" (slice .lat .lon) "u" $u) }}{{ end -}}
+<div class="map-box map-wide">
+  <div class="leaflet-map" data-map='{{ dict "hub" (slice site.Params.lat site.Params.lon) "hubName" (i18n "map_hub") "points" $pts | jsonify }}'></div>
+  <p class="map-note">{{ i18n "map_note" }}</p>
+</div>

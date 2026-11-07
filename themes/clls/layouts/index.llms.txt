@@ -1,0 +1,38 @@
+# Consorzio Logistico Latina Scalo
+
+> {{ i18n "home_description" }}
+
+{{ i18n "home_hero_sub" }}
+
+- Address: {{ site.Params.via }}, {{ site.Params.localita }}, {{ site.Params.cap }} {{ site.Params.citta }} ({{ site.Params.provincia }}), Italy
+- Coordinates: {{ site.Params.lat }}, {{ site.Params.lon }}
+- Phone / WhatsApp: {{ site.Params.telefono }}
+- Email: {{ site.Params.email }}
+- Covered warehouse: 19,000 m²; open yards: 25,000 m²; 5 member companies
+- Road distances from the site (OSRM, car): Latina 8 km, Aprilia 34 km, Pomezia 50 km, Rome EUR 70 km, port of Gaeta about 70 km, Fiumicino airport about 90 km
+- Languages: {{ range $i, $l := site.Languages }}{{ if $i }}, {{ end }}{{ $l.Lang }}{{ end }}
+
+## {{ i18n "nav_services" }}
+{{ with site.GetPage "/servizi" }}{{ range .Pages.ByWeight }}
+- [{{ .LinkTitle }}]({{ .Permalink }}): {{ .Description }}{{ end }}{{ end }}
+
+## {{ i18n "nav_sectors" }}
+{{ with site.GetPage "/settori" }}{{ range .Pages.ByWeight }}
+- [{{ .LinkTitle }}]({{ .Permalink }}): {{ .Description }}{{ end }}{{ end }}
+
+## {{ i18n "nav_areas" }}
+{{ with site.GetPage "/logistica" }}{{ range (where .Pages "Params.layout" "area").ByWeight }}
+- [{{ .LinkTitle }}]({{ .Permalink }}): {{ .Description }}{{ end }}{{ end }}
+
+### {{ len hugo.Data.places }} local pages
+{{ range sort hugo.Data.places "road_km" }}{{ with site.GetPage (printf "/logistica/%s" .slug) }}
+- [{{ .LinkTitle }}]({{ .Permalink }}){{ end }}{{ end }}
+
+## {{ i18n "nav_insights" }}
+{{ with site.GetPage "/approfondimenti" }}{{ range .Pages.ByDate.Reverse }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}{{ end }}{{ end }}
+
+## {{ i18n "nav_faq" }}
+{{ with site.GetPage "/domande-frequenti" }}{{ range .Params.faq }}
+- Q: {{ .q }}
+  A: {{ .a | plainify }}{{ end }}{{ end }}

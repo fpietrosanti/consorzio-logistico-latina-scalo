@@ -14,7 +14,7 @@
       {{ range $pages }}
       <li class="card">
         <a href="{{ .RelPermalink }}">
-          {{ with .Params.image }}{{ if index hugo.Data.images . }}<img src="{{ printf "img/%s.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
+          {{ with .Params.image }}{{ if index hugo.Data.images . }}<img src="{{ printf "img/%s-800.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
           <span class="card-body">
             {{ if eq .Params.layout "articolo" }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_medium" }}</time>{{ end }}
             <strong>{{ .LinkTitle }}</strong>

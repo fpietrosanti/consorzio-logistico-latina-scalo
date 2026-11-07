@@ -2,6 +2,7 @@ baseURL = 'https://consorziologistico.it/'
 title = 'Consorzio Logistico Latina Scalo'
 theme = 'clls'
 enableRobotsTXT = true
+enableGitInfo = true
 disableKinds = ['taxonomy', 'term', 'rss']
 defaultContentLanguage = 'it'
 defaultContentLanguageInSubdir = false

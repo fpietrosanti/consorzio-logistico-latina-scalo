@@ -5,8 +5,8 @@ description: "Skladištenje za treće strane u mjestu Latina Scalo (LT): 19.000 
 url: "/hr/usluge/skladistenje/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Unutrašnjost logističkog skladišta s paletnim regalima i prolazima za manipulaciju, arhivska fotografija"
+image: "sede/magazzino-1"
+imageAlt: "Unutrašnjost logističkog skladišta s paletnim regalima i prolazima za manipulaciju"
 faq:
   - q: "Koliko skladišnog prostora nudi Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo raspolaže u mjestu Latina Scalo (LT) s 19.000 četvornih metara natkrivenog i 25.000 četvornih metara otvorenog prostora. Natkrivena površina podijeljena je na modularne hale od 500 do 3.000 četvornih metara svaka, korisne visine do 10 metara."

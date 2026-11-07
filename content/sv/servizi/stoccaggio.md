@@ -5,8 +5,8 @@ description: "Tredjepartslagring i Latina Scalo (LT): 19 000 kvadratmeter under 
 url: "/sv/tjanster/lagring/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interiör från ett logistiklager med pallställ och truckgångar, arkivbild"
+image: "sede/magazzino-1"
+imageAlt: "Interiör från ett logistiklager med pallställ och truckgångar"
 faq:
   - q: "Hur stor lageryta erbjuder Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo förfogar i Latina Scalo (LT) över 19 000 kvadratmeter under tak och 25 000 kvadratmeter utomhusytor. Ytan under tak är uppdelad i modulära lagerbyggnader på 500 till 3 000 kvadratmeter vardera, med en fri höjd på upp till 10 meter."

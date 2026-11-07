@@ -5,8 +5,8 @@ description: "Latina Scalo（LT）第三方仓储：室内面积 19,000 平方�
 url: "/zh/services/storage/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "配有托盘货架和搬运通道的物流仓库内部，资料图片"
+image: "sede/magazzino-1"
+imageAlt: "配有托盘货架和搬运通道的物流仓库内部"
 faq:
   - q: "Consorzio Logistico Latina Scalo 可提供多大的仓储面积？"
     a: "Consorzio Logistico Latina Scalo 在 Latina Scalo（LT）拥有室内面积 19,000 平方米、露天场地 25,000 平方米。室内面积分为若干模块化库房，单栋面积 500 至 3,000 平方米，净高最高 10 米。"

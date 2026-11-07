@@ -5,8 +5,8 @@ description: "Depozitare pentru terți la Latina Scalo (LT): 19.000 m² acoperi�
 url: "/ro/servicii/depozitare/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interiorul unui depozit logistic cu rafturi pentru paleți și culoare de manipulare, fotografie de arhivă"
+image: "sede/magazzino-1"
+imageAlt: "Interiorul unui depozit logistic cu rafturi pentru paleți și culoare de manipulare"
 faq:
   - q: "Ce suprafață de depozitare oferă Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo dispune la Latina Scalo (LT) de 19.000 de metri pătrați acoperiți și 25.000 de metri pătrați descoperiți. Suprafața acoperită este împărțită în hale modulare de la 500 la 3.000 de metri pătrați fiecare, cu înălțime utilă de până la 10 metri."

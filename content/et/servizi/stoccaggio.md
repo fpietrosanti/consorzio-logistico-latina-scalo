@@ -5,8 +5,8 @@ description: "Lepinguline ladustamine Latina Scalos (LT): 19 000 ruutmeetrit kat
 url: "/et/teenused/ladustamine/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Logistikalao sisevaade kaubaalusteriiulite ja käitluskäikudega, illustreeriv foto"
+image: "sede/magazzino-1"
+imageAlt: "Logistikalao sisevaade kaubaalusteriiulite ja käitluskäikudega"
 faq:
   - q: "Kui palju ladustamispinda Consorzio Logistico Latina Scalo pakub?"
     a: "Consorzio Logistico Latina Scalol on Latina Scalos (LT) 19 000 ruutmeetrit katusealust pinda ja 25 000 ruutmeetrit välipinda. Katusealune pind on jaotatud moodullaohooneteks, igaüks 500 kuni 3 000 ruutmeetrit, kasuliku kõrgusega kuni 10 meetrit."

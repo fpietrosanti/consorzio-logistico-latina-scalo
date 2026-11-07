@@ -5,8 +5,8 @@ description: "Armazenagem por conta de terceiros em Latina Scalo (LT): 19 000 m�
 url: "/pt/servicos/armazenagem/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interior de um armazém logístico com estantes porta-paletes e corredores de movimentação, foto de arquivo"
+image: "sede/magazzino-1"
+imageAlt: "Interior de um armazém logístico com estantes porta-paletes e corredores de movimentação"
 faq:
   - q: "Que superfície de armazenagem oferece o Consorzio Logistico Latina Scalo?"
     a: "O Consorzio Logistico Latina Scalo dispõe em Latina Scalo (LT) de 19 000 metros quadrados cobertos e 25 000 metros quadrados descobertos. A superfície coberta está dividida em pavilhões modulares de 500 a 3000 metros quadrados cada, com altura útil até 10 metros."

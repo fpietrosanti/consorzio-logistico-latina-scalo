@@ -5,8 +5,8 @@ description: "Складиране за трети лица в Latina Scalo (LT)
 url: "/bg/uslugi/skladirane/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Вътрешност на логистичен склад с палетни стелажи и коридори за товаро-разтоварна техника, архивна снимка"
+image: "sede/magazzino-1"
+imageAlt: "Вътрешност на логистичен склад с палетни стелажи и коридори за товаро-разтоварна техника"
 faq:
   - q: "Каква складова площ предлага Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo разполага в Latina Scalo (LT) с 19 000 квадратни метра закрити и 25 000 квадратни метра открити площи. Закритата площ е разделена на модулни халета от 500 до 3 000 квадратни метра всяко, с полезна височина до 10 метра."

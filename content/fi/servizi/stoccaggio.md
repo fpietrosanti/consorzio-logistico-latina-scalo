@@ -5,8 +5,8 @@ description: "Kolmannen osapuolen varastointi Latina Scalossa (LT): 19 000 neli�
 url: "/fi/palvelut/varastointi/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Logistiikkavaraston sisätila lavahyllyineen ja käsittelykäytävineen, arkistokuva"
+image: "sede/magazzino-1"
+imageAlt: "Logistiikkavaraston sisätila lavahyllyineen ja käsittelykäytävineen"
 faq:
   - q: "Kuinka paljon varastotilaa Consorzio Logistico Latina Scalo tarjoaa?"
     a: "Consorzio Logistico Latina Scalolla on Latina Scalossa (LT) 19 000 neliömetriä katettua tilaa ja 25 000 neliömetriä ulkoalueita. Katettu ala jakautuu modulaarisiin halleihin, joista kukin on 500–3 000 neliömetriä ja joiden hyötykorkeus on enintään 10 metriä."

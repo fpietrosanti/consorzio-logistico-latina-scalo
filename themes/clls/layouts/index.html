@@ -35,7 +35,7 @@
       <p>{{ i18n "home_about_p3" }}</p>
     </div>
     <div class="col-media">
-      {{ partial "figure.html" (dict "key" "topics/magazzino-interno" "alt" (i18n "svc_storage_title")) }}
+      {{ partial "figure.html" (dict "key" "sede/magazzino-1" "alt" (i18n "svc_storage_title")) }}
     </div>
   </div>
 </section>
@@ -49,7 +49,7 @@
       {{ with site.GetPage "/servizi" }}{{ range .Pages.ByWeight }}
       <li class="card">
         <a href="{{ .RelPermalink }}">
-          {{ with .Params.image }}{{ if index hugo.Data.images . }}<img src="{{ printf "img/%s-800.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
+          {{ with .Params.image }}{{ if or (index hugo.Data.images .) (index hugo.Data.own_images .) }}<img src="{{ printf "img/%s-800.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
           <span class="card-body"><strong>{{ .LinkTitle }}</strong><span>{{ .Description | truncate 150 }}</span></span>
         </a>
       </li>
@@ -114,7 +114,7 @@
     <ul class="card-grid">
       {{ range first 6 .ByDate.Reverse }}
       <li class="card"><a href="{{ .RelPermalink }}">
-        {{ with .Params.image }}{{ if index hugo.Data.images . }}<img src="{{ printf "img/%s-800.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
+        {{ with .Params.image }}{{ if or (index hugo.Data.images .) (index hugo.Data.own_images .) }}<img src="{{ printf "img/%s-800.webp" . | relURL }}" alt="" loading="lazy" width="1600" height="1000">{{ end }}{{ end }}
         <span class="card-body"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_medium" }}</time><strong>{{ .LinkTitle }}</strong><span>{{ .Params.summary | default .Description | truncate 150 }}</span></span>
       </a></li>
       {{ end }}

@@ -5,8 +5,8 @@ description: "Stockage pour compte d'autrui à Latina Scalo (LT) : 19 000 m² c
 url: "/fr/services/stockage/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Intérieur d'un entrepôt logistique avec rayonnages à palettes et allées de circulation, photo d'illustration"
+image: "sede/magazzino-1"
+imageAlt: "Intérieur d'un entrepôt logistique avec rayonnages à palettes et allées de circulation"
 faq:
   - q: "Quelle surface de stockage propose le Consorzio Logistico Latina Scalo ?"
     a: "Le Consorzio Logistico Latina Scalo dispose à Latina Scalo (LT) de 19 000 mètres carrés couverts et de 25 000 mètres carrés découverts. La surface couverte est répartie en bâtiments modulaires de 500 à 3 000 mètres carrés chacun, avec une hauteur utile jusqu'à 10 mètres."

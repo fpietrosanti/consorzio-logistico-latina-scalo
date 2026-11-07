@@ -5,8 +5,8 @@ description: "Stóráil tríú páirtí in Latina Scalo (LT): 19,000 méadar cea
 url: "/ga/seirbhisi/storail/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Taobh istigh de stóras lóistíochta le raicíní pailléad agus pasáistí láimhseála, grianghraf stoic"
+image: "sede/magazzino-1"
+imageAlt: "Taobh istigh de stóras lóistíochta le raicíní pailléad agus pasáistí láimhseála"
 faq:
   - q: "Cé mhéad spáis stórála atá ag Consorzio Logistico Latina Scalo?"
     a: "Tá 19,000 méadar cearnach faoi dhíon agus 25,000 méadar cearnach amuigh ag Consorzio Logistico Latina Scalo in Latina Scalo (LT). Tá an t-achar faoi dhíon roinnte ina fhoirgnimh mhodúlacha idir 500 agus 3,000 méadar cearnach an ceann, le hairde shaor suas le 10 méadar."

@@ -5,8 +5,8 @@ description: "Lagring for tredjepart i Latina Scalo (LT): 19.000 kvadratmeter ov
 url: "/da/ydelser/lagring/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interiør i et logistiklager med pallereoler og kørselsgange, arkivfoto"
+image: "sede/magazzino-1"
+imageAlt: "Interiør i et logistiklager med pallereoler og kørselsgange"
 faq:
   - q: "Hvor meget lagerareal tilbyder Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo råder i Latina Scalo (LT) over 19.000 kvadratmeter overdækket areal og 25.000 kvadratmeter udendørs arealer. Det overdækkede areal er opdelt i modulære haller på hver 500 til 3.000 kvadratmeter med fri højde op til 10 meter."

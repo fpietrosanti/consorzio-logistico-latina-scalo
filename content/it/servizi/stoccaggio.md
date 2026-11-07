@@ -5,8 +5,8 @@ description: "Stoccaggio conto terzi a Latina Scalo (LT): 19.000 metri quadrati 
 url: "/servizi/stoccaggio/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interno di un magazzino logistico con scaffalature porta-pallet e corsie di movimentazione, foto di repertorio"
+image: "sede/magazzino-1"
+imageAlt: "Interno di un magazzino logistico con scaffalature porta-pallet e corsie di movimentazione"
 faq:
   - q: "Quanta superficie di stoccaggio offre il Consorzio Logistico Latina Scalo?"
     a: "Il Consorzio Logistico Latina Scalo dispone a Latina Scalo (LT) di 19.000 metri quadrati coperti e 25.000 metri quadrati scoperti. La superficie coperta è suddivisa in capannoni modulari da 500 a 3.000 metri quadrati ciascuno, con altezza utile fino a 10 metri."

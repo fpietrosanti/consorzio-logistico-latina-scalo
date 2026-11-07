@@ -5,8 +5,8 @@ description: "Składowanie na zlecenie w Latina Scalo (LT): 19 000 m² krytych, 
 url: "/pl/uslugi/skladowanie/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Wnętrze magazynu logistycznego z regałami paletowymi i alejkami transportowymi, zdjęcie poglądowe"
+image: "sede/magazzino-1"
+imageAlt: "Wnętrze magazynu logistycznego z regałami paletowymi i alejkami transportowymi"
 faq:
   - q: "Jaką powierzchnię składową oferuje Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo dysponuje w Latina Scalo (LT) 19 000 metrów kwadratowych powierzchni krytej i 25 000 metrów kwadratowych placów otwartych. Powierzchnia kryta jest podzielona na modułowe hale o powierzchni od 500 do 3000 metrów kwadratowych każda, z wysokością użytkową do 10 metrów."

@@ -5,8 +5,8 @@ description: "Third-party storage in Latina Scalo (LT): 19,000 square metres cov
 url: "/en/services/storage/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interior of a logistics warehouse with pallet racking and handling aisles, stock photo"
+image: "sede/magazzino-1"
+imageAlt: "Interior of a logistics warehouse with pallet racking and handling aisles"
 faq:
   - q: "How much storage space does Consorzio Logistico Latina Scalo offer?"
     a: "Consorzio Logistico Latina Scalo has 19,000 square metres of covered space and 25,000 square metres of open space in Latina Scalo (LT). The covered area is divided into modular buildings of 500 to 3,000 square metres each, with clear height up to 10 metres."

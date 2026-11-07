@@ -53,3 +53,12 @@ Dopo ogni lingua completa: `python tools/gen_places.py <lang>` (stub comuni + cr
 - LinkedIn pagina multilingua: testi in marketing/linkedin-intl/page-info.json; da inserire nelle 14 lingue supportate
   (cs, da, de, el, es, fi, fr, hu, nl, pl, pt, ro, sv, zh_CN) dalla scheda Edit page > Languages.
 - Directory: docs/directories/registro-directory.csv (365) + ROADMAP.md; servono foto vere, email dedicata, decisioni di spesa.
+
+## 2026-11-07 (notte): prima foto interna
+
+- Prima foto interna del Consorzio pubblicata: `static/img/sede/magazzino-1.webp`, con i metadati in `data/own_images.json`.
+  - Il marchio cliente sulle scatole è sfocato.
+  - La foto è usata in home, nella pagina Stoccaggio (25 lingue) e nel JSON-LD.
+  - I partial figure e imgurl gestiscono `own_images`, con didascalia "Foto: Consorzio Logistico Latina Scalo".
+- Attese ancora 1-2 foto interne da Fabio.
+- Per tutte le altre foto vale la direttiva di Fabio: solo foto di logistica generiche da internet, con licenza libera, come foto di repertorio, mai riferite in modo esplicito al nostro sito.

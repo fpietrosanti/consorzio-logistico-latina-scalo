@@ -5,8 +5,8 @@ description: "Skladování pro třetí strany v Latina Scalo (LT): 19 000 m² kr
 url: "/cs/sluzby/skladovani/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interiér logistického skladu s paletovými regály a manipulačními uličkami, ilustrační foto"
+image: "sede/magazzino-1"
+imageAlt: "Interiér logistického skladu s paletovými regály a manipulačními uličkami"
 faq:
   - q: "Jakou skladovací plochu nabízí Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo má v Latina Scalo (LT) k dispozici 19 000 metrů čtverečních krytých a 25 000 metrů čtverečních venkovních ploch. Krytá plocha je rozdělena do modulárních hal, každá od 500 do 3 000 metrů čtverečních, s užitnou výškou až 10 metrů."

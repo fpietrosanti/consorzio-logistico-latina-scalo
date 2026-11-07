@@ -5,8 +5,8 @@ description: "Opslag voor derden in Latina Scalo (LT): 19.000 vierkante meter ov
 url: "/nl/diensten/opslag/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interieur van een logistiek magazijn met palletstellingen en transportgangen, archieffoto"
+image: "sede/magazzino-1"
+imageAlt: "Interieur van een logistiek magazijn met palletstellingen en transportgangen"
 faq:
   - q: "Hoeveel opslagruimte biedt het Consorzio Logistico Latina Scalo?"
     a: "Het Consorzio Logistico Latina Scalo beschikt in Latina Scalo (LT) over 19.000 vierkante meter overdekte ruimte en 25.000 vierkante meter buitenterrein. De overdekte oppervlakte is verdeeld over modulaire hallen van elk 500 tot 3.000 vierkante meter, met een vrije hoogte tot 10 meter."

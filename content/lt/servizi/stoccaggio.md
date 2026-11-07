@@ -5,8 +5,8 @@ description: "Sandėliavimas trečiųjų šalių užsakymu Latina Scalo (LT): 19
 url: "/lt/paslaugos/sandeliavimas/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Logistikos sandėlio vidus su padėklų lentynomis ir krovos praėjimais, archyvinė nuotrauka"
+image: "sede/magazzino-1"
+imageAlt: "Logistikos sandėlio vidus su padėklų lentynomis ir krovos praėjimais"
 faq:
   - q: "Kokį sandėliavimo plotą siūlo Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo Latina Scalo (LT) turi 19 000 kvadratinių metrų dengtų ir 25 000 kvadratinių metrų atvirų plotų. Dengtas plotas padalytas į modulinius pastatus po 500–3 000 kvadratinių metrų, kurių naudingasis aukštis siekia iki 10 metrų."

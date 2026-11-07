@@ -5,8 +5,8 @@ description: "Bértárolás Latina Scalóban (LT): 19 000 m² fedett terület, 5
 url: "/hu/szolgaltatasok/tarolas/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Logisztikai raktár belső tere raklapállványokkal és anyagmozgató folyosókkal, archív fotó"
+image: "sede/magazzino-1"
+imageAlt: "Logisztikai raktár belső tere raklapállványokkal és anyagmozgató folyosókkal"
 faq:
   - q: "Mekkora tárolóterületet kínál a Consorzio Logistico Latina Scalo?"
     a: "A Consorzio Logistico Latina Scalo Latina Scalóban (LT) 19 000 négyzetméter fedett és 25 000 négyzetméter nyitott területtel rendelkezik. A fedett terület egyenként 500 és 3000 négyzetméter közötti moduláris csarnokokra oszlik, legfeljebb 10 méteres hasznos belmagassággal."

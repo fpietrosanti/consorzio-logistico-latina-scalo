@@ -5,8 +5,8 @@ description: "Uzglabāšana trešo pušu vajadzībām Latina Scalo (LT): 19 000 
 url: "/lv/pakalpojumi/uzglabasana/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Loģistikas noliktavas interjers ar palešu plauktiem un kravas apstrādes ejām, ilustratīvs foto"
+image: "sede/magazzino-1"
+imageAlt: "Loģistikas noliktavas interjers ar palešu plauktiem un kravas apstrādes ejām"
 faq:
   - q: "Cik lielu uzglabāšanas platību piedāvā Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo rīcībā Latina Scalo (LT) ir 19 000 kvadrātmetru slēgtu un 25 000 kvadrātmetru atklātu platību. Slēgtā platība sadalīta modulārās noliktavu ēkās, katra no 500 līdz 3000 kvadrātmetriem, ar lietderīgo augstumu līdz 10 metriem."

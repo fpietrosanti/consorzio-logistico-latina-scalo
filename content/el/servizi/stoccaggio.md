@@ -5,8 +5,8 @@ description: "Αποθήκευση για λογαριασμό τρίτων στ
 url: "/el/ypiresies/apothikefsi/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Εσωτερικό αποθήκης logistics με ράφια παλετών και διαδρόμους διακίνησης, φωτογραφία αρχείου"
+image: "sede/magazzino-1"
+imageAlt: "Εσωτερικό αποθήκης logistics με ράφια παλετών και διαδρόμους διακίνησης"
 faq:
   - q: "Πόση επιφάνεια αποθήκευσης προσφέρει η Consorzio Logistico Latina Scalo;"
     a: "Η Consorzio Logistico Latina Scalo διαθέτει στο Latina Scalo (LT) 19.000 τετραγωνικά μέτρα στεγασμένων χώρων και 25.000 τετραγωνικά μέτρα υπαίθριων χώρων. Η στεγασμένη επιφάνεια είναι χωρισμένη σε αρθρωτά κτίρια από 500 έως 3.000 τετραγωνικά μέτρα το καθένα, με ωφέλιμο ύψος έως 10 μέτρα."

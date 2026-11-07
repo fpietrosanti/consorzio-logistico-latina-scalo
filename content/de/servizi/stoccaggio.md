@@ -5,8 +5,8 @@ description: "Lagerung für Auftraggeber in Latina Scalo (LT): 19.000 Quadratmet
 url: "/de/leistungen/lagerung/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Innenansicht eines Logistiklagers mit Palettenregalen und Fahrgassen, Archivfoto"
+image: "sede/magazzino-1"
+imageAlt: "Innenansicht eines Logistiklagers mit Palettenregalen und Fahrgassen"
 faq:
   - q: "Wie viel Lagerfläche bietet das Consorzio Logistico Latina Scalo?"
     a: "Das Consorzio Logistico Latina Scalo verfügt in Latina Scalo (LT) über 19.000 Quadratmeter überdachte Fläche und 25.000 Quadratmeter Freifläche. Die überdachte Fläche ist in modulare Hallen von jeweils 500 bis 3.000 Quadratmetern mit einer nutzbaren Höhe von bis zu 10 Metern aufgeteilt."

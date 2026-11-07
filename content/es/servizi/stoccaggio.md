@@ -5,8 +5,8 @@ description: "Almacenaje para terceros en Latina Scalo (LT): 19.000 m² cubierto
 url: "/es/servicios/almacenaje/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Interior de un almacén logístico con estanterías para palés y pasillos de manipulación, foto de archivo"
+image: "sede/magazzino-1"
+imageAlt: "Interior de un almacén logístico con estanterías para palés y pasillos de manipulación"
 faq:
   - q: "¿Qué superficie de almacenaje ofrece el Consorzio Logistico Latina Scalo?"
     a: "El Consorzio Logistico Latina Scalo dispone en Latina Scalo (LT) de 19.000 metros cuadrados cubiertos y 25.000 metros cuadrados descubiertos. La superficie cubierta se divide en naves modulares de 500 a 3.000 metros cuadrados cada una, con una altura útil de hasta 10 metros."

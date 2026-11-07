@@ -5,8 +5,8 @@ description: "Skladiščenje za tretje osebe v kraju Latina Scalo (LT): 19.000 m
 url: "/sl/storitve/skladiscenje/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Notranjost logističnega skladišča s paletnimi regali in manipulacijskimi hodniki, arhivska fotografija"
+image: "sede/magazzino-1"
+imageAlt: "Notranjost logističnega skladišča s paletnimi regali in manipulacijskimi hodniki"
 faq:
   - q: "Koliko skladiščnih površin ponuja Consorzio Logistico Latina Scalo?"
     a: "Consorzio Logistico Latina Scalo ima v kraju Latina Scalo (LT) 19.000 kvadratnih metrov pokritih in 25.000 kvadratnih metrov odprtih površin. Pokrite površine so razdeljene na modularne hale od 500 do 3.000 kvadratnih metrov, z uporabno višino do 10 metrov."

@@ -5,8 +5,8 @@ description: "Ħżin għal terzi f'Latina Scalo (LT): 19,000 metru kwadru kopert
 url: "/mt/servizzi/hzin/"
 layout: "servizio"
 weight: 1
-image: "topics/magazzino-interno"
-imageAlt: "Intern ta' maħżen loġistiku b'xkafef għall-pallets u passaġġi għall-immaniġġjar, ritratt ta' arkivju"
+image: "sede/magazzino-1"
+imageAlt: "Intern ta' maħżen loġistiku b'xkafef għall-pallets u passaġġi għall-immaniġġjar"
 faq:
   - q: "Kemm superfiċje ta' ħżin joffri l-Consorzio Logistico Latina Scalo?"
     a: "Il-Consorzio Logistico Latina Scalo għandu f'Latina Scalo (LT) 19,000 metru kwadru koperti u 25,000 metru kwadru miftuħa. Is-superfiċje koperta hija maqsuma f'binjiet modulari minn 500 sa 3,000 metru kwadru kull wieħed, b'għoli utli sa 10 metri."

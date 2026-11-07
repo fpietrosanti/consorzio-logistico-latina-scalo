@@ -84,3 +84,8 @@ Servono 10–15 foto orizzontali, almeno 1200 px, senza persone riconoscibili n�
 13. Logo sull'edificio.
 
 Le foto fatte dalle consorziate sono "da confermare con il Consorzio": serve il loro consenso scritto alla pubblicazione e la cessione dei diritti d'uso.
+
+## Aggiornamento 2026-11-07 (sera)
+
+- **Foto interna n. 1 ricevuta da Fabio.** Pubblicata come `static/img/sede/magazzino-1.webp`. Mostra un capannone con scaffalature e bancali filmati. Il marchio cliente sulle scatole è stato sfocato. È usata in home, nella pagina Stoccaggio in 25 lingue e nel JSON-LD LocalBusiness. I metadati sono in `data/own_images.json`. Ne restano attese 1-2.
+- **Direttiva di Fabio per le altre foto:** usare foto di logistica trovate su internet (licenza libera) che **non** riguardino in modo esplicito e diretto il nostro sito. Quindi foto generiche di magazzini, mezzi, bancali e porti, didascalizzate come "foto di repertorio". Il servizio fotografico in sede non è più un prerequisito. Per Google Business Profile restano comunque necessarie foto reali dell'attività: la foto n. 1 e le prossime.

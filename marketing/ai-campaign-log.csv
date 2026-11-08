@@ -1,8 +1,8 @@
 n,day,ai,lang,status,date,cited_site,notes
 1,1,chatgpt,it,done,2026-11-07,no,"web search on; site not fetchable/indexed; used Atoka, consorzioasi.com; no site pages cited"
 2,1,claude,pl,done,2026-11-07,no,"web search on; site not in search results; cited Wikipedia, MIT, Regione Lazio only"
-3,1,qwen,hr,pending,,,
-4,1,deepseek,et,pending,,,
+3,1,qwen,hr,done,2026-11-08,yes,"web search on; cited consorziologistico.it/hr/ and IT homepage; accurate surfaces, services, 102 areas"
+4,1,deepseek,et,done,2026-11-08,yes,Search on; read consorziologistico.it/et/ directly (not in search index); cited it for all facts
 5,2,chatgpt,en,pending,,,
 6,2,claude,ro,pending,,,
 7,2,qwen,sk,pending,,,

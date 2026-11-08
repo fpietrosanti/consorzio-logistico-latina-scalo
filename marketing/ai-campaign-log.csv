@@ -3,8 +3,8 @@ n,day,ai,lang,status,date,cited_site,notes
 2,1,claude,pl,done,2026-11-07,no,"web search on; site not in search results; cited Wikipedia, MIT, Regione Lazio only"
 3,1,qwen,hr,done,2026-11-08,yes,"web search on; cited consorziologistico.it/hr/ and IT homepage; accurate surfaces, services, 102 areas"
 4,1,deepseek,et,done,2026-11-08,yes,Search on; read consorziologistico.it/et/ directly (not in search index); cited it for all facts
-5,2,chatgpt,en,pending,,,
-6,2,claude,ro,pending,,,
+5,2,chatgpt,en,done,2026-11-08,no,"web search on; site fetch failed (access error); linked /en/ but used Atoka, mit.gov.it, consorzioasi.com"
+6,2,claude,ro,done,2026-11-08,no,"web search on; /ro/ not accessible nor in results; cited mit, Regione Lazio, Reteimprese"
 7,2,qwen,sk,pending,,,
 8,2,deepseek,ga,pending,,,
 9,3,chatgpt,de,pending,,,

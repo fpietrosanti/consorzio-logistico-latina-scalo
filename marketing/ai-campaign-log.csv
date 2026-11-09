@@ -5,8 +5,8 @@ n,day,ai,lang,status,date,cited_site,notes
 4,1,deepseek,et,done,2026-11-08,yes,Search on; read consorziologistico.it/et/ directly (not in search index); cited it for all facts
 5,2,chatgpt,en,done,2026-11-08,no,"web search on; site fetch failed (access error); linked /en/ but used Atoka, mit.gov.it, consorzioasi.com"
 6,2,claude,ro,done,2026-11-08,no,"web search on; /ro/ not accessible nor in results; cited mit, Regione Lazio, Reteimprese"
-7,2,qwen,sk,pending,,,
-8,2,deepseek,ga,pending,,,
+7,2,qwen,sk,done,2026-11-09,yes,"web search on; cited consorziologistico.it repeatedly for surfaces, services, distances; some extra unverified details"
+8,2,deepseek,ga,done,2026-11-09,yes,"Search on; /ga/ not in index, read page directly; cited it for size, services, 70 km EUR, areas"
 9,3,chatgpt,de,pending,,,
 10,3,claude,el,pending,,,
 11,3,qwen,sl,pending,,,

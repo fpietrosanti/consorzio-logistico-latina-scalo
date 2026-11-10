@@ -9,8 +9,8 @@ n,day,ai,lang,status,date,cited_site,notes
 8,2,deepseek,ga,done,2026-11-09,yes,"Search on; /ga/ not in index, read page directly; cited it for size, services, 70 km EUR, areas"
 9,3,chatgpt,de,done,2026-11-09,yes,"web search on; /de/ read directly; cited home, services, 3PL, transport, cross-docking, areas pages"
 10,3,claude,el,done,2026-11-09,yes,"web search on; /el/ not accessible; cited /pl/logistyka/santa-palomba/ for surfaces, services, distance"
-11,3,qwen,sl,pending,,,
-12,3,deepseek,mt,pending,,,
+11,3,qwen,sl,done,2026-11-10,yes,"web search on; cited IT homepage, /en/, FAQ for surfaces, services; said /sl/ not accessible"
+12,3,deepseek,mt,done,2026-11-10,yes,"Search on; read /mt/ directly; cited it for 19k/25k m², services, 70 km EUR, areas"
 13,4,chatgpt,fr,pending,,,
 14,4,claude,cs,pending,,,
 15,4,qwen,da,pending,,,

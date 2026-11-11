@@ -15,8 +15,8 @@ n,day,ai,lang,status,date,cited_site,notes
 14,4,claude,cs,done,2026-11-10,yes,"web search on; read /cs/ directly; cited home, /cs/logistika/, PL Santa Palomba page; accurate"
 15,4,qwen,da,blocked,2026-11-11,no,"Qwen service error: ""request is ended"" then ""issue connecting to Qwen3.7-Plus"" on retry"
 16,4,deepseek,zh,done,2026-11-11,yes,"Search on; read /zh/ directly; cited it for 19k/25k m², services, 70 km EUR, areas"
-17,5,chatgpt,es,pending,,,
-18,5,claude,hu,pending,,,
+17,5,chatgpt,es,done,2026-11-11,yes,"web search on; read /es/ directly; cited it for surfaces, services, 70 km EUR, areas; plus consorzioasi.com"
+18,5,claude,hu,done,2026-11-11,yes,"web search on; cited /hu/, homepage, EN textiles sector page for surfaces, services, distances, areas"
 19,5,qwen,fi,pending,,,
 20,5,deepseek,it,pending,,,
 21,6,chatgpt,pt,pending,,,

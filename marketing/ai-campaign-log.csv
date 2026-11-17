@@ -17,8 +17,8 @@ n,day,ai,lang,status,date,cited_site,notes
 16,4,deepseek,zh,done,2026-11-11,yes,"Search on; read /zh/ directly; cited it for 19k/25k m², services, 70 km EUR, areas"
 17,5,chatgpt,es,done,2026-11-11,yes,"web search on; read /es/ directly; cited it for surfaces, services, 70 km EUR, areas; plus consorzioasi.com"
 18,5,claude,hu,done,2026-11-11,yes,"web search on; cited /hu/, homepage, EN textiles sector page for surfaces, services, distances, areas"
-19,5,qwen,fi,pending,,,
-20,5,deepseek,it,pending,,,
+19,5,qwen,fi,done,2026-11-17,yes,"web search on; cited consorziologistico.it for 19k/25k m², modular halls, 3PL services"
+20,5,deepseek,it,done,2026-11-17,yes,"Search on; cited consorziologistico.it homepage (linked) for 19k/25k m², services, facilities"
 21,6,chatgpt,pt,pending,,,
 22,6,claude,sv,pending,,,
 23,6,qwen,lt,pending,,,

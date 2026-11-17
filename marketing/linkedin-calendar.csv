@@ -25,16 +25,16 @@ HU-P1,2026-12-17,10:00,hu,marketing/linkedin-intl/hu.md,## Post 1,scheduled,sche
 IT-W12,2026-12-23,09:00,it,marketing/linkedin/w12-farmaceutico-cosmetico.md,## Post LinkedIn — Italiano,scheduled,scheduled 2026-11-07T13:51:52Z
 IT-W13,2026-12-30,09:00,it,marketing/linkedin/w13-logistica-3pl.md,## Post LinkedIn — Italiano,scheduled,scheduled 2026-11-07T13:53:35Z
 IT-W14,2027-01-05,09:00,it,marketing/linkedin/w14-wms-gestione-digitale.md,## Post LinkedIn — Italiano,scheduled,scheduled 2026-11-07T13:55:14Z
-SV-P1,2027-01-05,10:00,sv,marketing/linkedin-intl/sv.md,## Post 1,pending,
-BG-P1,2027-01-07,10:00,bg,marketing/linkedin-intl/bg.md,## Post 1,pending,
+SV-P1,2027-01-05,10:00,sv,marketing/linkedin-intl/sv.md,## Post 1,scheduled,scheduled 2026-11-17T15:21:44Z
+BG-P1,2027-01-07,10:00,bg,marketing/linkedin-intl/bg.md,## Post 1,scheduled,scheduled 2026-11-17T15:23:29Z
 IT-W15,2027-01-12,09:00,it,marketing/linkedin/w15-temperatura-controllata.md,## Post LinkedIn — Italiano,scheduled,scheduled 2026-11-07T13:56:57Z
-DA-P1,2027-01-12,10:00,da,marketing/linkedin-intl/da.md,## Post 1,pending,
-SK-P1,2027-01-14,10:00,sk,marketing/linkedin-intl/sk.md,## Post 1,pending,
-IT-W16,2027-01-19,09:00,it,marketing/linkedin/w16-automotive-componentistica.md,## Post LinkedIn — Italiano,pending,
-FI-P1,2027-01-19,10:00,fi,marketing/linkedin-intl/fi.md,## Post 1,pending,
-HR-P1,2027-01-21,10:00,hr,marketing/linkedin-intl/hr.md,## Post 1,pending,
-IT-W17,2027-01-26,09:00,it,marketing/linkedin/w17-picking-packing-etichettatura.md,## Post LinkedIn — Italiano,pending,
-LT-P1,2027-01-26,10:00,lt,marketing/linkedin-intl/lt.md,## Post 1,pending,
+DA-P1,2027-01-12,10:00,da,marketing/linkedin-intl/da.md,## Post 1,scheduled,scheduled 2026-11-17T15:25:40Z
+SK-P1,2027-01-14,10:00,sk,marketing/linkedin-intl/sk.md,## Post 1,scheduled,scheduled 2026-11-17T15:27:49Z
+IT-W16,2027-01-19,09:00,it,marketing/linkedin/w16-automotive-componentistica.md,## Post LinkedIn — Italiano,scheduled,scheduled 2026-11-17T15:30:16Z
+FI-P1,2027-01-19,10:00,fi,marketing/linkedin-intl/fi.md,## Post 1,scheduled,scheduled 2026-11-17T15:34:20Z
+HR-P1,2027-01-21,10:00,hr,marketing/linkedin-intl/hr.md,## Post 1,scheduled,scheduled 2026-11-17T15:39:48Z
+IT-W17,2027-01-26,09:00,it,marketing/linkedin/w17-picking-packing-etichettatura.md,## Post LinkedIn — Italiano,scheduled,scheduled 2026-11-17T15:50:49Z
+LT-P1,2027-01-26,10:00,lt,marketing/linkedin-intl/lt.md,## Post 1,scheduled,scheduled 2026-11-17T15:53:13Z
 SL-P1,2027-01-28,10:00,sl,marketing/linkedin-intl/sl.md,## Post 1,pending,
 IT-W18,2027-02-02,09:00,it,marketing/linkedin/w18-sicurezza-assicurazione.md,## Post LinkedIn — Italiano,pending,
 GA-P1,2027-02-02,10:00,ga,marketing/linkedin-intl/ga.md,## Post 1,review,

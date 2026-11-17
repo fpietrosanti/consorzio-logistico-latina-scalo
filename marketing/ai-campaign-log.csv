@@ -19,8 +19,8 @@ n,day,ai,lang,status,date,cited_site,notes
 18,5,claude,hu,done,2026-11-11,yes,"web search on; cited /hu/, homepage, EN textiles sector page for surfaces, services, distances, areas"
 19,5,qwen,fi,done,2026-11-17,yes,"web search on; cited consorziologistico.it for 19k/25k m², modular halls, 3PL services"
 20,5,deepseek,it,done,2026-11-17,yes,"Search on; cited consorziologistico.it homepage (linked) for 19k/25k m², services, facilities"
-21,6,chatgpt,pt,pending,,,
-22,6,claude,sv,pending,,,
+21,6,chatgpt,pt,blocked,2026-11-17,no,"error: chatgpt.com page stuck loading, send button never appeared; prompt not sent"
+22,6,claude,sv,done,2026-11-17,yes,"web search on; /sv/ unreachable, cited /pl/santa-palomba/ (+/sv/ equivalent) for surfaces, services, distances, areas"
 23,6,qwen,lt,pending,,,
 24,6,deepseek,en,pending,,,
 25,7,chatgpt,nl,pending,,,

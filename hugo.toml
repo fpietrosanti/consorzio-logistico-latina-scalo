@@ -30,7 +30,7 @@ refLinksNotFoundURL = '#'
 
 [params]
   # Google Analytics 4 (es. "G-XXXXXXXXXX"). Vuoto = nessun analytics e nessun banner.
-  gaID = ""
+  gaID = "G-J3P480D1ZN"
   email = "info@consorziologistico.it"
   telefono = "+39 0773 316008"
   telefonoE164 = "+390773316008"

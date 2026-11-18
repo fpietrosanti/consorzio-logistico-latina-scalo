@@ -199,3 +199,12 @@ place_faq_a2 = "Ħżin fuq xkafef u mal-art, immaniġġjar (picking, packing, ti
 place_faq_q3 = "Kif tintalab kwotazzjoni mil-lokalità ta' {{ .Name }}?"
 place_faq_a3 = "Billi jiġu indikati t-tip ta' merkanzija, l-għadd ta' spazji għall-pallets jew il-metri kwadri, it-tul tal-ħżin u s-servizzi anċillari, permezz ta' WhatsApp jew bit-telefon fuq +39 0773 316008 jew bl-email lil info@consorziologistico.it."
 place_hub_link = "Lokalitajiet oħra fiż-żona {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "Bil-kunsens tiegħek nużaw cookies ta’ Google Analytics biex inkejlu b’mod aggregat iż-żjarat fis-sit. Tista’ tibdel l-għażla tiegħek fi kwalunkwe ħin mil-link “Preferenzi tal-cookies” fil-qiegħ tal-paġna."
+cookie_accept = "Naċċetta"
+cookie_reject = "Nirrifjuta"
+cookie_more = "Politika dwar il-cookies"
+cookie_prefs = "Preferenzi tal-cookies"
+cookie_policy = "Politika dwar il-cookies"

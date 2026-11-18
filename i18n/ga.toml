@@ -199,3 +199,12 @@ place_faq_a2 = "Stóráil ar raicíní agus ar an urlár, láimhseáil (piocadh,
 place_faq_q3 = "Conas is féidir meastachán a iarraidh do cheantar {{ .Name }}?"
 place_faq_a3 = "Trí chineál na n-earraí, líon na spásanna pailléid nó na méadar cearnach, fad na stórála agus na seirbhísí breise a lua, ar WhatsApp nó ar an bhfón ar +39 0773 316008, nó trí ríomhphost chuig info@consorziologistico.it."
 place_hub_link = "Áiteanna eile sa limistéar: {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Fianáin"
+cookie_text = "Le do thoiliú, úsáidimid fianáin Google Analytics chun cuairteanna ar an suíomh a thomhas i bhfoirm chomhiomlán. Is féidir leat do rogha a athrú am ar bith tríd an nasc “Roghanna fianán” ag bun an leathanaigh."
+cookie_accept = "Glac leo"
+cookie_reject = "Diúltaigh"
+cookie_more = "Beartas fianán"
+cookie_prefs = "Roghanna fianán"
+cookie_policy = "Beartas fianán"

@@ -199,3 +199,12 @@ place_faq_a2 = "Lagerung im Regal und am Boden, Umschlag (Kommissionierung, Verp
 place_faq_q3 = "Wie fordern Unternehmen aus {{ .Name }} ein Angebot an?"
 place_faq_a3 = "Mit Angabe von Warenart, Anzahl der Palettenstellplätze oder Quadratmeter, Lagerdauer und Zusatzleistungen, per WhatsApp oder telefonisch unter +39 0773 316008 oder per E-Mail an info@consorziologistico.it."
 place_hub_link = "Weitere Orte im Gebiet {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "Mit Ihrer Einwilligung verwenden wir Cookies von Google Analytics, um die Besuche dieser Website in aggregierter Form zu messen. Sie können Ihre Wahl jederzeit über den Link „Cookie-Einstellungen“ unten auf der Seite ändern."
+cookie_accept = "Akzeptieren"
+cookie_reject = "Ablehnen"
+cookie_more = "Cookie-Richtlinie"
+cookie_prefs = "Cookie-Einstellungen"
+cookie_policy = "Cookie-Richtlinie"

@@ -200,3 +200,12 @@ place_faq_a2 = "依托 Latina Scalo 室内面积 19,000 平方米的园区，提
 place_faq_q3 = "{{ .Name }} 的企业如何申请报价？"
 place_faq_a3 = "请注明货物类型、托盘位数量或面积（平方米）、仓储期限及增值服务需求，通过 WhatsApp 或电话 +39 0773 316008 联系，或发送电子邮件至 info@consorziologistico.it。"
 place_hub_link = "{{ .Area }} 区域的其他地点"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookie"
+cookie_text = "在您同意的情况下，我们使用 Google Analytics 的 Cookie 以汇总方式统计本网站的访问量。您可随时通过页面底部的“Cookie 设置”链接更改您的选择。"
+cookie_accept = "接受"
+cookie_reject = "拒绝"
+cookie_more = "Cookie 政策"
+cookie_prefs = "Cookie 设置"
+cookie_policy = "Cookie 政策"

@@ -16,6 +16,8 @@
         <li><a href="{{ printf "%s/" $s.posizione | relLangURL }}">{{ i18n "nav_location" }}</a></li>
         {{ with site.GetPage "/domande-frequenti" }}<li><a href="{{ .RelPermalink }}">{{ i18n "nav_faq" }}</a></li>{{ end }}
         {{ with site.GetPage "/crediti" }}<li><a href="{{ .RelPermalink }}">{{ i18n "footer_credits" }}</a></li>{{ end }}
+        {{ with partial "cookiepage.html" . }}<li><a href="{{ .RelPermalink }}">{{ i18n "cookie_policy" }}</a></li>{{ end }}
+        {{ if site.Params.gaID }}<li><a href="#" data-cookie-prefs>{{ i18n "cookie_prefs" }}</a></li>{{ end }}
       </ul>
     </div>
     <div class="footer-links">

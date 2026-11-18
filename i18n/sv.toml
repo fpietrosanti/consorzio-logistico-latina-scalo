@@ -199,3 +199,12 @@ place_faq_a2 = "Lagring i pallställ och på golv, godshantering (plockning, pac
 place_faq_q3 = "Hur begär man en offert från {{ .Name }}?"
 place_faq_a3 = "Genom att ange typ av gods, antal pallplatser eller kvadratmeter, lagringstid och tilläggstjänster, via WhatsApp eller telefon på +39 0773 316008 eller via e-post till info@consorziologistico.it."
 place_hub_link = "Fler orter i området {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Kakor"
+cookie_text = "Med ditt samtycke använder vi kakor från Google Analytics för att mäta besöken på webbplatsen i sammanställd form. Du kan när som helst ändra ditt val via länken ”Kakinställningar” längst ned på sidan."
+cookie_accept = "Godkänn"
+cookie_reject = "Avvisa"
+cookie_more = "Kakpolicy"
+cookie_prefs = "Kakinställningar"
+cookie_policy = "Kakpolicy"

@@ -199,3 +199,12 @@ place_faq_a2 = "Racked and floor storage, handling (picking, packing, labelling,
 place_faq_q3 = "How can a quote be requested from {{ .Name }}?"
 place_faq_a3 = "By stating the type of goods, number of pallet spaces or square metres, storage duration and additional services, via WhatsApp or by phone on +39 0773 316008, or by email to info@consorziologistico.it."
 place_hub_link = "Other localities in the {{ .Area }} area"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "With your consent we use Google Analytics cookies to measure visits to this site in aggregate form. You can change your choice at any time from the “Cookie preferences” link at the bottom of the page."
+cookie_accept = "Accept"
+cookie_reject = "Reject"
+cookie_more = "Cookie policy"
+cookie_prefs = "Cookie preferences"
+cookie_policy = "Cookie policy"

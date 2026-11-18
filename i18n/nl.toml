@@ -199,3 +199,12 @@ place_faq_a2 = "Opslag in stellingen en blokstapeling, goederenbehandeling (orde
 place_faq_q3 = "Hoe vraagt u vanuit {{ .Name }} een offerte aan?"
 place_faq_a3 = "Door het type goederen, het aantal palletplaatsen of vierkante meters, de opslagduur en de gewenste aanvullende diensten door te geven via WhatsApp of telefonisch op +39 0773 316008, of per e-mail aan info@consorziologistico.it."
 place_hub_link = "Andere plaatsen in het gebied {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "Met uw toestemming gebruiken we cookies van Google Analytics om het bezoek aan deze site geaggregeerd te meten. U kunt uw keuze altijd wijzigen via de link ‘Cookievoorkeuren’ onderaan de pagina."
+cookie_accept = "Accepteren"
+cookie_reject = "Weigeren"
+cookie_more = "Cookiebeleid"
+cookie_prefs = "Cookievoorkeuren"
+cookie_policy = "Cookiebeleid"

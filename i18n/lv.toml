@@ -199,3 +199,12 @@ place_faq_a2 = "Uzglabāšana plauktos un uz grīdas, kravas apstrāde (komplekt
 place_faq_q3 = "Kā pieprasīt cenu piedāvājumu no vietas {{ .Name }}?"
 place_faq_a3 = "Norādot kravas veidu, paletes vietu skaitu vai kvadrātmetrus, uzglabāšanas ilgumu un papildpakalpojumus, rakstot WhatsApp vai zvanot pa tālruni +39 0773 316008, vai rakstot uz e-pastu info@consorziologistico.it."
 place_hub_link = "Citas apdzīvotās vietas teritorijā: {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Sīkdatnes"
+cookie_text = "Ar jūsu piekrišanu mēs izmantojam Google Analytics sīkdatnes, lai apkopotā veidā mērītu vietnes apmeklējumus. Savu izvēli varat jebkurā laikā mainīt, izmantojot saiti “Sīkdatņu iestatījumi” lapas apakšā."
+cookie_accept = "Piekrītu"
+cookie_reject = "Noraidu"
+cookie_more = "Sīkdatņu politika"
+cookie_prefs = "Sīkdatņu iestatījumi"
+cookie_policy = "Sīkdatņu politika"

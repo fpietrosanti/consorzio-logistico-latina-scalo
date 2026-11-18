@@ -199,3 +199,12 @@ place_faq_a2 = "Depozitare pe rafturi și la sol, manipulare (picking, ambalare,
 place_faq_q3 = "Cum se solicită o ofertă pentru localitatea {{ .Name }}?"
 place_faq_a3 = "Indicând tipul de marfă, numărul de locuri de palet sau metrii pătrați, durata depozitării și serviciile suplimentare, prin WhatsApp sau telefonic la +39 0773 316008 ori prin e-mail la info@consorziologistico.it."
 place_hub_link = "Alte localități din zona {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookie-uri"
+cookie_text = "Cu acordul dumneavoastră folosim cookie-uri Google Analytics pentru a măsura în formă agregată vizitele pe site. Vă puteți schimba oricând opțiunea din linkul „Preferințe cookie” din subsolul paginii."
+cookie_accept = "Accept"
+cookie_reject = "Refuz"
+cookie_more = "Politica privind cookie-urile"
+cookie_prefs = "Preferințe cookie"
+cookie_policy = "Politica privind cookie-urile"

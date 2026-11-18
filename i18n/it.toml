@@ -199,3 +199,12 @@ place_faq_a2 = "Stoccaggio a scaffale e a terra, movimentazione (picking, packin
 place_faq_q3 = "Come si richiede un preventivo da {{ .Name }}?"
 place_faq_a3 = "Indicando tipologia di merce, numero di posti pallet o metri quadrati, durata dello stoccaggio e servizi accessori, via WhatsApp o telefono al +39 0773 316008 oppure via email a info@consorziologistico.it."
 place_hub_link = "Altre località dell'area {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookie"
+cookie_text = "Con il suo consenso usiamo i cookie di Google Analytics per misurare in forma aggregata le visite al sito. Può cambiare la scelta in qualsiasi momento dal link «Preferenze cookie» in fondo alla pagina."
+cookie_accept = "Accetta"
+cookie_reject = "Rifiuta"
+cookie_more = "Informativa cookie"
+cookie_prefs = "Preferenze cookie"
+cookie_policy = "Informativa cookie"

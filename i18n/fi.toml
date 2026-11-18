@@ -199,3 +199,12 @@ place_faq_a2 = "Hylly- ja lattiavarastointi, tavaran käsittely (keräily, pakka
 place_faq_q3 = "Miten tarjousta pyydetään paikkakunnalta {{ .Name }}?"
 place_faq_a3 = "Ilmoittamalla tavaralajin, lavapaikkojen tai neliömetrien määrän, varastoinnin keston ja lisäpalvelut WhatsAppilla tai puhelimitse numeroon +39 0773 316008 tai sähköpostilla osoitteeseen info@consorziologistico.it."
 place_hub_link = "Muut paikkakunnat alueella {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Evästeet"
+cookie_text = "Suostumuksellasi käytämme Google Analyticsin evästeitä sivuston käyntien mittaamiseen koostetusti. Voit muuttaa valintaasi milloin tahansa sivun alareunan linkistä ”Evästeasetukset”."
+cookie_accept = "Hyväksy"
+cookie_reject = "Hylkää"
+cookie_more = "Evästekäytäntö"
+cookie_prefs = "Evästeasetukset"
+cookie_policy = "Evästekäytäntö"

@@ -1,0 +1,4 @@
+{{- /* Pagina informativa cookie nella lingua corrente, altrimenti quella inglese. */ -}}
+{{- $p := site.GetPage "/cookie" }}
+{{- if not $p }}{{ range hugo.Sites }}{{ if eq .Language.Lang "en" }}{{ $p = .GetPage "/cookie" }}{{ end }}{{ end }}{{ end }}
+{{- return $p }}

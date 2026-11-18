@@ -199,3 +199,12 @@ place_faq_a2 = "Lagring på reoler og på gulv, varehåndtering (plukning, pakni
 place_faq_q3 = "Hvordan anmoder man om et tilbud fra {{ .Name }}?"
 place_faq_a3 = "Ved at oplyse varetype, antal pallepladser eller kvadratmeter, lagringens varighed og tillægsydelser via WhatsApp eller telefon på +39 0773 316008 eller via e-mail til info@consorziologistico.it."
 place_hub_link = "Andre lokaliteter i området {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "Med dit samtykke bruger vi cookies fra Google Analytics til at måle besøg på sitet i samlet form. Du kan til enhver tid ændre dit valg via linket “Cookieindstillinger” nederst på siden."
+cookie_accept = "Accepter"
+cookie_reject = "Afvis"
+cookie_more = "Cookiepolitik"
+cookie_prefs = "Cookieindstillinger"
+cookie_policy = "Cookiepolitik"

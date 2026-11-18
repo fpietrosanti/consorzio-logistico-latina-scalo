@@ -199,3 +199,12 @@ place_faq_a2 = "Almacenaje en estantería y en suelo, manipulación (picking, pa
 place_faq_q3 = "¿Cómo se solicita un presupuesto desde {{ .Name }}?"
 place_faq_a3 = "Indicando el tipo de mercancía, el número de ubicaciones de palé o los metros cuadrados, la duración del almacenaje y los servicios complementarios, por WhatsApp o por teléfono al +39 0773 316008, o por correo electrónico a info@consorziologistico.it."
 place_hub_link = "Otras localidades de la zona {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "Con su consentimiento utilizamos cookies de Google Analytics para medir de forma agregada las visitas al sitio. Puede cambiar su elección en cualquier momento desde el enlace «Preferencias de cookies» al pie de la página."
+cookie_accept = "Aceptar"
+cookie_reject = "Rechazar"
+cookie_more = "Política de cookies"
+cookie_prefs = "Preferencias de cookies"
+cookie_policy = "Política de cookies"

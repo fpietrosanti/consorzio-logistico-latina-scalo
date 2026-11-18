@@ -199,3 +199,12 @@ place_faq_a2 = "Skladištenje na policama i podno skladištenje, manipulacija (k
 place_faq_q3 = "Kako zatražiti ponudu iz mjesta {{ .Name }}?"
 place_faq_a3 = "Navođenjem vrste robe, broja paletnih mjesta ili četvornih metara, trajanja skladištenja i dodatnih usluga, putem WhatsAppa ili telefona na broj +39 0773 316008 odnosno e-poštom na info@consorziologistico.it."
 place_hub_link = "Ostala mjesta u području: {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Kolačići"
+cookie_text = "Uz vašu privolu koristimo kolačiće Google Analyticsa za skupno mjerenje posjeta stranici. Izbor možete u bilo kojem trenutku promijeniti putem poveznice „Postavke kolačića” na dnu stranice."
+cookie_accept = "Prihvati"
+cookie_reject = "Odbij"
+cookie_more = "Pravila o kolačićima"
+cookie_prefs = "Postavke kolačića"
+cookie_policy = "Pravila o kolačićima"

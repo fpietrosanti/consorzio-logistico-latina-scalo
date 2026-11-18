@@ -199,3 +199,12 @@ place_faq_a2 = "Ladustamine riiulitel ja põrandal, kaubakäitlus (komplekteerim
 place_faq_q3 = "Kuidas taotleda hinnapakkumist asukohast {{ .Name }}?"
 place_faq_a3 = "Märkides kauba liigi, alusekohtade arvu või ruutmeetrid, ladustamise kestuse ja lisateenused, WhatsAppi või telefoni teel numbril +39 0773 316008 või e-posti teel aadressil info@consorziologistico.it."
 place_hub_link = "Teised asulad piirkonnas {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Küpsised"
+cookie_text = "Teie nõusolekul kasutame Google Analyticsi küpsiseid, et mõõta veebisaidi külastusi koondkujul. Saate oma valikut igal ajal muuta lehe allosas oleva lingi „Küpsiste seaded” kaudu."
+cookie_accept = "Nõustun"
+cookie_reject = "Keeldun"
+cookie_more = "Küpsiste põhimõtted"
+cookie_prefs = "Küpsiste seaded"
+cookie_policy = "Küpsiste põhimõtted"

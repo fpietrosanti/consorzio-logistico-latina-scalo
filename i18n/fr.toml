@@ -199,3 +199,12 @@ place_faq_a2 = "Stockage en rayonnages et au sol, manutention (picking, emballag
 place_faq_q3 = "Comment demander un devis depuis {{ .Name }} ?"
 place_faq_a3 = "En indiquant le type de marchandise, le nombre d'emplacements palettes ou de mètres carrés, la durée du stockage et les services annexes, par WhatsApp ou par téléphone au +39 0773 316008, ou par e-mail à info@consorziologistico.it."
 place_hub_link = "Autres localités de la zone : {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "Avec votre consentement, nous utilisons les cookies de Google Analytics pour mesurer de manière agrégée les visites du site. Vous pouvez modifier votre choix à tout moment via le lien « Préférences cookies » en bas de page."
+cookie_accept = "Accepter"
+cookie_reject = "Refuser"
+cookie_more = "Politique relative aux cookies"
+cookie_prefs = "Préférences cookies"
+cookie_policy = "Politique relative aux cookies"

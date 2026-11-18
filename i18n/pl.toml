@@ -199,3 +199,12 @@ place_faq_a2 = "Składowanie regałowe i blokowe, obsługa magazynowa (picking, 
 place_faq_q3 = "Jak uzyskać ofertę dla lokalizacji {{ .Name }}?"
 place_faq_a3 = "Należy podać rodzaj towaru, liczbę miejsc paletowych lub metrów kwadratowych, okres składowania i usługi dodatkowe, przez WhatsApp lub telefonicznie pod numerem +39 0773 316008 albo e-mailem na adres info@consorziologistico.it."
 place_hub_link = "Inne miejscowości w obszarze: {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Pliki cookie"
+cookie_text = "Za Twoją zgodą używamy plików cookie Google Analytics, aby w formie zbiorczej mierzyć odwiedziny strony. Wybór możesz w każdej chwili zmienić za pomocą linku „Ustawienia cookie” na dole strony."
+cookie_accept = "Akceptuję"
+cookie_reject = "Odrzucam"
+cookie_more = "Polityka cookie"
+cookie_prefs = "Ustawienia cookie"
+cookie_policy = "Polityka cookie"

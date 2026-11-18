@@ -199,3 +199,12 @@ place_faq_a2 = "Armazenagem em estantes e no chão, movimentação (picking, pac
 place_faq_q3 = "Como se pede um orçamento a partir de {{ .Name }}?"
 place_faq_a3 = "Indicando o tipo de mercadoria, o número de posições de palete ou os metros quadrados, a duração da armazenagem e os serviços complementares, por WhatsApp ou telefone para o +39 0773 316008 ou por email para info@consorziologistico.it."
 place_hub_link = "Outras localidades da área {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Cookies"
+cookie_text = "Com o seu consentimento, utilizamos cookies do Google Analytics para medir de forma agregada as visitas ao site. Pode alterar a sua escolha a qualquer momento através da ligação «Preferências de cookies» no fundo da página."
+cookie_accept = "Aceitar"
+cookie_reject = "Recusar"
+cookie_more = "Política de cookies"
+cookie_prefs = "Preferências de cookies"
+cookie_policy = "Política de cookies"

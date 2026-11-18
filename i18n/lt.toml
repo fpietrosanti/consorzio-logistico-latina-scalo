@@ -199,3 +199,12 @@ place_faq_a2 = "Sandėliavimas lentynose ir ant grindų, krova (komplektavimas, 
 place_faq_q3 = "Kaip pateikti pasiūlymo užklausą iš vietovės {{ .Name }}?"
 place_faq_a3 = "Nurodžius krovinio tipą, padėklų vietų skaičių arba kvadratinių metrų plotą, sandėliavimo trukmę ir papildomas paslaugas, per WhatsApp arba telefonu +39 0773 316008, arba el. paštu info@consorziologistico.it."
 place_hub_link = "Kitos teritorijos „{{ .Area }}“ vietovės"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Slapukai"
+cookie_text = "Jums sutikus naudojame „Google Analytics“ slapukus, kad apibendrintai įvertintume svetainės lankomumą. Savo pasirinkimą bet kada galite pakeisti puslapio apačioje esančia nuoroda „Slapukų nustatymai“."
+cookie_accept = "Sutinku"
+cookie_reject = "Atsisakau"
+cookie_more = "Slapukų politika"
+cookie_prefs = "Slapukų nustatymai"
+cookie_policy = "Slapukų politika"

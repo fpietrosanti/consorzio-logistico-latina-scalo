@@ -122,3 +122,12 @@ main { min-height: 60vh; }
 
 .facility-card.facility-main h3 { color: #fff; }
 .facility-card.facility-main p { color: rgba(255,255,255,.85); }
+
+/* === Banner consenso cookie === */
+.cookie-banner { position: fixed; left: 1rem; right: 1rem; bottom: 1rem; z-index: 1100; max-width: 640px; margin: 0 auto; background: var(--white); color: var(--gray-800); border: 1px solid var(--gray-200); border-radius: var(--radius); box-shadow: var(--shadow-xl); padding: 1.1rem 1.25rem; font-size: .92rem; line-height: 1.55; }
+.cookie-banner[hidden] { display: none; }
+.cookie-banner a { color: var(--primary-600); }
+.cookie-actions { display: flex; gap: .6rem; justify-content: flex-end; margin-top: .8rem; flex-wrap: wrap; }
+.cookie-btn { font: inherit; font-weight: 600; padding: .55rem 1.1rem; border-radius: var(--radius-sm); border: 1px solid var(--primary-700); background: var(--primary-700); color: var(--white); cursor: pointer; }
+.cookie-btn:focus-visible { outline: 3px solid var(--accent-400); outline-offset: 2px; }
+@media (max-width: 480px) { .cookie-actions { justify-content: stretch; } .cookie-btn { flex: 1; } }

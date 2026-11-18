@@ -199,3 +199,12 @@ place_faq_a2 = "Regálové a blokové skladovanie, manipulácia (vychystávanie,
 place_faq_q3 = "Ako požiadať o cenovú ponuku z lokality {{ .Name }}?"
 place_faq_a3 = "Uvedením druhu tovaru, počtu paletových miest alebo metrov štvorcových, doby skladovania a doplnkových služieb, cez WhatsApp alebo telefonicky na čísle +39 0773 316008, prípadne e-mailom na adresu info@consorziologistico.it."
 place_hub_link = "Ďalšie lokality v oblasti {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Súbory cookie"
+cookie_text = "S vaším súhlasom používame súbory cookie Google Analytics na súhrnné meranie návštevnosti webu. Svoju voľbu môžete kedykoľvek zmeniť odkazom „Nastavenia cookies“ v päte stránky."
+cookie_accept = "Prijať"
+cookie_reject = "Odmietnuť"
+cookie_more = "Zásady cookies"
+cookie_prefs = "Nastavenia cookies"
+cookie_policy = "Zásady cookies"

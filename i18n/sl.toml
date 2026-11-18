@@ -199,3 +199,12 @@ place_faq_a2 = "Skladiščenje na regalih in talno skladiščenje, manipulacija 
 place_faq_q3 = "Kako zahtevati ponudbo iz kraja {{ .Name }}?"
 place_faq_a3 = "Z navedbo vrste blaga, števila paletnih mest ali kvadratnih metrov, trajanja skladiščenja in dodatnih storitev, prek WhatsAppa ali po telefonu na številko +39 0773 316008 oziroma po e-pošti na info@consorziologistico.it."
 place_hub_link = "Drugi kraji na območju: {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Piškotki"
+cookie_text = "Z vašo privolitvijo uporabljamo piškotke Google Analytics za zbirno merjenje obiskov spletnega mesta. Izbiro lahko kadar koli spremenite prek povezave »Nastavitve piškotkov« na dnu strani."
+cookie_accept = "Sprejmi"
+cookie_reject = "Zavrni"
+cookie_more = "Politika piškotkov"
+cookie_prefs = "Nastavitve piškotkov"
+cookie_policy = "Politika piškotkov"

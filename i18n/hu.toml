@@ -199,3 +199,12 @@ place_faq_a2 = "Polcos és padlószintű tárolás, árumozgatás (komissiózás
 place_faq_q3 = "Hogyan lehet árajánlatot kérni {{ .Name }} térségéből?"
 place_faq_a3 = "Az áru típusának, a raklaphelyek számának vagy a négyzetméternek, a tárolás időtartamának és a kiegészítő szolgáltatásoknak a megadásával, WhatsAppon vagy telefonon a +39 0773 316008-as számon, illetve e-mailben az info@consorziologistico.it címen."
 place_hub_link = "További települések a következő területen: {{ .Area }}"
+
+# --- Consenso cookie / analytics ---
+cookie_title = "Sütik"
+cookie_text = "Az Ön hozzájárulásával a Google Analytics sütijeit használjuk a webhely látogatottságának összesített mérésére. Döntését bármikor módosíthatja az oldal alján található „Süti-beállítások” hivatkozással."
+cookie_accept = "Elfogadom"
+cookie_reject = "Elutasítom"
+cookie_more = "Sütikezelési tájékoztató"
+cookie_prefs = "Süti-beállítások"
+cookie_policy = "Sütikezelési tájékoztató"
